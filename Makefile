@@ -77,7 +77,9 @@ publish:
 	"$(PELICAN)" "$(INPUTDIR)" -o "$(OUTPUTDIR)" -s "$(PUBLISHCONF)" $(PELICANOPTS)
 
 ssh_upload: publish
+	ssh -p $(SSH_PORT) $(SSH_USER)@$(SSH_HOST) "sudo chown arch:arch -R /var/www/mksscryertower.quest/"
 	scp -P $(SSH_PORT) -r "$(OUTPUTDIR)"/* "$(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)"
+	ssh -p $(SSH_PORT) $(SSH_USER)@$(SSH_HOST) "sudo chown www-data:www-data -R /var/www/mksscryertower.quest/"
 
 sftp_upload: publish
 	printf 'put -r $(OUTPUTDIR)/*' | sftp $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)

@@ -1,34 +1,40 @@
 mksscryertower.quest
 ####################
 
-:date: 2022-09-29 03:05
+:date: 2029-09-12 03:05
 :authors: Klimenko/Tsikunkov Maxim Sergievich
+
+####################
+
+.. image:: images/mainmeme.jpg
+	   :align: left
+
+=====
+Pages
+=====
+
+`About me <{filename}/category/About.rst>`_
+
+`Crime with brain scanners, human detectors and other devices <{filename}/category/MirgorodCrimes.rst>`_
+
+`Cults (WIP) <{filename}/category/Cults.rst>`_
+
+`Computer trace system (WIP) <{filename}/category/Computrace.rst>`_
+
+#####################
 
 ==========
 Links Tree
 ==========
 
-`Github`_
-+++++++++
+`My Github`_
 
-.. _Github: https://github.com/asciiscry3r
+.. _My Github: https://github.com/asciiscry3r
 
-`Instagram`_
-++++++++++++
+`My Instagram`_
 
-.. _Instagram: https://www.instagram.com/maximklimenkosergievich/
+.. _My Instagram: https://www.instagram.com/maximklimenkosergievich/
 
-`Link Tree`_
-++++++++++++
+`My Link Tree`_
 
-.. _Link Tree: https://linktr.ee/_scry3r_
-
-#####################
-
-See below intra-site link.
-
-`About me <{filename}/category/About.rst>`_
-+++++++++++++++++++++++++++++++++++++++++++
-`Brain scanners, brain to brain, human detectors and other crimes <{filename}/category/MirgorodCrimes.rst>`_
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
+.. _My Link Tree: https://linktr.ee/_scry3r_
