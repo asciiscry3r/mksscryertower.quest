@@ -52,6 +52,7 @@ Maybe, after years of "war", in my case this is conflict with cults, criminals w
 But nearby radio/microwave stations and surveillance most dangerous and most effective weapon against you.
 
 And fucking ukraine(and some others) shit(some people) say - if you IT guy then you must be under control.
+And, fucking motherfucker, enable AMT for us and shut down firewalls.
 
 ################################################################
 
