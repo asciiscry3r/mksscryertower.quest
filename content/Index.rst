@@ -17,9 +17,13 @@ Pages
 
 `Crime with brain scanners, human detectors and other devices <{filename}/category/MirgorodCrimes.rst>`_
 
+`EMF and Human health <{filename}/category/EMF.rst>`_
+
 `Cults (WIP) <{filename}/category/Cults.rst>`_
 
 `Computer trace system (WIP) <{filename}/category/Computrace.rst>`_
+
+`Brainwave entertainment (WIP) <{filename}/category/Brainwaveentertaiment.rst>`_
 
 #####################
 

@@ -17,6 +17,16 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+STATIC_PATHS = [
+    'images',
+    'extra',
+]
+EXTRA_PATH_METADATA = {
+    'extra/robots.txt': {'path': 'robots.txt'},
+    'extra/favicon.ico': {'path': 'favicon.ico'},
+    'extra/LICENSE': {'path': 'LICENSE'},
+}
+
 # Blogroll
 LINKS = (('Pelican', 'https://getpelican.com/'),
          ('Python.org', 'https://www.python.org/'),
@@ -24,6 +34,8 @@ LINKS = (('Pelican', 'https://getpelican.com/'),
 
 # Social widget
 SOCIAL = (('My GitHub', 'https://github.com/asciiscry3r'),)
+
+LICENSE='CC BY-ND 4.0'
 
 DEFAULT_PAGINATION = 10
 

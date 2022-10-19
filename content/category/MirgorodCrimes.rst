@@ -45,13 +45,13 @@ About violence from brainwashed criminals
 =========================================
 
 Computers have multiple parts with described frequencies and multiple vulnerabilities in code and hardware parts, as example: https://github.com/luamfb/tempest-lcd , and criminals can damage you psychologically or neurologically.
-Maybe, after years of "war", in my case this is conflict with cults, criminals who 'crack' phones or computers can control some aspects of your physiology, or this can be only illusion created for you by the psychological brainwashing. And in parallel they can use low power magnetic fields for nerve or brain stimulation, because most speakers don`t has protection ( shields ) from magnetic fields, or on your macbook still work this https://github.com/fulldecent/system-bus-radio , you must be already sensitive to them but is always with noise or other sounds. Our devices have screens, speakers, microphones this devices interacts with our perception and science provides to the public much knowledge about the brain, psychic and central nervous system and criminals or other forces who can affect your rights and want to take you to slavery always use this. I'm my case they use all this methods too. All described things can destroy some structures in brain and change your biochemical balance. This biochemical changes very good described on this site: https://www.cs.cmu.edu/~dst/Library/Shelf/wakefield/us-14.html
+Maybe, after years of "war", in my case this is conflict with cults, part of them, criminals who 'crack' phones or computers can control some aspects of your physiology, or this can be only illusion created for you by the psychological brainwashing. And in parallel they can use low power magnetic fields for nerve or brain stimulation, because most speakers don`t has protection ( shields ) from magnetic fields, or on your macbook still work this https://github.com/fulldecent/system-bus-radio , you must be already sensitive to them but is always with noise or other sounds. Our devices have screens, speakers, microphones this devices interacts with our perception and science provides to the public much knowledge about the brain, psychic and central nervous system and criminals or other forces who can affect your rights and want to take you to slavery always use this. I'm my case they use all this methods too. All described things can destroy some structures in brain and change your biochemical balance. This biochemical changes very good described on this site: https://www.cs.cmu.edu/~dst/Library/Shelf/wakefield/us-14.html
 
 **For self-help we can use neuroprotectors, omega-3, vitamin complexes and pills for support some function of organism, like pills for people without sexual life ( love with partner to important to everyone and activate biggest part of gland of internal secretion, without that and other aspects of heath life you a "rondroid" ).**
 
 But nearby radio/microwave stations and surveillance most dangerous and most effective weapon against you.
 
-And fucking ukraine(and some others) shit(some people) say - if you IT guy then you must be under control.
+Thay like say to me - if you IT guy then you must be under control.
 And, fucking motherfucker, enable AMT for us and shut down firewalls.
 
 ################################################################
@@ -72,14 +72,16 @@ From April 2021 i sometimes record logs and magnetic field in different places o
 
 * DEW attacks, Scientology and Ukrainian( military and other criminals ) brainwashing and control, Shishatska 88 Mirgorod EMF - https://photos.app.goo.gl/FWpfTfSidKkJimTL8
 
-I`m random enemy for piracy group who decide create torrent for Intel and other leaks - about 20 people I know
-and they want to kill me or control. :) And for my "happiness" they all part of cult or part of criminal group.
+I`m random enemy for piracy group who decide create torrent with Intel confidential leaks - about 20 people I know and they want to kill me or control. Police take their side and ignore psy and cyber war against me in any city of Ukraine. And for my "happiness" they all part of cult or part of criminal group. And they use weapon like "`Medusa`_" and during last 2 years I have "burned" brain, hypophysis and other parts of body. Without normal work of the hypophysis and with everyday voice manipulations I can`t normally live or work.
+
+.. _medusa: https://en.wikipedia.org/wiki/MEDUSA_(weapon)
 
 * DEW weapons - https://en.wikipedia.org/wiki/Directed-energy_weapon
 * Microwave burning - https://en.wikipedia.org/wiki/Microwave_burn
 * Microwave auditory effect - https://en.wikipedia.org/wiki/Microwave_auditory_effect
 
-Thay can create EMF in room by the powering some part of builing by signal with freaquency like alfa and other brain electromagnetic waves: https://photos.app.goo.gl/WEv6h8837J29ZAL27
+They can create EMF in room by the powering some part of builing by signal with freaquency like alfa and other brain electromagnetic waves: https://photos.app.goo.gl/WEv6h8837J29ZAL27
+And, in theory, try to use fields focal points.
 
 
 ################################################################
