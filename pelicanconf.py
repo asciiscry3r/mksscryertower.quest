@@ -37,8 +37,12 @@ SOCIAL = (('My GitHub', 'https://github.com/asciiscry3r'),)
 
 LICENSE='CC BY-ND 4.0'
 
+LOAD_CONTENT_CACHE = False
+
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 DISPLAY_PAGES_ON_MENU = False
+
+INDEX_SAVE_AS = 'index.html'
