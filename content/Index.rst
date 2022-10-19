@@ -15,7 +15,7 @@ Pages
 
 `About me <{filename}/category/About.rst>`_
 
-`Crime with brain scanners, human detectors and other devices <{filename}/category/MirgorodCrimes.rst>`_
+`Crimes with brain scanners, human detectors, other devices and Me <{filename}/category/MirgorodCrimes.rst>`_
 
 `EMF and Human health <{filename}/category/EMF.rst>`_
 

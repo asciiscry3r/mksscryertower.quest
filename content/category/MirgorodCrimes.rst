@@ -1,8 +1,8 @@
-Crime with brain scanners, human detectors and other devices
-############################################################
+Crimes with brain scanners, human detectors, other devices and Me
+#################################################################
 
 :date: 2022-09-27 10:20
-:modified: 2022-09-29 18:40
+:modified: 2022-10-19 06:18
 :tags: dew, cults, cybersecurity, military
 :category: cybersecurity
 :slug: Neuro and bioelectrical slavery
@@ -47,18 +47,18 @@ About violence from brainwashed criminals
 Computers have multiple parts with described frequencies and multiple vulnerabilities in code and hardware parts, as example: https://github.com/luamfb/tempest-lcd , and criminals can damage you psychologically or neurologically.
 Maybe, after years of "war", in my case this is conflict with cults, part of them, criminals who 'crack' phones or computers can control some aspects of your physiology, or this can be only illusion created for you by the psychological brainwashing. And in parallel they can use low power magnetic fields for nerve or brain stimulation, because most speakers don`t has protection ( shields ) from magnetic fields, or on your macbook still work this https://github.com/fulldecent/system-bus-radio , you must be already sensitive to them but is always with noise or other sounds. Our devices have screens, speakers, microphones this devices interacts with our perception and science provides to the public much knowledge about the brain, psychic and central nervous system and criminals or other forces who can affect your rights and want to take you to slavery always use this. I'm my case they use all this methods too. All described things can destroy some structures in brain and change your biochemical balance. This biochemical changes very good described on this site: https://www.cs.cmu.edu/~dst/Library/Shelf/wakefield/us-14.html
 
-**For self-help we can use neuroprotectors, omega-3, vitamin complexes and pills for support some function of organism, like pills for people without sexual life ( love with partner to important to everyone and activate biggest part of gland of internal secretion, without that and other aspects of heath life you a "rondroid" ).**
+**For self-help we can use neuroprotectors, omega-3, vitamin complexes and pills for support some function of organism, like pills for people without sexual life ( love with partner to important to everyone and activate biggest part of gland of internal secretion, without that and other aspects of health life you a "rondroid" ).**
 
 But nearby radio/microwave stations and surveillance most dangerous and most effective weapon against you.
 
-Thay like say to me - if you IT guy then you must be under control.
+They like say to me - if you IT guy then you must be under control.
 And, fucking motherfucker, enable AMT for us and shut down firewalls.
 
 ################################################################
 
-=============
-About Control
-=============
+============================
+About Control, Or the "GAME"
+============================
 
 From April 2021 i sometimes record logs and magnetic field in different places of Mirgorod in Ukraine.
 
@@ -72,7 +72,9 @@ From April 2021 i sometimes record logs and magnetic field in different places o
 
 * DEW attacks, Scientology and Ukrainian( military and other criminals ) brainwashing and control, Shishatska 88 Mirgorod EMF - https://photos.app.goo.gl/FWpfTfSidKkJimTL8
 
-I`m random enemy for piracy group who decide create torrent with Intel confidential leaks - about 20 people I know and they want to kill me or control. Police take their side and ignore psy and cyber war against me in any city of Ukraine. And for my "happiness" they all part of cult or part of criminal group. And they use weapon like "`Medusa`_" and during last 2 years I have "burned" brain, hypophysis and other parts of body. Without normal work of the hypophysis and with everyday voice manipulations I can`t normally live or work.
+I`m random enemy for piracy group, something about Freedom Fox and "triada" who supposed to live a China in past, i cant belive them but they all looks like canonical piracy - all of them liars and always can betray you, who decide create and delivery torrent with Intel confidential leaks, and I with to low luck have job in their strange IT company, for now about 20 people, by the my opinion, interact with this piracy group for searching and learning new ways to computer and other ways to a crime. One girl, "fox", from them propose friendship, after that relationship to me and based on my crush on her try to brainwash me for using in the same way as like scientist use marsian rover or like in this `post`_, girl from National Guard Academy... After, when Im agan try to find myself, restore my health and mental state, "friends" start use this situation and learn how they can control and brainwash people too, thay all decide to be a "hackers" group with name "187" ..... with narcoterror and pressure to a victims. Fuck. An this all is only about Kharkiv. Police take their side and ignore psy and cyber war against me in any city of Ukraine. And some Ukrainian or international security service provide to them  green light for using computer antenna, in short - out of band computer trace and restricted access system. And for my "happiness" they all part of cult or part of criminal group. And they use weapon like "`Medusa`_" and during last 2 years I have "burned" brain, hypophysis and other parts of body. Without normal work of the hypophysis and with everyday voice and electromagnetic manipulations I can`t normally live or work. And now Im in Mirgorod/Ukraine do this change at 6 am 2022/10/19, some gays call all this crimes a "GAME". This is a "GAME" with every day cyber attacks on my devices and electromagnetic damage to my health. Only crazy freak can give name "GAME" to a killing. Today I today try to stop attacks from unofficial ukrainian scientology, police and army mafia and other "users" of my life from childhud - because this all look like MK Ultra Ukraine form old school scientology army. 
+
+.. _post: https://www.uab.edu/news/research/item/8454-study-finds-hackers-could-use-brainwaves-to-steal-passwords
 
 .. _medusa: https://en.wikipedia.org/wiki/MEDUSA_(weapon)
 
@@ -81,7 +83,7 @@ I`m random enemy for piracy group who decide create torrent with Intel confident
 * Microwave auditory effect - https://en.wikipedia.org/wiki/Microwave_auditory_effect
 
 They can create EMF in room by the powering some part of builing by signal with freaquency like alfa and other brain electromagnetic waves: https://photos.app.goo.gl/WEv6h8837J29ZAL27
-And, in theory, try to use fields focal points.
+And, in theory, they can try to use fields focal points.
 
 
 ################################################################
@@ -96,7 +98,7 @@ Information from google patents and other sources
 
       Totally affect human rights.
 
-      Can damage will, freedom, privacy, consciousness, heath.
+      Can damage will, freedom, privacy, consciousness, health.
 
       This is a DEW or close to this type of weapons and NFC devices.
       Some computer and phone screens can radiate on needed frequency.
@@ -152,7 +154,7 @@ Information from google patents and other sources
 
       This like organic detector from Star Trek and can be use for surveillance.
 
-      Can damage freedom, consciousness, heath.
+      Can damage freedom, consciousness, health.
 
       Description: An antenna, electrically short in comparison to a wavelength to be received,
       is positioned in close proximity to a living body to receive the electric energy radiated
@@ -187,7 +189,7 @@ Information from google patents and other sources
       Someone can use 'cracked' OS or DSP and headphones or computer stereo speaker for this
       and damage health of the victim.
 
-      Can damage will, freedom, consciousness, heath.
+      Can damage will, freedom, consciousness, health.
 
       Describe: A method of replicating a mental state of a first subject in a second subject comprising:
       capturing a mental state of the first subject represented by brain activity patterns;
@@ -213,7 +215,7 @@ Information from google patents and other sources
       Someone can use 'cracked' OS or DSP and headphones or computer stereo speaker for this
       and damage health of the victim.
 
-      Can damage will, freedom, consciousness, heath.
+      Can damage will, freedom, consciousness, health.
 
       Describe: A method of transplanting a desired emotional state from a donor
       to a recipient, comprising determining an emotional state of the donor;
@@ -278,7 +280,7 @@ Information from google patents and other sources
       Criminals can try to make you think what your computer can control you thought
       screen or wifi or other parts, but in fact 'cracked' parts just damage your organs.
 
-      Can damage will, freedom, consciousness, heath.
+      Can damage will, freedom, consciousness, health.
 
       Description: A neuromodulation device includes electrically conductive coils
       arranged in an array and circuitry coupled to energize the coils in the array
