@@ -18,7 +18,7 @@ I want to apologize to the modern, non-criminal and normal members of the Scient
 Stupid assholes decide to take me into slavery and share my whole life from everyday life with Ukrainian unofficial "Scientologists", they work on brainwashing me, as before, but with nuances from Aum Shinrikyo. And they can also steal a passport from the e-government for Ukraine and ..... but this is not the main reason for falling into slavery, here they publicly respect traffickers and do not recognize the rights of the person they have chosen and come up with reasons for this. And I, after 2 years of electromagnetic burning, feel like in a prison with a dead brain ... But all this time I just live in my house with my grandfather and work in IT.
 
 I can publish one variant then, after days,
- remember something an update all site :)
+remember something an update all site :)
 
 Author on photo:
 

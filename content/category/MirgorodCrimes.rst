@@ -293,3 +293,17 @@ Information from google patents and other sources
 
       .. image:: images/US10307607B2.png
          :align: left
+
+
+*     Wireless Activation of Targeted Brain Circuits in Less Than One Second
+
+      Most simple and dangerous way to manipulate.... if criminals use this for crimes
+
+      Can damage will, freedom, privacy, consciousness, health.
+      
+      Summary: A newly developed system uses wireless technology to remotely
+      activate specific brain networks in fruit flies in less than one second.
+      Source: https://neurosciencenews.com/wireless-brain-activation-21050/
+
+      .. image:: images/2022-10-27_03-49.png
+         :align: left

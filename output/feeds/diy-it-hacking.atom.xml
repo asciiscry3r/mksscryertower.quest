@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>mksscryertower.quest - DIY, IT, Hacking</title><link href="https://mksscryertower.quest/" rel="alternate"></link><link href="https://mksscryertower.quest/feeds/diy-it-hacking.atom.xml" rel="self"></link><id>https://mksscryertower.quest/</id><updated>2022-09-28T19:50:00+03:00</updated><subtitle></subtitle><entry><title>Home local network</title><link href="https://mksscryertower.quest/home-local-network.html" rel="alternate"></link><published>2022-09-28T19:50:00+03:00</published><updated>2022-09-28T19:50:00+03:00</updated><author><name>Klimenko/Tsikunkov Maxim Sergievich</name></author><id>tag:mksscryertower.quest,2022-09-28:/home-local-network.html</id><content type="html">&lt;hr class="docutils" /&gt;
+&lt;p&gt;OpenWRT firmware&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/IMG_20221020_043306.jpg" /&gt;
+&lt;p&gt;Arm local network server for backups but at now not is use,
+Ground, zero to grount, shields and etc...&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/IMG_20221020_043259.jpg" /&gt;
+&lt;p&gt;Original firmware&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/IMG_20221020_043303.jpg" /&gt;
+&lt;p&gt;Network diagram:&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/Diagramofthenetwork.png" /&gt;
+&lt;p&gt;And all transformers, power supply sources, in something close to a faraday cage.&lt;/p&gt;
+&lt;p&gt;Reason and conclusion&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/memeaboutwork.png" /&gt;
+</content><category term="DIY, IT, Hacking"></category></entry></feed>
