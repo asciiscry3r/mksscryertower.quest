@@ -7,14 +7,18 @@
 In &lt;strong&gt;/etc/pacman.conf&lt;/strong&gt;&lt;/p&gt;
 &lt;pre class="literal-block"&gt;
 [repo.mksscryertower.quest]
-SigLevel = TrustAll
 Server = https://repo.mksscryertower.quest/repo/x86_64/
 &lt;/pre&gt;
-&lt;p&gt;Then run &lt;strong&gt;pacman -Syyu&lt;/strong&gt;, hope, &lt;strong&gt;TrustAll&lt;/strong&gt; is temporary..&lt;/p&gt;
+&lt;p&gt;Then run, from root&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+pacman-key --recv-keys 0020B2CADB1E24C1E7CE4325E4D76838611CF2ED
+pacman-key --lsign-key 0020B2CADB1E24C1E7CE4325E4D76838611CF2ED
+pacman -Syyu
+&lt;/pre&gt;
 &lt;/div&gt;
 &lt;div class="section" id="pages"&gt;
 &lt;h2&gt;Pages&lt;/h2&gt;
-&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Neuro and bioelectrical slavery.html"&gt;Crimes with brain scanners, human detectors, other devices and Me …&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;hr class="docutils" /&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Neuro and bioelectrical slavery.html"&gt;Crimes with brain scanners, human detectors, other devices …&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="" class="align-left" src="images/mainmeme.jpg" /&gt;
 &lt;div class="section" id="arch-linux-repository"&gt;
 &lt;h2&gt;Arch Linux repository&lt;/h2&gt;
@@ -22,10 +26,14 @@ Server = https://repo.mksscryertower.quest/repo/x86_64/
 In &lt;strong&gt;/etc/pacman.conf&lt;/strong&gt;&lt;/p&gt;
 &lt;pre class="literal-block"&gt;
 [repo.mksscryertower.quest]
-SigLevel = TrustAll
 Server = https://repo.mksscryertower.quest/repo/x86_64/
 &lt;/pre&gt;
-&lt;p&gt;Then run &lt;strong&gt;pacman -Syyu&lt;/strong&gt;, hope, &lt;strong&gt;TrustAll&lt;/strong&gt; is temporary..&lt;/p&gt;
+&lt;p&gt;Then run, from root&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+pacman-key --recv-keys 0020B2CADB1E24C1E7CE4325E4D76838611CF2ED
+pacman-key --lsign-key 0020B2CADB1E24C1E7CE4325E4D76838611CF2ED
+pacman -Syyu
+&lt;/pre&gt;
 &lt;/div&gt;
 &lt;div class="section" id="pages"&gt;
 &lt;h2&gt;Pages&lt;/h2&gt;
@@ -34,7 +42,7 @@ Server = https://repo.mksscryertower.quest/repo/x86_64/
 &lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Computer trace system.html"&gt;Computer trace system&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/internet-as-a-phenomenon.html"&gt;Internet as a phenomenon&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/health-effects-in-rf-electromagnetic-fields.html"&gt;EMF and Human health&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Terrorism from cults.html"&gt;Cults (WIP)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Slavery_in_cults.html"&gt;Slavery in cults&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/brainwave entertaiment.html"&gt;Brainwave entertainment (WIP)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Radio frequency attacks from user side.html"&gt;Radio frequency attacks from user side (WIP)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/klimenkotsikunkov-maxim-sergievich.html"&gt;About me&lt;/a&gt;&lt;/p&gt;

@@ -17,10 +17,13 @@ Repository with builded packages for Arch GNU/Linux and pacman based distros.
 In **/etc/pacman.conf** ::
 
   [repo.mksscryertower.quest]
-  SigLevel = TrustAll
   Server = https://repo.mksscryertower.quest/repo/x86_64/
 
-Then run **pacman -Syyu**, hope, **TrustAll** is temporary..
+Then run, from root ::
+
+  pacman-key --recv-keys 0020B2CADB1E24C1E7CE4325E4D76838611CF2ED
+  pacman-key --lsign-key 0020B2CADB1E24C1E7CE4325E4D76838611CF2ED
+  pacman -Syyu
 
 =====
 Pages
@@ -36,7 +39,7 @@ Pages
 
 `EMF and Human health <{filename}/category/EMF.rst>`_
 
-`Cults (WIP) <{filename}/category/Cults.rst>`_
+`Slavery in cults <{filename}/category/Cults.rst>`_
 
 `Brainwave entertainment (WIP) <{filename}/category/Brainwaveentertaiment.rst>`_
 
