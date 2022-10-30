@@ -19,7 +19,7 @@ rm -rf repo.mksscryertower*
 builded=`ls -all | grep .pkg.tar.zst | awk '{ print $9 }'`
 
 for pkg in ${builded[@]}; do
-    gpg --use-agent --output $pkg.sig --detach-sig $pkg 
+    gpg --use-agent --output $pkg.sig --detach-sig $pkg
 done
 
 repo-add --verify --sign --new repo.mksscryertower.quest.db.tar.gz *.zst
