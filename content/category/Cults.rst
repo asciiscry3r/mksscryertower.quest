@@ -1,5 +1,5 @@
-Slavery in cults
-################
+Slavery in piracy groups, criminal groups and in cults
+######################################################
 
 :date: 2022-09-27 10:20
 :modified: 2022-09-29 18:40
@@ -9,7 +9,7 @@ Slavery in cults
 :authors: Klimenko/Tsikunkov Maxim Sergievich
 :summary: Slavery in cults
 
-################
+#####################################################
 
 An Aum Shinrikyo follower mediates at the cult's camp near Mount Fuji in 1995, wearing a headset supposed to emit leader Shoko Asahara's brain waves.
 Source: https://asia.nikkei.com/Politics/Executions-can-t-erase-Japanese-death-cult-s-dark-legacy
@@ -23,25 +23,37 @@ https://choosemuse.com/muse-2/
 An info from another media source
 https://www.fastcompany.com/3036390/how-i-wore-a-brainwave-reading-headset-for-a-week-and-learned-to-calm-my-mind
 
-Scientology in some place has use the same methods as ASH for creating new members...
+Where they get this::
 
-WIP
-+++
+  Another cult leader, Fumihiro Joyu, now 35 years old,
+  was a bright young engineer with the Japanese space program,
+  specializing in artificial intelligence. He left that
+  organization to go to work for Aum, where he very quickly
+  rose through the ranks, ultimately to head the cult's operations
+  in Russia. Joyu oversaw this important cult expansion,
+  among other things "investing" as much as $12 million
+  in the form of payoffs to well-placed officials.
+  The cult's investment paid off with expedited access to
+  office buildings, dormitories, and other facilities
+  throughout Russia. At the time of the Tokyo subway attack,
+  the cult's principle venture in Russia was the Moscow-Japan
+  University, with headquarters in offices across the street
+  from the Bolshoi Ballet. Their senior Russian partner
+  in the university was a man by the name of Oleg Lobov,
+  at that time also chairman of Russia's National Security Council
+  and a close confidant of Boris Yeltsin.
 
-Another cult leader, Fumihiro Joyu, now 35 years old, was a bright young engineer with the Japanese space program, specializing in artificial intelligence. He left that organization to go to work for Aum, where he very quickly rose through the ranks, ultimately to head the cult's operations in Russia. Joyu oversaw this important cult expansion, among other things "investing" as much as $12 million in the form of payoffs to well-placed officials. The cult's investment paid off with expedited access to office buildings, dormitories, and other facilities throughout Russia. At the time of the Tokyo subway attack, the cult's principle venture in Russia was the Moscow-Japan University, with headquarters in offices across the street from the Bolshoi Ballet. Their senior Russian partner in the university was a man by the name of Oleg Lobov, at that time also chairman of Russia's National Security Council and a close confidant of Boris Yeltsin. This organisation has been disbanded by the security services from different countries.
+This organization has been disbanded by the security services from different countries. Part of them go to the Scientology and other crimes groups. part start new life's and part, at this days too, live in Russia and have name "Aleph" - maybe because Russia also developing military-grade directed-energy weapons?, with support from Ukrain army in past, with experiments on Ukrainian people... Scientology in some place has use the same methods as Aum for creating new members and join this with their old brainwashing methodology, by the another opinion, they use DEW much earlier than Aum.
 
-WIP
-+++
+Scientology, Criminal and Piracy groups who use people for access to confidential information or for work slavery.
 
-Scientology and
-Piracy groups who use people for access to new confidential information.
-
-Thay all is a part of groups who use desinformation on society and create mass opinion about "Psy weapon" in laptops, smartphones ans other civil devices, all devices from our stores, mind and remote controll from USA everywhere, but in fact they crackers somethimes can rewrite frimware special for you... After gaining a controll of a one human or groups of the people they create for them new "world", but i belive is nothing other than human trafficking:
+They all is a part of groups who use disinformation on society and create mass opinion about "Psy weapon" in laptops, smartphones and other civil devices, all devices from our stores, mind and remote control from USA everywhere, but in fact they crackers sometimes can rewrite firmware special for you. After gaining a control of a one human or groups of the people they create for them new "world", but i believe is nothing other than human trafficking:
 
 .. image:: images/BACKCOVER_DaveDanzara_103-1.v01.jpg
-           :align: left
+	   :align: left
 
 In the situation of human trafficking, the following basic rights are violated:
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 * prohibition or restriction of freedom of movement - violates the right of a person to freedom and safety of a person and freedom of movement;
 
@@ -54,10 +66,12 @@ In the situation of human trafficking, the following basic rights are violated:
 * Denial or limitation of the right to a decent standard of living, including adequate food, clothing and housing – in many cases, especially in various forms of labor exploitation, victims are constantly denied an adequate standard of food or housing and are often kept in dire and dangerous living conditions;
 
 * denial or limitation of the right to health care standards - the vast majority of victims are exploited in a way that is inherently life-threatening, such as providing sexual services without proper protection or working in dangerous mines, factories, etc., and, apart from moreover, they are denied access to medical facilities, resulting in a large number of serious injuries and illnesses that they suffer as a result of direct exploitation as victims of human trafficking;
-
+ 
+* forced involvement in criminal activity;
+ 
 * restrictions on the right to education - many children and adolescents affected by human trafficking are separated from their families and do not have access to any form of education.
 
-Cybercrimes for control your requests to police and other law enforcement agencies. Total surveillance allows them to give their lawyers data before it reaches the state and sometimes change it at their own will. People like `Gribanova`_ ( Narconon ) and `Konev`_ ( OSA, IMHO ) start work with army and childrens in schools and create in country something like lobby for their sphere of the interest. Myrgorod, Kyiv and Kharkiv cult members from `Sea Org`_ - mafia at most, `Narconon`_ - Social workers, `Criminon`_ - police and prosecutor's and `OSA`_ - army, goverment and SBU. This scheme is my opinion. And this all orgs sound like Battlefield Earth with brainwashing.
+In my case all black Scientology mafia use a police ( in Ukraine they cant use electromagnetic weapon by the low )/interpol/military access methods, like access to ME by the radio, and if I try to find or learn something about this they just wipe me `like SSD on notebooks  <{filename}/category/EMF.rst>`_, laptop get shots too. At now I feel my consciousness in absolute emptiness without thoughts and desires, 2 years every day without internal dialogues, it all happened after the electromagnetic burning described in `another article <{filename}/category/MirgorodCrimes.rst>`_. Life without fantasy and with a damaged memory is very problematic, but computer and Internet saves - this is prostheses. But now successful cases of manipulation and flushing occur less frequently. But in Mirgorod we have multiple communities with access to this knowledge. Maybe I cant get needed for live skills because I just born for this market with Scientology experiments - In Scientology Ukraine this is only one right true. Most problems and dangerous when you have with trouble to Scientology military police, country not important, they just try to create human avatar from you. In Ukraine online piracy, resources and some content creators, create reason for using brainwashing against peoples without knowlege what they can do for self security. And after years of using piracy content our piracy masters give you a choise - you must start work with them, create torrents or other crimes, or you may be trap in to modern slavery. Everything is so bad that even the head of the National Council for Television and Radio Broadcasting ( Ukraine ) is a pirate ( 2017 ). Due to the incredibly huge level of piracy, Ukraine paid reparations, 75M of dollars every year, and those on whom the dogs were hanged are the most unprotected class and for them our special services, sometimes, can just wait and get new interesting knowlege. And after getting one of the first places in ratings of countries with highest level of piracy we can`t buy normal laptops or phones in local Ukrainian stores. In result they can start use a cyber-crimes for control your requests to police and other law enforcement agencies. Total surveillance allows them to give their lawyers data before it reaches the state and sometimes change it at their own will. In this country people like `Gribanova`_ ( Narconon ) and `Konev`_ ( OSA, IMHO ) start work with army and children's in schools, as I know, from 1995 or 1996 and create in country something like lobby for their sphere of the interest and they always say - you may download or start watch any content in the Internet except theirs, they learn people commit crimes and think about this like about simple non-criminal action. Myrgorod, Kyiv and Kharkiv cult members from `Sea Org`_ - mafia at most, `Narconon`_ - Social workers, `Criminon`_ - police and prosecutors and `OSA`_ - army, government and SBU. This scheme is my opinion. And this all orgs sound like Battlefield Earth ( this film is awful ), in bad sentence, with brainwashing.
 
 .. _Gribanova: https://youtu.be/amC46KY9G58
 
@@ -71,30 +85,66 @@ Cybercrimes for control your requests to police and other law enforcement agenci
 
 .. _Criminon: https://www.google.com/search?q=Criminon&client=firefox-b-d&sxsrf=ALiCzsZM0wy17EPpaeZdgFUbs-SGg8lN2Q%3A1667093375011&ei=f9NdY7QkjJyuBM7dkKAC&ved=0ahUKEwj037Lj5ob7AhUMjosKHc4uBCQQ4dUDCA4&uact=5&oq=Criminon&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCAAQgAQyCwguEIAEEMcBEK8BMgUIABCABDIFCAAQgAQyBQgAEIAEMgcIABCABBAKMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoKCAAQRxDWBBCwAzoECCMQJzoFCAAQkQI6CwguEMcBENEDEJECOgsILhCABBDHARDRAzoICC4QgAQQ1AI6BQguEIAEOgUILhCRAjoICC4QgAQQywE6CAgAEIAEEMsBOggIABCABBDJA0oECEEYAEoECEYYAFCaE1iNKGCkKmgDcAF4AIABdogBwAaSAQMzLjWYAQCgAQHIAQjAAQE&sclient=gws-wiz-serp
 
-About Scientology "Narconon" and other "educational" programs
+About Scientology "Narconon" and other "educational" programs::
 
-As a result of research, it was found that the lectures themselves and the way they are conducted violate the fundamental European bioethical principles of informed consent and presumption of guilt (until the usefulness and safety of medical or psychological technology is proven, it is considered harmful and dangerous). In addition, according to scientists, Narconon lectures are psycho-manipulative in nature and contain pseudo-scientific concepts. Experts concluded that the program is the first step in the process of attracting young people to the Scientology sect. "In essence, this is a biomedical experiment not sanctioned by society"
+  As a result of research, it was found that the lectures themselves
+  and the way they are conducted violate the fundamental European
+  bioethical principles of informed consent and presumption of guilt
+  (until the usefulness and safety of medical or psychological
+  technology is proven, it is considered harmful and dangerous).
+  In addition, according to scientists, Narconon lectures are
+  psycho-manipulative in nature and contain pseudo-scientific concepts.
+  Experts concluded that the program is the first step in the process
+  of attracting young people to the Scientology sect. "In essence,
+  this is a biomedical experiment not sanctioned by society"
 
-WIP
-+++
+About "Scientology methods" in Ukraine Army, SBU and police - they use scientology mafia and DEW for money and for human trafficking:
 
-########################
+* Can create loyal "wife" by brainwashing and violence
+
+* Can teach someone how to use DEW or create/write on people in live - for money and for career
+
+* Can kill you because you don't want be a pirate for them
+
+* Use people as devices in pair with computers for intelligence and piracy
+
+* Can trade you to the side like device
+
+* They start prepare you for this from childhood and if you want something close to normal live you must betray you friends and learn how "hack" computers and brains on them
+
+* Everyday Surveillance - this can break down your psychic
+
+* Narco-terror so that you do not go to the police and with the help of electromagnetic weapons create degrading and repulsive situations
+
+We have very nice people in army... and scientology nice too, in see this first time in my 8 year....
+
+##################################################################################
 
 =========
 Resources
 =========
 
+https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B0_%D0%BB%D1%8E%D0%B4%D0%B8%D0%BD%D0%B8_%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96_(%D0%B4%D0%BE%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D1%8C)#2014-2018_%D1%80%D0%BE%D0%BA%D0%B8
+
 http://www.dy.nayka.com.ua/?op=1&z=548
+
+https://www.researchgate.net/publication/302074340_Everyday_Surveillance
+
+https://repository.uel.ac.uk/download/031c46357cb4584f66b1c87df14152efe5a90023409429f1d3cb879d6d4be49f/221578/Experiencing%20the%20%E2%80%98surveillance%20society%E2%80%99%20%28as%20appeared%29.pdf
 
 https://molodyivchenyi.ua/index.php/journal/article/view/640/623
 
 https://commons.wikimedia.org/wiki/File:Description_of_Aum_Shinrikyo_sarin_truck.png
 
-https://капличка.com/sayentology-pronykly-v-ukrayinsku-sys-3/
+https://www.sknews.net/ukrajinske-piratstvo-my-bilshe-ne-hochemo-buty-pershymy/
 
-https://el-research.center/2019/05/22/%D0%BB%D0%BE%D0%B1%D1%96%D1%8E%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F-%D1%96%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D1%96%D0%B2-%D0%BD%D0%BE%D0%B2%D1%96%D1%82%D0%BD%D1%96%D1%85-%D1%80%D0%B5%D0%BB%D1%96%D0%B3/
+https://klymenko-time.com/novosti/rabota-za-edu-kak-ustroeno-ukrainskoe-rabstvo-albo/?utm_source=telegram&utm_medium=smm&utm_campaign=novosti_ktime_telegram
 
-https://el-research.center/2018/10/02/%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B0-%D1%96-%D0%B4%D0%B5%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D0%B9-%D0%BA%D1%83%D0%BB%D1%8C%D1%82-%D1%81%D0%B5%D0%BA%D1%82%D0%B0-%D0%B2/
+https://капличка.com/sayentology-pronykly-v-ukrayinsku-sys-3
+
+https://el-research.center/2019/05/22/%D0%BB%D0%BE%D0%B1%D1%96%D1%8E%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F-%D1%96%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D1%96%D0%B2-%D0%BD%D0%BE%D0%B2%D1%96%D1%82%D0%BD%D1%96%D1%85-%D1%80%D0%B5%D0%BB%D1%96%D0%B3
+
+https://el-research.center/2018/10/02/%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B0-%D1%96-%D0%B4%D0%B5%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D0%B9-%D0%BA%D1%83%D0%BB%D1%8C%D1%82-%D1%81%D0%B5%D0%BA%D1%82%D0%B0-%D0%B2
 
 https://core.ac.uk/download/pdf/10875087.pdf
 

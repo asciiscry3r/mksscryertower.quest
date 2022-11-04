@@ -39,7 +39,7 @@ Pages
 
 `EMF and Human health <{filename}/category/EMF.rst>`_
 
-`Slavery in cults <{filename}/category/Cults.rst>`_
+`Slavery in piracy groups, criminal groups and in cults <{filename}/category/Cults.rst>`_
 
 `Brainwave entertainment (WIP) <{filename}/category/Brainwaveentertaiment.rst>`_
 
@@ -64,3 +64,12 @@ Links Tree
 `My Link Tree`_
 
 .. _My Link Tree: https://linktr.ee/_scry3r_
+
+
+.. image:: images/emfanime.png
+	   :align: left
+
+.. image:: images/animephosphen.png
+	   :align: left
+
+from chaos;head
