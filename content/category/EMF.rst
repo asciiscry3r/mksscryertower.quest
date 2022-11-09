@@ -1,7 +1,7 @@
 Health Effects in RF Electromagnetic fields
 ###########################################
 
-:date: 2022-09-28 19:50
+:date: 2022-11-06 19:50
 :category: EMF
 :authors: Klimenko/Tsikunkov Maxim Sergievich
 

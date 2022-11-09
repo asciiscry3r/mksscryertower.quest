@@ -1,7 +1,7 @@
 Internet as a phenomenon
 ########################
 
-:date: 2022-09-28 19:50
+:date: 2022-10-27 19:50
 :category: Internet
 :authors: Klimenko/Tsikunkov Maxim Sergievich
 

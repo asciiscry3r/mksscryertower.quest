@@ -29,13 +29,15 @@ Then run, from root ::
 Pages
 =====
 
-`Crimes with brain scanners, human detectors, other devices and Me <{filename}/category/MirgorodCrimes.rst>`_
-
 `Home local network <{filename}/category/HomeNetwork.rst>`_
+
+`Crimes with brain scanners, human detectors, other devices and me <{filename}/category/MirgorodCrimes.rst>`_
 
 `Computer trace system <{filename}/category/Computrace.rst>`_
 
 `Internet as a phenomenon <{filename}/category/Internet.rst>`_
+
+`Human rights in Ukraine <{filename}/category/ScientologyUkraine.rst>`_
 
 `EMF and Human health <{filename}/category/EMF.rst>`_
 
@@ -45,7 +47,7 @@ Pages
 
 `Radio frequency attacks from user side (WIP) <{filename}/category/RFattacksfromuserside.rst>`_
 
-`About me <{filename}/category/About.rst>`_
+`About <{filename}/category/About.rst>`_
 
 #####################
 

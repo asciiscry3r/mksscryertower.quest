@@ -2,7 +2,7 @@ Computer trace system
 #####################
 
 :date: 2022-10-12 10:20
-:modified: 2022-10-12 18:40
+:modified: 2022-11-09 18:40
 :tags: dew, cults, cybersecurity, military
 :category: cybersecurity
 :slug: Computer trace system
@@ -10,6 +10,9 @@ Computer trace system
 :summary: Computer trace system
 
 ########################
+
+.. image:: images/computrace.png
+	   :align: left
 
 Scientology in Ukraine very "love" you, after getting access to police/army ability communicate with embeded agent, they rewrite some parts of firmware in memory or in PCI devices and create persistent screensharing for all local part of cult. I think is radio serial console to Management Engine ( in life i see and use at work only web panel from AMT ), access methods described in this `patent`_. The list of Intel security technologies ( I find this info on web resources about firmware security ):
 

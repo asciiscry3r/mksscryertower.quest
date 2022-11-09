@@ -2,7 +2,7 @@ Radio frequency attacks from user side
 ######################################
 
 :date: 2022-09-27 10:20
-:modified: 2022-10-19 06:18
+:modified: 2022-11-09 06:18
 :tags: dew, cults, cybersecurity, military
 :category: cybersecurity
 :slug: Radio frequency attacks from user side

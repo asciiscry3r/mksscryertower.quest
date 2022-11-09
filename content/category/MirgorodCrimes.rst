@@ -2,7 +2,7 @@ Crimes with brain scanners, human detectors, other devices and Me
 #################################################################
 
 :date: 2022-09-27 10:20
-:modified: 2022-10-19 06:18
+:modified: 2022-11-09 06:18
 :tags: dew, cults, cybersecurity, military
 :category: cybersecurity
 :slug: Neuro and bioelectrical slavery
@@ -45,7 +45,7 @@ About violence from brainwashed criminals
 =========================================
 
 Computers have parts with described frequencies and multiple vulnerabilities in code and hardware parts, as example: https://github.com/luamfb/tempest-lcd , and criminals can damage you psychologically or neurologically.
-Maybe, after years of "war", in my case this is conflict with cults, part of them, criminals who 'crack' phones or computers can control some aspects of your physiology, or this can be only illusion created for you by the psychological brainwashing. And in parallel they can use low power magnetic fields for nerve or brain stimulation, because most speakers don`t has protection ( shields ) from magnetic fields, or on your macbook still work this https://github.com/fulldecent/system-bus-radio. Our devices have screens, speakers, microphones an microwave/radio transmitters, this devices interacts with our perception and science provides to the public much knowledge about the brain, psychic and central nervous system. Criminals or other forces who can affect your rights and want to take you to slavery always use this. I'm my case they use all this methods too. All described things can destroy some structures in brain and change your biochemical balance. This biochemical changes very good described on this site: https://www.cs.cmu.edu/~dst/Library/Shelf/wakefield/us-14.html
+Maybe, after years of "war", in my case this is conflict with cults, part of them, criminals who 'crack' phones or computers can control some aspects of your physiology, or this can be only illusion created for you by the psychological brainwashing. And in parallel they can use low power magnetic fields for nerve or brain stimulation, because most speakers don`t has protection ( shields ) from magnetic fields, or on your macbook still work this https://github.com/fulldecent/system-bus-radio. Our devices have screens, speakers, microphones an microwave/radio transmitters, this devices interacts with our perception and science provides to the public much knowledge about the `brain`_, `psychic`_ and `central nervous system`_. Criminals or other forces who can affect your rights and want to take you to slavery always use this. I'm my case they use all this methods too. All described things can destroy some structures in brain and change your biochemical balance. This biochemical changes very good described on this site: https://www.cs.cmu.edu/~dst/Library/Shelf/wakefield/us-14.html
 
 **For self-help we can use neuroprotectors, omega-3, vitamin complexes and pills for support some function of organism, like pills for people without sexual life ( love with partner to important to everyone and activate biggest part of glands of internal secretion, without that and other aspects of health life you a "rondroid" ).**
 
@@ -53,6 +53,12 @@ But nearby radio/microwave stations and surveillance most dangerous and most eff
 
 They like say to me - if you IT guy then you must be under control.
 And, fucking motherfucker, enable AMT for us and shut down firewalls.
+
+.. _`brain`: https://mksscryertower.quest/health-effects-in-rf-electromagnetic-fields.html
+
+.. _`psychic`: https://en.wikipedia.org/wiki/White_torture
+
+.. _`central nervous system`: https://mksscryertower.quest/health-effects-in-rf-electromagnetic-fields.html
 
 ################################################################
 
@@ -72,9 +78,15 @@ From April 2021 i sometimes record logs and magnetic field in different places o
 
 * DEW attacks, Scientology and Ukrainian( military and other criminals ) brainwashing and control, Shishatska 88 Mirgorod EMF - https://photos.app.goo.gl/FWpfTfSidKkJimTL8
 
-I`m random enemy for piracy group, something about Freedom Fox and "triada" who supposed to left a China in past, i cant belive them but they all looks like canonical piracy - all of them liars and always can betray you, they decide to create and delivery torrent with Intel confidential leaks, and I with to low luck worked in their strange IT company, for now about 20 people, by the my opinion, interact with this piracy group for searching and learning new ways to computer and other ways to a crime. One girl, "fox", from them propose friendship, after that relationship to me and based on my crush on her try to brainwash my brain and use me in the same way as like scientist use marsian rover or like in this `post`_, girl from National Guard Academy... After, when I agan try to find myself, restore my health and mental state, "friends" start use this situation and learn how they can control and brainwash me too, they all decide to be a group of "hackers" with name "187" ..... with narcoterror and pressure to a victims. Fuck. An this all is only about Kharkiv. In August 2020, at the address Druzhba Narodiv 202, the apartment I was renting was struck with an electromagnetic pulse, as a result of which I lost part of my self and, under the action of the field, cut the veins on my hands. After, when I was in a deplorable state, I was given "lectures" by Maryna Hrybanova in my apartment. I think, SSU already take their side and ignore psy and cyber war against me and some others in any city of Ukraine. Or some Ukrainian or international security service provide to them  green light for using computer antenna, in short - out of band computer trace and restricted access system. And for my "happiness" they all part of cult or part of criminal group. They use weapon like "`Medusa`_" against me and during last 2 years they "burned" brain, hypophysis and other parts of body. Without normal work of the hypophysis and with everyday voice and electromagnetic manipulations I can`t normally live or work. And now Im in Mirgorod/Ukraine do this change at 6 am 2022/10/19, some creathures call all this crimes a "GAME". This is a "GAME" with every day cyber attacks on my devices and electromagnetic damage to my health. Only crazy freak can give name "GAME" to a killing. Today I today try to stop attacks from unofficial ukrainian scientology, police and army mafia and other "users" of my life from childhood - because this all look like MK Ultra Ukraine form old school scientology army.
+I`m random enemy for piracy group, something about "Freedom Fox" and "triada" who supposed to left a China in past, i cant belive them but they all looks like canonical piracy - all of them liars and always can betray you, they decide to create and delivery torrent with Intel confidential leaks, and I with to low luck worked in their strange IT company, for now about 20 people, by the my opinion, interact with this piracy group for searching and learning new ways to computer and other ways to a crime. One girl, "fox", from them propose friendship, after that relationship to me and based on my crush on her try to brainwash my brain and use me in the same way as like scientist use marsian rover or like in this `post`_, girl from National Guard Academy... After, when I agan try to find myself, restore my health and mental state, "friends", this is a big group of the online pirates - military, police and other workers with access to goverment networks and persistent agents, start use this situation and learn how they can control and brainwash me too, some of them decide to be a group of "hackers" with name "187" ..... `with narcoterror and pressure to a victims`_  `and CIDT`_. Fuck. In final they get this `device or analog`_ and I get multiple shots, they give to this action name 'tetan', from scientology Narconon. An this all is only about Kharkiv. In August 2020, at the address Druzhba Narodiv 202, the apartment I was renting was struck with an electromagnetic pulse, as a result of which I lost part of my self and, under the action of the field, cut the veins on my hands. After, when I was in a deplorable state, I was given "lectures" by Maryna Hrybanova in my apartment. I think, SSU already take their side and ignore psy and cyber war against me and some others in any city of Ukraine. Or some Ukrainian or international security service provide to them  green light for using computer antenna, in short - out of band computer trace and restricted access system. And for my "happiness" they all part of cult or part of criminal group. They use weapon like "`Medusa`_" against me and during last 2 years they "burned" brain, hypophysis and other parts of body. Without normal work of the hypophysis and with everyday voice and electromagnetic manipulations I can`t normally live or work. And now Im in Mirgorod/Ukraine do this change at 6 am 2022/10/19, some creathures call all this crimes a "GAME". This is a "GAME" with every day cyber attacks on my devices and electromagnetic damage to my health. Only crazy freak can give name "GAME" to a killing. Today I today try to stop attacks from unofficial ukrainian scientology, police and army mafia and other "users" of my life from childhood - because this all look like MK Ultra Ukraine form old school scientology army.
 
 .. _post: https://www.uab.edu/news/research/item/8454-study-finds-hackers-could-use-brainwaves-to-steal-passwords
+
+.. _and CIDT: https://en.wikipedia.org/wiki/Cruel,_inhuman_or_degrading_treatment
+
+.. _with narcoterror and pressure to a victims: https://en.wikipedia.org/wiki/Torture_in_Ukraine
+
+.. _device or analog: https://patents.google.com/patent/US3951134A/en
 
 .. _medusa: https://en.wikipedia.org/wiki/MEDUSA_(weapon)
 
@@ -83,7 +95,7 @@ I`m random enemy for piracy group, something about Freedom Fox and "triada" who 
 * Microwave auditory effect - https://en.wikipedia.org/wiki/Microwave_auditory_effect
 * Phosphene - https://en.wikipedia.org/wiki/Phosphene
 
-They can create EMF in room by the powering some part of builing by signal with freaquency like alfa and other brain electromagnetic waves: https://photos.app.goo.gl/WEv6h8837J29ZAL27
+They can create EMF in room by the powering some part of building by signal with freaquency like alfa and other brain electromagnetic waves: https://photos.app.goo.gl/WEv6h8837J29ZAL27
 And, in theory, they can try to use fields focal points.
 
 They use DEW in this way, I think, with beam forming, if this used for long time, more than never ( `IMHO <{filename}/category/EMF.rst>`_ ) this is a killing:

@@ -1,7 +1,7 @@
 Home local network
 ##################
 
-:date: 2022-09-28 19:50
+:date: 2022-10-31 19:50
 :category: DIY, IT, Hacking
 :authors: Klimenko/Tsikunkov Maxim Sergievich
 

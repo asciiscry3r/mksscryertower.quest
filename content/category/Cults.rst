@@ -2,7 +2,7 @@ Slavery in piracy groups, criminal groups and in cults
 ######################################################
 
 :date: 2022-09-27 10:20
-:modified: 2022-09-29 18:40
+:modified: 2022-11-09 18:40
 :tags: dew, cults, cybersecurity, military
 :category: human_security
 :slug: Slavery_in_cults
@@ -46,6 +46,9 @@ Where they get this::
 This organization has been disbanded by the security services from different countries. Part of them go to the Scientology and other crimes groups. part start new life's and part, at this days too, live in Russia and have name "Aleph" - maybe because Russia also developing military-grade directed-energy weapons?, with support from Ukrain army in past, with experiments on Ukrainian people... Scientology in some place has use the same methods as Aum for creating new members and join this with their old brainwashing methodology, by the another opinion, they use DEW much earlier than Aum.
 
 Scientology, Criminal and Piracy groups who use people for access to confidential information or for work slavery.
+
+.. image:: images/IMG_20221108_022003_221.jpg
+	   :align: left
 
 They all is a part of groups who use disinformation on society and create mass opinion about "Psy weapon" in laptops, smartphones and other civil devices, all devices from our stores, mind and remote control from USA everywhere, but in fact they crackers sometimes can rewrite firmware special for you. After gaining a control of a one human or groups of the people they create for them new "world", but i believe is nothing other than human trafficking:
 
@@ -108,13 +111,15 @@ About "Scientology methods" in Ukraine Army, SBU and police - they use scientolo
 
 * Use people as devices in pair with computers for intelligence and piracy
 
-* Can trade you to the side like device
+* Can trade you to the side like device or like sex toy
 
 * They start prepare you for this from childhood and if you want something close to normal live you must betray you friends and learn how "hack" computers and brains on them
 
 * Everyday Surveillance - this can break down your psychic
 
 * Narco-terror so that you do not go to the police and with the help of electromagnetic weapons create degrading and repulsive situations
+
+* Everyday psychological violence for changing your balance of neurotransmitters
 
 We have very nice people in army... and scientology nice too, in see this first time in my 8 year....
 
@@ -125,6 +130,8 @@ Resources
 =========
 
 https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B0_%D0%BB%D1%8E%D0%B4%D0%B8%D0%BD%D0%B8_%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96_(%D0%B4%D0%BE%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D1%8C)#2014-2018_%D1%80%D0%BE%D0%BA%D0%B8
+
+https://en.wikipedia.org/wiki/White_torture
 
 http://www.dy.nayka.com.ua/?op=1&z=548
 
