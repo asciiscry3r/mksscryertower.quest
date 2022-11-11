@@ -4,7 +4,7 @@ Crimes with brain scanners, human detectors, other devices and Me
 :date: 2022-09-27 10:20
 :modified: 2022-11-09 06:18
 :tags: dew, cults, cybersecurity, military
-:category: cybersecurity
+:category: cybersecurity, crimes, cults, ukraine
 :slug: Neuro and bioelectrical slavery
 :authors: Klimenko/Tsikunkov Maxim Sergievich
 :summary: Crime with brain scanners, human detectors and other devices
