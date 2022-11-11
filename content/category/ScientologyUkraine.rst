@@ -2,7 +2,7 @@ Human rights in Ukraine
 #######################
 
 :date: 2022-11-06 19:50
-:category: Ukraine
+:category: law, crimes, cults, ukraine
 :authors: Klimenko/Tsikunkov Maxim Sergievich
 
 #######################

@@ -4,7 +4,7 @@ Radio frequency attacks from user side
 :date: 2022-09-27 10:20
 :modified: 2022-11-09 06:18
 :tags: dew, cults, cybersecurity, military
-:category: cybersecurity
+:category: cybersecurity, crimes, radio, rf, hacking
 :slug: Radio frequency attacks from user side
 :authors: Klimenko/Tsikunkov Maxim Sergievich
 :summary: Radio frequency attacks from user side

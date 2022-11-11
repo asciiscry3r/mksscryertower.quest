@@ -3,7 +3,7 @@ Slavery in piracy groups, criminal groups and in cults
 
 :date: 2022-09-27 10:20
 :modified: 2022-11-09 18:40
-:tags: dew, cults, cybersecurity, military
+:tags: dew, cults, cybersecurity, military, piracy, law
 :category: human_security
 :slug: Slavery_in_cults
 :authors: Klimenko/Tsikunkov Maxim Sergievich

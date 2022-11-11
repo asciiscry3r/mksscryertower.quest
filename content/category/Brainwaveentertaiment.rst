@@ -4,7 +4,7 @@ Brainwave entertainment
 :date: 2022-10-10 10:20
 :modified: 2022-11-09 18:40
 :tags: brainwave entertaiment
-:category: knowlege
+:category: knowlege, science
 :slug: brainwave entertaiment
 :authors: Klimenko/Tsikunkov Maxim Sergievich
 :summary: Brainwave entertaiment
