@@ -12,8 +12,8 @@ Klimenko/Tsikunkov Maxim Sergievich
 ===================================
 
 | IT administrator and GNU/Linux Demonic Space Pirate ( ! online ). And sometimes a cloud infrastructure engineer
-| If you ask me, I don't allow *Scientology* people and cybercriminals to use me and my work, but who asks... and by the way, I use Arch Linux. I can publish one variant then, after days, remember something an update all site :) Im do not support Ukraine or Russia in Russian/Ukraine war but im on Ukrainian side. I think both countryes is political regimes with a lack of respect for human rights. To support the policy of dictatorship and sale of people is obviously unacceptable. For me. But I have buissines and pay taxes to Ukraine and follow the laws.
-| We live in USSR style countries with cults after multiple psyops against us and our goverments create psyops against us too .... and today groups of military developed hackers-zombi, thay live in Ukraine local cults, can try too brainwash you and force to change your sexusal orientation, try to harm or force to commit suicide.
+| If you ask me, I don't allow *Scientology* people and cybercriminals to use me and my work, but who asks... and by the way, I use Arch Linux. I`m don`t want live in anarcho-capitalism. And I hate anarcho-capitalism. I can publish one variant then, after days, remember something an update all site :) Im do not support Ukraine or Russia in Russian/Ukraine war but im on Ukrainian side. I think both countryes is political regimes with a lack of respect for human rights. To support the policy of dictatorship and sale of people is obviously unacceptable. For me. But I have buissines and pay taxes to Ukraine and follow the laws.
+| We live in USSR style countries with cults after multiple psyops against us and our goverments create psyops against us too .... and today groups of military developed hackers-zombi, thay live in Ukraine local cults ( anarcho capitalism ), can try too brainwash you and force to change your sexusal orientation, try to harm or force to commit suicide.
 
 About Content
 +++++++++++++

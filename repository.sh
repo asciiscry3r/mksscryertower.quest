@@ -1,4 +1,3 @@
-
 #!/usr/bin/env bash
 
 sudo mkdir -p /var/www/repo.mksscryertower.quest/repoupdate
@@ -26,9 +25,8 @@ done
 repo-add --verify --sign --new repo.mksscryertower.quest.db.tar.gz *.zst
 
 sudo cp -R /var/www/repo.mksscryertower.quest/repo/x86_64 /var/www/repo.mksscryertower.quest/repo/repobackup-$(date +%H%M%m%d%Y)
-# sudo rm -rf /var/www/repo.mksscryertower.quest/repo/x86_64
-sudo cp -R -f --remove-destination /var/www/repo.mksscryertower.quest/repoupdate/* /var/www/repo.mksscryertower.quest/repo/x86_64/
-sudo chown www-data:arch -R /var/www/repo.mksscryertower.quest/repo
+# sudo rm -rf /var/www/repo.mksscryertower.quest/repo/x86_64 && sudo mkdir /var/www/repo.mksscryertower.quest/repo/x86_64
+sudo cp -R -f --remove-destination /var/www/repo.mksscryertower.quest/repoupdate/* /var/www/repo.mksscryertower.quest/repo/x86_64/ && sudo chown www-data:arch -R /var/www/repo.mksscryertower.quest/repo
 
 # google.golang.org/grpc/cmd/protoc-gen-go-grpc
 #loadinternal: cannot find runtime/cgo

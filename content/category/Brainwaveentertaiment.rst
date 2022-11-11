@@ -24,6 +24,10 @@ WIP
 
 * Gamma Waves – (31 Hz+) — Hyper alert, good for insights and higher learning.
 
+phone magnetometer can`t record brain waves - he need ability to measure super low power fields ( nano Tesla or in pico Telsa ):
+
+.. image:: images/achh.jpg
+           :align: left
 
 https://www.med-technews.com/news/neurostimulation-sleep-headset-made-available-worldwide/
 
