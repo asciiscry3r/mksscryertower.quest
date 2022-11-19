@@ -1,0 +1,351 @@
+Crimes with brain scanners, human detectors, other devices and me
+#################################################################
+
+:date: 2022-09-27 10:20
+:modified: 2022-11-09 06:18
+:tags: dew, cults, cybersecurity, military
+:category: cybersecurity, crimes, cults, ukraine
+:slug: Crimes with brain scanners, human detectors, other devices and me
+:authors: Klimenko/Tsikunkov Maxim Sergievich
+:summary: Crime with brain scanners, human detectors and other devices
+
+################################################################
+
+=========================================
+About violence from brainwashed criminals
+=========================================
+
+From April 2021 I sometimes record logs and magnetic field in different places of Mirgorod in Ukraine.
+
+* Scientology and Ukrainian( military and other criminals ) brainwashing and control - torture, crimes against rights: https://photos.app.goo.gl/MAD2vekBnvvxgCts5
+
+* DEW attacks, Scientology and Ukrainian( military and other criminals ) brainwashing and control, Mirgorod Robitnicha 22 EMF - https://photos.app.goo.gl/rUXk3R66SLn8dueg7
+
+* DEW attacks, Scientology and Ukrainian( military and other criminals ) brainwashing and control, Mirgorod Sorochinska 148b EMF - https://photos.app.goo.gl/Jeqt9hPjAfQZ8vcA8
+
+* DEW attacks, Scientology and Ukrainian( military and other criminals ) brainwashing and control, Mirgorod Gogola 139 80 EMF - https://photos.app.goo.gl/Mqdb4FgJYreTg6gS6
+
+* DEW attacks, Scientology and Ukrainian( military and other criminals ) brainwashing and control, Shishatska 88 Mirgorod EMF - https://photos.app.goo.gl/FWpfTfSidKkJimTL8
+
+I`m random enemy for piracy group, they say something about "Freedom Fox" and "triada" who supposed to left a China in past and but i cant belive them but they all looks like canonical piracy from Ukraine - all of them liars and always can betray you, they decide to create and delivery torrent with Intel confidential leaks - for this they start narco and electromagnetic terror in IT office near centre of Kharkiv city - there they/we develop one popular chat app and one European payment system - at that time. Like Riabchevski and one US company .....
+About this terrorists:
+From start of my live in Kharkiv one girl, she call self "fox", from them propose friendship, after that relationship to me and based on my crush on her poison me and try to brainwash my brain and use me in the same way as like scientist use marsian rover or like in this `post`_ - article 127 - girl from National Guard Academy... After, when I agan try to find myself, restore my health and mental state, "friends", this is a big group of the online pirates - military, police and other workers with access to goverment networks and persistent agents, start use this situation and learn how they can control and brainwash me too, becouse if someone use you we can too - quote, some of them decide to be a group of "hackers" with name "187", this guys violate article 163, article 182, article 161, article 149, article 146, article 127 ..... `with narcoterror and pressure to a victims`_  `and CIDT`_  with narcoterror and brainwashing in some pubs - Fuck they insult Saint Patrick - visitors and owners who have either already been sold into slavery or are making money from trade or are being in process and this guys can poison you and rape. In August 2020, at the address Druzhba Narodiv 202, the apartment I was renting was struck with an electromagnetic pulse, as a result of which I lost part of my self and, under the action of the field, cut the veins on my hands. After, when I was in a deplorable state, I was given remote "lectures" by Maryna Hrybanova with army, article 433, in my apartment. And for my "happiness" they all part of cult or part of criminal groups. They use weapon like "`Medusa`_" against me and during last 2 years they "burned" brain, hypophysis, hippocampus and other parts of body. Without normal work of the hippocampus and with everyday voice and electromagnetic manipulations I can`t normally live or work.
+
+.. image:: images/brainaaaaa.png
+           :align: left
+
+And now Im in Mirgorod/Ukraine do this change at 6 am 2022/10/19, some creathures call all this crimes a "GAME". This is a "GAME" with every day cyber attacks on my devices and electromagnetic damage to my health. Only crazy freak can give name "GAME" to a killing. Today I today try to stop attacks from unofficial ukrainian scientology, police and army mafia and other "users" of my life from childhood - because this all look like MK Ultra Ukraine. 2022.11.18 - ukraine army and ssu pupets about 2 years, as I can know, use `computrace out of band <{filename}/category/Computer_trace_system.rst>`_ network and violate Article 182,149 in their plans use me like `rondroid`_ for "remote" work in IT companies. Army share computrace screen and consoles to local and Kharkiv criminals and decide traine them to kill and control mythical Russians in life on me but for now it online piracy and crimes.
+
+=======================
+Related law in Ukraine:
+=======================
+
+* Article 163. Violation of the secrecy of correspondence, telephone conversations, telegraphic or other correspondence transmitted by means of communication or through a computer
+* Article 182. Violation of the inviolability of private life
+* Article 161. Violation of the equality of citizens depending on their racial, national, regional affiliation, religious beliefs, disability and on other grounds
+* Article 149. Human trafficking
+* Article 147. Taking hostages
+* Article 146. Illegal deprivation of liberty/will or kidnapping of a person
+* Article 142. Illegal conduct of human experiments
+* Article 138. Illegal medical activity
+* Article 127. Torture
+* Article 433. Violence against the population in military areas
+
+.. _rondroid: https://www.cs.cmu.edu/~dst/Library/Shelf/wakefield/us-14.html
+
+.. _post: https://www.uab.edu/news/research/item/8454-study-finds-hackers-could-use-brainwaves-to-steal-passwords
+
+.. _and CIDT: https://en.wikipedia.org/wiki/Cruel,_inhuman_or_degrading_treatment
+
+.. _with narcoterror and pressure to a victims: https://en.wikipedia.org/wiki/Torture_in_Ukraine
+
+.. _device or analog: https://patents.google.com/patent/US3951134A/en
+
+.. _medusa: https://en.wikipedia.org/wiki/MEDUSA_(weapon)
+
+Remote control detection by the record changes magnetic field, Ukraine Mirgorod Robitnicha 22:
+
+.. image:: images/20221118_162255.v01.jpg
+           :align: left
+
+* DEW weapons - https://en.wikipedia.org/wiki/Directed-energy_weapon
+* Microwave burning - https://en.wikipedia.org/wiki/Microwave_burn
+* Microwave auditory effect - https://en.wikipedia.org/wiki/Microwave_auditory_effect
+* Phosphene - https://en.wikipedia.org/wiki/Phosphene
+* Related Brain Injury - https://www.frontiersin.org/articles/10.3389/fneur.2020.00753/full
+
+They can create EMF in room by the powering some part of building by signal with freaquency like alfa and other brain electromagnetic waves: https://photos.app.goo.gl/WEv6h8837J29ZAL27
+And, in theory, they can try to use fields focal points for creating something like this record of magnetic field in my home, phone magnetometer can`t record brain waves - he need ability to measure super low power fields ( nano Tesla or in pico Telsa ):
+
+.. image:: images/achh.jpg
+           :align: left
+
+They use DEW in this way, I think, with beam forming, if this used for long time, more than never ( `Study <{filename}/category/Health_Effects_in_RF_Electromagnetic_fields.rst>`_ ) this is a killing:
+
+.. image:: images/humansandtowers.png
+           :align: left
+
+RF/MF is VHF/UHF in normal radio spectrum.
+
+.. _Related-law-in-Ukraine:
+
+################################################################
+
+Computers have parts with described frequencies and multiple vulnerabilities in code and hardware parts, as example: https://github.com/luamfb/tempest-lcd , and criminals can damage you psychologically or neurologically.
+Maybe, after years of "war", in my case this is conflict with cults, part of them, criminals who 'crack' phones or computers can control some aspects of your physiology, or this can be only illusion created for you by the psychological brainwashing. And in parallel they can use low power magnetic fields for nerve or brain stimulation, because most speakers don`t has protection ( shields ) from magnetic fields, or on your macbook still work this https://github.com/fulldecent/system-bus-radio. Our devices have screens, speakers, microphones an microwave/radio transmitters, this devices interacts with our perception and science provides to the public much knowledge about the `brain <{filename}/category/Health_Effects_in_RF_Electromagnetic_fields.rst>`_, `psychic`_ and `central nervous system`_. Criminals or other forces who can affect your rights and want to take you to slavery always use this. I'm my case they use all this methods too. All described things can destroy some structures in brain and change your biochemical balance. This biochemical changes very good described on this site: https://www.cs.cmu.edu/~dst/Library/Shelf/wakefield/us-14.html
+
+**For self-help we can use neuroprotectors, omega-3, vitamin complexes and pills for support some function of organism, like pills for people without sexual life ( love with partner to important to everyone and activate biggest part of glands of internal secretion, without that and other aspects of health life you a "rondroid" ).**
+
+But nearby radio/microwave stations and surveillance most dangerous and most effective weapon against you.
+
+.. _`psychic`: https://www.medicaldaily.com/torture-methods-sound-how-pure-noise-can-be-used-break-you-psychologically-318638
+
+.. _`central nervous system`: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6513191
+
+################################################################
+
+================================================================================
+Instruments for slave traders, Information from google patents and other sources
+================================================================================
+
+* Apparatus and method for remotely monitoring and altering brain waves.
+  Worldwide applications - 1974 US(expired) 1975 ZA AU(expired).
+  https://patents.google.com/patent/US3951134A/en
+
+  Totally affect human rights.
+
+  Can damage will, freedom, privacy, consciousness, health.
+
+  * Article 182. Violation of the inviolability of private life
+  * Article 149. Human trafficking
+  * Article 146. Illegal deprivation of liberty/will or kidnapping of a person
+  * Article 127. Torture
+
+  This is a DEW or close to this type of weapons and NFC devices.
+  Some computer and phone screens can radiate on needed frequency.
+
+  Description: Apparatus for and method of sensing brain waves at a position
+  remote from a subject whereby electromagnetic signals of different frequencies
+  are simultaneously transmitted to the brain of the subject in which the signals
+  interfere with one another to yield a waveform
+  which is modulated by the subject's brain waves.
+ 
+  Part from patent::
+
+	 In addition to channeling its information to display devices 24,
+	 the computer 26 can also produce signals to control an auxiliary
+	 transmitter 28. Transmitter 28 is used to produce a compensating
+	 signal which is transmitted to the brain 10 of the subject 8 by
+	 the antenna 4. In a preferred embodiment of the invention, the
+	 compensating signal is derived as a function of the received
+	 brain wave signals, although it can be produced separately.
+	 The compensating signals
+	 affect electrical activity within the brain 10.
+
+	 Various configurations of suitable apparatus and electronic
+	 circuitry may be utilized to form the system generally shown
+	 in FIG.1 and one of the many possible configurations is
+	 illustrated in FIG. 2. In the example shown therein, two
+	 signals, one of 100 MHz and the other of 210 MHz are
+	 transmitted simultaneously and combine in the brain 10
+	 to form a resultant wave of frequency equal to the difference
+	 in frequencies of the incident signals, i.e., 110 MHz.
+	 The sum of the two incident frequencies is also available,
+	 but is discarded in subsequent filtering. The 100 MHz signal
+	 is obtained at the output 37 of an RF power divider 34 into
+	 which a 100 MHz signal generated by an oscillator 30 is injected.
+	 The oscillator 30 is of a conventional type employing either
+	 crystals for fixed frequency circuits or a tunable circuit set
+	 to oscillate at 100 MHz. It can be a pulse generator, square
+	 wave generator or sinusoidal wave generator. The RF power
+	 divider can be any conventional VHF, UHF or SHF frequency range
+	 device constructed to provide, at each of three outputs,
+	 a signal identical in frequency to that applied to its input.
+
+
+  .. image:: images/US3951134A.png
+     :align: left
+
+
+* Apparatus for measuring electric field radiation from living bodies.
+  Worldwide applications 1967 US(expired).
+  https://patents.google.com/patent/US3555529A/en
+
+  Totally affect human rights.
+
+  This like organic detector from Star Trek and can be use for surveillance.
+
+  * Article 182. Violation of the inviolability of private life
+
+  Can damage freedom, consciousness, health.
+
+  Description: An antenna, electrically short in comparison to a wavelength to be received,
+  is positioned in close proximity to a living body to receive the electric energy radiated
+  therefrom in the frequency range of from 0 to 3 khz.
+  An impedance matching device is connected directly to the antenna to convert the
+  received energy into electrical signals for processing.
+
+  Part from patent::
+	
+	 BACKGROUND OF THE INVENTION
+	 It has been known that functioning muscles and nerves naturally
+	 generate electricity and that such activity within a living body
+	 could be monitored by attaching electrodes to the bodys surface.
+	 Examples of monitoring devices which have been developed to monitor
+	 this internal activity include the electrocardiogram (EKG) which
+	 records heart activity; the electroencephalogram (EEG) which
+	 monitors brain activity; the electromyogram (EMG) which monitors
+	 muscle activity. Other devices have been developed to monitor
+	 other body functions such as respiration rate and skin resistance.
+
+
+  .. image:: images/US3555529.png
+     :align: left
+
+
+* System and method for inducing sleep by transplanting mental states.
+  Worldwide applications 2019 US.
+  https://patents.google.com/patent/US11364361B2/en
+
+  Look like way to the manipulation and hypnosis(brainwashing).
+
+  Someone can use 'cracked' OS or DSP and headphones or computer stereo speaker for this
+  and damage health of the victim.
+
+  Can damage will, freedom, consciousness, health.
+
+  * Article 127. Torture
+
+  Describe: A method of replicating a mental state of a first subject in a second subject comprising:
+  capturing a mental state of the first subject represented by brain activity patterns;
+  and replicating the mental state of the first subject in the second subject
+  by inducing the brain activity patterns in the second subject.
+
+
+  .. image:: images/US11364361B2.png
+     :align: left
+
+
+* Method and apparatus for neuroenhancement to enhance emotional response. 
+  Worldwide applications 2018 WO EP US US US 2022 US.
+  https://patents.google.com/patent/US11273283B2/en
+
+  And I still love music :)
+  Mathematically hard and can be used in brainwashing but in most cases
+  you may recognize this and understand, avoid.
+  Used by the Scientology criminals and other criminals.
+  Original film from church has additional sounds in record and can
+  create strange strong feelings when you watch this shit(IMHO).
+
+  Someone can use 'cracked' OS or DSP and headphones or computer stereo speaker for this
+  and damage health of the victim.
+
+  Can damage will, freedom, consciousness, health.
+
+  * Article 127. Torture
+
+  Describe: A method of transplanting a desired emotional state from a donor
+  to a recipient, comprising determining an emotional state of the donor;
+  recording neural correlates of the emotional state of the donor who is in
+  the desired emotional state; analyzing neural correlates of the emotional
+  state of the donor to decode at least one of a temporal and a spatial pattern
+  corresponding to the desirable emotional state; converting said at least one
+  of a temporal and a spatial pattern corresponding to the desirable emotional
+  state into a neurostimulation pattern; storing the neurostimulation pattern
+  in the nonvolatile memory; retrieving the neurostimulation pattern from the
+  nonvolatile memory; stimulating the recipient's brain with at least one
+  stimulus modulated with the neurostimulation pattern to induce
+  the desired emotional state in the recipient.
+
+
+  .. image:: images/US11273283B2.png
+     :align: left
+
+
+* BrainNet: A Multi-Person Brain-to-Brain Interface for Direct Collaboration Between Brains.
+  Published: 16 April 2019.
+  https://www.nature.com/articles/s41598-019-41895-7
+
+  This can kill your decision centers in brain.
+  Receiver get magnetic stimulation from 2 electromagnets near the temples.
+  I don`t know all what can do this magnetic fields with brain by the created effects
+  after long time of stimulation but I sure - EMF damage vessels (`Hall_effect_on_blood`_).
+
+  .. _Hall_effect_on_blood: https://phys.libretexts.org/Bookshelves/College_Physics/Book%3A_College_Physics_(OpenStax)/22%3A_Magnetism/22.06%3A_The_Hall_Effect
+
+  Someone can use 'cracked' OS or DSP and headphones or computer stereo speaker for this
+  and damage health of the victim.
+  Used by the scientology criminals and other criminals.
+
+  Can damage will, freedom, consciousness, heath.
+
+  * Article 182. Violation of the inviolability of private life
+  * Article 149. Human trafficking
+  * Article 146. Illegal deprivation of liberty/will or kidnapping of a person
+  * Article 127. Torture
+
+  Abstract: We present BrainNet which, to our knowledge, is the first multi-person
+  non-invasive direct brain-to-brain interface for collaborative problem solving.
+  The interface combines electroencephalography (EEG) to record brain signals
+  and transcranial magnetic stimulation (TMS) to deliver information noninvasively
+  to the brain. The interface allows three human subjects to collaborate and solve
+  a task using direct brain-to-brain communication. Two of the three subjects
+  are designated as "Senders" whose brain signals are decoded using
+  real-time EEG data analysis. The decoding process extracts each Sender's
+  decision about whether to rotate a block in a Tetris-like game before it
+  is dropped to fill a line. The Senders' decisions are transmitted via
+  the Internet to the brain of a third subject, the "Receiver," who cannot
+  see the game screen. The Senders' decisions are delivered to the Receiver's
+  brain via magnetic stimulation of the occipital cortex. The Receiver integrates
+  the information received from the two Senders and uses an EEG interface to make
+  a decision about either turning the block or keeping it in the same orientation.
+
+
+  .. image:: images/s41598-019-41895-7.png
+     :align: left
+
+
+* Focused magnetic stimulation for modulation of nerve circuits.
+  Worldwide applications 2016 US 2017 EP JP.
+  https://patents.google.com/patent/US10307607B2/en
+
+  Criminals can try to make you think what your computer can control you thought
+  screen or wifi or other parts, but in fact 'cracked' parts just damage your organs.
+
+  Can damage will, freedom, consciousness, health.
+
+  * Article 182. Violation of the inviolability of private life
+  * Article 149. Human trafficking
+  * Article 146. Illegal deprivation of liberty/will or kidnapping of a person
+  * Article 127. Torture
+
+  Description: A neuromodulation device includes electrically conductive coils
+  arranged in an array and circuitry coupled to energize the coils in the array
+  using current pulses that generate an electromagnetic field. The circuitry
+  is configured to control one or more parameters of the current pulses, including
+  at least amplitude and phase of the current pulses, such that the electromagnetic
+  field undergoes constructive and destructive interference that focuses and/or
+  steers a magnetic flux density within a region of interest of a patient.
+
+
+  .. image:: images/US10307607B2.png
+     :align: left
+
+
+* Wireless Activation of Targeted Brain Circuits in Less Than One Second
+
+  Most simple and dangerous way to manipulate.... if criminals use this for crimes
+
+  Can damage will, freedom, privacy, consciousness, health.
+
+  * Article 182. Violation of the inviolability of private life
+  * Article 149. Human trafficking
+  * Article 146. Illegal deprivation of liberty/will or kidnapping of a person
+  * Article 127. Torture
+      
+  Summary: A newly developed system uses wireless technology to remotely
+  activate specific brain networks in fruit flies in less than one second.
+  Source: https://neurosciencenews.com/wireless-brain-activation-21050/
+
+  .. image:: images/2022-10-27_03-49.png
+     :align: left

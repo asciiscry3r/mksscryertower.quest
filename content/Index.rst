@@ -29,23 +29,23 @@ Then run, from root ::
 Pages
 =====
 
-`Home local network <{filename}/category/HomeNetwork.rst>`_
+`Home local network <{filename}/category/Home_local_network.rst>`_
 
-`Crimes with brain scanners, human detectors, other devices and me <{filename}/category/MirgorodCrimes.rst>`_
+`Crimes with brain scanners, human detectors, other devices and me <{filename}/category/Crimes_with_brain_scanners_human_detectors_other_devices_and_me.rst>`_
 
-`Computer trace system <{filename}/category/Computrace.rst>`_
+`Computer trace system <{filename}/category/Computer_trace_system.rst>`_
 
-`Internet as a phenomenon <{filename}/category/Internet.rst>`_
+`Internet as a phenomenon <{filename}/category/Internet_as_a_phenomenon.rst>`_
 
-`Human rights in Ukraine <{filename}/category/ScientologyUkraine.rst>`_
+`Human rights in Ukraine <{filename}/category/Human_rights_in_Ukraine.rst>`_
 
-`EMF and Human health <{filename}/category/EMF.rst>`_
+`EMF and Human health <{filename}/category/Health_Effects_in_RF_Electromagnetic_fields.rst>`_
 
-`Slavery in piracy groups, criminal groups and in cults <{filename}/category/Cults.rst>`_
+`Slavery in piracy groups, criminal groups and in cults <{filename}/category/Slavery_in_piracy_groups_criminal_groups_and_in_cults.rst>`_
 
-`Brainwave entertainment (WIP) <{filename}/category/Brainwaveentertaiment.rst>`_
+`Brainwave entertainment (WIP) <{filename}/category/Brainwave_entertainment.rst>`_
 
-`Radio frequency attacks from user side (WIP) <{filename}/category/RFattacksfromuserside.rst>`_
+`Radio frequency attacks from user side (WIP) <{filename}/category/Radio_frequency_attacks_from_user_side.rst>`_
 
 `About <{filename}/category/About.rst>`_
 

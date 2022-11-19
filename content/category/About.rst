@@ -3,7 +3,10 @@ Klimenko/Tsikunkov Maxim Sergievich
 
 :date: 2022-09-28 19:50
 :category: About
+:tags: About
+:slug: About
 :authors: Klimenko/Tsikunkov Maxim Sergievich
+:summary: About
 
 ###################################
 
@@ -11,20 +14,45 @@ Klimenko/Tsikunkov Maxim Sergievich
 Klimenko/Tsikunkov Maxim Sergievich
 ===================================
 
-| IT administrator and GNU/Linux Demonic Space Pirate ( ! online ). And sometimes a cloud infrastructure engineer
-| If you ask me, I don't allow *Scientology* people and cybercriminals to use me and my work, but who asks... and by the way, I use Arch Linux. I`m don`t want live in anarcho-capitalism. And I hate anarcho-capitalism. I can publish one variant then, after days, remember something an update all site :) Im do not support Ukraine or Russia in Russian/Ukraine war but im on Ukrainian side. I think both countryes is political regimes with a lack of respect for human rights. To support the policy of dictatorship and sale of people is obviously unacceptable. For me. But I have buissines and pay taxes to Ukraine and follow the laws.
-| We live in USSR style countries with cults after multiple psyops against us and our goverments create psyops against us too .... and today groups of military developed hackers-zombi, thay live in Ukraine local cults ( anarcho capitalism ), can try too brainwash you and force to change your sexusal orientation, try to harm or force to commit suicide.
+| IT administrator and GNU/Linux Demonic Space Pirate ( ! online ) and "black" man in Scientology - because they decide to control me ( ! online ). And sometimes a cloud infrastructure engineer and always without faith.
 
-About Content
-+++++++++++++
+| If you ask me, I don't allow *Scientology* people and cyber-criminals to use me and my work, but who asks... and by the way, I use Arch Linux.
 
-These days we can find criminals and slave traders in the police departments, the army or other government agencies (like the SBU), and these people can be in *scientology* or with another dangerous point of view on your life ... Like piracy and "hackers ", army creathure, who decide to play in you, pseudo hackers or just fucking criminals, from the Mirgorod part and the other parts of the cult, otherwise it can not be called, as for me piracy (Real piracy or the first numbers in pirate networks) is the same dangerous and destructive cult as some others, they can directly control the cities. And they try to control me like an electromagnetic disruptor drives away a crowd of birds, they do it every day. Which of the "super-genius" people gives a job in the police or the army to such?.....
+| I can publish one variant then, after days, remember something an update all site :)
 
-I want to apologize to the modern, non-criminal and normal members of the Scientology or other religious society, this is not about you. And I never want to apologize to the Ukrainian army, the police, the government and the fucking creatures from the SBU. Because it looks like these fucking creatures sold me to Scientology for using me like a tool when I was in elementary school. I am not a Scientologist and certainly will not be one myself and never was. In the meantime, our security forces and special services are using electromagnetic weapons to surprise the girl/boy and get her/him into bed. They so cool and powerfull, they can push Linus to creating backdors in Linux. And I see by my eays how they brainwash my mother ... people from local police and other fucking creathures and "frends" - think is related to forced transfer of property.
+| Im do not support Ukraine or Russia in Russian/Ukraine war but im on Ukrainian side. I think both countryes is political regimes with a lack of respect for human rights. To support the policy of dictatorship and sale of people is obviously unacceptable. For me. But I have buissines and pay taxes to Ukraine and follow the laws. I am in slavery, but I do not recognize any right of Ukrainian and foreign criminals, be it the army, the police, the people or the governing bodies. I am not a Scientologist and certainly will not be one myself and never was. I`m don`t want live in anarcho-capitalism ( criminals and scientology communas ) and I hate anarcho-capitalism.
 
-Stupid assholes decide to take me into slavery and share my whole life from everyday life with Ukrainian unofficial "Scientologists", they work on brainwashing me, as before, but with nuances from Aum Shinrikyo. And they can also steal a passport from the e-government for Ukraine and ..... but this is not the main reason for falling into slavery, here they publicly respect traffickers and do not recognize the rights of the person they have chosen and come up with reasons for this. And I, after 2 years of electromagnetic burning, feel like in a prison with a dead brain ... But all this time I just live in my house with my grandfather and work in IT.
+| We live in USSR style countries with cults after multiple psyops against us and our goverments create psyops against us too .... and today groups of military developed hackers-zombi, they live in Ukraine local cults ( anarcho capitalism ), can try too brainwash you and force to change your sexusal orientation, try to harm or force to commit suicide. And I, after 2 years of electromagnetic burning, feel like in a prison with a dead brain ... But all this time I just live in my house with my grandfather and work in IT.
 
 Author on photo:
+++++++++++++++++
 
 .. image:: images/ktms.jpg
            :align: left
+
+===============================================================
+Foreword from Structure and Interpretation of Computer Programs
+===============================================================
+
+**Armies, students, and some societies are programmed. An
+assault on large problems employs a succession of programs, most of
+which spring into existence en route. these programs are rife with issues
+that appear to be particular to the problem at hand. To appreciate
+programming as an intellectual activity in its own right you must turn to
+computer programming; you must read and write computer programs - many of them. ........ 
+Our traffic with the subject matter of this book involves us with
+three foci of phenomena: the human mind, collections of computer programs,
+and the computer. Every computer program is a model, hatched
+in the mind, of a real or mental process. These processes, arising from
+human experience and thought, are huge in number, intricate in detail,
+and at any time only partially understood. They are modeled to our
+permanent satisfaction rarely by our computer programs. Thus even
+though our programs are carefully handcrafted discrete collections of
+symbols, mosaics of interlocking functions, they continually evolve: we
+change them as our perception of the model deepens, enlarges, generalizes
+until the model ultimately attains a metastable place within
+still another model with which we struggle. The source of the exhilaration
+associated with computer programming is the continual unfolding
+within the mind and on the computer of mechanisms expressed as
+programs and the explosion of perception they generate. If art interprets
+our dreams, the computer executes them in the guise of programs!**
