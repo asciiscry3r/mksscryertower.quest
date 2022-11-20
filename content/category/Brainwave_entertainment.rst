@@ -11,6 +11,33 @@ Brainwave entertainment
 
 #######################
 
+Brainwave entertainment in mafia/cults or in inhuman countries ( MkUltra / Scientology / Ukraine people( they call self a hackers ) brainwashed by OSA/Guardians )
+
+Plan
+++++
+
+pavlov dog experiment https://www.google.com/search?client=firefox-b-d&q=pavlov+dogs
+
+neuroconstructivist https://www.google.com/search?q=neuroconstructivist&client=firefox-b-d&sxsrf=ALiCzsba9RSP7ScxMRSx59vG5xMlt79_xg%3A1668920564747&ei=9LR5Y4CdLdGW8gK136HICg&oq=Neuroconstru&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgBMgUIABCABDIFCAAQgAQyBQgAEIAEMggILhCABBDUAjIICC4QgAQQ1AIyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoECAAQRzoKCAAQRxDWBBCwAzoHCAAQsAMQQzoNCAAQ5AIQ1gQQsAMYAToPCC4Q1AIQyAMQsAMQQxgCOgwILhDIAxCwAxBDGAI6BwgjEOoCECc6BAgjECc6BAgAEEM6EQguEIAEELEDEIMBEMcBENEDOgsIABCABBCxAxCDAToUCC4QgAQQsQMQgwEQxwEQ0QMQ1AI6BQgAEJECOgQILhBDOgoIABCxAxCDARBDOggIABCABBCxAzoHCAAQsQMQQzoQCC4QsQMQgwEQxwEQ0QMQQzoLCC4QgAQQxwEQ0QM6BwgAEIAEEAo6CwguEIAEEMcBEK8BSgQIQRgASgQIRhgBULCoCVjr3AlgmIAKaANwAngAgAGHAYgB8QqSAQQwLjEymAEAoAEBsAEKyAESwAEB2gEGCAEQARgJ2gEGCAIQARgI&sclient=gws-wiz-serp
+
+50 Hz field in living rooms
+
+Power signals from electrical devices
+
+Transformers
+
+VHF/UHF and Computers and TV
+
+Food/Water Drugs
+
+Brainwave sync
+
+pattern of development
+
+https://www.ukessays.com/essays/psychology/nativist-and-neuroconstructivist-positions-of-brain-development.php
+
+https://en.wikipedia.org/wiki/Interactive_specialization
+
 WIP
 +++
 
