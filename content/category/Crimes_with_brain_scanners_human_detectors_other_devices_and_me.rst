@@ -15,21 +15,22 @@ Crimes with brain scanners, human detectors, other devices and me
 About violence from brainwashed criminals
 =========================================
 
+They violate my rights by limiting access to information, deprivation of will, privacy, equality of citizens and violate right to life, and freedom of assembly and association from 2010 to now.
 From April 2021 I sometimes record logs and magnetic field in different places of Mirgorod in Ukraine.
 
-* Scientology and Ukrainian( military and other criminals ) brainwashing and control - torture, crimes against rights: https://photos.app.goo.gl/MAD2vekBnvvxgCts5
+* Scientology and Ukrainian( military, police and other criminals ) cybercrimes, brainwashing and control - torture, crimes against rights: https://photos.app.goo.gl/MAD2vekBnvvxgCts5
 
-* DEW attacks, Scientology and Ukrainian( military and other criminals ) brainwashing and control, Mirgorod Robitnicha 22 EMF - https://photos.app.goo.gl/rUXk3R66SLn8dueg7
+* DEW attacks, Scientology and Ukrainian( military, police and other criminals ) brainwashing and control, Mirgorod Robitnicha 22 EMF - https://photos.app.goo.gl/rUXk3R66SLn8dueg7
 
-* DEW attacks, Scientology and Ukrainian( military and other criminals ) brainwashing and control, Mirgorod Sorochinska 148b EMF - https://photos.app.goo.gl/Jeqt9hPjAfQZ8vcA8
+* DEW attacks, Scientology and Ukrainian( military, police and other criminals ) brainwashing and control, Mirgorod Sorochinska 148b EMF - https://photos.app.goo.gl/Jeqt9hPjAfQZ8vcA8
 
-* DEW attacks, Scientology and Ukrainian( military and other criminals ) brainwashing and control, Mirgorod Gogola 139 80 EMF - https://photos.app.goo.gl/Mqdb4FgJYreTg6gS6
+* DEW attacks, Scientology and Ukrainian( military, police and other criminals ) brainwashing and control, Mirgorod Gogola 139 80 EMF - https://photos.app.goo.gl/Mqdb4FgJYreTg6gS6
 
-* DEW attacks, Scientology and Ukrainian( military and other criminals ) brainwashing and control, Shishatska 88 Mirgorod EMF - https://photos.app.goo.gl/FWpfTfSidKkJimTL8
+* DEW attacks, Scientology and Ukrainian( military, police and other criminals ) brainwashing and control, Shishatska 88 Mirgorod EMF - https://photos.app.goo.gl/FWpfTfSidKkJimTL8
 
 I`m random enemy for piracy group, they say something about "Freedom Fox" and "triada" who supposed to left a China in past and but i cant belive them but they all looks like canonical piracy from Ukraine - all of them liars and always can betray you, they decide to create and delivery torrent with Intel confidential leaks - for this they start narco and electromagnetic terror in IT office near centre of Kharkiv city - there they/we develop one popular chat app and one European payment system - at that time. Like Riabchevski and one US company .....
 About this terrorists:
-From start of my live in Kharkiv one girl, she call self "fox", from them propose friendship, after that relationship to me and based on my crush on her poison me and try to brainwash my brain and use me in the same way as scientist use marsian rover or like in this `post`_ - article 127 - girl from National Guard Academy... After, when I agan try to find myself, restore my health and mental state, "friends", this is a big group of the online pirates - military, police and other workers with access to goverment networks and persistent agents, start use this situation and learn how they can control and brainwash me too, becouse if someone use you we can too - quote, some of them decide to be a group of "hackers" with name "187", this guys violate article 163, article 182, article 161, article 149, article 146, article 127 ..... `with narcoterror and pressure to a victims`_  `and CIDT`_  with narcoterror and brainwashing in some pubs - Fuck they insult Saint Patrick - visitors and owners who have either already been sold into slavery or are making money from trade or are being in process and this guys can poison you and rape. In August 2020, at the address Druzhba Narodiv 202, the apartment I was renting was struck with an electromagnetic pulse, as a result of which I lost part of my self and, under the action of the field, cut the veins on my hands. After, when I was in a deplorable state, I was given remote "lectures" by Maryna Hrybanova with army, article 433, in my apartment. And for my "happiness" they all part of cult or part of criminal groups. They use weapon like "`Medusa`_" against me and during last 2 years they "burned" brain, hypophysis, hippocampus and other parts of body. On this image we have model on human brain neural network, all neuron axon an dendrites are a electric cables, and all this attacks damage my brain:
+From start of my live in Kharkiv one girl, she call self "fox", from them propose friendship, after that relationship to me and based on my crush on her poison me and try to brainwash my brain and use me in the same way as scientist use marsian rover or like in this `post`_ - article 127 - girl from National Guard Academy... After, when I agan try to find myself, restore my health and mental state, "friends", this is a big group of the online pirates - military, police and other workers with access to goverment networks and persistent agents, start use this situation and learn how they can control and brainwash me too, becouse if someone use you we can too - quote, some of them decide to be a group of "hackers" with name "187", this guys violate article 163, article 182, article 161, article 149, article 146, article 127 ..... `with narcoterror and pressure to a victims`_  `and CIDT`_  with narcoterror and brainwashing in some pubs - Fuck they insult Saint Patrick - visitors and owners who have either already been sold into slavery or are making money from trade or are being in process and this guys can poison you and rape. In August 2020, at the address Druzhba Narodiv 202, the apartment I was renting was struck with an electromagnetic pulse, as a result of which I lost part of my self and, under the action of the field, cut the veins on my hands. After, when I was in a deplorable state, I was given remote "lectures" by Maryna Hrybanova with army, article 433, in my apartment. And for my "happiness" they all part of cult or part of criminal groups. They use weapons like "`Medusa`_" against me and during last 2 years they "burned" my brain, hypophysis, hippocampus and other parts of body and million times make tries to control my neural circuits - physics works regardless of views, desires or beliefs. On this image we have model on human brain neural network, all neuron axon an dendrites are a electric cables, and all this attacks destroy me and my brain, because my brain and body its me, psychological violence create pavlov dog from the remaining part of brain, destroy memory and all pattern recognition and processing system, this is killing, I can get problem with organs and after described and other action of this type, brain and spinal cord never restore or restoration can take years:
 
 .. image:: images/brainnetwork.png
            :align: left
@@ -39,7 +40,12 @@ Without normal work of the hippocampus and with everyday voice and electromagnet
 .. image:: images/brainaaaaa.png
            :align: left
 
-And now Im in Mirgorod/Ukraine do this change at 6 am 2022/10/19, some creathures call all this crimes a "GAME". This is a "GAME" with every day cyber attacks on my devices and electromagnetic damage to my health. Only crazy freak can give name "GAME" to a killing. Today I today try to stop attacks from unofficial ukrainian scientology, police and army mafia and other "users" of my life from childhood - because this all look like MK Ultra Ukraine. 2022.11.18 - ukraine army and ssu pupets about 2 years, as I can know, use `computrace out of band <{filename}/category/Computer_trace_system.rst>`_ network and violate Article 182,149 in their plans use me like `rondroid`_ for "remote" work in IT companies. Police, SSU, Army criminals and scientologysts share computrace screen and consoles to scientology, local and Kharkiv criminals and decide traine them to kill and control mythical Russians in life on me but for now it online piracy and crimes. This Police, SSU, Army criminals and scientologysts is a Ukraine human traffickers - can negotiate with a number of local and other manufacturers to add a drug to cigarettes or drinks that will make you vomit blood in combination with other foods or drugs - for example, I live on pills. One good thing is that now I don't distribute torrents, and 10 years ago this has been my duty and I think all they did the same to me as they do now, but this is probably the reason that the pirates revoked my rights and record my laptop screen around the clock. And as I can see - goverment wont help me or stop the criminals - they say that my value is not worth saving me from criminals - and today 2022.11.21 they say its for US CIA. All the participants of the described and unmentioned actions are my sworn enemies - most of them are citizens of Ukraine - they torture me for days to make my brain obey every electromagnetic or verbal command.
+And now Im in Mirgorod/Ukraine do this change at 6 am 2022/10/19, some creathures call all this crimes a "GAME". This is a "GAME" with every day cyber attacks on my devices and electromagnetic damage to my health. Only crazy freak can give name "GAME" to a killing. Today I today try to stop attacks from unofficial ukrainian scientology, police and army mafia and other "users" of my life from childhood - because this all look like MK Ultra Ukraine. 2022.11.18 - ukraine army and ssu pupets about 2 years, as I can know, use `computrace out of band <{filename}/category/Computer_trace_system.rst>`_ network and violate Article 182,149 in their plans use me like `rondroid`_ for "remote" work in IT companies. Police, SSU, Army criminals and scientologysts share computrace screen and consoles to scientology, local and Kharkiv criminals and decide traine them to kill and control mythical Russians in life on me but for now it online piracy and crimes. This Police, SSU, Army criminals and scientologysts is a Ukraine human traffickers - can negotiate with a number of local and other manufacturers to add a drug to cigarettes or drinks that will make you vomit blood in combination with other foods or drugs - for example, I live on pills... One good thing is that now I don't distribute torrents, and 10 years ago this has been my duty and I think all they did the same to me as they do now, but this is probably the reason that the pirates revoked my rights and record my laptop screen around the clock. And as I can see - goverment wont help me or stop the criminals - they say that my value is not worth saving me from criminals - and today 2022.11.21 they say its for US CIA. All the participants of the described and unmentioned actions are my sworn enemies - most of them are citizens of Ukraine - they torture me for days to make my brain obey every electromagnetic or verbal command - this is dead for me. I am afraid that because of this - `Operation Snow White`_ - experience of these criminals, look like they lobbi MK Ultra, the police either do not receive my statements or everything has already been overwritten on their servers - and for 2022.11.24 all the same and I know schools where this criminals get their education.
+
+About phones, PPC, computers:
+They steal circuitry and firmware code from manufacturing companies in order to burn or remove systems and components of human protection against computer high-frequency radiation, cyberattacks and brainwash victims, create nerve impulses ( Radio-frequency induction ), create phosphenes for victims, and this devices source of voice manipulation - for start is a torture after long time this is dead for me.
+
+Sometimes I can bought and smoke Lucky Strike for morale-boosting but in my country they have strange benzole taste or maybe this is my health problems - with glands of internal secretion. Or someone realy change the recipes for them, it can be like a situation with poisoned water bottles from an unknown source and previously unreleased brand.
 
 =======================
 Related law in Ukraine:
@@ -55,6 +61,8 @@ Related law in Ukraine:
 * Article 138. Illegal medical activity
 * Article 127. Torture
 * Article 433. Violence against the population in military areas
+
+.. _Operation Snow White: https://en.wikipedia.org/wiki/Operation_Snow_White
 
 .. _rondroid: https://www.cs.cmu.edu/~dst/Library/Shelf/wakefield/us-14.html
 
@@ -97,7 +105,7 @@ RF/MF is VHF/UHF in normal radio spectrum.
 ################################################################
 
 Computers have parts with described frequencies and multiple vulnerabilities in code and hardware parts, as example: https://github.com/luamfb/tempest-lcd , and criminals can damage you psychologically or neurologically.
-Maybe, after years of "war", in my case this is conflict with cults, part of them, criminals who 'crack' phones or computers can control some aspects of your physiology, or this can be only illusion created for you by the psychological brainwashing. And in parallel they can use low power magnetic fields for nerve or brain stimulation, because most speakers don`t has protection ( shields ) from magnetic fields, or on your macbook still work this https://github.com/fulldecent/system-bus-radio. Our devices have screens, speakers, microphones an microwave/radio transmitters, this devices interacts with our perception and science provides to the public much knowledge about the `brain <{filename}/category/Health_Effects_in_RF_Electromagnetic_fields.rst>`_, `psychic`_ and `central nervous system`_. Criminals or other forces who can affect your rights and want to take you to slavery always use this. I'm my case they use all this methods too. All described things can destroy some structures in brain and change your biochemical balance. This biochemical changes very good described on this site: https://www.cs.cmu.edu/~dst/Library/Shelf/wakefield/us-14.html
+Maybe, after years of "war", in my case this is conflict with cults, part of them, criminals who 'crack' phones or computers can control some aspects of your physiology, or this can be only illusion created for you by the psychological brainwashing. And in parallel they can use low power magnetic fields for nerve or brain stimulation, because most speakers don`t has protection ( shields ) from magnetic fields, or on your macbook still work this https://github.com/fulldecent/system-bus-radio. Our devices have screens, speakers, microphones an microwave/radio transmitters, this devices interacts with our perception and science provides to the public much knowledge about the `brain <{filename}/category/Health_Effects_in_RF_Electromagnetic_fields.rst>`_, `psychic`_ and `central nervous system`_. Criminals or other forces who can affect your rights and want to take you to slavery always use this. I'm my case they use all this methods too. All described things can destroy some structures in brain and change your biochemical balance and this like being dead. This biochemical changes very good described on this site: https://www.cs.cmu.edu/~dst/Library/Shelf/wakefield/us-14.html
 
 **For self-help we can use neuroprotectors, omega-3, vitamin complexes and pills for support some function of organism, like pills for people without sexual life ( love with partner to important to everyone and activate biggest part of glands of internal secretion, without that and other aspects of health life you a "rondroid" ).**
 
@@ -120,6 +128,7 @@ Instruments for slave traders, Information from google patents and other sources
   Totally affect human rights.
 
   Can damage will, freedom, privacy, consciousness, health.
+  For start is a torture after long time this is dead for me.
 
   * Article 182. Violation of the inviolability of private life
   * Article 149. Human trafficking
@@ -176,7 +185,7 @@ Instruments for slave traders, Information from google patents and other sources
   Worldwide applications 1967 US(expired).
   https://patents.google.com/patent/US3555529A/en
 
-  Totally affect human rights.
+  Affect some human rights.
 
   This like organic detector from Star Trek and can be use for surveillance.
 
@@ -212,7 +221,9 @@ Instruments for slave traders, Information from google patents and other sources
   Worldwide applications 2019 US.
   https://patents.google.com/patent/US11364361B2/en
 
-  Look like way to the manipulation and hypnosis(brainwashing).
+  Looks like way to the manipulation and hypnosis(brainwashing).
+
+  Totally affect human rights.
 
   Someone can use 'cracked' OS or DSP and headphones or computer stereo speaker for this
   and damage health of the victim.
@@ -271,6 +282,8 @@ Instruments for slave traders, Information from google patents and other sources
   Published: 16 April 2019.
   https://www.nature.com/articles/s41598-019-41895-7
 
+  Totally affect human rights if you wan`t use this.
+
   This can kill your decision centers in brain.
   Receiver get magnetic stimulation from 2 electromagnets near the temples.
   I don`t know all what can do this magnetic fields with brain by the created effects
@@ -283,6 +296,7 @@ Instruments for slave traders, Information from google patents and other sources
   Used by the scientology criminals and other criminals.
 
   Can damage will, freedom, consciousness, heath.
+  For start is a torture after long time this is dead for me.
 
   * Article 182. Violation of the inviolability of private life
   * Article 149. Human trafficking
@@ -314,10 +328,13 @@ Instruments for slave traders, Information from google patents and other sources
   Worldwide applications 2016 US 2017 EP JP.
   https://patents.google.com/patent/US10307607B2/en
 
+  Totally affect human rights
+
   Criminals can try to make you think what your computer can control you thought
   screen or wifi or other parts, but in fact 'cracked' parts just damage your organs.
 
   Can damage will, freedom, consciousness, health.
+  For start is a torture after long time this is dead for me.
 
   * Article 182. Violation of the inviolability of private life
   * Article 149. Human trafficking
@@ -339,9 +356,12 @@ Instruments for slave traders, Information from google patents and other sources
 
 * Wireless Activation of Targeted Brain Circuits in Less Than One Second
 
+  Totally affect human rights
+
   Most simple and dangerous way to manipulate.... if criminals use this for crimes
 
   Can damage will, freedom, privacy, consciousness, health.
+  For start is a torture after long time this is dead for me.
 
   * Article 182. Violation of the inviolability of private life
   * Article 149. Human trafficking
