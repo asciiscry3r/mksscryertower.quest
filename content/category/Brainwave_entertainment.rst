@@ -11,6 +11,20 @@ Brainwave entertainment
 
 #######################
 
+The brain does not operate in just one single frequency; the full spectrum of brainwave frequencies are always running, all the time. The dominant frequency determines our mental state – and entrainment temporarily shifts our mental state by boosting one frequency to be louder than the others.
+
+Types Of Brainwave Entertainment
+There are a number of different methods available, each with its own pros and cons.
+
+    Music Modulation
+    Monaural Beats
+    Binaural Beats
+    Isochronic Beats
+    Sound and Light
+    EEG Active
+    Electromagnetic (EM)
+
+
 Brainwave entertainment in mafia/cults or in inhuman countries ( MkUltra / Scientology / Ukraine people( they call self a hackers ) brainwashed by OSA/Guardians )
 
 Plan
@@ -76,3 +90,5 @@ https://www.fastcompany.com/3036390/how-i-wore-a-brainwave-reading-headset-for-a
 https://store.neurosky.com/products/painpal
 
 https://www.diygenius.com/hacking-your-brain-waves/
+
+https://brainworksneurotherapy.com/about/faq/what-brainwave-entrainment/
