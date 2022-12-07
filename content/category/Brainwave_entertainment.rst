@@ -13,19 +13,22 @@ Brainwave entertainment
 
 The brain does not operate in just one single frequency; the full spectrum of brainwave frequencies are always running, all the time. The dominant frequency determines our mental state – and entrainment temporarily shifts our mental state by boosting one frequency to be louder than the others.
 
-Types Of Brainwave Entertainment
-There are a number of different methods available, each with its own pros and cons.
+The brain can be entrained within a certain frequency range, known as the Frequency Following Response (FFR) and was discovered by neuroscientists in the 1930s.
 
-    Music Modulation
-    Monaural Beats
-    Binaural Beats
-    Isochronic Beats
-    Sound and Light
-    EEG Active
-    Electromagnetic (EM)
+Worden, F. & Marsh, J. Frequency-following (microphonic-like) neural responses evoked by sound. Electroencephalogr. Clin. Neurophysiol. 25, 42–52 (1968).
+
+Types Of Brainwave Entertainment:
+
+*    Music Modulation
+*    Monaural Beats
+*    Binaural Beats
+*    Isochronic Beats
+*    Sound and Light
+*    EEG Active
+*    Electromagnetic (EM)
 
 
-Brainwave entertainment in mafia/cults or in inhuman countries ( MkUltra / Scientology / Ukraine people( they call self a hackers ) brainwashed by OSA/Guardians )
+Brainwave entertainment in mafia/cults or in inhuman countries ( MkUltra / Scientology / Ukraine people( they call self a hackers ) brainwashed by OSA/Guardians ) - IMHO JFF
 
 Plan
 ++++
