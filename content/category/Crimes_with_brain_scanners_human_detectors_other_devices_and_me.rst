@@ -98,16 +98,7 @@ They use DEW in this way, I think, with beam forming, if this used for long time
 .. image:: images/humansandtowers.png
            :align: left
 
-RF/MF is VHF/UHF in normal radio spectrum.
-Ideas from piracy beneficiary:
-
-.. image:: images/humansandlaptop.png
-           :align: left
-
-.. image:: images/humansandwifi.png
-           :align: left
-
-Using WiFi AP and cameras for remote human/ human brain monitoring - they just find all this in internet.
+RF/MF is VHF/UHF in normal radio spectrum. Or cult/criimals/other hackers can try to use you phone or laptop as reciver for signal modulated by brainwawes, IMHO, they are killers and don't care about your health or life - and they can do this only from CDA side - Only CDA can rewrite parts of firmware of hight freaquence recivers or transmitters. EMF from WiFi AP and cameras for remote human/ human brain monitoring - they just find all this in internet.
 		   
 .. _Related-law-in-Ukraine:
 
@@ -116,9 +107,11 @@ Using WiFi AP and cameras for remote human/ human brain monitoring - they just f
 Computers have parts with described frequencies and multiple vulnerabilities in code and hardware parts, as example: https://github.com/luamfb/tempest-lcd , and criminals can damage you psychologically or neurologically.
 Maybe, after years of "war", in my case this is conflict with cults, part of them, criminals who 'crack' phones or computers can control some aspects of your physiology, or this can be only illusion created for you by the psychological brainwashing. And in parallel they can use low power magnetic fields for nerve or brain stimulation, because most speakers don`t has protection ( shields ) from magnetic fields, or on your macbook still work this https://github.com/fulldecent/system-bus-radio. Our devices have screens, speakers, microphones an microwave/radio transmitters, this devices interacts with our perception and science provides to the public much knowledge about the `brain <{filename}/category/Health_Effects_in_RF_Electromagnetic_fields.rst>`_, `psychic`_ and `central nervous system`_. Criminals or other forces who can affect your rights and want to take you to slavery always use this. I'm my case they use all this methods too. All described things can destroy some structures in brain and change your biochemical balance and this like being dead. This biochemical changes very good described on this site: https://www.cs.cmu.edu/~dst/Library/Shelf/wakefield/us-14.html
 
-**For self-help we can use neuroprotectors, omega-3, vitamin complexes and pills for support some function of organism, like pills for people without sexual life ( love with partner to important to everyone and activate biggest part of glands of internal secretion, without that and other aspects of health life you a "rondroid" ).**
+**For self-help we can use neuroprotectors,** `melatonin`_ **, omega-3, vitamin complexes and pills for support some function of organism, like pills for people without sexual life ( love with partner to important to everyone and activate biggest part of glands of internal secretion, without that and other aspects of health life you a "rondroid" ).**
 
 But nearby radio/microwave stations and surveillance most dangerous and most effective weapon against you.
+
+.. _`melatonin`: https://pubmed.ncbi.nlm.nih.gov/34635042/
 
 .. _`psychic`: https://www.medicaldaily.com/torture-methods-sound-how-pure-noise-can-be-used-break-you-psychologically-318638
 
