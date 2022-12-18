@@ -47,6 +47,8 @@ The engine includes a Dynamic Application Launcher (DAL). One thing that jumped 
 
 And all this set realized for IT Business needs.
 
+.. image:: images/2022-12-11_08-32.png
+	   :align: left
 
 And when cyber-criminals get this access he can very fast find ability to anytime rewriting some parts of machine firmware and can create for self new wireless and cable connections, remote wireless access to web-camera, screen, hard disk, memory etc.
 
@@ -55,7 +57,7 @@ But some laptops has bad one thing inside - `Police access`_:
 .. image:: images/intelantithef.png
 	   :align: left
 
-.. _Police access: https://patents.google.com/patent/US20060272020
+.. _Police access: https://patents.google.com/patent/US5748084A/en
 
 .. _patent: https://patents.google.com/patent/US20060272020
 

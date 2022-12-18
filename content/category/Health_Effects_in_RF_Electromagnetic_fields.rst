@@ -10,7 +10,7 @@ Health Effects in RF Electromagnetic fields
 
 ###########################################
 
-In short - is a slowly murder, destroy memory and all pattern recognition and processing system ( failure of all organism functions ), if someone from police, mafia, security service or army start radiate you every day - EMF physically damage brain and neural system and voice manipulations in fields break your mind and criminal refuse you attempts to get help from rights and law protection agencies. I may write here what "people" already knew, but then I just learned that the "native" army ( in past they be a part of army, but now I too far from this structures ) and its assistants forbade me to know because they wanted to use me with their assistants ( like unofficial scientology or bandits ). We have many people, like someone Konev, Ribalko, Riabchevskiy, some part of SSU, police and Interpol and others, who want keep this status quo. They call this all a GAME.
+In short - is a slowly murder, CIDT, destroy memory and all pattern recognition and processing system ( failure of all organism functions ), if someone from police, mafia, security service or army start radiate you every day - EMF physically damage brain and neural system and voice manipulations in fields break your mind and criminal refuse you attempts to get help from rights and law protection agencies. I may write here what "people" already knew, but then I just learned that the "native" army ( in past they be a part of army, but now I too far from this structures ) and its assistants forbade me to know because they wanted to use me with their assistants ( like unofficial scientology or bandits ). We have many people, like someone Konev, Ribalko, Riabchevskiy, some part of SSU, police and Interpol and others, who want keep this status quo. They call this all a GAME.
 
 Why:
 
@@ -43,6 +43,28 @@ Tables from `RCE-20_Health_Effects_RF_Electromagnetic_fields`_
 
 .. _neurodegeneration: https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/1750-1326-4-20
 
+In 1993 EMF weapon or influence kill too, CIDT:
+
+.. image:: images/2022-12-14_04-22.png
+           :align: left
+
+.. image:: images/2022-12-14_04-20.png
+           :align: left
+
+.. image:: images/2022-12-14_04-26.png
+           :align: left
+
+.. image:: images/2022-12-14_04-35.png
+           :align: left
+
+.. image:: images/2022-12-14_05-01.png
+           :align: left
+
+.. image:: images/2022-12-14_04-57.png
+           :align: left
+
+.. image:: images/2022-12-14_05-02_1.png
+           :align: left
 
 #########
 Resources

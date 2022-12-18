@@ -18,15 +18,17 @@ About violence from brainwashed criminals
 They violate my rights by limiting access to information, deprivation of will, privacy, equality of citizens and violate right to life, and freedom of assembly and association from 2010 to now.
 From April 2021 I sometimes record logs and magnetic field in different places of Mirgorod in Ukraine.
 
-* Scientology and Ukrainian( military, police and other criminals ) cybercrimes, brainwashing and control - torture, crimes against rights: https://photos.app.goo.gl/MAD2vekBnvvxgCts5
+* Ukrainian Scientology and Ukrainian online piracy ( lobby and other criminals ) cybercrimes, brainwashing and control - torture, crimes against rights: https://photos.app.goo.gl/MAD2vekBnvvxgCts5
 
-* DEW attacks, Scientology and Ukrainian( military, police and other criminals ) brainwashing and control, Mirgorod Robitnicha 22 EMF - https://photos.app.goo.gl/rUXk3R66SLn8dueg7
+* DEW attacks, Ukrainian Scientology and Ukrainian online piracy ( lobby and other criminals ) brainwashing and control, Mirgorod Robitnicha 22 EMF - https://photos.app.goo.gl/rUXk3R66SLn8dueg7
 
-* DEW attacks, Scientology and Ukrainian( military, police and other criminals ) brainwashing and control, Mirgorod Sorochinska 148b EMF - https://photos.app.goo.gl/Jeqt9hPjAfQZ8vcA8
+* DEW attacks, Ukrainian Scientology and Ukrainian online piracy ( lobby and other criminals ) brainwashing and control, Mirgorod Sorochinska 148b EMF - https://photos.app.goo.gl/Jeqt9hPjAfQZ8vcA8
 
-* DEW attacks, Scientology and Ukrainian( military, police and other criminals ) brainwashing and control, Mirgorod Gogola 139 80 EMF - https://photos.app.goo.gl/Mqdb4FgJYreTg6gS6
+* DEW attacks, Ukrainian Scientology and Ukrainian online piracy ( lobby and other criminals ) brainwashing and control, Mirgorod Gogola 139 80 EMF - https://photos.app.goo.gl/Mqdb4FgJYreTg6gS6
 
-* DEW attacks, Scientology and Ukrainian( military, police and other criminals ) brainwashing and control, Shishatska 88 Mirgorod EMF - https://photos.app.goo.gl/FWpfTfSidKkJimTL8
+* DEW attacks, Ukrainian Scientology and Ukrainian online piracy ( lobby and other criminals ) brainwashing and control, Shishatska 88 Mirgorod EMF - https://photos.app.goo.gl/FWpfTfSidKkJimTL8
+
+* EMF Mirgorod - https://photos.app.goo.gl/yMjGdd6jr4hUrG378
 
 I`m random enemy for piracy group, they say something about "Freedom Fox" and "triada" who supposed to left a China in past and but i cant belive them but they all looks like canonical piracy from Ukraine - all of them liars and always can betray you, they decide to create and delivery torrent with Intel confidential leaks - for this they start narco and electromagnetic terror in IT office near centre of Kharkiv city - there they/we develop one popular chat app and one European payment system - at that time. Like Riabchevski and one US company .....
 About this terrorists:
@@ -79,6 +81,11 @@ Related law in Ukraine:
 Remote control detection by the record changes magnetic field, Ukraine Mirgorod Robitnicha 22:
 
 .. image:: images/20221118_162255.v01.jpg
+           :align: left
+
+Killing from 11.12.2022:
+
+.. image:: images/20221214_002500.jpg
            :align: left
 
 * DEW weapons - https://en.wikipedia.org/wiki/Directed-energy_weapon
