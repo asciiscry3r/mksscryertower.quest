@@ -84,7 +84,7 @@ Workstation Configuration
     kernel.kexec_load_disabled = 1
 
     # User namespaces
-    user.max_user_namespaces = 0
+    # user.max_user_namespaces = 0
 
     # Unprivileged user namespaces
     kernel.unprivileged_userns_clone = 0
