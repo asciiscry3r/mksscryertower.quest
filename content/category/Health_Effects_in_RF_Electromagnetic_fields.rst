@@ -39,6 +39,15 @@ And suppress neuronal activity or damage organism functions.
 
 Tables from `RCE-20_Health_Effects_RF_Electromagnetic_fields`_
 
+
+**We consider microwave frequency ranges and wavelengths from 300 MHz (1 m) to 10 GHz (3 cm) in air where availability of microwave sources coherent on short time scales (i.e., 50 μs) exist. The permittivity and conductivity of white and gray brain matter are shown in Figure 1 (20). Figure 2 shows the depth into brain tissue where the microwave energy is ~1/2.7 of incident energy. Note that microwave wavelengths in air and brain tissue are functions of microwave frequency. The microwave wavelengths in brain tissue range from 0.5 to 18 cm with 1/2.7 attenuation depths of 0.2–4 cm.**
+
+Figure shows that 0.3–10 GHz microwave radiation penetrates a few cm to a few mm into brain tissue:
+
+.. image:: images/2022-12-26_23-25.png
+           :align: left
+
+
 .. _RCE-20_Health_Effects_RF_Electromagnetic_fields: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/333080/RCE-20_Health_Effects_RF_Electromagnetic_fields.pdf
 
 .. _neurodegeneration: https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/1750-1326-4-20
