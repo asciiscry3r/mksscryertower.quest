@@ -10,5 +10,11 @@ Routers Configuration
 
 #####################
 
+.. image:: images/2022-12-26_22-58.png
+           :align: left
 
-#@#
+.. image:: images/2022-12-26_23-04.png
+           :align: left
+
+.. image:: images/2022-12-26_22-59.png
+           :align: left

@@ -65,7 +65,9 @@ pacman -Syyu
 &lt;/div&gt;
 </content><category term="misc"></category></entry><entry><title>Routers Configuration</title><link href="https://mksscryertower.quest/Routers%20Configuration.html" rel="alternate"></link><published>2022-12-26T19:50:00+02:00</published><updated>2022-12-26T19:50:00+02:00</updated><author><name>Klimenko/Tsikunkov Maxim Sergievich</name></author><id>tag:mksscryertower.quest,2022-12-26:/Routers Configuration.html</id><summary type="html">&lt;p class="first last"&gt;Routers Configuration&lt;/p&gt;
 </summary><content type="html">&lt;hr class="docutils" /&gt;
-&lt;p&gt;#&amp;#64;#&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/2022-12-26_22-58.png" /&gt;
+&lt;img alt="" class="align-left" src="images/2022-12-26_23-04.png" /&gt;
+&lt;img alt="" class="align-left" src="images/2022-12-26_22-59.png" /&gt;
 </content><category term="cybersecurity, diy, it, hacking"></category><category term="cybersecurity"></category><category term="diy"></category><category term="it"></category><category term="hacking"></category></entry><entry><title>Workstation Configuration</title><link href="https://mksscryertower.quest/Workstation%20Configuration.html" rel="alternate"></link><published>2022-12-26T19:50:00+02:00</published><updated>2022-12-26T19:50:00+02:00</updated><author><name>Klimenko/Tsikunkov Maxim Sergievich</name></author><id>tag:mksscryertower.quest,2022-12-26:/Workstation Configuration.html</id><summary type="html">&lt;p class="first last"&gt;Workstation Configuration&lt;/p&gt;
 </summary><content type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="" class="align-left" src="images/workstation.png" /&gt;
@@ -134,7 +136,7 @@ kernel.nmi_watchdog &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="m"&gt;1
 kernel.kexec_load_disabled &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="m"&gt;1&lt;/span&gt;
 
 &lt;span class="c1"&gt;# User namespaces&lt;/span&gt;
-user.max_user_namespaces &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="m"&gt;0&lt;/span&gt;
+&lt;span class="c1"&gt;# user.max_user_namespaces = 0&lt;/span&gt;
 
 &lt;span class="c1"&gt;# Unprivileged user namespaces&lt;/span&gt;
 kernel.unprivileged_userns_clone &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="m"&gt;0&lt;/span&gt;
