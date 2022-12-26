@@ -5,9 +5,9 @@ Artificial human life is existence
 :modified: 2022-11-09 18:40
 :tags: knowlege, science
 :category: knowlege, science
-:slug: Brainwave entertainment
+:slug: Artificial human life is existence
 :authors: Klimenko/Tsikunkov Maxim Sergievich
-:summary: Brainwave entertaiment
+:summary: Artificial human life is existence
 
 ##################################
 

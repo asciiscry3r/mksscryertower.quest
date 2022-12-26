@@ -1,4 +1,3 @@
-
 #!/usr/bin/env bash
 
 sudo mkdir -p /var/www/repo.mksscryertower.quest/repoupdate

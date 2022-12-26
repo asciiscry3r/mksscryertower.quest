@@ -27,7 +27,6 @@ Types Of Brainwave Entertainment:
 *    EEG Active
 *    Electromagnetic (EM)
 
-
 Brainwave entertainment in mafia/cults or in inhuman countries ( MkUltra / Scientology / Ukraine people( they call self a hackers ) brainwashed by OSA/Guardians ) - IMHO JFF
 
 Plan
@@ -72,6 +71,7 @@ phone magnetometer can`t record brain waves - he need ability to measure super l
 
 .. image:: images/achh.jpg
            :align: left
+
 
 
 And today I find same class of device on market, hope it is only fake for money...
