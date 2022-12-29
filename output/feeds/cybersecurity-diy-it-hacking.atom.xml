@@ -31,7 +31,7 @@ kernel.random.poolsize&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;
 kernel.randomize_va_space &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="m"&gt;2&lt;/span&gt;
 
 &lt;span class="c1"&gt;# Restrict core dumps&lt;/span&gt;
-&lt;span class="c1"&gt;# fs.suid_dumpable = 0&lt;/span&gt;
+fs.suid_dumpable &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="m"&gt;0&lt;/span&gt;
 
 &lt;span class="c1"&gt;# Hide kernel pointers&lt;/span&gt;
 kernel.kptr_restrict &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="m"&gt;2&lt;/span&gt;
@@ -66,7 +66,7 @@ fs.protected_regular&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;2&
 kernel.sysrq &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="m"&gt;0&lt;/span&gt;
 
 &lt;span class="c1"&gt;# Non-Maskable Interrupt(NMI)&lt;/span&gt;
-kernel.nmi_watchdog &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="m"&gt;1&lt;/span&gt;
+kernel.nmi_watchdog &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="m"&gt;0&lt;/span&gt;
 
 &lt;span class="c1"&gt;# Kexec allows replacing the current running kernel&lt;/span&gt;
 kernel.kexec_load_disabled &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="m"&gt;1&lt;/span&gt;

@@ -50,7 +50,7 @@ kernel.random.poolsize<span class="o">=</span><span class="m">8192</span>
 kernel.randomize_va_space <span class="o">=</span> <span class="m">2</span>
 
 <span class="c1"># Restrict core dumps</span>
-<span class="c1"># fs.suid_dumpable = 0</span>
+fs.suid_dumpable <span class="o">=</span> <span class="m">0</span>
 
 <span class="c1"># Hide kernel pointers</span>
 kernel.kptr_restrict <span class="o">=</span> <span class="m">2</span>
@@ -85,7 +85,7 @@ fs.protected_regular<span class="o">=</span><span class="m">2</span>
 kernel.sysrq <span class="o">=</span> <span class="m">0</span>
 
 <span class="c1"># Non-Maskable Interrupt(NMI)</span>
-kernel.nmi_watchdog <span class="o">=</span> <span class="m">1</span>
+kernel.nmi_watchdog <span class="o">=</span> <span class="m">0</span>
 
 <span class="c1"># Kexec allows replacing the current running kernel</span>
 kernel.kexec_load_disabled <span class="o">=</span> <span class="m">1</span>

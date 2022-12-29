@@ -43,7 +43,7 @@ Workstation Configuration
     kernel.randomize_va_space = 2
 
     # Restrict core dumps
-    # fs.suid_dumpable = 0
+    fs.suid_dumpable = 0
 
     # Hide kernel pointers
     kernel.kptr_restrict = 2
@@ -78,7 +78,7 @@ Workstation Configuration
     kernel.sysrq = 0
 
     # Non-Maskable Interrupt(NMI) 
-    kernel.nmi_watchdog = 1
+    kernel.nmi_watchdog = 0
 
     # Kexec allows replacing the current running kernel
     kernel.kexec_load_disabled = 1
