@@ -18,7 +18,9 @@ Commands to persistent agent might be transmitted through `SS7`_ network, imho.
 
 .. _SS7: https://resources.infosecinstitute.com/topic/ss7-protocol-how-hackers-might-find-you/
 
-Scientology in Ukraine very "love" you, after getting access to police/army ability communicate with embeded agent, they rewrite some parts of firmware in memory or in PCI devices and create persistent screensharing for all local part of cult. I think is radio serial console to Management Engine ( in life i see and use at work only web panel from AMT ), access methods described in this `patent`_. The list of Intel security technologies ( I find this info on web resources about firmware security ):
+Scientology in Ukraine very "love" you, after getting access to police/army ability communicate with embeded agent, they rewrite some parts of firmware in memory or in PCI devices and create persistent screensharing for all local part of cult. I think is radio serial console to Management Engine ( in life i see and use at work only web panel from `AMT`_ ), access methods described in this `patent`_. The list of Intel security technologies ( I find this info on web resources about firmware security ):
+
+.. _AMT: https://software.intel.com/sites/manageability/AMT_Implementation_and_Reference_Guide/default.htm?turl=WordDocuments%2Fkvmandintelamt.htm
 
 * Intel Security Security Engine, aka Management Engine (ME)
 * Intel Boot Guard

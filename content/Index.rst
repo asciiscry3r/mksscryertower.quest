@@ -21,8 +21,8 @@ In **/etc/pacman.conf** ::
 
 Then run, from root ::
 
-  pacman-key --recv-keys 0020B2CADB1E24C1E7CE4325E4D76838611CF2ED
-  pacman-key --lsign-key 0020B2CADB1E24C1E7CE4325E4D76838611CF2ED
+  pacman-key --recv-keys 8A36037D80912162
+  pacman-key --lsign-key 8A36037D80912162
   pacman -Syyu
 
 =====

@@ -248,13 +248,12 @@ Workstation Configuration
     blacklist kvm_amd
     blacklist kvm_intel
 
-    # options snd_hda_intel power_save=1
+    options snd_hda_intel power_save=1
     options cfg80211 cfg80211_disable_40mhz_24ghz=1
     options mac80211 minstrel_vht_only=1 ieee80211_default_rc_algo=minstrel_ht
 
-    options iwlwifi disable_11ax=1 disable_11ac=0 uapsd_disable=2 
+    options iwlwifi disable_11ax=1 disable_11ac=0 uapsd_disable=2 power_save=1
     # enable_ini=0
-    # power_save=1
 
     install dccp /bin/false
     install sctp /bin/false

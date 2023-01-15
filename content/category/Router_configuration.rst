@@ -18,3 +18,25 @@ Routers Configuration
 
 .. image:: images/2022-12-26_22-59.png
            :align: left
+
+.. image:: images/2023-01-04_19-42.png
+           :align: left
+
+.. image:: images/2023-01-04_21-24.png
+           :align: left
+
+.. image:: images/2023-01-04_21-24.png
+	   :align: left
+
+Drop Intel `AMT`_ comm
+
+.. image:: images/2023-01-04_21-56.png
+	   :align: left
+
+IMHO
+
+.. image:: images/2023-01-04_21-38.png
+	   :align: left
+
+
+.. _AMT: https://software.intel.com/sites/manageability/AMT_Implementation_and_Reference_Guide/default.htm?turl=WordDocuments%2Fkvmandintelamt.htm

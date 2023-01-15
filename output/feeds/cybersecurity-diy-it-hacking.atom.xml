@@ -4,6 +4,13 @@
 &lt;img alt="" class="align-left" src="images/2022-12-26_22-58.png" /&gt;
 &lt;img alt="" class="align-left" src="images/2022-12-26_23-04.png" /&gt;
 &lt;img alt="" class="align-left" src="images/2022-12-26_22-59.png" /&gt;
+&lt;img alt="" class="align-left" src="images/2023-01-04_19-42.png" /&gt;
+&lt;img alt="" class="align-left" src="images/2023-01-04_21-24.png" /&gt;
+&lt;img alt="" class="align-left" src="images/2023-01-04_21-24.png" /&gt;
+&lt;p&gt;Drop Intel &lt;a class="reference external" href="https://software.intel.com/sites/manageability/AMT_Implementation_and_Reference_Guide/default.htm?turl=WordDocuments%2Fkvmandintelamt.htm"&gt;AMT&lt;/a&gt; comm&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/2023-01-04_21-56.png" /&gt;
+&lt;p&gt;IMHO&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/2023-01-04_21-38.png" /&gt;
 </content><category term="cybersecurity, diy, it, hacking"></category><category term="cybersecurity"></category><category term="diy"></category><category term="it"></category><category term="hacking"></category></entry><entry><title>Workstation Configuration</title><link href="https://mksscryertower.quest/Workstation%20Configuration.html" rel="alternate"></link><published>2022-12-26T19:50:00+02:00</published><updated>2022-12-26T19:50:00+02:00</updated><author><name>Klimenko/Tsikunkov Maxim Sergievich</name></author><id>tag:mksscryertower.quest,2022-12-26:/Workstation Configuration.html</id><summary type="html">&lt;p class="first last"&gt;Workstation Configuration&lt;/p&gt;
 </summary><content type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="" class="align-left" src="images/workstation.png" /&gt;
@@ -15,7 +22,7 @@
 &lt;span class="c1"&gt;###&lt;/span&gt;
 
 &lt;span class="c1"&gt;# Recommended value to improve performance when sufficient memory exists in a system&lt;/span&gt;
-vm.swappiness &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="m"&gt;10&lt;/span&gt;
+vm.swappiness&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;10&lt;/span&gt;
 
 &lt;span class="c1"&gt;# Laptop mode&lt;/span&gt;
 &lt;span class="c1"&gt;# vm.laptop_mode = 5&lt;/span&gt;
@@ -28,54 +35,54 @@ vm.swappiness &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="m"&gt;10&lt;/
 kernel.random.poolsize&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;8192&lt;/span&gt;
 
 &lt;span class="c1"&gt;# Enable address Space Randomization&lt;/span&gt;
-kernel.randomize_va_space &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="m"&gt;2&lt;/span&gt;
+kernel.randomize_va_space&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;
 
 &lt;span class="c1"&gt;# Restrict core dumps&lt;/span&gt;
-fs.suid_dumpable &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="m"&gt;0&lt;/span&gt;
+fs.suid_dumpable&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
 
 &lt;span class="c1"&gt;# Hide kernel pointers&lt;/span&gt;
-kernel.kptr_restrict &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="m"&gt;2&lt;/span&gt;
+kernel.kptr_restrict&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;
 
 &lt;span class="c1"&gt;# Restrict access to kernel logs&lt;/span&gt;
-kernel.dmesg_restrict &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="m"&gt;1&lt;/span&gt;
+kernel.dmesg_restrict&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
 
 &lt;span class="c1"&gt;# Restrict ptrace scope&lt;/span&gt;
-kernel.yama.ptrace_scope &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="m"&gt;1&lt;/span&gt;
+kernel.yama.ptrace_scope&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
 
 &lt;span class="c1"&gt;# Protect links on the filesystem&lt;/span&gt;
-fs.protected_hardlinks &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="m"&gt;1&lt;/span&gt;
-fs.protected_symlinks &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="m"&gt;1&lt;/span&gt;
+fs.protected_hardlinks&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
+fs.protected_symlinks&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
 
 &lt;span class="c1"&gt;# By setting core_uses_pid to 1, the coredump filename becomes core.PID&lt;/span&gt;
 &lt;span class="c1"&gt;# kernel.core_uses_pidi = 1&lt;/span&gt;
 
 &lt;span class="c1"&gt;# tty: ldisc: set 0 to prevent autoloading of ldiscs&lt;/span&gt;
-dev.tty.ldisc_autoload &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="m"&gt;0&lt;/span&gt;
+dev.tty.ldisc_autoload&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
 
 &lt;span class="c1"&gt;# dmesg is the kernel log. It exposes a large amount of useful kernel debugging information, but this can often leak sensitive information, such as kernel pointers. Changing the above sysctl restricts the kernel log to the CAP_SYSLOG capability.&lt;/span&gt;
-kernel.printk&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;3&lt;/span&gt; &lt;span class="m"&gt;3&lt;/span&gt; &lt;span class="m"&gt;3&lt;/span&gt; &lt;span class="m"&gt;3&lt;/span&gt;
+kernel.printk&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;3&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;3&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;3&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;3&lt;/span&gt;
 
 &lt;span class="c1"&gt;# This restricts loading TTY line disciplines to the CAP_SYS_MODULE capability to prevent unprivileged attackers from loading vulnerable line disciplines with the TIOCSETD ioctl, which has been abused in a number of exploits before.&lt;/span&gt;
 vm.unprivileged_userfaultfd&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
 
 &lt;span class="c1"&gt;# Disallows open of FIFOs or regular files not owned by the user in world&lt;/span&gt;
-fs.protected_fifos &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="m"&gt;2&lt;/span&gt;
+fs.protected_fifos&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;
 fs.protected_regular&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;
 
 &lt;span class="c1"&gt;# Magic SysRq key&lt;/span&gt;
-kernel.sysrq &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="m"&gt;0&lt;/span&gt;
+kernel.sysrq&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
 
 &lt;span class="c1"&gt;# Non-Maskable Interrupt(NMI)&lt;/span&gt;
-kernel.nmi_watchdog &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="m"&gt;0&lt;/span&gt;
+kernel.nmi_watchdog&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
 
 &lt;span class="c1"&gt;# Kexec allows replacing the current running kernel&lt;/span&gt;
-kernel.kexec_load_disabled &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="m"&gt;1&lt;/span&gt;
+kernel.kexec_load_disabled&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
 
 &lt;span class="c1"&gt;# User namespaces&lt;/span&gt;
 &lt;span class="c1"&gt;# user.max_user_namespaces = 0&lt;/span&gt;
 
 &lt;span class="c1"&gt;# Unprivileged user namespaces&lt;/span&gt;
-kernel.unprivileged_userns_clone &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="m"&gt;0&lt;/span&gt;
+kernel.unprivileged_userns_clone&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
 
 &lt;span class="c1"&gt;# Performance events add considerable kernel attack surface and have caused abundant vulnerabilities. This sysctl restricts all usage of performance events to the CAP_PERFMON capability (CAP_SYS_ADMIN on kernel versions prior to 5.8).&lt;/span&gt;
 kernel.perf_event_paranoid&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;3&lt;/span&gt;
@@ -144,8 +151,8 @@ net.ipv4.tcp_rfc1337&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&
 
 &lt;span class="c1"&gt;# Enable logging martian packages&lt;/span&gt;
 &lt;span class="c1"&gt;# Otherwise it might cause DOS&lt;/span&gt;
-net.ipv4.conf.default.log_martians &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="m"&gt;1&lt;/span&gt;
-net.ipv4.conf.all.log_martians &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="m"&gt;1&lt;/span&gt;
+net.ipv4.conf.default.log_martians&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
+net.ipv4.conf.all.log_martians&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
 
 &lt;span class="c1"&gt;# Enable bad error message Protection&lt;/span&gt;
 net.ipv4.icmp_ignore_bogus_error_responses&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
@@ -169,30 +176,30 @@ net.ipv6.conf.default.use_tempaddr&lt;span class="o"&gt;=&lt;/span&gt;&lt;span c
 &lt;/div&gt;
 &lt;div class="section" id="etc-fstab"&gt;
 &lt;h2&gt;/etc/fstab&lt;/h2&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;File start
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;File&lt;span class="w"&gt; &lt;/span&gt;start
 ...
 &lt;span class="nv"&gt;UUID&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;....
 ...
 
-tmpfs /dev/shm tmpfs defaults,noatime,nodev,nosuid,mode&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1777&lt;/span&gt; &lt;span class="m"&gt;0&lt;/span&gt; &lt;span class="m"&gt;0&lt;/span&gt;
-tmpfs /tmp tmpfs defaults,noatime,nodev,nosuid,mode&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1777&lt;/span&gt; &lt;span class="m"&gt;0&lt;/span&gt; &lt;span class="m"&gt;0&lt;/span&gt;
-tmpfs /var/tmp tmpfs defaults,noatime,nodev,nosuid,mode&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1777&lt;/span&gt; &lt;span class="m"&gt;0&lt;/span&gt; &lt;span class="m"&gt;0&lt;/span&gt;
+tmpfs&lt;span class="w"&gt; &lt;/span&gt;/dev/shm&lt;span class="w"&gt; &lt;/span&gt;tmpfs&lt;span class="w"&gt; &lt;/span&gt;defaults,noatime,nodev,nosuid,mode&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1777&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
+tmpfs&lt;span class="w"&gt; &lt;/span&gt;/tmp&lt;span class="w"&gt; &lt;/span&gt;tmpfs&lt;span class="w"&gt; &lt;/span&gt;defaults,noatime,nodev,nosuid,mode&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1777&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
+tmpfs&lt;span class="w"&gt; &lt;/span&gt;/var/tmp&lt;span class="w"&gt; &lt;/span&gt;tmpfs&lt;span class="w"&gt; &lt;/span&gt;defaults,noatime,nodev,nosuid,mode&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1777&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="etc-csh-cshrc-etc-bash-bashrc-etc-profile"&gt;
 &lt;h2&gt;/etc/csh.cshrc /etc/bash.bashrc /etc/profile&lt;/h2&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;file start
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;file&lt;span class="w"&gt; &lt;/span&gt;start
 ...
-&lt;span class="nb"&gt;umask&lt;/span&gt; &lt;span class="m"&gt;27&lt;/span&gt;
-xhost -
-mesg n
+&lt;span class="nb"&gt;umask&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;27&lt;/span&gt;
+xhost&lt;span class="w"&gt; &lt;/span&gt;-
+mesg&lt;span class="w"&gt; &lt;/span&gt;n
 ...
 &lt;/pre&gt;&lt;/div&gt;
 &lt;img alt="" class="align-left" src="images/emacssddm.png" /&gt;
 &lt;/div&gt;
 &lt;div class="section" id="etc-sddm-conf-d-default-conf"&gt;
 &lt;h2&gt;/etc/sddm.conf.d/default.conf&lt;/h2&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;file start
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;file&lt;span class="w"&gt; &lt;/span&gt;start
 ...
 &lt;span class="o"&gt;[&lt;/span&gt;X11&lt;span class="o"&gt;]&lt;/span&gt;
 &lt;span class="c1"&gt;# Path to a script to execute when starting the display server&lt;/span&gt;
@@ -208,70 +215,69 @@ mesg n
 &lt;span class="nv"&gt;MinimumVT&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
 
 &lt;span class="c1"&gt;# Arguments passed to the X server invocation&lt;/span&gt;
-&lt;span class="nv"&gt;ServerArguments&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;-nolisten tcp -nolisten &lt;span class="nb"&gt;local&lt;/span&gt; -nolisten abstract -keeptty -noreset
+&lt;span class="nv"&gt;ServerArguments&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;-nolisten&lt;span class="w"&gt; &lt;/span&gt;tcp&lt;span class="w"&gt; &lt;/span&gt;-nolisten&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nb"&gt;local&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;-nolisten&lt;span class="w"&gt; &lt;/span&gt;abstract&lt;span class="w"&gt; &lt;/span&gt;-keeptty&lt;span class="w"&gt; &lt;/span&gt;-noreset
 ...
 ...
 &lt;/pre&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="etc-modprobe-d-modulessettings-conf"&gt;
 &lt;h2&gt;/etc/modprobe.d/modulessettings.conf&lt;/h2&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;blacklist nouveau
-blacklist pcspkr
-blacklist kvm
-blacklist kvm_amd
-blacklist kvm_intel
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;blacklist&lt;span class="w"&gt; &lt;/span&gt;nouveau
+blacklist&lt;span class="w"&gt; &lt;/span&gt;pcspkr
+blacklist&lt;span class="w"&gt; &lt;/span&gt;kvm
+blacklist&lt;span class="w"&gt; &lt;/span&gt;kvm_amd
+blacklist&lt;span class="w"&gt; &lt;/span&gt;kvm_intel
 
-&lt;span class="c1"&gt;# options snd_hda_intel power_save=1&lt;/span&gt;
-options cfg80211 &lt;span class="nv"&gt;cfg80211_disable_40mhz_24ghz&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
-options mac80211 &lt;span class="nv"&gt;minstrel_vht_only&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt; &lt;span class="nv"&gt;ieee80211_default_rc_algo&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;minstrel_ht
+options&lt;span class="w"&gt; &lt;/span&gt;snd_hda_intel&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;power_save&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
+options&lt;span class="w"&gt; &lt;/span&gt;cfg80211&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;cfg80211_disable_40mhz_24ghz&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
+options&lt;span class="w"&gt; &lt;/span&gt;mac80211&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;minstrel_vht_only&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;ieee80211_default_rc_algo&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;minstrel_ht
 
-options iwlwifi &lt;span class="nv"&gt;disable_11ax&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt; &lt;span class="nv"&gt;disable_11ac&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt; &lt;span class="nv"&gt;uapsd_disable&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;
+options&lt;span class="w"&gt; &lt;/span&gt;iwlwifi&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;disable_11ax&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;disable_11ac&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;uapsd_disable&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;power_save&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
 &lt;span class="c1"&gt;# enable_ini=0&lt;/span&gt;
-&lt;span class="c1"&gt;# power_save=1&lt;/span&gt;
 
-install dccp /bin/false
-install sctp /bin/false
-install rds /bin/false
-install tipc /bin/false
-install n-hdlc /bin/false
-install ax25 /bin/false
-install netrom /bin/false
-install x25 /bin/false
-install rose /bin/false
-install decnet /bin/false
-install econet /bin/false
-install af_802154 /bin/false
-install ipx /bin/false
-install appletalk /bin/false
-install psnap /bin/false
-install p8023 /bin/false
-install p8022 /bin/false
-install can /bin/false
-install atm /bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;dccp&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;sctp&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;rds&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;tipc&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;n-hdlc&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;ax25&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;netrom&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;x25&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;rose&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;decnet&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;econet&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;af_802154&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;ipx&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;appletalk&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;psnap&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;p8023&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;p8022&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;can&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;atm&lt;span class="w"&gt; &lt;/span&gt;/bin/false
 
-install cramfs /bin/false
-install freevxfs /bin/false
-install jffs2 /bin/false
-install hfs /bin/false
-install hfsplus /bin/false
-install squashfs /bin/false
-install udf /bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;cramfs&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;freevxfs&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;jffs2&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;hfs&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;hfsplus&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;squashfs&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;udf&lt;span class="w"&gt; &lt;/span&gt;/bin/false
 
-install cifs /bin/true
-install nfs /bin/true
-install nfsv3 /bin/true
-install nfsv4 /bin/true
-install ksmbd /bin/true
-install gfs2 /bin/true
+install&lt;span class="w"&gt; &lt;/span&gt;cifs&lt;span class="w"&gt; &lt;/span&gt;/bin/true
+install&lt;span class="w"&gt; &lt;/span&gt;nfs&lt;span class="w"&gt; &lt;/span&gt;/bin/true
+install&lt;span class="w"&gt; &lt;/span&gt;nfsv3&lt;span class="w"&gt; &lt;/span&gt;/bin/true
+install&lt;span class="w"&gt; &lt;/span&gt;nfsv4&lt;span class="w"&gt; &lt;/span&gt;/bin/true
+install&lt;span class="w"&gt; &lt;/span&gt;ksmbd&lt;span class="w"&gt; &lt;/span&gt;/bin/true
+install&lt;span class="w"&gt; &lt;/span&gt;gfs2&lt;span class="w"&gt; &lt;/span&gt;/bin/true
 
-install vivid /bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;vivid&lt;span class="w"&gt; &lt;/span&gt;/bin/false
 
 &lt;span class="c1"&gt;# install bluetooth /bin/false&lt;/span&gt;
 &lt;span class="c1"&gt;# install btusb /bin/false&lt;/span&gt;
 
 &lt;span class="c1"&gt;# install uvcvideo /bin/false&lt;/span&gt;
 
-install firewire-core /bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;firewire-core&lt;span class="w"&gt; &lt;/span&gt;/bin/false
 &lt;span class="c1"&gt;# install thunderbolt /bin/false&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 &lt;/div&gt;

@@ -34,7 +34,7 @@
 <span class="c1">###</span>
 
 <span class="c1"># Recommended value to improve performance when sufficient memory exists in a system</span>
-vm.swappiness <span class="o">=</span> <span class="m">10</span>
+vm.swappiness<span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">10</span>
 
 <span class="c1"># Laptop mode</span>
 <span class="c1"># vm.laptop_mode = 5</span>
@@ -47,54 +47,54 @@ vm.swappiness <span class="o">=</span> <span class="m">10</span>
 kernel.random.poolsize<span class="o">=</span><span class="m">8192</span>
 
 <span class="c1"># Enable address Space Randomization</span>
-kernel.randomize_va_space <span class="o">=</span> <span class="m">2</span>
+kernel.randomize_va_space<span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">2</span>
 
 <span class="c1"># Restrict core dumps</span>
-fs.suid_dumpable <span class="o">=</span> <span class="m">0</span>
+fs.suid_dumpable<span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0</span>
 
 <span class="c1"># Hide kernel pointers</span>
-kernel.kptr_restrict <span class="o">=</span> <span class="m">2</span>
+kernel.kptr_restrict<span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">2</span>
 
 <span class="c1"># Restrict access to kernel logs</span>
-kernel.dmesg_restrict <span class="o">=</span> <span class="m">1</span>
+kernel.dmesg_restrict<span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span>
 
 <span class="c1"># Restrict ptrace scope</span>
-kernel.yama.ptrace_scope <span class="o">=</span> <span class="m">1</span>
+kernel.yama.ptrace_scope<span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span>
 
 <span class="c1"># Protect links on the filesystem</span>
-fs.protected_hardlinks <span class="o">=</span> <span class="m">1</span>
-fs.protected_symlinks <span class="o">=</span> <span class="m">1</span>
+fs.protected_hardlinks<span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span>
+fs.protected_symlinks<span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span>
 
 <span class="c1"># By setting core_uses_pid to 1, the coredump filename becomes core.PID</span>
 <span class="c1"># kernel.core_uses_pidi = 1</span>
 
 <span class="c1"># tty: ldisc: set 0 to prevent autoloading of ldiscs</span>
-dev.tty.ldisc_autoload <span class="o">=</span> <span class="m">0</span>
+dev.tty.ldisc_autoload<span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0</span>
 
 <span class="c1"># dmesg is the kernel log. It exposes a large amount of useful kernel debugging information, but this can often leak sensitive information, such as kernel pointers. Changing the above sysctl restricts the kernel log to the CAP_SYSLOG capability.</span>
-kernel.printk<span class="o">=</span><span class="m">3</span> <span class="m">3</span> <span class="m">3</span> <span class="m">3</span>
+kernel.printk<span class="o">=</span><span class="m">3</span><span class="w"> </span><span class="m">3</span><span class="w"> </span><span class="m">3</span><span class="w"> </span><span class="m">3</span>
 
 <span class="c1"># This restricts loading TTY line disciplines to the CAP_SYS_MODULE capability to prevent unprivileged attackers from loading vulnerable line disciplines with the TIOCSETD ioctl, which has been abused in a number of exploits before.</span>
 vm.unprivileged_userfaultfd<span class="o">=</span><span class="m">0</span>
 
 <span class="c1"># Disallows open of FIFOs or regular files not owned by the user in world</span>
-fs.protected_fifos <span class="o">=</span> <span class="m">2</span>
+fs.protected_fifos<span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">2</span>
 fs.protected_regular<span class="o">=</span><span class="m">2</span>
 
 <span class="c1"># Magic SysRq key</span>
-kernel.sysrq <span class="o">=</span> <span class="m">0</span>
+kernel.sysrq<span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0</span>
 
 <span class="c1"># Non-Maskable Interrupt(NMI)</span>
-kernel.nmi_watchdog <span class="o">=</span> <span class="m">0</span>
+kernel.nmi_watchdog<span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0</span>
 
 <span class="c1"># Kexec allows replacing the current running kernel</span>
-kernel.kexec_load_disabled <span class="o">=</span> <span class="m">1</span>
+kernel.kexec_load_disabled<span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span>
 
 <span class="c1"># User namespaces</span>
 <span class="c1"># user.max_user_namespaces = 0</span>
 
 <span class="c1"># Unprivileged user namespaces</span>
-kernel.unprivileged_userns_clone <span class="o">=</span> <span class="m">0</span>
+kernel.unprivileged_userns_clone<span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">0</span>
 
 <span class="c1"># Performance events add considerable kernel attack surface and have caused abundant vulnerabilities. This sysctl restricts all usage of performance events to the CAP_PERFMON capability (CAP_SYS_ADMIN on kernel versions prior to 5.8).</span>
 kernel.perf_event_paranoid<span class="o">=</span><span class="m">3</span>
@@ -163,8 +163,8 @@ net.ipv4.tcp_rfc1337<span class="o">=</span><span class="m">1</span>
 
 <span class="c1"># Enable logging martian packages</span>
 <span class="c1"># Otherwise it might cause DOS</span>
-net.ipv4.conf.default.log_martians <span class="o">=</span> <span class="m">1</span>
-net.ipv4.conf.all.log_martians <span class="o">=</span> <span class="m">1</span>
+net.ipv4.conf.default.log_martians<span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span>
+net.ipv4.conf.all.log_martians<span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="m">1</span>
 
 <span class="c1"># Enable bad error message Protection</span>
 net.ipv4.icmp_ignore_bogus_error_responses<span class="o">=</span><span class="m">1</span>
@@ -188,30 +188,30 @@ net.ipv6.conf.default.use_tempaddr<span class="o">=</span><span class="m">2</spa
 </div>
 <div class="section" id="etc-fstab">
 <h2>/etc/fstab</h2>
-<div class="highlight"><pre><span></span>File start
+<div class="highlight"><pre><span></span>File<span class="w"> </span>start
 ...
 <span class="nv">UUID</span><span class="o">=</span>....
 ...
 
-tmpfs /dev/shm tmpfs defaults,noatime,nodev,nosuid,mode<span class="o">=</span><span class="m">1777</span> <span class="m">0</span> <span class="m">0</span>
-tmpfs /tmp tmpfs defaults,noatime,nodev,nosuid,mode<span class="o">=</span><span class="m">1777</span> <span class="m">0</span> <span class="m">0</span>
-tmpfs /var/tmp tmpfs defaults,noatime,nodev,nosuid,mode<span class="o">=</span><span class="m">1777</span> <span class="m">0</span> <span class="m">0</span>
+tmpfs<span class="w"> </span>/dev/shm<span class="w"> </span>tmpfs<span class="w"> </span>defaults,noatime,nodev,nosuid,mode<span class="o">=</span><span class="m">1777</span><span class="w"> </span><span class="m">0</span><span class="w"> </span><span class="m">0</span>
+tmpfs<span class="w"> </span>/tmp<span class="w"> </span>tmpfs<span class="w"> </span>defaults,noatime,nodev,nosuid,mode<span class="o">=</span><span class="m">1777</span><span class="w"> </span><span class="m">0</span><span class="w"> </span><span class="m">0</span>
+tmpfs<span class="w"> </span>/var/tmp<span class="w"> </span>tmpfs<span class="w"> </span>defaults,noatime,nodev,nosuid,mode<span class="o">=</span><span class="m">1777</span><span class="w"> </span><span class="m">0</span><span class="w"> </span><span class="m">0</span>
 </pre></div>
 </div>
 <div class="section" id="etc-csh-cshrc-etc-bash-bashrc-etc-profile">
 <h2>/etc/csh.cshrc /etc/bash.bashrc /etc/profile</h2>
-<div class="highlight"><pre><span></span>file start
+<div class="highlight"><pre><span></span>file<span class="w"> </span>start
 ...
-<span class="nb">umask</span> <span class="m">27</span>
-xhost -
-mesg n
+<span class="nb">umask</span><span class="w"> </span><span class="m">27</span>
+xhost<span class="w"> </span>-
+mesg<span class="w"> </span>n
 ...
 </pre></div>
 <img alt="" class="align-left" src="images/emacssddm.png" />
 </div>
 <div class="section" id="etc-sddm-conf-d-default-conf">
 <h2>/etc/sddm.conf.d/default.conf</h2>
-<div class="highlight"><pre><span></span>file start
+<div class="highlight"><pre><span></span>file<span class="w"> </span>start
 ...
 <span class="o">[</span>X11<span class="o">]</span>
 <span class="c1"># Path to a script to execute when starting the display server</span>
@@ -227,70 +227,69 @@ mesg n
 <span class="nv">MinimumVT</span><span class="o">=</span><span class="m">1</span>
 
 <span class="c1"># Arguments passed to the X server invocation</span>
-<span class="nv">ServerArguments</span><span class="o">=</span>-nolisten tcp -nolisten <span class="nb">local</span> -nolisten abstract -keeptty -noreset
+<span class="nv">ServerArguments</span><span class="o">=</span>-nolisten<span class="w"> </span>tcp<span class="w"> </span>-nolisten<span class="w"> </span><span class="nb">local</span><span class="w"> </span>-nolisten<span class="w"> </span>abstract<span class="w"> </span>-keeptty<span class="w"> </span>-noreset
 ...
 ...
 </pre></div>
 </div>
 <div class="section" id="etc-modprobe-d-modulessettings-conf">
 <h2>/etc/modprobe.d/modulessettings.conf</h2>
-<div class="highlight"><pre><span></span>blacklist nouveau
-blacklist pcspkr
-blacklist kvm
-blacklist kvm_amd
-blacklist kvm_intel
+<div class="highlight"><pre><span></span>blacklist<span class="w"> </span>nouveau
+blacklist<span class="w"> </span>pcspkr
+blacklist<span class="w"> </span>kvm
+blacklist<span class="w"> </span>kvm_amd
+blacklist<span class="w"> </span>kvm_intel
 
-<span class="c1"># options snd_hda_intel power_save=1</span>
-options cfg80211 <span class="nv">cfg80211_disable_40mhz_24ghz</span><span class="o">=</span><span class="m">1</span>
-options mac80211 <span class="nv">minstrel_vht_only</span><span class="o">=</span><span class="m">1</span> <span class="nv">ieee80211_default_rc_algo</span><span class="o">=</span>minstrel_ht
+options<span class="w"> </span>snd_hda_intel<span class="w"> </span><span class="nv">power_save</span><span class="o">=</span><span class="m">1</span>
+options<span class="w"> </span>cfg80211<span class="w"> </span><span class="nv">cfg80211_disable_40mhz_24ghz</span><span class="o">=</span><span class="m">1</span>
+options<span class="w"> </span>mac80211<span class="w"> </span><span class="nv">minstrel_vht_only</span><span class="o">=</span><span class="m">1</span><span class="w"> </span><span class="nv">ieee80211_default_rc_algo</span><span class="o">=</span>minstrel_ht
 
-options iwlwifi <span class="nv">disable_11ax</span><span class="o">=</span><span class="m">1</span> <span class="nv">disable_11ac</span><span class="o">=</span><span class="m">0</span> <span class="nv">uapsd_disable</span><span class="o">=</span><span class="m">2</span>
+options<span class="w"> </span>iwlwifi<span class="w"> </span><span class="nv">disable_11ax</span><span class="o">=</span><span class="m">1</span><span class="w"> </span><span class="nv">disable_11ac</span><span class="o">=</span><span class="m">0</span><span class="w"> </span><span class="nv">uapsd_disable</span><span class="o">=</span><span class="m">2</span><span class="w"> </span><span class="nv">power_save</span><span class="o">=</span><span class="m">1</span>
 <span class="c1"># enable_ini=0</span>
-<span class="c1"># power_save=1</span>
 
-install dccp /bin/false
-install sctp /bin/false
-install rds /bin/false
-install tipc /bin/false
-install n-hdlc /bin/false
-install ax25 /bin/false
-install netrom /bin/false
-install x25 /bin/false
-install rose /bin/false
-install decnet /bin/false
-install econet /bin/false
-install af_802154 /bin/false
-install ipx /bin/false
-install appletalk /bin/false
-install psnap /bin/false
-install p8023 /bin/false
-install p8022 /bin/false
-install can /bin/false
-install atm /bin/false
+install<span class="w"> </span>dccp<span class="w"> </span>/bin/false
+install<span class="w"> </span>sctp<span class="w"> </span>/bin/false
+install<span class="w"> </span>rds<span class="w"> </span>/bin/false
+install<span class="w"> </span>tipc<span class="w"> </span>/bin/false
+install<span class="w"> </span>n-hdlc<span class="w"> </span>/bin/false
+install<span class="w"> </span>ax25<span class="w"> </span>/bin/false
+install<span class="w"> </span>netrom<span class="w"> </span>/bin/false
+install<span class="w"> </span>x25<span class="w"> </span>/bin/false
+install<span class="w"> </span>rose<span class="w"> </span>/bin/false
+install<span class="w"> </span>decnet<span class="w"> </span>/bin/false
+install<span class="w"> </span>econet<span class="w"> </span>/bin/false
+install<span class="w"> </span>af_802154<span class="w"> </span>/bin/false
+install<span class="w"> </span>ipx<span class="w"> </span>/bin/false
+install<span class="w"> </span>appletalk<span class="w"> </span>/bin/false
+install<span class="w"> </span>psnap<span class="w"> </span>/bin/false
+install<span class="w"> </span>p8023<span class="w"> </span>/bin/false
+install<span class="w"> </span>p8022<span class="w"> </span>/bin/false
+install<span class="w"> </span>can<span class="w"> </span>/bin/false
+install<span class="w"> </span>atm<span class="w"> </span>/bin/false
 
-install cramfs /bin/false
-install freevxfs /bin/false
-install jffs2 /bin/false
-install hfs /bin/false
-install hfsplus /bin/false
-install squashfs /bin/false
-install udf /bin/false
+install<span class="w"> </span>cramfs<span class="w"> </span>/bin/false
+install<span class="w"> </span>freevxfs<span class="w"> </span>/bin/false
+install<span class="w"> </span>jffs2<span class="w"> </span>/bin/false
+install<span class="w"> </span>hfs<span class="w"> </span>/bin/false
+install<span class="w"> </span>hfsplus<span class="w"> </span>/bin/false
+install<span class="w"> </span>squashfs<span class="w"> </span>/bin/false
+install<span class="w"> </span>udf<span class="w"> </span>/bin/false
 
-install cifs /bin/true
-install nfs /bin/true
-install nfsv3 /bin/true
-install nfsv4 /bin/true
-install ksmbd /bin/true
-install gfs2 /bin/true
+install<span class="w"> </span>cifs<span class="w"> </span>/bin/true
+install<span class="w"> </span>nfs<span class="w"> </span>/bin/true
+install<span class="w"> </span>nfsv3<span class="w"> </span>/bin/true
+install<span class="w"> </span>nfsv4<span class="w"> </span>/bin/true
+install<span class="w"> </span>ksmbd<span class="w"> </span>/bin/true
+install<span class="w"> </span>gfs2<span class="w"> </span>/bin/true
 
-install vivid /bin/false
+install<span class="w"> </span>vivid<span class="w"> </span>/bin/false
 
 <span class="c1"># install bluetooth /bin/false</span>
 <span class="c1"># install btusb /bin/false</span>
 
 <span class="c1"># install uvcvideo /bin/false</span>
 
-install firewire-core /bin/false
+install<span class="w"> </span>firewire-core<span class="w"> </span>/bin/false
 <span class="c1"># install thunderbolt /bin/false</span>
 </pre></div>
 </div>
