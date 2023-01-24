@@ -29,8 +29,14 @@ Routers Configuration
 	   :align: left
 
 Drop Intel `AMT`_ comm
+Mikrotik
 
-.. image:: images/2023-01-04_21-56.png
+.. image:: images/2023-01-24_19-50-r.png
+	   :align: left
+
+OpenWrt
+
+.. image:: images/2023-01-24_19-48-r.png
 	   :align: left
 
 IMHO

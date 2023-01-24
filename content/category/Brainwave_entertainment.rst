@@ -50,6 +50,8 @@ Brainwave sync
 
 pattern of development
 
+memory
+
 https://www.ukessays.com/essays/psychology/nativist-and-neuroconstructivist-positions-of-brain-development.php
 
 https://en.wikipedia.org/wiki/Interactive_specialization

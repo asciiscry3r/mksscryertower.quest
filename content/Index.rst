@@ -35,6 +35,8 @@ Pages
 
 `Router configuration <{filename}/category/Router_configuration.rst>`_
 
+`Home power grid <{filename}/category/Homepowergrid.rst>`_
+
 `Crimes with brain scanners, human detectors, other devices and me <{filename}/category/Crimes_with_brain_scanners_human_detectors_other_devices_and_me.rst>`_
 
 `Computer trace system <{filename}/category/Computer_trace_system.rst>`_
