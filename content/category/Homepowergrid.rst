@@ -13,6 +13,8 @@ Home power grid
 .. image:: images/homepowergrid.png
            :align: left
 
+Without filters, like in scientology/hubbard city, they supposed to emmit waves?:
+
 .. image:: images/IMG_20220722_035610.jpg
            :align: left
 

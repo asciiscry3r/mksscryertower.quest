@@ -44,6 +44,7 @@ pacman -Syyu
 &lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Workstation Configuration.html"&gt;Workstation configuration&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Routers Configuration.html"&gt;Router configuration&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Home power grid.html"&gt;Home power grid&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Local DNS server on NanoPi Neo2.html"&gt;Home DNS server&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Crimes with brain scanners, human detectors, other devices and me.html"&gt;Crimes with brain scanners, human detectors, other devices and me&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Computer trace system.html"&gt;Computer trace system&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Internet as a phenomenon.html"&gt;Internet as a phenomenon&lt;/a&gt;&lt;/p&gt;
@@ -64,7 +65,140 @@ pacman -Syyu
 &lt;img alt="" class="align-left" src="images/animephosphen.png" /&gt;
 &lt;p&gt;from chaos;head&lt;/p&gt;
 &lt;/div&gt;
-</content><category term="misc"></category></entry><entry><title>Routers Configuration</title><link href="https://mksscryertower.quest/Routers%20Configuration.html" rel="alternate"></link><published>2022-12-26T19:50:00+02:00</published><updated>2022-12-26T19:50:00+02:00</updated><author><name>Klimenko/Tsikunkov Maxim Sergievich</name></author><id>tag:mksscryertower.quest,2022-12-26:/Routers Configuration.html</id><summary type="html">&lt;p class="first last"&gt;Routers Configuration&lt;/p&gt;
+</content><category term="misc"></category></entry><entry><title>Local DNS server on NanoPi Neo2</title><link href="https://mksscryertower.quest/Local%20DNS%20server%20on%20NanoPi%20Neo2.html" rel="alternate"></link><published>2023-01-25T05:30:00+02:00</published><updated>2023-01-25T05:30:00+02:00</updated><author><name>Klimenko/Tsikunkov Maxim Sergievich</name></author><id>tag:mksscryertower.quest,2023-01-25:/Local DNS server on NanoPi Neo2.html</id><summary type="html">&lt;p class="first last"&gt;Local DNS server on NanoPi Neo2&lt;/p&gt;
+</summary><content type="html">&lt;hr class="docutils" /&gt;
+&lt;img alt="" class="align-left" src="images/mksnanopineo.png" /&gt;
+&lt;p&gt;Start from Bind9 installation&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;sudo&lt;span class="w"&gt; &lt;/span&gt;apt-get&lt;span class="w"&gt; &lt;/span&gt;install&lt;span class="w"&gt; &lt;/span&gt;bind9&lt;span class="w"&gt; &lt;/span&gt;bind9utils&lt;span class="w"&gt; &lt;/span&gt;bind9-doc
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;File /etc/bind/named.conf.local&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;root@mksnanopineo2:~#&lt;span class="w"&gt; &lt;/span&gt;cat&lt;span class="w"&gt; &lt;/span&gt;/etc/bind/named.conf.local
+//
+//&lt;span class="w"&gt; &lt;/span&gt;Do&lt;span class="w"&gt; &lt;/span&gt;any&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nb"&gt;local&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;configuration&lt;span class="w"&gt; &lt;/span&gt;here
+//
+
+//&lt;span class="w"&gt; &lt;/span&gt;Consider&lt;span class="w"&gt; &lt;/span&gt;adding&lt;span class="w"&gt; &lt;/span&gt;the&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;1918&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;zones&lt;span class="w"&gt; &lt;/span&gt;here,&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="k"&gt;if&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;they&lt;span class="w"&gt; &lt;/span&gt;are&lt;span class="w"&gt; &lt;/span&gt;not&lt;span class="w"&gt; &lt;/span&gt;used&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="k"&gt;in&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;your
+//&lt;span class="w"&gt; &lt;/span&gt;organization
+//include&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;/etc/bind/zones.rfc1918&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+//&lt;span class="w"&gt; &lt;/span&gt;Forward-Lookup
+zone&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;berry.home&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;{&lt;/span&gt;
+&lt;span class="w"&gt;      &lt;/span&gt;&lt;span class="nb"&gt;type&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;master&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="w"&gt;      &lt;/span&gt;file&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;/etc/bind/zones/berry.home.zone&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="w"&gt;      &lt;/span&gt;allow-transfer&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;{&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;acl_trusted_transfer&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;}&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;    &lt;/span&gt;//see&lt;span class="w"&gt; &lt;/span&gt;named.conf.options&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="k"&gt;for&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;configuration
+&lt;span class="o"&gt;}&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+
+//&lt;span class="w"&gt; &lt;/span&gt;Reverse-Lookup
+zone&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;2.168.192.in-addr.arpa&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;{&lt;/span&gt;
+&lt;span class="w"&gt;      &lt;/span&gt;&lt;span class="nb"&gt;type&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;master&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="w"&gt;      &lt;/span&gt;file&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;/etc/bind/zones/db.2.168.192.inv&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="o"&gt;}&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+root@mksnanopineo2:~#
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;File /etc/bind/named.conf.local&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;root@mksnanopineo2:~#&lt;span class="w"&gt; &lt;/span&gt;cat&lt;span class="w"&gt; &lt;/span&gt;/etc/bind/named.conf.local
+//
+//&lt;span class="w"&gt; &lt;/span&gt;Do&lt;span class="w"&gt; &lt;/span&gt;any&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nb"&gt;local&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;configuration&lt;span class="w"&gt; &lt;/span&gt;here
+//
+
+//&lt;span class="w"&gt; &lt;/span&gt;Consider&lt;span class="w"&gt; &lt;/span&gt;adding&lt;span class="w"&gt; &lt;/span&gt;the&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;1918&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;zones&lt;span class="w"&gt; &lt;/span&gt;here,&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="k"&gt;if&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;they&lt;span class="w"&gt; &lt;/span&gt;are&lt;span class="w"&gt; &lt;/span&gt;not&lt;span class="w"&gt; &lt;/span&gt;used&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="k"&gt;in&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;your
+//&lt;span class="w"&gt; &lt;/span&gt;organization
+//include&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;/etc/bind/zones.rfc1918&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+//&lt;span class="w"&gt; &lt;/span&gt;Forward-Lookup
+zone&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;home.lan&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;{&lt;/span&gt;
+&lt;span class="w"&gt;      &lt;/span&gt;&lt;span class="nb"&gt;type&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;master&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="w"&gt;      &lt;/span&gt;file&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;/etc/bind/zones/db.home.lan.zone&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="w"&gt;      &lt;/span&gt;allow-transfer&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;{&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;acl_trusted_transfer&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;}&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;    &lt;/span&gt;//see&lt;span class="w"&gt; &lt;/span&gt;named.conf.options&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="k"&gt;for&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;configuration
+&lt;span class="o"&gt;}&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+
+//&lt;span class="w"&gt; &lt;/span&gt;Reverse-Lookup
+zone&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;168.192.in-addr.arpa&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;{&lt;/span&gt;
+&lt;span class="w"&gt;      &lt;/span&gt;&lt;span class="nb"&gt;type&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;master&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="w"&gt;      &lt;/span&gt;file&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;/etc/bind/zones/db.168.192.zone&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="o"&gt;}&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+root@mksnanopineo2:~#
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;File /etc/bind/named.conf.options&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;root@mksnanopineo2:~#&lt;span class="w"&gt; &lt;/span&gt;cat&lt;span class="w"&gt; &lt;/span&gt;/etc/bind/named.conf.options
+&lt;span class="w"&gt; &lt;/span&gt;acl&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;acl_trusted_transfer&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;{&lt;/span&gt;
+&lt;span class="w"&gt;      &lt;/span&gt;none&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;}&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+
+&lt;span class="w"&gt; &lt;/span&gt;acl&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;acl_trusted_clients&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;{&lt;/span&gt;
+&lt;span class="w"&gt;      &lt;/span&gt;&lt;span class="m"&gt;127&lt;/span&gt;.0.0.0/8&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;        &lt;/span&gt;//&lt;span class="w"&gt; &lt;/span&gt;localhost&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;RFC&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;3330&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;-&lt;span class="w"&gt; &lt;/span&gt;Loopback-Device&lt;span class="w"&gt; &lt;/span&gt;addresses&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="m"&gt;127&lt;/span&gt;.0.0.0&lt;span class="w"&gt; &lt;/span&gt;-&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;127&lt;/span&gt;.255.255.255
+&lt;span class="w"&gt;      &lt;/span&gt;&lt;span class="m"&gt;192&lt;/span&gt;.168.0.0/16&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;     &lt;/span&gt;//&lt;span class="w"&gt; &lt;/span&gt;Private&lt;span class="w"&gt; &lt;/span&gt;Network&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;RFC&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;1918&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;-&lt;span class="w"&gt; &lt;/span&gt;e.&lt;span class="w"&gt; &lt;/span&gt;e.&lt;span class="w"&gt; &lt;/span&gt;LAN&lt;span class="w"&gt;              &lt;/span&gt;&lt;span class="m"&gt;192&lt;/span&gt;.168.0.0&lt;span class="w"&gt; &lt;/span&gt;-&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;192&lt;/span&gt;.168.255.255
+&lt;span class="w"&gt;      &lt;/span&gt;//10.0.0.0/8&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;         &lt;/span&gt;//&lt;span class="w"&gt; &lt;/span&gt;Private&lt;span class="w"&gt; &lt;/span&gt;Network&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;RFC&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;1918&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;-&lt;span class="w"&gt; &lt;/span&gt;e.&lt;span class="w"&gt; &lt;/span&gt;g.&lt;span class="w"&gt; &lt;/span&gt;VPN&lt;span class="w"&gt;              &lt;/span&gt;&lt;span class="m"&gt;10&lt;/span&gt;.0.0.0&lt;span class="w"&gt; &lt;/span&gt;-&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;10&lt;/span&gt;.255.255.255
+&lt;span class="w"&gt;      &lt;/span&gt;&lt;span class="o"&gt;}&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+
+&lt;span class="w"&gt;      &lt;/span&gt;options&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;{&lt;/span&gt;
+&lt;span class="w"&gt;          &lt;/span&gt;directory&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;/hdd/bind9/cache&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+
+&lt;span class="w"&gt;          &lt;/span&gt;forwarders&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;{&lt;/span&gt;
+&lt;span class="w"&gt;                 &lt;/span&gt;&lt;span class="m"&gt;8&lt;/span&gt;.8.8.8&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="w"&gt;                 &lt;/span&gt;&lt;span class="m"&gt;8&lt;/span&gt;.8.4.4&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="w"&gt;                 &lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;.1.1.1&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="w"&gt;                 &lt;/span&gt;&lt;span class="m"&gt;9&lt;/span&gt;.9.9.9&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="w"&gt;                 &lt;/span&gt;&lt;span class="m"&gt;208&lt;/span&gt;.67.222.222&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="w"&gt;                 &lt;/span&gt;&lt;span class="m"&gt;208&lt;/span&gt;.67.220.220&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="w"&gt;          &lt;/span&gt;&lt;span class="o"&gt;}&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+
+&lt;span class="w"&gt;          &lt;/span&gt;allow-query&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;{&lt;/span&gt;
+&lt;span class="w"&gt;               &lt;/span&gt;acl_trusted_clients&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="w"&gt;          &lt;/span&gt;&lt;span class="o"&gt;}&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+
+&lt;span class="w"&gt;          &lt;/span&gt;allow-query-cache&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;{&lt;/span&gt;
+&lt;span class="w"&gt;               &lt;/span&gt;acl_trusted_clients&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="w"&gt;          &lt;/span&gt;&lt;span class="o"&gt;}&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+
+&lt;span class="w"&gt;          &lt;/span&gt;allow-recursion&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;{&lt;/span&gt;
+&lt;span class="w"&gt;               &lt;/span&gt;acl_trusted_clients&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="w"&gt;          &lt;/span&gt;&lt;span class="o"&gt;}&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+
+&lt;span class="w"&gt;          &lt;/span&gt;allow-transfer&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;{&lt;/span&gt;
+&lt;span class="w"&gt;               &lt;/span&gt;none&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="w"&gt;          &lt;/span&gt;&lt;span class="o"&gt;}&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+
+&lt;span class="w"&gt;          &lt;/span&gt;allow-update&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;{&lt;/span&gt;
+&lt;span class="w"&gt;               &lt;/span&gt;none&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="w"&gt;          &lt;/span&gt;&lt;span class="o"&gt;}&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+
+&lt;span class="w"&gt;          &lt;/span&gt;dnssec-validation&lt;span class="w"&gt; &lt;/span&gt;yes&lt;span class="p"&gt;;&lt;/span&gt;
+
+&lt;span class="w"&gt;          &lt;/span&gt;auth-nxdomain&lt;span class="w"&gt; &lt;/span&gt;no&lt;span class="p"&gt;;&lt;/span&gt;
+
+&lt;span class="w"&gt;          &lt;/span&gt;recursion&lt;span class="w"&gt; &lt;/span&gt;yes&lt;span class="p"&gt;;&lt;/span&gt;
+
+&lt;span class="w"&gt;          &lt;/span&gt;empty-zones-enable&lt;span class="w"&gt; &lt;/span&gt;yes&lt;span class="p"&gt;;&lt;/span&gt;
+
+&lt;span class="w"&gt;          &lt;/span&gt;listen-on-v6&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;{&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;none&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;}&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+
+&lt;span class="w"&gt;          &lt;/span&gt;listen-on&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;{&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;any&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;}&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="o"&gt;}&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+root@mksnanopineo2:~#
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;File /etc/bind/zones/db.home.lan.zone&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;root@mksnanopineo2:~#&lt;span class="w"&gt; &lt;/span&gt;cat&lt;span class="w"&gt; &lt;/span&gt;/etc/bind/zones/db.home.lan.zone
+&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;BIND&lt;span class="w"&gt; &lt;/span&gt;data&lt;span class="w"&gt; &lt;/span&gt;file&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="k"&gt;for&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;mksnanopineo2.lan
+&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="nv"&gt;$TTL&lt;/span&gt;&lt;span class="w"&gt;        &lt;/span&gt;&lt;span class="m"&gt;604800&lt;/span&gt;
+@&lt;span class="w"&gt;   &lt;/span&gt;IN&lt;span class="w"&gt;      &lt;/span&gt;SOA&lt;span class="w"&gt;     &lt;/span&gt;home.lan.&lt;span class="w"&gt; &lt;/span&gt;root.home.lan.&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;
+&lt;span class="w"&gt;                          &lt;/span&gt;&lt;span class="m"&gt;3&lt;/span&gt;&lt;span class="w"&gt;         &lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;Serial
+&lt;span class="w"&gt;                     &lt;/span&gt;&lt;span class="m"&gt;604800&lt;/span&gt;&lt;span class="w"&gt;         &lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;Refresh
+&lt;span class="w"&gt;                      &lt;/span&gt;&lt;span class="m"&gt;86400&lt;/span&gt;&lt;span class="w"&gt;         &lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;Retry
+&lt;span class="w"&gt;                    &lt;/span&gt;&lt;span class="m"&gt;2419200&lt;/span&gt;&lt;span class="w"&gt;         &lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;Expire
+&lt;span class="w"&gt;                     &lt;/span&gt;&lt;span class="m"&gt;604800&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt;&lt;span class="w"&gt;       &lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;Negative&lt;span class="w"&gt; &lt;/span&gt;Cache&lt;span class="w"&gt; &lt;/span&gt;TTL
+&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;name&lt;span class="w"&gt; &lt;/span&gt;servers&lt;span class="w"&gt; &lt;/span&gt;-&lt;span class="w"&gt; &lt;/span&gt;NS&lt;span class="w"&gt; &lt;/span&gt;records
+&lt;span class="w"&gt;  &lt;/span&gt;IN&lt;span class="w"&gt;      &lt;/span&gt;NS&lt;span class="w"&gt;      &lt;/span&gt;mksnanopineo2.home.lan.
+
+&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;name&lt;span class="w"&gt; &lt;/span&gt;servers&lt;span class="w"&gt; &lt;/span&gt;-&lt;span class="w"&gt; &lt;/span&gt;A&lt;span class="w"&gt; &lt;/span&gt;records
+mksnanopineo2.home.lan.&lt;span class="w"&gt;          &lt;/span&gt;IN&lt;span class="w"&gt;      &lt;/span&gt;A&lt;span class="w"&gt;       &lt;/span&gt;&lt;span class="m"&gt;192&lt;/span&gt;.168.0.130
+mksowrtlan.home.lan.&lt;span class="w"&gt;             &lt;/span&gt;IN&lt;span class="w"&gt;      &lt;/span&gt;A&lt;span class="w"&gt;       &lt;/span&gt;&lt;span class="m"&gt;192&lt;/span&gt;.168.0.1
+mksmikrotik.home.lan.&lt;span class="w"&gt;            &lt;/span&gt;IN&lt;span class="w"&gt;      &lt;/span&gt;A&lt;span class="w"&gt;       &lt;/span&gt;&lt;span class="m"&gt;192&lt;/span&gt;.168.0.218
+mksnetgear.home.lan.&lt;span class="w"&gt;             &lt;/span&gt;IN&lt;span class="w"&gt;      &lt;/span&gt;A&lt;span class="w"&gt;       &lt;/span&gt;&lt;span class="m"&gt;192&lt;/span&gt;.168.0.157
+root@mksnanopineo2:~#
+&lt;/pre&gt;&lt;/div&gt;
+</content><category term="diy, cybersecurity, it, dns"></category><category term="diy"></category><category term="cybersecurity"></category><category term="it"></category><category term="dns"></category></entry><entry><title>Routers Configuration</title><link href="https://mksscryertower.quest/Routers%20Configuration.html" rel="alternate"></link><published>2022-12-26T19:50:00+02:00</published><updated>2022-12-26T19:50:00+02:00</updated><author><name>Klimenko/Tsikunkov Maxim Sergievich</name></author><id>tag:mksscryertower.quest,2022-12-26:/Routers Configuration.html</id><summary type="html">&lt;p class="first last"&gt;Routers Configuration&lt;/p&gt;
 </summary><content type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="" class="align-left" src="images/2022-12-26_22-58.png" /&gt;
 &lt;img alt="" class="align-left" src="images/2022-12-26_23-04.png" /&gt;
@@ -473,6 +607,7 @@ Ground, zero to ground, shields and etc...&lt;/p&gt;
 </content><category term="cybersecurity, diy, it, hacking"></category><category term="cybersecurity"></category><category term="diy"></category><category term="it"></category><category term="hacking"></category></entry><entry><title>Home power grid</title><link href="https://mksscryertower.quest/Home%20power%20grid.html" rel="alternate"></link><published>2022-10-31T19:50:00+02:00</published><updated>2022-10-31T19:50:00+02:00</updated><author><name>Klimenko/Tsikunkov Maxim Sergievich</name></author><id>tag:mksscryertower.quest,2022-10-31:/Home power grid.html</id><summary type="html">&lt;p class="first last"&gt;Home power grid&lt;/p&gt;
 </summary><content type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="" class="align-left" src="images/homepowergrid.png" /&gt;
+&lt;p&gt;Without filters, like in scientology/hubbard city, they supposed to emmit waves?:&lt;/p&gt;
 &lt;img alt="" class="align-left" src="images/IMG_20220722_035610.jpg" /&gt;
 &lt;img alt="" class="align-left" src="images/IMG_20220722_035555_HDR.jpg" /&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://photos.app.goo.gl/H9xX2h8a394wkJr1A"&gt;Video 1&lt;/a&gt; and &lt;a class="reference external" href="https://photos.app.goo.gl/rKGwcViAuir8a6Zf9"&gt;Video 2&lt;/a&gt;&lt;/p&gt;
@@ -657,7 +792,7 @@ From start of my live in Kharkiv one girl, she call self &amp;quot;fox&amp;quot;
 &lt;img alt="" class="align-left" src="images/brainnetwork.png" /&gt;
 &lt;p&gt;Without normal work of the hippocampus and with everyday voice and electromagnetic manipulations I can`t normally live or work.&lt;/p&gt;
 &lt;img alt="" class="align-left" src="images/brainaaaaa.png" /&gt;
-&lt;p&gt;And now Im in Mirgorod/Ukraine do this change at 6 am 2022/10/19, some creathures call all this crimes a &amp;quot;GAME&amp;quot;. This is a &amp;quot;GAME&amp;quot; with every day cyber attacks on my devices and electromagnetic damage to my health. Only crazy freak can give name &amp;quot;GAME&amp;quot; to a killing. Today I today try to stop attacks from unofficial ukrainian scientology, police and army mafia and other &amp;quot;users&amp;quot; of my life from childhood - because this all look like MK Ultra Ukraine. 2022.11.18 - ukraine army and ssu pupets about 2 years, as I can know, use &lt;a class="reference external" href="https://mksscryertower.quest/Computer trace system.html"&gt;computrace out of band&lt;/a&gt; network and violate Article 182,149 in their plans use me like &lt;a class="reference external" href="https://www.cs.cmu.edu/~dst/Library/Shelf/wakefield/us-14.html"&gt;rondroid&lt;/a&gt; for &amp;quot;remote&amp;quot; work in IT companies. Police, SSU, Army criminals and scientologysts share computrace screen and consoles to scientology, local and Kharkiv criminals and decide traine them to kill and control mythical Russians in life on me but for now it online piracy and crimes. This Police, SSU, Army criminals and scientologysts is a Ukraine human traffickers - can negotiate with a number of local and other manufacturers to add a drug to cigarettes or drinks that will make you vomit blood in combination with other foods or drugs - for example, I live on pills... One good thing is that now I don't distribute torrents, and 10 years ago this has been my duty and I think all they did the same to me as they do now, but this is probably the reason that the pirates revoked my rights and record my laptop screen around the clock. And as I can see - goverment wont help me or stop the criminals - they say that my value is not worth saving me from criminals - and today 2022.11.21 they say its for US CIA. All the participants of the described and unmentioned actions are my sworn enemies - most of them are citizens of Ukraine - they torture me for days to make my brain obey every electromagnetic or verbal command - this is dead for me. I am afraid that because of this - &lt;a class="reference external" href="https://en.wikipedia.org/wiki/Operation_Snow_White"&gt;Operation Snow White&lt;/a&gt; - experience of these criminals, look like they lobbi MK Ultra, the police either do not receive my statements or everything has already been overwritten on their servers - and for 2022.11.24 all the same and I know schools where this criminals get their education. 2023.01.18 - same shit with scientology/hubbards human traders, government, online piracy and fucking others.&lt;/p&gt;
+&lt;p&gt;And now Im in Mirgorod/Ukraine do this change at 6 am 2022/10/19, some creathures call all this crimes a &amp;quot;GAME&amp;quot;. This is a &amp;quot;GAME&amp;quot; with every day cyber attacks on my devices and electromagnetic damage to my health. Only crazy freak can give name &amp;quot;GAME&amp;quot; to a killing. Today I today try to stop attacks from unofficial ukrainian scientology, police and army mafia and other &amp;quot;users&amp;quot; of my life from childhood - because this all look like MK Ultra Ukraine. 2022.11.18 - ukraine army and ssu pupets about 2 years, as I can know, use &lt;a class="reference external" href="https://mksscryertower.quest/Computer trace system.html"&gt;computrace out of band&lt;/a&gt; network and violate Article 182,149 in their plans use me like &lt;a class="reference external" href="https://www.cs.cmu.edu/~dst/Library/Shelf/wakefield/us-14.html"&gt;rondroid&lt;/a&gt; for &amp;quot;remote&amp;quot; work in IT companies. Police, SSU, Army criminals and scientologysts share computrace screen and consoles to scientology, local and Kharkiv criminals and decide traine them to kill and control mythical Russians in life on me but for now it online piracy and crimes. This Police, SSU, Army criminals and scientologysts is a Ukraine human traffickers - can negotiate with a number of local and other manufacturers to add a drug to cigarettes or drinks that will make you vomit blood in combination with other foods or drugs - for example, I live on pills... One good thing is that now I don't distribute torrents, and 10 years ago this has been my duty and I think all they did the same to me as they do now, but this is probably the reason that the pirates revoked my rights and record my laptop screen around the clock. And as I can see - goverment wont help me or stop the criminals - they say that my value is not worth saving me from criminals - and today 2022.11.21 they say its for US CIA. All the participants of the described and unmentioned actions are my sworn enemies - most of them are citizens of Ukraine - they torture me for days to make my brain obey every electromagnetic or verbal command - this is dead for me. I am afraid that because of this - &lt;a class="reference external" href="https://en.wikipedia.org/wiki/Operation_Snow_White"&gt;Operation Snow White&lt;/a&gt; - experience of these criminals, look like they lobbi MK Ultra, the police either do not receive my statements or everything has already been overwritten on their servers - and for 2022.11.24 all the same and I know schools where this criminals get their education. 2023.01.18 - same shit with scientology/hubbards human traders, government, online piracy and fucking others. 2023.01.29 - same shit with scientology/hubbards human traders, government, online piracy and fucking others.&lt;/p&gt;
 &lt;p&gt;About phones, PPC, computers:
 They steal circuitry and firmware code from manufacturing companies in order to burn or remove systems and components of human protection against computer high-frequency radiation, cyberattacks and brainwash victims, create nerve impulses ( Radio-frequency induction ), create phosphenes for victims, and this devices source of voice manipulation - for start is a torture after long time this is dead for me.&lt;/p&gt;
 &lt;p&gt;Sometimes I can bought and smoke Lucky Strike for morale-boosting but in my country they have strange benzole taste or maybe this is my health problems - with glands of internal secretion. Or someone realy change the recipes for them, it can be like a situation with poisoned water bottles from an unknown source and previously unreleased brand.&lt;/p&gt;
