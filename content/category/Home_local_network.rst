@@ -33,6 +33,17 @@ Network diagram:
 
 `Laptop Firewall`_  and same ports are closed by firewalls on other network devices.
 
+Home server cabinet:
+
+.. image:: images/photo_2023-02-09_21-51-15.jpg
+           :align: left
+
+.. image:: images/photo_2023-02-09_21-51-12.jpg
+           :align: left
+
+.. image:: images/photo_2023-02-09_21-51-08.jpg
+           :align: left
+
 .. _Laptop Firewall: https://github.com/asciiscry3r/firewall/blob/main/firewall.sh
 
 And all transformers, power supply sources, in something close to a faraday cage.
