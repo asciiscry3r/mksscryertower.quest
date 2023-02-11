@@ -10,6 +10,26 @@ Home local network
 
 ##################
 
+Home network in server cabinet:
+
+.. image:: images/photo_2023-02-11_19-03-50.jpg
+           :align: left
+
+.. image:: images/photo_2023-02-11_19-03-48.jpg
+           :align: left
+
+.. image:: images/photo_2023-02-11_19-03-45.jpg
+           :align: left
+
+.. image:: images/photo_2023-02-11_19-03-42.jpg
+           :align: left
+
+.. image:: images/photo_2023-02-11_19-03-40.jpg
+           :align: left
+
+.. image:: images/photo_2023-02-11_19-03-34.jpg
+           :align: left
+
 OpenWRT firmware
 
 .. image:: images/IMG_20221020_043306.jpg
