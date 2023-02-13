@@ -40,10 +40,10 @@ And suppress neuronal activity or damage organism functions.
 Tables from `RCE-20_Health_Effects_RF_Electromagnetic_fields`_
 
 
-Occupational exposure
-#####################
+Occupational exposure _`Epidemiology`
+#####################################
 
-Industrial exposure _`Source`
+Industrial exposure
 
 In long-term epidemiological investigations of large population with occupational exposure, the results have not been consistent. Dasdag et al. [16] investigated workers who worked at a television transmitter station with a frequency ranging between 202 and 209 MHz, 694–701 MHz, 750–757 MHz, or 774–781 MHz and at a medium-wave broadcasting station. Their answers to questionnaires showed that the workers suffered from symptoms including headaches, fatigue, stress and sleeplessness. Most of the workers recovered when they left the source of microwave radiation. In addition, another study showed that significant psychiatric symptoms were observed in people who worked in these areas. In particular, somatization, obsessive compulsivity, paranoid ideation and psychoticism were reported [17].
 Military exposure
@@ -55,7 +55,7 @@ Effects of microwave radiation on children
 
 Because a child’s nervous system is growing and their head is more vulnerable to radiation energy, studies that have specifically addressed whether the nervous systems of children are more susceptible to electromagnetic radiation have been performed. However, there is little scientific evidence to demonstrate that children are more sensitive to electromagnetic radiation than adults [24, 25].
 
-**The influence of microwave radiation on the morphology of the brain** _`Source`
+_`The influence of microwave radiation on the morphology of the brain`
 
 **The central nervous system, especially the hippocampus, is highly sensitive to microwave radiation [43, 44]. Previous studies have shown that in unexposed control rats, hippocampal neurons are aligned in neat rows in which the edges are clear, nuclei are clear, nucleoli can be observed, and pyramidal cells do not exhibit obvious necrosis. However, in rats treated with long-term exposure to radiation, neurons exhibit edema and are arranged irregularly. Nuclear pyknosis and capillary congestion are also observed.**
 
@@ -68,7 +68,9 @@ Figure shows that 0.3–10 GHz microwave radiation penetrates a few cm to a few 
 .. image:: images/2022-12-26_23-25.png
            :align: left
 
-.. _Source: https://mmrjournal.biomedcentral.com/articles/10.1186/s40779-017-0139-0
+.. _Epidemiology: https://mmrjournal.biomedcentral.com/articles/10.1186/s40779-017-0139-0#Sec2
+
+.. _The influence of microwave radiation on the morphology of the brain: https://mmrjournal.biomedcentral.com/articles/10.1186/s40779-017-0139-0
 
 .. _RCE-20_Health_Effects_RF_Electromagnetic_fields: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/333080/RCE-20_Health_Effects_RF_Electromagnetic_fields.pdf
 
