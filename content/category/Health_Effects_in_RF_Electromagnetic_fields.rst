@@ -1,7 +1,7 @@
 Health Effects in RF Electromagnetic fields
 ###########################################
 
-:date: 2023-02-13 23:22:01
+:date: 2023-02-13 23:29
 :tags: dew, cybersecurity, military
 :category: dew, cybersecurity, military
 :slug: Health Effects in RF Electromagnetic fields
@@ -45,10 +45,12 @@ Tables from `RCE-20_Health_Effects_RF_Electromagnetic_fields`_
 
 **Regarding the ultra-structure of the hippocampus, symptoms including neuronal atrophy, mitochondrial swelling, crest reduction and a disordered arrangement were observed, the rough endoplasmic reticulum exhibited cystic expansion, the number of synaptic vesicles decreased, and the synaptic cleft was widened (2.45 GHz pulsed microwave field at an average power density of 1 mW/cm2 for 3 h/d for up to 30 days [45] and an average power density of 2.5, 5, or 10 mW/cm2 for 6 min/d for up to 1 month resulted in an average calculated SAR of 1.05, 2.1, and 4.2 W/kg, respectively [46]). The hippocampus plays roles in learning and memory, and the results of these studies suggest that the deficits in learning and memory functions observed after exposure to microwave irradiation might be due to abnormalities induced in hippocampal structures.**
 
+
 `Epidemiology`_ from Military Medical Research
 
 Occupational exposure
 #####################
+
 
 Industrial exposure
 
@@ -62,9 +64,7 @@ Effects of microwave radiation on children
 
 Because a child’s nervous system is growing and their head is more vulnerable to radiation energy, studies that have specifically addressed whether the nervous systems of children are more susceptible to electromagnetic radiation have been performed. However, there is little scientific evidence to demonstrate that children are more sensitive to electromagnetic radiation than adults [24, 25].
 
-
-#####################
-
+++++++++++++++++++++++++++++++++++
 
 **We consider microwave frequency ranges and wavelengths from 300 MHz (1 m) to 10 GHz (3 cm) in air where availability of microwave sources coherent on short time scales (i.e., 50 μs) exist. The permittivity and conductivity of white and gray brain matter are shown in Figure 1 (20). Figure 2 shows the depth into brain tissue where the microwave energy is ~1/2.7 of incident energy. Note that microwave wavelengths in air and brain tissue are functions of microwave frequency. The microwave wavelengths in brain tissue range from 0.5 to 18 cm with 1/2.7 attenuation depths of 0.2–4 cm.**
 
