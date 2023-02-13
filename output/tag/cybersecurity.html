@@ -21,144 +21,59 @@
         
 
             <header>
-                <h1><a href="../Local DNS server on NanoPi Neo2.html" id="page-title">Local DNS server on NanoPi Neo2</a></h1>
+                <h1><a href="../Health Effects in RF Electromagnetic fields.html" id="page-title">Health Effects in RF Electromagnetic fields</a></h1>
                 <span id="sitename"><a href=".." id="site-title">mksscryertower.quest </a> &sdot;</span>
-<time datetime="2023-01-25T05:30:00+02:00">ср 25 січня 2023</time>            </header>
+<time datetime="2023-02-13T23:29:00+02:00">пн 13 лютого 2023</time>            </header>
 
             <article>
                 <hr class="docutils" />
-<img alt="" class="align-left" src="images/mksnanopineo.png" />
-<p>Start from Bind9 installation</p>
-<div class="highlight"><pre><span></span>sudo<span class="w"> </span>apt-get<span class="w"> </span>install<span class="w"> </span>bind9<span class="w"> </span>bind9utils<span class="w"> </span>bind9-doc
-</pre></div>
-<p>File /etc/bind/named.conf.local</p>
-<div class="highlight"><pre><span></span>root@mksnanopineo2:~#<span class="w"> </span>cat<span class="w"> </span>/etc/bind/named.conf.local
-//
-//<span class="w"> </span>Do<span class="w"> </span>any<span class="w"> </span><span class="nb">local</span><span class="w"> </span>configuration<span class="w"> </span>here
-//
-
-//<span class="w"> </span>Consider<span class="w"> </span>adding<span class="w"> </span>the<span class="w"> </span><span class="m">1918</span><span class="w"> </span>zones<span class="w"> </span>here,<span class="w"> </span><span class="k">if</span><span class="w"> </span>they<span class="w"> </span>are<span class="w"> </span>not<span class="w"> </span>used<span class="w"> </span><span class="k">in</span><span class="w"> </span>your
-//<span class="w"> </span>organization
-//include<span class="w"> </span><span class="s2">&quot;/etc/bind/zones.rfc1918&quot;</span><span class="p">;</span>
-//<span class="w"> </span>Forward-Lookup
-zone<span class="w"> </span><span class="s2">&quot;berry.home&quot;</span><span class="w"> </span><span class="o">{</span>
-<span class="w">      </span><span class="nb">type</span><span class="w"> </span>master<span class="p">;</span>
-<span class="w">      </span>file<span class="w"> </span><span class="s2">&quot;/etc/bind/zones/berry.home.zone&quot;</span><span class="p">;</span>
-<span class="w">      </span>allow-transfer<span class="w"> </span><span class="o">{</span><span class="w"> </span>acl_trusted_transfer<span class="p">;</span><span class="w"> </span><span class="o">}</span><span class="p">;</span><span class="w">    </span>//see<span class="w"> </span>named.conf.options<span class="w"> </span><span class="k">for</span><span class="w"> </span>configuration
-<span class="o">}</span><span class="p">;</span>
-
-//<span class="w"> </span>Reverse-Lookup
-zone<span class="w"> </span><span class="s2">&quot;2.168.192.in-addr.arpa&quot;</span><span class="w"> </span><span class="o">{</span>
-<span class="w">      </span><span class="nb">type</span><span class="w"> </span>master<span class="p">;</span>
-<span class="w">      </span>file<span class="w"> </span><span class="s2">&quot;/etc/bind/zones/db.2.168.192.inv&quot;</span><span class="p">;</span>
-<span class="o">}</span><span class="p">;</span>
-root@mksnanopineo2:~#
-</pre></div>
-<p>File /etc/bind/named.conf.local</p>
-<div class="highlight"><pre><span></span>root@mksnanopineo2:~#<span class="w"> </span>cat<span class="w"> </span>/etc/bind/named.conf.local
-//
-//<span class="w"> </span>Do<span class="w"> </span>any<span class="w"> </span><span class="nb">local</span><span class="w"> </span>configuration<span class="w"> </span>here
-//
-
-//<span class="w"> </span>Consider<span class="w"> </span>adding<span class="w"> </span>the<span class="w"> </span><span class="m">1918</span><span class="w"> </span>zones<span class="w"> </span>here,<span class="w"> </span><span class="k">if</span><span class="w"> </span>they<span class="w"> </span>are<span class="w"> </span>not<span class="w"> </span>used<span class="w"> </span><span class="k">in</span><span class="w"> </span>your
-//<span class="w"> </span>organization
-//include<span class="w"> </span><span class="s2">&quot;/etc/bind/zones.rfc1918&quot;</span><span class="p">;</span>
-//<span class="w"> </span>Forward-Lookup
-zone<span class="w"> </span><span class="s2">&quot;home.lan&quot;</span><span class="w"> </span><span class="o">{</span>
-<span class="w">      </span><span class="nb">type</span><span class="w"> </span>master<span class="p">;</span>
-<span class="w">      </span>file<span class="w"> </span><span class="s2">&quot;/etc/bind/zones/db.home.lan.zone&quot;</span><span class="p">;</span>
-<span class="w">      </span>allow-transfer<span class="w"> </span><span class="o">{</span><span class="w"> </span>acl_trusted_transfer<span class="p">;</span><span class="w"> </span><span class="o">}</span><span class="p">;</span><span class="w">    </span>//see<span class="w"> </span>named.conf.options<span class="w"> </span><span class="k">for</span><span class="w"> </span>configuration
-<span class="o">}</span><span class="p">;</span>
-
-//<span class="w"> </span>Reverse-Lookup
-zone<span class="w"> </span><span class="s2">&quot;168.192.in-addr.arpa&quot;</span><span class="w"> </span><span class="o">{</span>
-<span class="w">      </span><span class="nb">type</span><span class="w"> </span>master<span class="p">;</span>
-<span class="w">      </span>file<span class="w"> </span><span class="s2">&quot;/etc/bind/zones/db.168.192.zone&quot;</span><span class="p">;</span>
-<span class="o">}</span><span class="p">;</span>
-root@mksnanopineo2:~#
-</pre></div>
-<p>File /etc/bind/named.conf.options</p>
-<div class="highlight"><pre><span></span><span class="w"> </span>root@mksnanopineo2:~#<span class="w"> </span>cat<span class="w"> </span>/etc/bind/named.conf.options
-<span class="w"> </span>acl<span class="w"> </span><span class="s2">&quot;acl_trusted_transfer&quot;</span><span class="w"> </span><span class="o">{</span>
-<span class="w">      </span>none<span class="p">;</span>
-<span class="w"> </span><span class="o">}</span><span class="p">;</span>
-
-<span class="w"> </span>acl<span class="w"> </span><span class="s2">&quot;acl_trusted_clients&quot;</span><span class="w"> </span><span class="o">{</span>
-<span class="w">      </span><span class="m">127</span>.0.0.0/8<span class="p">;</span><span class="w">        </span>//<span class="w"> </span>localhost<span class="w"> </span><span class="o">(</span>RFC<span class="w"> </span><span class="m">3330</span><span class="o">)</span><span class="w"> </span>-<span class="w"> </span>Loopback-Device<span class="w"> </span>addresses<span class="w">    </span><span class="m">127</span>.0.0.0<span class="w"> </span>-<span class="w"> </span><span class="m">127</span>.255.255.255
-<span class="w">      </span><span class="m">192</span>.168.0.0/16<span class="p">;</span><span class="w">     </span>//<span class="w"> </span>Private<span class="w"> </span>Network<span class="w"> </span><span class="o">(</span>RFC<span class="w"> </span><span class="m">1918</span><span class="o">)</span><span class="w"> </span>-<span class="w"> </span>e.<span class="w"> </span>e.<span class="w"> </span>LAN<span class="w">              </span><span class="m">192</span>.168.0.0<span class="w"> </span>-<span class="w"> </span><span class="m">192</span>.168.255.255
-<span class="w">      </span>//10.0.0.0/8<span class="p">;</span><span class="w">         </span>//<span class="w"> </span>Private<span class="w"> </span>Network<span class="w"> </span><span class="o">(</span>RFC<span class="w"> </span><span class="m">1918</span><span class="o">)</span><span class="w"> </span>-<span class="w"> </span>e.<span class="w"> </span>g.<span class="w"> </span>VPN<span class="w">              </span><span class="m">10</span>.0.0.0<span class="w"> </span>-<span class="w"> </span><span class="m">10</span>.255.255.255
-<span class="w">      </span><span class="o">}</span><span class="p">;</span>
-
-<span class="w">      </span>options<span class="w"> </span><span class="o">{</span>
-<span class="w">          </span>directory<span class="w"> </span><span class="s2">&quot;/hdd/bind9/cache&quot;</span><span class="p">;</span>
-
-<span class="w">          </span>forwarders<span class="w"> </span><span class="o">{</span>
-<span class="w">                 </span><span class="m">8</span>.8.8.8<span class="p">;</span>
-<span class="w">                 </span><span class="m">8</span>.8.4.4<span class="p">;</span>
-<span class="w">                 </span><span class="m">1</span>.1.1.1<span class="p">;</span>
-<span class="w">                 </span><span class="m">9</span>.9.9.9<span class="p">;</span>
-<span class="w">                 </span><span class="m">208</span>.67.222.222<span class="p">;</span>
-<span class="w">                 </span><span class="m">208</span>.67.220.220<span class="p">;</span>
-<span class="w">          </span><span class="o">}</span><span class="p">;</span>
-
-<span class="w">          </span>allow-query<span class="w"> </span><span class="o">{</span>
-<span class="w">               </span>acl_trusted_clients<span class="p">;</span>
-<span class="w">          </span><span class="o">}</span><span class="p">;</span>
-
-<span class="w">          </span>allow-query-cache<span class="w"> </span><span class="o">{</span>
-<span class="w">               </span>acl_trusted_clients<span class="p">;</span>
-<span class="w">          </span><span class="o">}</span><span class="p">;</span>
-
-<span class="w">          </span>allow-recursion<span class="w"> </span><span class="o">{</span>
-<span class="w">               </span>acl_trusted_clients<span class="p">;</span>
-<span class="w">          </span><span class="o">}</span><span class="p">;</span>
-
-<span class="w">          </span>allow-transfer<span class="w"> </span><span class="o">{</span>
-<span class="w">               </span>none<span class="p">;</span>
-<span class="w">          </span><span class="o">}</span><span class="p">;</span>
-
-<span class="w">          </span>allow-update<span class="w"> </span><span class="o">{</span>
-<span class="w">               </span>none<span class="p">;</span>
-<span class="w">          </span><span class="o">}</span><span class="p">;</span>
-
-<span class="w">          </span>dnssec-validation<span class="w"> </span>yes<span class="p">;</span>
-
-<span class="w">          </span>auth-nxdomain<span class="w"> </span>no<span class="p">;</span>
-
-<span class="w">          </span>recursion<span class="w"> </span>yes<span class="p">;</span>
-
-<span class="w">          </span>empty-zones-enable<span class="w"> </span>yes<span class="p">;</span>
-
-<span class="w">          </span>listen-on-v6<span class="w"> </span><span class="o">{</span><span class="w"> </span>none<span class="p">;</span><span class="w"> </span><span class="o">}</span><span class="p">;</span>
-
-<span class="w">          </span>listen-on<span class="w"> </span><span class="o">{</span><span class="w"> </span>any<span class="p">;</span><span class="w"> </span><span class="o">}</span><span class="p">;</span>
-<span class="o">}</span><span class="p">;</span>
-root@mksnanopineo2:~#
-</pre></div>
-<p>File /etc/bind/zones/db.home.lan.zone</p>
-<div class="highlight"><pre><span></span>root@mksnanopineo2:~#<span class="w"> </span>cat<span class="w"> </span>/etc/bind/zones/db.home.lan.zone
-<span class="p">;</span>
-<span class="p">;</span><span class="w"> </span>BIND<span class="w"> </span>data<span class="w"> </span>file<span class="w"> </span><span class="k">for</span><span class="w"> </span>mksnanopineo2.lan
-<span class="p">;</span>
-<span class="nv">$TTL</span><span class="w">        </span><span class="m">604800</span>
-@<span class="w">   </span>IN<span class="w">      </span>SOA<span class="w">     </span>home.lan.<span class="w"> </span>root.home.lan.<span class="w"> </span><span class="o">(</span>
-<span class="w">                          </span><span class="m">3</span><span class="w">         </span><span class="p">;</span><span class="w"> </span>Serial
-<span class="w">                     </span><span class="m">604800</span><span class="w">         </span><span class="p">;</span><span class="w"> </span>Refresh
-<span class="w">                      </span><span class="m">86400</span><span class="w">         </span><span class="p">;</span><span class="w"> </span>Retry
-<span class="w">                    </span><span class="m">2419200</span><span class="w">         </span><span class="p">;</span><span class="w"> </span>Expire
-<span class="w">                     </span><span class="m">604800</span><span class="w"> </span><span class="o">)</span><span class="w">       </span><span class="p">;</span><span class="w"> </span>Negative<span class="w"> </span>Cache<span class="w"> </span>TTL
-<span class="p">;</span>
-<span class="p">;</span><span class="w"> </span>name<span class="w"> </span>servers<span class="w"> </span>-<span class="w"> </span>NS<span class="w"> </span>records
-<span class="w">  </span>IN<span class="w">      </span>NS<span class="w">      </span>mksnanopineo2.home.lan.
-
-<span class="p">;</span><span class="w"> </span>name<span class="w"> </span>servers<span class="w"> </span>-<span class="w"> </span>A<span class="w"> </span>records
-mksnanopineo2.home.lan.<span class="w">          </span>IN<span class="w">      </span>A<span class="w">       </span><span class="m">192</span>.168.0.130
-mksowrtlan.home.lan.<span class="w">             </span>IN<span class="w">      </span>A<span class="w">       </span><span class="m">192</span>.168.0.1
-mksmikrotik.home.lan.<span class="w">            </span>IN<span class="w">      </span>A<span class="w">       </span><span class="m">192</span>.168.0.218
-mksnetgear.home.lan.<span class="w">             </span>IN<span class="w">      </span>A<span class="w">       </span><span class="m">192</span>.168.0.157
-root@mksnanopineo2:~#
-</pre></div>
+<p>In short - is a slowly murder, CIDT, destroy memory and all pattern recognition and processing system ( failure of all organism functions ), if someone from police, mafia, security service or army start radiate you every day - EMF physically damage brain and neural system and voice manipulations in fields break your mind and criminal refuse you attempts to get help from rights and law protection agencies. I may write here what &quot;people&quot; already knew, but then I just learned that the &quot;native&quot; army ( in past they be a part of army, but now I too far from this structures ) and its assistants forbade me to know because they wanted to use me with their assistants ( like unofficial scientology or bandits ). We have many people, like someone Konev, Ribalko, Riabchevskiy, Chunihina, Gurin, Fedorenko, part of scientology some army criminals who related to scientology or piracy and others, who want keep this status quo. They call this all a GAME.</p>
+<p>Why:</p>
+<p>Images, from <a class="reference external" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6513191/">nlm</a>, with schematic visualization of the possible biological effects:</p>
+<img alt="" class="align-left" src="images/emfhuman.jpg" />
+<p>BBB - blood-brain barrier.</p>
+<img alt="" class="align-left" src="images/emfspactrum.jpg" />
+<p>Part of GSM mobile broadband part of spectrum and lower can be used for creating process of the <a class="reference external" href="https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/1750-1326-4-20">neurodegeneration</a> for &quot;non needed&quot; people.</p>
+<img alt="" class="align-left" src="images/emftable1.png" />
+<p>And suppress neuronal activity or damage organism functions.</p>
+<img alt="" class="align-left" src="images/emftable2.png" />
+<p>Tables from <a class="reference external" href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/333080/RCE-20_Health_Effects_RF_Electromagnetic_fields.pdf">RCE-20_Health_Effects_RF_Electromagnetic_fields</a></p>
+<p><a class="reference external" href="https://mmrjournal.biomedcentral.com/articles/10.1186/s40779-017-0139-0#Sec12">The influence of microwave radiation on the morphology of the brain</a>
+2
+The central nervous system, especially the hippocampus, is highly sensitive to microwave radiation [43, 44]. Previous studies have shown that in unexposed control rats, hippocampal neurons are aligned in neat rows in which the edges are clear, nuclei are clear, nucleoli can be observed, and pyramidal cells do not exhibit obvious necrosis. However, in rats treated with long-term exposure to radiation, neurons exhibit edema and are arranged irregularly. Nuclear pyknosis and capillary congestion are also observed.</p>
+<p>Regarding the ultra-structure of the hippocampus, symptoms including neuronal atrophy, mitochondrial swelling, crest reduction and a disordered arrangement were observed, the rough endoplasmic reticulum exhibited cystic expansion, the number of synaptic vesicles decreased, and the synaptic cleft was widened (2.45 GHz pulsed microwave field at an average power density of 1 mW/cm2 for 3 h/d for up to 30 days [45] and an average power density of 2.5, 5, or 10 mW/cm2 for 6 min/d for up to 1 month resulted in an average calculated SAR of 1.05, 2.1, and 4.2 W/kg, respectively [46]). The hippocampus plays roles in learning and memory, and the results of these studies suggest that the deficits in learning and memory functions observed after exposure to microwave irradiation might be due to abnormalities induced in hippocampal structures.</p>
+<p><a class="reference external" href="https://mmrjournal.biomedcentral.com/articles/10.1186/s40779-017-0139-0#Sec2">Epidemiology</a> from Military Medical Research</p>
+<p>Industrial exposure</p>
+<p>In long-term epidemiological investigations of large population with occupational exposure, the results have not been consistent. Dasdag et al. [16] investigated workers who worked at a television transmitter station with a frequency ranging between 202 and 209 MHz, 694–701 MHz, 750–757 MHz, or 774–781 MHz and at a medium-wave broadcasting station. Their answers to questionnaires showed that the workers suffered from symptoms including headaches, fatigue, stress and sleeplessness. Most of the workers recovered when they left the source of microwave radiation. In addition, another study showed that significant psychiatric symptoms were observed in people who worked in these areas. In particular, somatization, obsessive compulsivity, paranoid ideation and psychoticism were reported [17].
+Military exposure</p>
+<p>Standard devices used by military personnel that may pose electromagnetic hazards include radars and missile systems. In a report by the Poland Department of Microwave Safety, occupational exposure to electromagnetic fields was analyzed in the work environment of personnel of 204 devices divided into 5 groups (surface-to-air missile system radars, aircraft and helicopters, communication devices, surveillance and height finder radars, airport radars and radio navigation systems). In 57% of military devices, Polish soldiers work in occupational protection zones. In 35% of cases, soldiers work in intermediate and hazardous zones and in 22%—only in the intermediate zone. In 43% of devices, military personnel are not exposed to an electromagnetic field.</p>
+<p>The visual reaction time and short-term memory of healthy male and female workers at a radar site with a frequency range of 2–18 GHz was recorded with a simple blind computer-assisted-visual reaction time test or modified Wechsler Memory Scale test. The results indicated that radar microwave radiation leads to a decreased reaction time and lower short-term memory performance [18]. Among radar workers exposed to 14–18 GHz microwaves, the somatic symposium anxiety and insomnia, social dysfunction and severe depression were caused [19]. Singh et al. [20] divided the radar workers into three sets: control group (n = 68), exposure group I (n = 40, exposed to 8–12 GHz) and exposure group II (n = 58, working with radar at 12.5–18.0 GHz). The three groups were further divided into two groups according to their years of service (up to 10 years and &gt;10 years) to investigate the effect of years of exposure to radar. Melatonin and serotonin levels were estimated, which play important roles in the nervous system. The results demonstrated the ability of electric magnetic field (EMF) to influence plasma melatonin and serotonin concentrations in radar workers. The results were significant for the range from 12.5–18.0 GHz with a service period greater than 10 years. Additionally, people exposed to military microwave sources were more vulnerable to brain tumors. Richter et al. [21, 22] found a higher incidence of brain cancer in radar technicians and a shortened incubation period (i.e., less than 10 years). Szmigielski [23] collected retrospective data for Polish soldiers over 15 years and showed that the prevalence of brain cancer was higher in each age group.
+Effects of microwave radiation on children</p>
+<p>Because a child’s nervous system is growing and their head is more vulnerable to radiation energy, studies that have specifically addressed whether the nervous systems of children are more susceptible to electromagnetic radiation have been performed. However, there is little scientific evidence to demonstrate that children are more sensitive to electromagnetic radiation than adults [24, 25].</p>
+<p>We consider microwave frequency ranges and wavelengths from 300 MHz (1 m) to 10 GHz (3 cm) in air where availability of microwave sources coherent on short time scales (i.e., 50 μs) exist. The permittivity and conductivity of white and gray brain matter are shown in Figure 1 (20). Figure 2 shows the depth into brain tissue where the microwave energy is ~1/2.7 of incident energy. Note that microwave wavelengths in air and brain tissue are functions of microwave frequency. The microwave wavelengths in brain tissue range from 0.5 to 18 cm with 1/2.7 attenuation depths of 0.2–4 cm.</p>
+<p>Figure shows that 0.3–10 GHz microwave radiation penetrates a few cm to a few mm into brain tissue:</p>
+<img alt="" class="align-left" src="images/2022-12-26_23-25.png" />
+<p>In 1993 EMF weapon or influence kill too, CIDT:</p>
+<img alt="" class="align-left" src="images/2022-12-14_04-22.png" />
+<img alt="" class="align-left" src="images/2022-12-14_04-20.png" />
+<img alt="" class="align-left" src="images/2022-12-14_04-26.png" />
+<img alt="" class="align-left" src="images/2022-12-14_04-35.png" />
+<img alt="" class="align-left" src="images/2022-12-14_05-01.png" />
+<img alt="" class="align-left" src="images/2022-12-14_04-57.png" />
+<img alt="" class="align-left" src="images/2022-12-14_05-02_1.png" />
+<div class="section" id="resources">
+<h2>Resources</h2>
+<p><a class="reference external" href="https://mmrjournal.biomedcentral.com/articles/10.1186/s40779-017-0139-0">https://mmrjournal.biomedcentral.com/articles/10.1186/s40779-017-0139-0</a></p>
+<p><a class="reference external" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6513191/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6513191/</a></p>
+<p><a class="reference external" href="https://onlinelibrary.wiley.com/doi/10.1002/bem.22338">https://onlinelibrary.wiley.com/doi/10.1002/bem.22338</a></p>
+<p><a class="reference external" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6015645/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6015645/</a></p>
+<p><a class="reference external" href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/bem.22310">https://onlinelibrary.wiley.com/doi/epdf/10.1002/bem.22310</a></p>
+<p><a class="reference external" href="https://www.nationalgeographic.com/science/article/electromagnetic-noise-disrupts-bird-compass">https://www.nationalgeographic.com/science/article/electromagnetic-noise-disrupts-bird-compass</a></p>
+<p><a class="reference external" href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/333080/RCE-20_Health_Effects_RF_Electromagnetic_fields.pdf">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/333080/RCE-20_Health_Effects_RF_Electromagnetic_fields.pdf</a></p>
+<p><a class="reference external" href="https://www.ewg.org/news-insights/news-release/2021/07/study-wireless-radiation-exposure-children-should-be-hundreds">https://www.ewg.org/news-insights/news-release/2021/07/study-wireless-radiation-exposure-children-should-be-hundreds</a></p>
+</div>
             </article>
+
 
 
 

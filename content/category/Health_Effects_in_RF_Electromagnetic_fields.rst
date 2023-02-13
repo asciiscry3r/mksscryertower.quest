@@ -2,15 +2,15 @@ Health Effects in RF Electromagnetic fields
 ###########################################
 
 :date: 2023-02-13 23:29
-:tags: dew, cybersecurity, military
-:category: dew, cybersecurity, military
+:tags: dew, cybersecurity, military, cults
+:category: dew, cybersecurity, military, cults
 :slug: Health Effects in RF Electromagnetic fields
 :authors: Klimenko/Tsikunkov Maxim Sergievich
 :summary: Health Effects in RF Electromagnetic fields
 
 ###########################################
 
-In short - is a slowly murder, CIDT, destroy memory and all pattern recognition and processing system ( failure of all organism functions ), if someone from police, mafia, security service or army start radiate you every day - EMF physically damage brain and neural system and voice manipulations in fields break your mind and criminal refuse you attempts to get help from rights and law protection agencies. I may write here what "people" already knew, but then I just learned that the "native" army ( in past they be a part of army, but now I too far from this structures ) and its assistants forbade me to know because they wanted to use me with their assistants ( like unofficial scientology or bandits ). We have many people, like someone Konev, Ribalko, Riabchevskiy, some part of SSU, police and Interpol and others, who want keep this status quo. They call this all a GAME.
+In short - is a slowly murder, CIDT, destroy memory and all pattern recognition and processing system ( failure of all organism functions ), if someone from police, mafia, security service or army start radiate you every day - EMF physically damage brain and neural system and voice manipulations in fields break your mind and criminal refuse you attempts to get help from rights and law protection agencies. I may write here what "people" already knew, but then I just learned that the "native" army ( in past they be a part of army, but now I too far from this structures ) and its assistants forbade me to know because they wanted to use me with their assistants ( like unofficial scientology or bandits ). We have many people, like someone Konev, Ribalko, Riabchevskiy, Chunihina, Gurin, Fedorenko, part of scientology some army criminals who related to scientology or piracy and others, who want keep this status quo. They call this all a GAME.
 
 Why:
 
@@ -41,16 +41,12 @@ Tables from `RCE-20_Health_Effects_RF_Electromagnetic_fields`_
 
 `The influence of microwave radiation on the morphology of the brain`_
 
-**The central nervous system, especially the hippocampus, is highly sensitive to microwave radiation [43, 44]. Previous studies have shown that in unexposed control rats, hippocampal neurons are aligned in neat rows in which the edges are clear, nuclei are clear, nucleoli can be observed, and pyramidal cells do not exhibit obvious necrosis. However, in rats treated with long-term exposure to radiation, neurons exhibit edema and are arranged irregularly. Nuclear pyknosis and capillary congestion are also observed.**
+The central nervous system, especially the hippocampus, is highly sensitive to microwave radiation [43, 44]. Previous studies have shown that in unexposed control rats, hippocampal neurons are aligned in neat rows in which the edges are clear, nuclei are clear, nucleoli can be observed, and pyramidal cells do not exhibit obvious necrosis. However, in rats treated with long-term exposure to radiation, neurons exhibit edema and are arranged irregularly. Nuclear pyknosis and capillary congestion are also observed.
 
-**Regarding the ultra-structure of the hippocampus, symptoms including neuronal atrophy, mitochondrial swelling, crest reduction and a disordered arrangement were observed, the rough endoplasmic reticulum exhibited cystic expansion, the number of synaptic vesicles decreased, and the synaptic cleft was widened (2.45 GHz pulsed microwave field at an average power density of 1 mW/cm2 for 3 h/d for up to 30 days [45] and an average power density of 2.5, 5, or 10 mW/cm2 for 6 min/d for up to 1 month resulted in an average calculated SAR of 1.05, 2.1, and 4.2 W/kg, respectively [46]). The hippocampus plays roles in learning and memory, and the results of these studies suggest that the deficits in learning and memory functions observed after exposure to microwave irradiation might be due to abnormalities induced in hippocampal structures.**
+Regarding the ultra-structure of the hippocampus, symptoms including neuronal atrophy, mitochondrial swelling, crest reduction and a disordered arrangement were observed, the rough endoplasmic reticulum exhibited cystic expansion, the number of synaptic vesicles decreased, and the synaptic cleft was widened (2.45 GHz pulsed microwave field at an average power density of 1 mW/cm2 for 3 h/d for up to 30 days [45] and an average power density of 2.5, 5, or 10 mW/cm2 for 6 min/d for up to 1 month resulted in an average calculated SAR of 1.05, 2.1, and 4.2 W/kg, respectively [46]). The hippocampus plays roles in learning and memory, and the results of these studies suggest that the deficits in learning and memory functions observed after exposure to microwave irradiation might be due to abnormalities induced in hippocampal structures.
 
 
 `Epidemiology`_ from Military Medical Research
-
-Occupational exposure
-#####################
-
 
 Industrial exposure
 
@@ -64,9 +60,7 @@ Effects of microwave radiation on children
 
 Because a child’s nervous system is growing and their head is more vulnerable to radiation energy, studies that have specifically addressed whether the nervous systems of children are more susceptible to electromagnetic radiation have been performed. However, there is little scientific evidence to demonstrate that children are more sensitive to electromagnetic radiation than adults [24, 25].
 
-++++++++++++++++++++++++++++++++++
-
-**We consider microwave frequency ranges and wavelengths from 300 MHz (1 m) to 10 GHz (3 cm) in air where availability of microwave sources coherent on short time scales (i.e., 50 μs) exist. The permittivity and conductivity of white and gray brain matter are shown in Figure 1 (20). Figure 2 shows the depth into brain tissue where the microwave energy is ~1/2.7 of incident energy. Note that microwave wavelengths in air and brain tissue are functions of microwave frequency. The microwave wavelengths in brain tissue range from 0.5 to 18 cm with 1/2.7 attenuation depths of 0.2–4 cm.**
+We consider microwave frequency ranges and wavelengths from 300 MHz (1 m) to 10 GHz (3 cm) in air where availability of microwave sources coherent on short time scales (i.e., 50 μs) exist. The permittivity and conductivity of white and gray brain matter are shown in Figure 1 (20). Figure 2 shows the depth into brain tissue where the microwave energy is ~1/2.7 of incident energy. Note that microwave wavelengths in air and brain tissue are functions of microwave frequency. The microwave wavelengths in brain tissue range from 0.5 to 18 cm with 1/2.7 attenuation depths of 0.2–4 cm.
 
 Figure shows that 0.3–10 GHz microwave radiation penetrates a few cm to a few mm into brain tissue:
 
