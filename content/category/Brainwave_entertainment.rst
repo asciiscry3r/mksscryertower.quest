@@ -36,25 +36,29 @@ pavlov dog experiment https://www.google.com/search?client=firefox-b-d&q=pavlov+
 
 neuroconstructivist https://www.google.com/search?q=neuroconstructivist&client=firefox-b-d&sxsrf=ALiCzsba9RSP7ScxMRSx59vG5xMlt79_xg%3A1668920564747&ei=9LR5Y4CdLdGW8gK136HICg&oq=Neuroconstru&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgBMgUIABCABDIFCAAQgAQyBQgAEIAEMggILhCABBDUAjIICC4QgAQQ1AIyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoECAAQRzoKCAAQRxDWBBCwAzoHCAAQsAMQQzoNCAAQ5AIQ1gQQsAMYAToPCC4Q1AIQyAMQsAMQQxgCOgwILhDIAxCwAxBDGAI6BwgjEOoCECc6BAgjECc6BAgAEEM6EQguEIAEELEDEIMBEMcBENEDOgsIABCABBCxAxCDAToUCC4QgAQQsQMQgwEQxwEQ0QMQ1AI6BQgAEJECOgQILhBDOgoIABCxAxCDARBDOggIABCABBCxAzoHCAAQsQMQQzoQCC4QsQMQgwEQxwEQ0QMQQzoLCC4QgAQQxwEQ0QM6BwgAEIAEEAo6CwguEIAEEMcBEK8BSgQIQRgASgQIRhgBULCoCVjr3AlgmIAKaANwAngAgAGHAYgB8QqSAQQwLjEymAEAoAEBsAEKyAESwAEB2gEGCAEQARgJ2gEGCAIQARgI&sclient=gws-wiz-serp
 
-50 Hz field in living rooms
 
-Power signals from electrical devices
+++++
 
-Transformers
+50 Hz field in living rooms - non nathural brain development
 
-VHF/UHF and Computers and TV
+Power signals from electrical devices - EMF tele control but only n some places and this can be current injectino
 
-Food/Water Drugs
+Transformers - EMF tele control
 
-Brainwave sync
+VHF/UHF and Computers and TV - ideology
 
-pattern of development
+Food/Water Drugs - CNS damage
 
-memory
+Brainwave sync - control of human
+
+pattern of development - piracy or ~hackers~ ideology
+
+memory - gipocampus/brain damage by microwave/uhf or vhf
 
 https://www.ukessays.com/essays/psychology/nativist-and-neuroconstructivist-positions-of-brain-development.php
 
 https://en.wikipedia.org/wiki/Interactive_specialization
+
 
 WIP
 +++
@@ -74,6 +78,14 @@ phone magnetometer can`t record brain waves - he need ability to measure super l
 .. image:: images/achh.jpg
            :align: left
 
+
+Hakers - cults or religions brainwashers and soldiers - all brainwashed - rondroinds, old aum hakers, new age, etc. - terrorists - they use all devices with CDA in building and cell towers for killing enemy
+
+Hakers - tech subculture - anarhy but somethimes they have same ideology or morale - geeks - sometimes someone can be a fucked up - regular criminals
+
+Hakers - millitary brainwashed instruments - terrorists
+
+Hakers - piracy ( e-shpionage ) brainwashed instrument - terrorists
 
 
 And today I find same class of device on market, hope it is only fake for money...

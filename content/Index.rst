@@ -41,6 +41,10 @@ Pages
 
 `2FA for servers <{filename}/category/2FA_for_servers.rst>`_
 
+`EMF and Human health <{filename}/category/Health_Effects_in_RF_Electromagnetic_fields.rst>`_
+
+`Artificial human life = existence <{filename}/category/Artificial_human_life_and_existence.rst>`_
+
 `Crimes with brain scanners, human detectors, other devices and me <{filename}/category/Crimes_with_brain_scanners_human_detectors_other_devices_and_me.rst>`_
 
 `Computer trace system <{filename}/category/Computer_trace_system.rst>`_
@@ -48,8 +52,6 @@ Pages
 `Internet as a phenomenon <{filename}/category/Internet_as_a_phenomenon.rst>`_
 
 `Human rights in Ukraine <{filename}/category/Human_rights_in_Ukraine.rst>`_
-
-`EMF and Human health <{filename}/category/Health_Effects_in_RF_Electromagnetic_fields.rst>`_
 
 `Slavery in piracy groups, criminal groups and in cults <{filename}/category/Slavery_in_piracy_groups_criminal_groups_and_in_cults.rst>`_
 

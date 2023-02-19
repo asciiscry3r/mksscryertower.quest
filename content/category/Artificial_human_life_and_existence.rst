@@ -1,15 +1,15 @@
-Artificial human life is existence
-##################################
+Artificial human life = existence
+#################################
 
 :date: 2022-10-10 10:20
 :modified: 2022-11-09 18:40
 :tags: knowlege, science
 :category: knowlege, science
-:slug: Artificial human life is existence
+:slug: Artificial human life = existence
 :authors: Klimenko/Tsikunkov Maxim Sergievich
-:summary: Artificial human life is existence
+:summary: Artificial human life = existence
 
-##################################
+#################################
 
 No life concept
 +++++++++++++++
@@ -46,3 +46,5 @@ Some Hackers
 Some Piracy
 
 Control of human bodyes with killed consciousness - I
+
+https://aeon.co/essays/how-might-telepathy-actually-work-outside-the-realm-of-sci-fi?utm_source=rss-feed
