@@ -6,7 +6,7 @@ Slavery in piracy groups, criminal groups and in cults
 :tags: dew, cults, cybersecurity, military, piracy, law
 :category: dew, cults, cybersecurity, military, piracy, law
 :slug: Slavery in piracy groups, criminal groups and in cults
-:authors: Klimenko/Tsikunkov Maxim Sergievich
+:authors: Klimenko Maxim Sergievich
 :summary: Slavery in piracy groups, criminal groups and in cults
 
 #####################################################

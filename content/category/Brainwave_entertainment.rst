@@ -6,7 +6,7 @@ Brainwave entertainment
 :tags: knowlege, science
 :category: knowlege, science
 :slug: Brainwave entertainment
-:authors: Klimenko/Tsikunkov Maxim Sergievich
+:authors: Klimenko Maxim Sergievich
 :summary: Brainwave entertaiment
 
 #######################

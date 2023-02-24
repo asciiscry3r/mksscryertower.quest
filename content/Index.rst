@@ -2,7 +2,7 @@ mksscryertower.quest
 ####################
 
 :date: 2029-09-12 03:05
-:authors: Klimenko/Tsikunkov Maxim Sergievich
+:authors: Klimenko Maxim Sergievich
 
 ####################
 

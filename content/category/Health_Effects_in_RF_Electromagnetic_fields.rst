@@ -5,7 +5,7 @@ Health Effects in RF Electromagnetic fields
 :tags: dew, cybersecurity, military, cults
 :category: dew, cybersecurity, military, cults
 :slug: Health Effects in RF Electromagnetic fields
-:authors: Klimenko/Tsikunkov Maxim Sergievich
+:authors: Klimenko Maxim Sergievich
 :summary: Health Effects in RF Electromagnetic fields
 
 ###########################################

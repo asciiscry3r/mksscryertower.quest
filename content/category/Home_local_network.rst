@@ -5,7 +5,7 @@ Home local network
 :tags: cybersecurity, diy, it, hacking
 :category: cybersecurity, diy, it, hacking
 :slug: Home local network
-:authors: Klimenko/Tsikunkov Maxim Sergievich
+:authors: Klimenko Maxim Sergievich
 :summary: Home local network
 
 ##################

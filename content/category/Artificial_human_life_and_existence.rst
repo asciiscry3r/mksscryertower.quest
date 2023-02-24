@@ -6,7 +6,7 @@ Artificial human life = existence
 :tags: knowlege, science
 :category: knowlege, science
 :slug: Artificial human life = existence
-:authors: Klimenko/Tsikunkov Maxim Sergievich
+:authors: Klimenko Maxim Sergievich
 :summary: Artificial human life = existence
 
 #################################

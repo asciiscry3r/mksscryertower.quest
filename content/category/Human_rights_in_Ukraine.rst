@@ -5,7 +5,7 @@ Human rights in Ukraine
 :category: law, crimes, cults, ukraine
 :tags: law, crimes, cults, ukraine
 :slug: Human rights in Ukraine
-:authors: Klimenko/Tsikunkov Maxim Sergievich
+:authors: Klimenko Maxim Sergievich
 :summary: Human rights in Ukraine
 
 #######################

@@ -5,7 +5,7 @@ Internet as a phenomenon
 :category: internet, science
 :tags: internet, science
 :slug: Internet as a phenomenon
-:authors: Klimenko/Tsikunkov Maxim Sergievich
+:authors: Klimenko Maxim Sergievich
 :summary: Internet as a phenomenon
 
 ########################

@@ -5,7 +5,7 @@ Local DNS server on NanoPi Neo2
 :tags: diy, cybersecurity, it, dns
 :category: diy, cybersecurity, it, dns
 :slug: Local DNS server on NanoPi Neo2
-:authors: Klimenko/Tsikunkov Maxim Sergievich
+:authors: Klimenko Maxim Sergievich
 :summary: Local DNS server on NanoPi Neo2
 
 ###############################

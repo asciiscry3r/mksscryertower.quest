@@ -1,20 +1,20 @@
-Klimenko/Tsikunkov Maxim Sergievich
-###################################
+Klimenko Maxim Sergievich
+#########################
 
-:date: 2022-09-28 19:50
+:date: 2023-02-24 23:59
 :category: About
 :tags: About
 :slug: About
-:authors: Klimenko/Tsikunkov Maxim Sergievich
+:authors: Klimenko Maxim Sergievich
 :summary: About
 
-###################################
+#########################
 
-===================================
-Klimenko/Tsikunkov Maxim Sergievich
-===================================
+=========================
+Klimenko Maxim Sergievich
+=========================
 
-| IT administrator and GNU/Linux Demonic Space Pirate ( ! online ) and "black" man in Scientology - because they decide to control me ( ! online ). And sometimes a cloud infrastructure engineer and always without faith.
+| IT administrator and GNU/Linux user, Ukrainian SSR Civil Defence member ( ! communist ), pirate( ! online ) and "black" man in Scientology - because they decide to control me ( ! online ). And sometimes a cloud infrastructure engineer and always without faith.
 | If you ask me, I don't allow Scientology people and cyber-criminals to use me and my work, but who asks... and by the way, I use Arch Linux.
 | I can publish one variant then, after days, remember something an update all site :)
 

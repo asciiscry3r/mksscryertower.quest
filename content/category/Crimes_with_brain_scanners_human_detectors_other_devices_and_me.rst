@@ -6,7 +6,7 @@ Crimes with brain scanners, human detectors, other devices and me
 :tags: dew, cults, cybersecurity, military
 :category: cybersecurity, crimes, cults, ukraine
 :slug: Crimes with brain scanners, human detectors, other devices and me
-:authors: Klimenko/Tsikunkov Maxim Sergievich
+:authors: Klimenko Maxim Sergievich
 :summary: Crime with brain scanners, human detectors and other devices
 
 ################################################################

@@ -5,7 +5,7 @@ Workstation Configuration
 :tags: cybersecurity, diy, it, hacking
 :category: cybersecurity, diy, it, hacking
 :slug: Workstation Configuration
-:authors: Klimenko/Tsikunkov Maxim Sergievich
+:authors: Klimenko Maxim Sergievich
 :summary: Workstation Configuration
 
 #########################

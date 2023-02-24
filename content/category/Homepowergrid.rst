@@ -5,7 +5,7 @@ Home power grid
 :tags: cybersecurity, diy, it, hacking, health
 :category: cybersecurity, diy, it, hacking, health
 :slug: Home power grid
-:authors: Klimenko/Tsikunkov Maxim Sergievich
+:authors: Klimenko Maxim Sergievich
 :summary: Home power grid
 
 ###############

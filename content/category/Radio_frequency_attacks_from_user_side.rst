@@ -6,7 +6,7 @@ Radio frequency attacks from user side
 :tags: dew, cults, cybersecurity, military
 :category: cybersecurity, crimes, radio, rf, hacking
 :slug: Radio frequency attacks from user side
-:authors: Klimenko/Tsikunkov Maxim Sergievich
+:authors: Klimenko Maxim Sergievich
 :summary: Radio frequency attacks from user side
 
 ######################################

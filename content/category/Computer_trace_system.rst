@@ -6,7 +6,7 @@ Computer trace system
 :tags: dew, cults, cybersecurity, military
 :category: dew, cults, cybersecurity, military
 :slug: Computer trace system
-:authors: Klimenko/Tsikunkov Maxim Sergievich
+:authors: Klimenko Maxim Sergievich
 :summary: Computer trace system
 
 ########################

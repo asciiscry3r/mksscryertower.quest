@@ -5,7 +5,7 @@ Routers Configuration
 :tags: cybersecurity, diy, it, hacking
 :category: cybersecurity, diy, it, hacking
 :slug: Routers Configuration
-:authors: Klimenko/Tsikunkov Maxim Sergievich
+:authors: Klimenko Maxim Sergievich
 :summary: Routers Configuration
 
 #####################

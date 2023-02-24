@@ -6,7 +6,7 @@
 :tags: knowlege, science
 :category: knowlege, science
 :slug: 2FA for Servers
-:authors: Klimenko/Tsikunkov Maxim Sergievich
+:authors: Klimenko Maxim Sergievich
 :summary: 2FA for Servers
 
 ###############
