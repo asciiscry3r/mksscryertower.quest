@@ -61,7 +61,7 @@ Pages
 
 `Dao of infosec <{filename}/category/Dao_of_infosec.rst>`_
 
-`Dao of programming <{filename}/category/Dao_of_programming.rst`_
+`Dao of programming <{filename}/category/Dao_of_programming.rst>`_
 
 `About <{filename}/category/About.rst>`_
 
