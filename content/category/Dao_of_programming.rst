@@ -1,15 +1,19 @@
 Dao of programming
 ##################
 
-:date: 2022-10-10 10:20
-:modified: 2022-11-09 18:40
+:date: 2023-03-05 10:20
+:modified: 2023-03-05 10:20
 :tags: knowlege, philosophy
 :category: knowlege, philosophy
-:slug: 2FA for Servers
+:slug: Dao of programming
 :authors: Klimenko Maxim Sergievich
 :summary: Dao of programming
 
 ##################
+
+Перевод Джоффри Джеймса (Geoffrey James)
+Переложение Дюка Хилларда (Duke Hillard)
+Перевод на русский язык Михаила Тарасова и Марка Шевченко
 
 Книга 1
 Молчаливая Пустота

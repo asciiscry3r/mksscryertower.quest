@@ -1,11 +1,11 @@
 Dao of infosec
 ##############
 
-:date: 2022-10-10 10:20
-:modified: 2022-11-09 18:40
+:date: 2023-03-05 10:20
+:modified: 2023-03-05 10:20
 :tags: knowlege, philosophy
 :category: knowlege, philosophy
-:slug: 2FA for Servers
+:slug: Dao of infosec
 :authors: Klimenko Maxim Sergievich
 :summary: Dao of infosec
 

@@ -1,7 +1,7 @@
 mksscryertower.quest
 ####################
 
-:date: 2029-09-12 03:05
+:date: 2029-09-12 03:44
 :authors: Klimenko Maxim Sergievich
 
 ####################
@@ -58,6 +58,10 @@ Pages
 `Brainwave entertainment (WIP) <{filename}/category/Brainwave_entertainment.rst>`_
 
 `Radio frequency attacks from user side (WIP) <{filename}/category/Radio_frequency_attacks_from_user_side.rst>`_
+
+`Dao of infosec <{filename}/category/Dao_of_infosec.rst>`_
+
+`Dao of programming <{filename}/category/Dao_of_programming.rst`_
 
 `About <{filename}/category/About.rst>`_
 
