@@ -126,6 +126,8 @@ About "Scientology methods" in Ukraine Army, SBU and police - they use scientolo
 
 * Everyday psychological violence for changing your balance of neurotransmitters
 
+Always use CDA/PCA/`Security device <{filename}/category/Computer_trace_system.rst>`_ without proper legal acts - illegally - without state court decision and notification about this.
+
 About scientology and co "medical" activity:
 
 They can try to use TMS ( transcranial magnetic stimulation ) and rTMS ( repetitive transcranial magnetic stimulation  ), extremely low freaquency and high-frequency, transcranial direct current stimulation (tDCS)  against "patients" who has nicotine, alcogol or drugs addiction and against people with cancer or other form of brain or neural disease, some people die from this actions in past - I know about 2 women in Ukraine and we have more deads in Ukraine and other countries. They use BBI ( radiate you by signal recorded from their life activity ) and `TMS`_ at your home without certification, proper equipment and without your permission. And in process try to control you or create your "shadow" who every day know what you think or do.
