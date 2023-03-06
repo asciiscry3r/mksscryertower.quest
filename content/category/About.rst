@@ -40,7 +40,7 @@ Articles of Association
 
 8. Not following the will of the society, people or organization of any kind if I (you) do not have freedom, will, and if it does not bring benefit if there is freedom with free my ( your ) will.
 
-9. No for all scientology and prohibited work for them when you realy know about them, as much as possible.
+9. No for all scientology/online piracy and their proposes and prohibited work for them when you realy know about them, as much as possible.
 
 10. Always be grateful to NATO's Ukrainian traitors to the people because of brainwashing ( mind wiping ) from early childhood, consider their cults, military hackers an psy-op army and sincerely send all them to (abuse).
 
