@@ -130,8 +130,6 @@ About scientology and co "medical" activity:
 
 They can try to use TMS ( transcranial magnetic stimulation ) and rTMS ( repetitive transcranial magnetic stimulation  ), extremely low freaquency and high-frequency, transcranial direct current stimulation (tDCS)  against "patients" who has nicotine, alcogol or drugs addiction and against people with cancer or other form of brain or neural disease, some people die from this actions in past - I know about 2 women in Ukraine and we have more deads in Ukraine and other countries. They use BBI and `TMS`_ at your home without certification, proper equipment and without your permission. And in process try to control you or create your "shadow" who every day know what you think or do.
 
-We have very nice people in army... and scientology nice too, in see this first time in my 8 year....
-
 .. _TMS: https://pubmed.ncbi.nlm.nih.gov/34514666/
 
 Related law in Ukraine:
