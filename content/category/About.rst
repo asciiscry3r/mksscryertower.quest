@@ -42,7 +42,7 @@ Articles of Association
 
 9. No for all scientology and prohibited work for them when you realy know about them, as much as possible.
 
-10. Always be grateful to NATO's Ukrainian traitors to the people because of brainwashing ( mind wiping ) from early childhood, consider their cults, military hackers an psy-op army and sincerely send all them to ***.
+10. Always be grateful to NATO's Ukrainian traitors to the people because of brainwashing ( mind wiping ) from early childhood, consider their cults, military hackers an psy-op army and sincerely send all them to (abuse).
 
 Author on photo:
 ++++++++++++++++
