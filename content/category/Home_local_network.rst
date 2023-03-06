@@ -10,6 +10,9 @@ Home local network
 
 ##################
 
+.. image:: images/CIAJMK1209-en.svg.png
+           :align: left
+
 Home network in server cabinet:
 
 .. image:: images/photo_2023-02-11_19-03-50.jpg
