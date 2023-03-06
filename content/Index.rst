@@ -67,6 +67,12 @@ Pages
 
 #####################
 
+1. The freedom of one ends where the freedom of another begins.
+
+2. The ends do not justify the means.
+
+3. Freedom of association and disassociation.
+
 ==========
 Links Tree
 ==========
