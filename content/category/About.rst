@@ -14,7 +14,7 @@ Klimenko Maxim Sergievich
 Klimenko Maxim Sergievich
 =========================
 
-| IT administrator and GNU/Linux user, Ukrainian SSR Civil Defence member ( ! communist ), I want and I will always know and remember my history and history of my country, and "black" man in Scientology - because they decide to control me like a robot. And sometimes a cloud infrastructure engineer and always without faith.
+| IT administrator and GNU/Linux user, but I don't have much knowledge about hardware and networking because I didn't get lessons from Scientology hackers, a member of the Civil Defense of the USRR (! communist,scientologist/andropov/beria fun ), I want and always will know and remember my history and the history of my country, and a "black" person in scientology - because they decided to control me like a robot/slave from childhood. And sometimes a cloud infrastructure engineer and always without faith.
 | If you ask me, I don't allow Scientology people and cyber-criminals to use me and my work, but who asks... and by the way, I use Arch Linux.
 | I can publish one variant then, after days, remember something an update all site - because my memory is like controlled disk.
 
@@ -30,13 +30,13 @@ P.C. Klimenko Maxim Sergievich
 Articles of Association
 +++++++++++++++++++++++
 
-1. No religion, only scientific atheism, hackers is Hollywood religion.
+1. No religion, only scientific atheism.
 
 2. Full respect for universal human rights and their implementation to the maximum extent possible, does not take into account religious organizations or other people if they violate them first.
 
 3. Prohibition of human control using technical means and transmission of electromagnetic radiation from life activities.
 
-4. Prohibited online piracy and its support how much as possible. Security reason.
+4. Prohibited online piracy/criminals and its support how much as possible. Security reason.
 
 5. Neuroethics.
 
@@ -46,12 +46,16 @@ Articles of Association
 
 8. Not following the will of the society, people or organization of any kind if I (you) do not have freedom, will, and if it does not bring benefit if there is freedom with free my ( your ) will. Security reason.
 
-9. No for all scientology/online piracy and their proposes and prohibited work for them when you realy know about them, as much as possible. Security reason.
+9. No for all scientology/online piracy/criminals proposes and prohibited work for them when you realy know about them, as much as possible. Security reason.
 
-10. Always be grateful to NATO's Ukrainian traitors to the people because of brainwashing ( mind wiping ) from early childhood, consider their cults, military hackers an psy-op army and sincerely send all them to (abuse). Unsecure.
+10. Always be grateful to Ukrainian traitors ( armies,  russia too ) to the people because of brainwashing ( mind wiping, psychic driving ) from early childhood, consider their cults, military hackers an psy-op army and sincerely send all them to (abuse). Unsecure.
+
+11. If you control someone without permission and using killing and any kind of neurological weapon you a creator of human trafficking and criminal.
 
 Author on photo:
 ++++++++++++++++
+
+25.05.1991 in Ukraine/USRR Mirgorod.
 
 .. image:: images/ktms.jpg
            :align: left

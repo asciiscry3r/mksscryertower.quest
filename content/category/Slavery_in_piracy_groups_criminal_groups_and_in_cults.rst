@@ -11,6 +11,62 @@ Slavery in piracy groups, criminal groups and in cults
 
 #####################################################
 
+Scientology - american/soviet totalitarian cult created with Andropov/Beria mindset communists, slave owners and human traders in USA. For USSR - they must destroy USA from inside and for USA they must destroy USSR from inside.
+In UA/RU net we can find stories about `Chernobyl centre`_ of `"Psychotronics"`_ - home of soviet part of Scientology, Duga and similar projects, "Krab" and "Sneak" control systems. In theory..
+
+“Based on the research carried out in 1972-1973, the Institute of Radio Electronics of the USSR Academy of Sciences completed the manufacture and introduction into military practice of the latest radio-technical weapons. The artificial creation of a race of slaves with desired properties has practically become real. There is a classification in the military-industrial complex, where the seventh, newest generation of weapons of mass destruction is called a weapon that affects the genetic apparatus." - and all scientology look at you like at biorobot or slave.
+
+Why we have communists in religious cults or religious is opium for people's:
+Cultural Marxism was not just a philosophical theory, but it became a blueprint for communist subversion during the Cold War. According to the Czech defector Major-General Jan Sejna, Brezhnev (General Secretary 1964–82) created a ‘long-range strategic plan’ for defeating the West through political warfare and demoralisation. The plan had four stages: (1) ‘peaceful coexistence’, (2) ‘peaceful coexistence struggle’, (3) ‘period of dynamic social change’ and (4) the ‘era of global democratic peace’, which was supposed to arrive in 1995 (Sejna, 1982: 106). The objective in phase two was to ‘accelerate the social fragmentation of the Capitalist countries’ (Sejna, 1982: 106).
+
+Military Neuroscience and the Coming Age of Neurowarfare, 2016 Armin Krishnan, 262–263.
+Military Neuroscience and the Coming Age of Neurowarfare, 2016 Armin Krishnan, 260–262.
+
+Military Neuroscience and the Coming Age of Neurowarfare, 2016 Armin Krishnan, 265–266.::
+         
+  The demoralization process in the United States is basically
+  completed already for the last 25 years. Actually, it’s
+  over fulfilled because demoralization now reaches such
+  areas where not even Comrade Andropov and all his experts
+  would even dream of such tremendous success. Most of it
+  is done by Americans to Americans thanks to lack of moral
+  standards. As I mentioned before, exposure to true information
+  does not matter anymore. A person who was demoralized is
+  unable to assess true information. The facts tell nothing
+  to him, even if I shower him with information, with authentic
+  proof, with documents and pictures. …he will refuse to
+  believe it… That’s the tragedy of the situation of demoralization.
+
+
+True, when the real total shit started with the control of the entire population of countries by the mafia, the remnants of the authorities tried to start a war for order, in fact, the army and special services had the right to kill on the spot::
+
+  Law of the USSR dated August 1, 1990
+  No. v1552400-90 "About the press and other mass media
+  information" became the first attempt to establish
+  the right to freedom of thought and speech in the profile
+  regulatory act. In Art. 5 (unprecedented
+  the shame of abusing freedom of speech)
+  declared inadmissibility clause
+  use of mass media for
+  disclosure of information that constitutes state information
+  or other specially guarded secret
+  by law, call for violent overthrow or
+  changes in the state and social order, propaganda
+  war, violence and cruelty, racial,
+  national, religious exclusivity or non-
+  impudence, distribution of pornography with a purpose
+  committing other criminal acts.
+  Prohibited and prosecuted according to
+  the law on the use of mass media
+  to interfere in the private life of citizens,
+  encroachment on their honor and dignity ("Zakon
+  SRSR", 1990).
+
+
+.. _Chernobyl centre: https://fakty.ua/ru/232914-polkovnik-znal-chto-ecshe-v-1982-godu-gensek-ck-kpss-yurij-andropov-prikazal-sozdat-v-ukraine-glavnyj-centr-psihotroniki
+
+.. _`"Psychotronics"`: https://unesdoc.unesco.org/ark:/48223/pf0000010750
+
 An Aum Shinrikyo follower mediates at the cult's camp near Mount Fuji in 1995, wearing a headset supposed to emit leader Shoko Asahara's brain waves.
 Source: https://asia.nikkei.com/Politics/Executions-can-t-erase-Japanese-death-cult-s-dark-legacy
 
@@ -49,6 +105,8 @@ They all is a part of groups who use disinformation on society and create mass o
 
 .. image:: images/BACKCOVER_DaveDanzara_103-1.v01.jpg
 	   :align: left
+
+By @davedanzara
 
 In the situation of human trafficking, the following basic rights are violated:
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -132,6 +190,29 @@ About scientology and co "medical" activity:
 
 They can try to use TMS ( transcranial magnetic stimulation ) and rTMS ( repetitive transcranial magnetic stimulation  ), extremely low freaquency and high-frequency, transcranial direct current stimulation (tDCS)  against "patients" who has nicotine, alcogol or drugs addiction and against people with cancer or other form of brain or neural disease, some people die from this actions in past - I know about 2 women in Ukraine and we have more deads in Ukraine and other countries. They use BBI ( radiate you by signal recorded from their life activity ) and `TMS`_ at your home without certification, proper equipment and without your permission. And in process try to control you or create your "shadow" who every day know what you think or do.
 
+Scientology in Ukraine news and court::
+
+  Refusal to register the charter of the religious community
+  “CHURCH OF SCIENTOLOGY KYIV” in the Pechersky district of Kyiv
+  is contained in the order of the Kyiv City State Administration
+  dated 15.08.2014 No. 905, the text of which is available to KV.
+
+  “In accordance with Articles 14, 15 of the Law of Ukraine
+  “On Freedom of Conscience and Religious Organizations”, having
+  considered the application of citizens dated May 20, 2014 and
+  the protocol of general meetings of believing citizens of the
+  religious community “CHURCH OF SCIENTOLOGY KYIV” in the Pechersky
+  district of Kiev dated May 12, 2014 No. 1, within the framework
+  of the functions of the local executive authority:
+
+  Refuse to register the charter of the religious community
+  "CHURCH OF SCIENTOLOGY KIEV" in the Pechersky district of Kiev
+  due to the fact that the provisions of the said Charter do not
+  meet the requirements of Articles 5, 9, 12 of the Law of Ukraine
+  "On Freedom of Conscience and Religious Organizations,"
+  the document says.
+
+
 .. _TMS: https://pubmed.ncbi.nlm.nih.gov/34514666/
 
 Related law in Ukraine:
@@ -198,3 +279,7 @@ https://www.jstor.org/stable/resrep06323?seq=11#metadata_info_tab_contents
 https://en.wikipedia.org/wiki/Narconon
 
 https://www.cs.cmu.edu/~dst/Library/Shelf/wakefield/us-16.html
+
+https://fakty.ua/ru/232914-polkovnik-znal-chto-ecshe-v-1982-godu-gensek-ck-kpss-yurij-andropov-prikazal-sozdat-v-ukraine-glavnyj-centr-psihotroniki
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjVu5mbpaj-AhWslosKHWeIBVEQFnoECBAQAQ&url=https%3A%2F%2Fphilosophy.naiau.kiev.ua%2Findex.php%2Fphilosophy%2Farticle%2Fdownload%2F1255%2F1258%2F&usg=AOvVaw2qNtmc_EGtQ6okPzhcvxD3

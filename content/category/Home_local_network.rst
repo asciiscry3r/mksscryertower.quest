@@ -13,7 +13,7 @@ Home local network
 .. image:: images/CIAJMK1209-en.svg.png
            :align: left
 
-Home network in server cabinet:
+Home network in server cabinet ( PPE (PC) Klimenko Maxim Sergievich ):
 
 .. image:: images/photo_2023-02-11_19-03-50.jpg
            :align: left
@@ -33,6 +33,15 @@ Home network in server cabinet:
 .. image:: images/photo_2023-02-11_19-03-34.jpg
            :align: left
 
+.. image:: images/2023-04-13-22-23-38-723.jpg
+           :align: left
+
+.. image:: images/2023-03-30-22-34-34-538.jpg
+           :align: left
+
+.. image:: images/2023-03-09-18-56-31-891.jpg
+           :align: left
+		   
 OpenWRT firmware
 
 .. image:: images/IMG_20221020_043306.jpg

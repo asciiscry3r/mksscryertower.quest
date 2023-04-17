@@ -13,6 +13,9 @@ Workstation Configuration
 .. image:: images/workstation.png
            :align: left
 
+.. image:: images/2023-04-13-22-23-38-723.jpg
+           :align: left
+
 `Linux configs and etc`_
 
 .. _Linux configs and etc: https://github.com/asciiscry3r/dotfiles
