@@ -20,6 +20,8 @@ Factors affecting the civilian population during a war between countries or mafi
 6. resonant frequencies from the fact that the equipment is turned on in the house/
 7. RF attacks on filters with low inductance
 8. RF attacks on ground for creating current and block ground wire flow
+9. Microwave attacks on filters with low/hight inductance
+10. Mobile network base station is UHF radiostation with diapason ~900-2800~3000 MHz and hackers or mafia(cults) can just rewrite firmware on all your devices from this or station, get access to signal networks and can use as direct energy weapon. 
 
 Related science work: https://www.academia.edu/37849621/ELF_SIGNALS_FROM_THE_POWER_GRID_Possible_Use_for_Detecting_Natural_Phenomena
 
@@ -52,6 +54,24 @@ Fix for some freaquency oscilation on line:
 Low price:
 
 .. image:: images/2023-04-17-02-42-15-645.jpg
+           :align: left
+
+Second test setup with `notch filters`_ for line grounding and for neutral grounding:
+
+.. _`notch filters`: https://www.researchgate.net/figure/50-Hz-twin-T-passive-notch-filter-circuit_fig8_282404009
+
+.. image:: images/2023-04-19-23-07-21-281.jpg
+           :align: left
+
+.. image:: images/2023-04-19-21-04-35-229.jpg
+           :align: left
+
+.. image:: images/2023-04-20-00-04-10-981.jpg
+           :align: left
+
+Scheme:
+
+.. image:: images/img-2023-04-20-035927.png
            :align: left
 
 Mind controll from scientology:

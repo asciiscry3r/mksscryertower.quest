@@ -11,7 +11,7 @@ Slavery in piracy groups, criminal groups and in cults
 
 #####################################################
 
-Scientology - american/soviet totalitarian cult created with Andropov/Beria mindset communists, slave owners and human traders in USA. For USSR - they must destroy USA from inside and for USA they must destroy USSR from inside.
+Scientology - american/soviet totalitarian destructive cult created with Andropov/Beria mindset communists, slave owners and human traders in USA. For USSR - they must destroy USA from inside and for USA they must destroy USSR from inside.
 In UA/RU net we can find stories about `Chernobyl centre`_ of `"Psychotronics"`_ - home of soviet part of Scientology, Duga and similar projects, "Krab" and "Sneak" control systems. In theory..
 
 “Based on the research carried out in 1972-1973, the Institute of Radio Electronics of the USSR Academy of Sciences completed the manufacture and introduction into military practice of the latest radio-technical weapons. The artificial creation of a race of slaves with desired properties has practically become real. There is a classification in the military-industrial complex, where the seventh, newest generation of weapons of mass destruction is called a weapon that affects the genetic apparatus." - and all scientology look at you like at biorobot or slave.
@@ -19,8 +19,7 @@ In UA/RU net we can find stories about `Chernobyl centre`_ of `"Psychotronics"`_
 Why we have communists in religious cults or religious is opium for people's:
 Cultural Marxism was not just a philosophical theory, but it became a blueprint for communist subversion during the Cold War. According to the Czech defector Major-General Jan Sejna, Brezhnev (General Secretary 1964–82) created a ‘long-range strategic plan’ for defeating the West through political warfare and demoralisation. The plan had four stages: (1) ‘peaceful coexistence’, (2) ‘peaceful coexistence struggle’, (3) ‘period of dynamic social change’ and (4) the ‘era of global democratic peace’, which was supposed to arrive in 1995 (Sejna, 1982: 106). The objective in phase two was to ‘accelerate the social fragmentation of the Capitalist countries’ (Sejna, 1982: 106).
 
-Military Neuroscience and the Coming Age of Neurowarfare, 2016 Armin Krishnan, 262–263.
-Military Neuroscience and the Coming Age of Neurowarfare, 2016 Armin Krishnan, 260–262.
+Military Neuroscience and the Coming Age of Neurowarfare, 2016 Armin Krishnan, 262–263, 260–262.
 
 Military Neuroscience and the Coming Age of Neurowarfare, 2016 Armin Krishnan, 265–266.::
          

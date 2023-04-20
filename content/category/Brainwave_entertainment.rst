@@ -29,6 +29,23 @@ Types Of Brainwave Entertainment:
 
 Brainwave entertainment in mafia/cults or in inhuman countries ( MkUltra / Scientology / Ukraine people( they call self a hackers ) brainwashed by OSA/Guardians ) - IMHO JFF
 
+First experiments with brainwaves - 1922:
+
+Кажинский Бернард - Биологическая радиосвязь/Kazhinsky Bernard - Biological radio communication
+
+And first experiments with mental state transplantation.
+
+.. image:: images/img-2023-04-17-044949.png
+           :align: left
+
+.. image:: images/img-2023-04-17-045258.png
+           :align: left
+
+"For me, looking for an analogy between the elements of the nervous system and the details of a radio station, it was clear that the author of the book did not find it possible (at least at that time) to attribute the meaning of "self-induction coils" to spirals in nerves. This conclusion was also confirmed by the fact that in the second place of the same book, A. V. Leontovich only casually mentions the capacitor phenomenon in the nervous system according to the theory of V. M. Bekhterev.[3] By the way, it will be noted that I did not find an indication of the analogy with the oscillations of the Thomson contour in the works of V. M. Bekhterev. Consequently, this question is completely new, not yet studied and awaiting its development."
+
+.. image:: images/img-2023-04-18-075605.png
+           :align: left
+		   
 Plan
 ++++
 

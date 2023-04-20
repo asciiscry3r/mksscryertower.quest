@@ -87,6 +87,10 @@ Links Tree
 
 .. _My Instagram: https://www.instagram.com/maximklimenkosergievich/
 
+`My Tech`_
+
+.. _My Tech: https://photos.app.goo.gl/Qp3hbLHZ2Ch7RH497
+
 `My Link Tree`_
 
 .. _My Link Tree: https://linktr.ee/_scry3r_
