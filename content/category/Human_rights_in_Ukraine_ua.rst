@@ -72,3 +72,5 @@ From Military Neuroscience and the Coming Age of Neurowarfare 2016, Armin Krishn
 	   :align: left
 
 https://drive.google.com/drive/folders/1ruSHXJEPLg2V-gQ6sZ1cd7pbd4Ksjscy?usp=share_link, можливо, я спробую проаналізувати це пізніше.
+
+Критика наносить шкоду устрою та імені країни та поліція і работорговці після невдач все самовіддано продовжують шукати шлях до створення нової волі у спаленої мікрохвилями жертви....
