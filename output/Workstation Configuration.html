@@ -193,9 +193,11 @@ net.ipv6.conf.default.use_tempaddr<span class="o">=</span><span class="m">2</spa
 ...
 <span class="nv">UUID</span><span class="o">=</span>....
 ...
-
-tmpfs<span class="w"> </span>/dev/shm<span class="w"> </span>tmpfs<span class="w"> </span>defaults,noatime,nodev,nosuid,mode<span class="o">=</span><span class="m">1777</span><span class="w"> </span><span class="m">0</span><span class="w"> </span><span class="m">0</span>
+/dev/nvme0n1p3<span class="w">              </span>/<span class="w">               </span>ext4<span class="w">            </span>rw,relatime<span class="w">     </span><span class="m">0</span><span class="w"> </span><span class="m">1</span>
+/dev/nvme0n1p1<span class="w">              </span>/boot<span class="w">           </span>vfat<span class="w">            </span>rw,nodev,nosuid,noexec,relatime,fmask<span class="o">=</span><span class="m">0022</span>,dmask<span class="o">=</span><span class="m">0022</span>,codepage<span class="o">=</span><span class="m">437</span>,iocharset<span class="o">=</span>ascii,shortname<span class="o">=</span>mixed,utf8,errors<span class="o">=</span>remount-ro<span class="w">       </span><span class="m">0</span><span class="w"> </span><span class="m">2</span>
+/var<span class="w">  </span>/var<span class="w">   </span>auto<span class="w">  </span>defaults,nodev,nosuid,noexec,nofail,nobootwait,bind<span class="w"> </span><span class="m">0</span><span class="w"> </span><span class="m">2</span>
 tmpfs<span class="w"> </span>/tmp<span class="w"> </span>tmpfs<span class="w"> </span>defaults,noatime,nodev,nosuid,mode<span class="o">=</span><span class="m">1777</span><span class="w"> </span><span class="m">0</span><span class="w"> </span><span class="m">0</span>
+tmpfs<span class="w"> </span>/dev/shm<span class="w"> </span>tmpfs<span class="w"> </span>defaults,noatime,nodev,nosuid,mode<span class="o">=</span><span class="m">1777</span><span class="w"> </span><span class="m">0</span><span class="w"> </span><span class="m">0</span>
 tmpfs<span class="w"> </span>/var/tmp<span class="w"> </span>tmpfs<span class="w"> </span>defaults,noatime,nodev,nosuid,mode<span class="o">=</span><span class="m">1777</span><span class="w"> </span><span class="m">0</span><span class="w"> </span><span class="m">0</span>
 </pre></div>
 </div>
@@ -241,11 +243,11 @@ blacklist<span class="w"> </span>kvm
 blacklist<span class="w"> </span>kvm_amd
 blacklist<span class="w"> </span>kvm_intel
 
-options<span class="w"> </span>snd_hda_intel<span class="w"> </span><span class="nv">power_save</span><span class="o">=</span><span class="m">1</span>
-options<span class="w"> </span>cfg80211<span class="w"> </span><span class="nv">cfg80211_disable_40mhz_24ghz</span><span class="o">=</span><span class="m">1</span>
-options<span class="w"> </span>mac80211<span class="w"> </span><span class="nv">minstrel_vht_only</span><span class="o">=</span><span class="m">1</span><span class="w"> </span><span class="nv">ieee80211_default_rc_algo</span><span class="o">=</span>minstrel_ht
+<span class="c1"># options snd_hda_intel power_save=1</span>
+<span class="c1"># options cfg80211 cfg80211_disable_40mhz_24ghz=1</span>
+<span class="c1"># options mac80211 minstrel_vht_only=1 ieee80211_default_rc_algo=minstrel_ht</span>
 
-options<span class="w"> </span>iwlwifi<span class="w"> </span><span class="nv">disable_11ax</span><span class="o">=</span><span class="m">1</span><span class="w"> </span><span class="nv">disable_11ac</span><span class="o">=</span><span class="m">0</span><span class="w"> </span><span class="nv">uapsd_disable</span><span class="o">=</span><span class="m">2</span><span class="w"> </span><span class="nv">power_save</span><span class="o">=</span><span class="m">1</span>
+<span class="c1"># options iwlwifi disable_11ax=1 disable_11ac=0 uapsd_disable=2 power_save=1</span>
 <span class="c1"># enable_ini=0</span>
 
 install<span class="w"> </span>dccp<span class="w"> </span>/bin/false
@@ -285,13 +287,13 @@ install<span class="w"> </span>gfs2<span class="w"> </span>/bin/true
 
 install<span class="w"> </span>vivid<span class="w"> </span>/bin/false
 
-<span class="c1"># install bluetooth /bin/false</span>
-<span class="c1"># install btusb /bin/false</span>
+install<span class="w"> </span>bluetooth<span class="w"> </span>/bin/false
+install<span class="w"> </span>btusb<span class="w"> </span>/bin/false
 
-<span class="c1"># install uvcvideo /bin/false</span>
+install<span class="w"> </span>uvcvideo<span class="w"> </span>/bin/false
 
 install<span class="w"> </span>firewire-core<span class="w"> </span>/bin/false
-<span class="c1"># install thunderbolt /bin/false</span>
+install<span class="w"> </span>thunderbolt<span class="w"> </span>/bin/false
 </pre></div>
 </div>
 

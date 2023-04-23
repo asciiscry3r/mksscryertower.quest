@@ -191,9 +191,11 @@ Workstation Configuration
     ...
     UUID=....
     ...
-		 
-    tmpfs /dev/shm tmpfs defaults,noatime,nodev,nosuid,mode=1777 0 0
+    /dev/nvme0n1p3      	/         	ext4      	rw,relatime	0 1
+    /dev/nvme0n1p1      	/boot     	vfat      	rw,nodev,nosuid,noexec,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=ascii,shortname=mixed,utf8,errors=remount-ro	0 2
+    /var  /var   auto  defaults,nodev,nosuid,noexec,nofail,nobootwait,bind 0 2
     tmpfs /tmp tmpfs defaults,noatime,nodev,nosuid,mode=1777 0 0
+    tmpfs /dev/shm tmpfs defaults,noatime,nodev,nosuid,mode=1777 0 0
     tmpfs /var/tmp tmpfs defaults,noatime,nodev,nosuid,mode=1777 0 0
 
 
@@ -251,11 +253,11 @@ Workstation Configuration
     blacklist kvm_amd
     blacklist kvm_intel
 
-    options snd_hda_intel power_save=1
-    options cfg80211 cfg80211_disable_40mhz_24ghz=1
-    options mac80211 minstrel_vht_only=1 ieee80211_default_rc_algo=minstrel_ht
+    # options snd_hda_intel power_save=1
+    # options cfg80211 cfg80211_disable_40mhz_24ghz=1
+    # options mac80211 minstrel_vht_only=1 ieee80211_default_rc_algo=minstrel_ht
 
-    options iwlwifi disable_11ax=1 disable_11ac=0 uapsd_disable=2 power_save=1
+    # options iwlwifi disable_11ax=1 disable_11ac=0 uapsd_disable=2 power_save=1
     # enable_ini=0
 
     install dccp /bin/false
@@ -295,13 +297,13 @@ Workstation Configuration
 
     install vivid /bin/false
 
-    # install bluetooth /bin/false
-    # install btusb /bin/false
+    install bluetooth /bin/false
+    install btusb /bin/false
 
-    # install uvcvideo /bin/false
+    install uvcvideo /bin/false
 
     install firewire-core /bin/false
-    # install thunderbolt /bin/false
+    install thunderbolt /bin/false
 
 
 

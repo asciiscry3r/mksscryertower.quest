@@ -184,9 +184,11 @@ net.ipv6.conf.default.use_tempaddr&lt;span class="o"&gt;=&lt;/span&gt;&lt;span c
 ...
 &lt;span class="nv"&gt;UUID&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;....
 ...
-
-tmpfs&lt;span class="w"&gt; &lt;/span&gt;/dev/shm&lt;span class="w"&gt; &lt;/span&gt;tmpfs&lt;span class="w"&gt; &lt;/span&gt;defaults,noatime,nodev,nosuid,mode&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1777&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
+/dev/nvme0n1p3&lt;span class="w"&gt;              &lt;/span&gt;/&lt;span class="w"&gt;               &lt;/span&gt;ext4&lt;span class="w"&gt;            &lt;/span&gt;rw,relatime&lt;span class="w"&gt;     &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
+/dev/nvme0n1p1&lt;span class="w"&gt;              &lt;/span&gt;/boot&lt;span class="w"&gt;           &lt;/span&gt;vfat&lt;span class="w"&gt;            &lt;/span&gt;rw,nodev,nosuid,noexec,relatime,fmask&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;0022&lt;/span&gt;,dmask&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;0022&lt;/span&gt;,codepage&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;437&lt;/span&gt;,iocharset&lt;span class="o"&gt;=&lt;/span&gt;ascii,shortname&lt;span class="o"&gt;=&lt;/span&gt;mixed,utf8,errors&lt;span class="o"&gt;=&lt;/span&gt;remount-ro&lt;span class="w"&gt;       &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;
+/var&lt;span class="w"&gt;  &lt;/span&gt;/var&lt;span class="w"&gt;   &lt;/span&gt;auto&lt;span class="w"&gt;  &lt;/span&gt;defaults,nodev,nosuid,noexec,nofail,nobootwait,bind&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;
 tmpfs&lt;span class="w"&gt; &lt;/span&gt;/tmp&lt;span class="w"&gt; &lt;/span&gt;tmpfs&lt;span class="w"&gt; &lt;/span&gt;defaults,noatime,nodev,nosuid,mode&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1777&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
+tmpfs&lt;span class="w"&gt; &lt;/span&gt;/dev/shm&lt;span class="w"&gt; &lt;/span&gt;tmpfs&lt;span class="w"&gt; &lt;/span&gt;defaults,noatime,nodev,nosuid,mode&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1777&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
 tmpfs&lt;span class="w"&gt; &lt;/span&gt;/var/tmp&lt;span class="w"&gt; &lt;/span&gt;tmpfs&lt;span class="w"&gt; &lt;/span&gt;defaults,noatime,nodev,nosuid,mode&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1777&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 &lt;/div&gt;
@@ -232,11 +234,11 @@ blacklist&lt;span class="w"&gt; &lt;/span&gt;kvm
 blacklist&lt;span class="w"&gt; &lt;/span&gt;kvm_amd
 blacklist&lt;span class="w"&gt; &lt;/span&gt;kvm_intel
 
-options&lt;span class="w"&gt; &lt;/span&gt;snd_hda_intel&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;power_save&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
-options&lt;span class="w"&gt; &lt;/span&gt;cfg80211&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;cfg80211_disable_40mhz_24ghz&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
-options&lt;span class="w"&gt; &lt;/span&gt;mac80211&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;minstrel_vht_only&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;ieee80211_default_rc_algo&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;minstrel_ht
+&lt;span class="c1"&gt;# options snd_hda_intel power_save=1&lt;/span&gt;
+&lt;span class="c1"&gt;# options cfg80211 cfg80211_disable_40mhz_24ghz=1&lt;/span&gt;
+&lt;span class="c1"&gt;# options mac80211 minstrel_vht_only=1 ieee80211_default_rc_algo=minstrel_ht&lt;/span&gt;
 
-options&lt;span class="w"&gt; &lt;/span&gt;iwlwifi&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;disable_11ax&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;disable_11ac&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;uapsd_disable&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;power_save&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
+&lt;span class="c1"&gt;# options iwlwifi disable_11ax=1 disable_11ac=0 uapsd_disable=2 power_save=1&lt;/span&gt;
 &lt;span class="c1"&gt;# enable_ini=0&lt;/span&gt;
 
 install&lt;span class="w"&gt; &lt;/span&gt;dccp&lt;span class="w"&gt; &lt;/span&gt;/bin/false
@@ -276,13 +278,13 @@ install&lt;span class="w"&gt; &lt;/span&gt;gfs2&lt;span class="w"&gt; &lt;/span&
 
 install&lt;span class="w"&gt; &lt;/span&gt;vivid&lt;span class="w"&gt; &lt;/span&gt;/bin/false
 
-&lt;span class="c1"&gt;# install bluetooth /bin/false&lt;/span&gt;
-&lt;span class="c1"&gt;# install btusb /bin/false&lt;/span&gt;
+install&lt;span class="w"&gt; &lt;/span&gt;bluetooth&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;btusb&lt;span class="w"&gt; &lt;/span&gt;/bin/false
 
-&lt;span class="c1"&gt;# install uvcvideo /bin/false&lt;/span&gt;
+install&lt;span class="w"&gt; &lt;/span&gt;uvcvideo&lt;span class="w"&gt; &lt;/span&gt;/bin/false
 
 install&lt;span class="w"&gt; &lt;/span&gt;firewire-core&lt;span class="w"&gt; &lt;/span&gt;/bin/false
-&lt;span class="c1"&gt;# install thunderbolt /bin/false&lt;/span&gt;
+install&lt;span class="w"&gt; &lt;/span&gt;thunderbolt&lt;span class="w"&gt; &lt;/span&gt;/bin/false
 &lt;/pre&gt;&lt;/div&gt;
 &lt;/div&gt;
 </content><category term="cybersecurity, diy, it, hacking"></category><category term="cybersecurity"></category><category term="diy"></category><category term="it"></category><category term="hacking"></category></entry><entry><title>Home local network</title><link href="https://mksscryertower.quest/Home%20local%20network.html" rel="alternate"></link><published>2022-10-31T19:50:00+02:00</published><updated>2022-10-31T19:50:00+02:00</updated><author><name>Klimenko Maxim Sergievich</name></author><id>tag:mksscryertower.quest,2022-10-31:/Home local network.html</id><summary type="html">&lt;p class="first last"&gt;Home local network&lt;/p&gt;

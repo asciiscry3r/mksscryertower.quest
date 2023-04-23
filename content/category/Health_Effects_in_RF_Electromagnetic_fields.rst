@@ -7,6 +7,8 @@ Health Effects in RF Electromagnetic fields
 :slug: Health Effects in RF Electromagnetic fields
 :authors: Klimenko Maxim Sergievich
 :summary: Health Effects in RF Electromagnetic fields
+:translation: false
+:lang: en
 
 ###########################################
 

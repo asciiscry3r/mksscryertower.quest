@@ -8,6 +8,8 @@ Slavery in piracy groups, criminal groups and in cults
 :slug: Slavery in piracy groups, criminal groups and in cults
 :authors: Klimenko Maxim Sergievich
 :summary: Slavery in piracy groups, criminal groups and in cults
+:translation: false
+:lang: en
 
 #####################################################
 
@@ -167,7 +169,7 @@ About "Scientology methods" in Ukraine Army, SBU and police - they use scientolo
 
 * Can create loyal "wife" by brainwashing and violence
 
-* Can teach someone how to use DEW or create/write on people in live - for money and for career
+* Can teach someone how to use DEW or brainwash in live - for money and for career
 
 * Can kill you because you don't want be a pirate for them
 
@@ -187,7 +189,7 @@ Always use CDA/PCA/`Security device <{filename}/category/Computer_trace_system.r
 
 About scientology and co "medical" activity:
 
-They can try to use TMS ( transcranial magnetic stimulation ) and rTMS ( repetitive transcranial magnetic stimulation  ), extremely low freaquency and high-frequency, transcranial direct current stimulation (tDCS)  against "patients" who has nicotine, alcogol or drugs addiction and against people with cancer or other form of brain or neural disease, some people die from this actions in past - I know about 2 women in Ukraine and we have more deads in Ukraine and other countries. They use BBI ( radiate you by signal recorded from their life activity ) and `TMS`_ at your home without certification, proper equipment and without your permission. And in process try to control you or create your "shadow" who every day know what you think or do.
+They can try to use TMS ( transcranial magnetic stimulation ) and rTMS ( repetitive transcranial magnetic stimulation  ), extremely low freaquency and high-frequency, transcranial direct current stimulation (tDCS)  against "patients" who has nicotine, alcogol or drugs addiction and against people with cancer or other form of brain or neural disease, some people was die from this actions in past - I know about 2 women in Ukraine and we have more deads in Ukraine and other countries. They use BBI ( radiate you by signal recorded from their life activity ) and `TMS`_ at your home without certification, proper equipment and without your permission. And in process try to control you or create your "shadow" who every day know what you think or do.
 
 Scientology in Ukraine news and court::
 

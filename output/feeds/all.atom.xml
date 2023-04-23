@@ -47,11 +47,15 @@ pacman -Syyu
 &lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Local DNS server on NanoPi Neo2.html"&gt;Home DNS server&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/2FA for Servers.html"&gt;2FA for servers&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Health Effects in RF Electromagnetic fields.html"&gt;EMF and Human health&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Health Effects in RF Electromagnetic fields-ua.html"&gt;EMF and Human health UA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Slavery in piracy groups, criminal groups and in cults.html"&gt;Slavery in piracy groups, criminal groups and in cults&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Slavery in piracy groups, criminal groups and in cults-ua.html"&gt;Slavery in piracy groups, criminal groups and in cults UA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Human rights in Ukraine.html"&gt;Human rights in Ukraine&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Human rights in Ukraine-ua.html"&gt;Human rights in Ukraine UA&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Artificial human life = existence.html"&gt;Artificial human life = existence&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Crimes with brain scanners, human detectors, other devices and me.html"&gt;Crimes with brain scanners, human detectors, other devices and me&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Computer trace system.html"&gt;Computer trace system&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Internet as a phenomenon.html"&gt;Internet as a phenomenon&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Human rights in Ukraine.html"&gt;Human rights in Ukraine&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Slavery in piracy groups, criminal groups and in cults.html"&gt;Slavery in piracy groups, criminal groups and in cults&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Brainwave entertainment.html"&gt;Brainwave entertainment (WIP)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Radio frequency attacks from user side.html"&gt;Radio frequency attacks from user side (WIP)&lt;/a&gt;&lt;/p&gt;
@@ -91,6 +95,7 @@ pacman -Syyu
 &lt;li&gt;RF attacks on ground for creating current and block ground wire flow&lt;/li&gt;
 &lt;li&gt;Microwave attacks on filters with low/hight inductance&lt;/li&gt;
 &lt;li&gt;Mobile network base station is UHF radiostation with diapason ~900-2800~3000 MHz and hackers or mafia(cults) can just rewrite firmware on all your devices from this or station, get access to signal networks and can use as direct energy weapon.&lt;/li&gt;
+&lt;li&gt;Magnetic field radiate form shield on window when petal of the directional diagram looking at the side of the house.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Related science work: &lt;a class="reference external" href="https://www.academia.edu/37849621/ELF_SIGNALS_FROM_THE_POWER_GRID_Possible_Use_for_Detecting_Natural_Phenomena"&gt;https://www.academia.edu/37849621/ELF_SIGNALS_FROM_THE_POWER_GRID_Possible_Use_for_Detecting_Natural_Phenomena&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I try to create low-pass and high-pass filters for powering my appartment and PC, Routers etc trought them, coil with ferrit core:&lt;/p&gt;
@@ -109,6 +114,13 @@ pacman -Syyu
 &lt;img alt="" class="align-left" src="images/2023-04-19-23-07-21-281.jpg" /&gt;
 &lt;img alt="" class="align-left" src="images/2023-04-19-21-04-35-229.jpg" /&gt;
 &lt;img alt="" class="align-left" src="images/2023-04-20-00-04-10-981.jpg" /&gt;
+&lt;p&gt;Scheme:&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/img-2023-04-20-050041.png" /&gt;
+&lt;img alt="" class="align-left" src="images/2023-04-20-22-03-27-429.jpg" /&gt;
+&lt;p&gt;Grounding device must have 8 Om resistance.&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/img-2023-04-20-220108.png" /&gt;
+&lt;p&gt;Third setup:&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/img-2023-04-23-061256.png" /&gt;
 &lt;p&gt;Mind controll from scientology:&lt;/p&gt;
 &lt;img alt="" class="align-left" src="images/2023-04-08-02-27-35-723.v01.jpg" /&gt;
 &lt;img alt="" class="align-left" src="images/2023-04-08-01-49-39-371.v01.jpg" /&gt;
@@ -124,7 +136,7 @@ pacman -Syyu
 &lt;div class="section" id="klimenko-maxim-sergievich-1"&gt;
 &lt;h2&gt;Klimenko Maxim Sergievich&lt;/h2&gt;
 &lt;div class="line-block"&gt;
-&lt;div class="line"&gt;IT administrator and GNU/Linux user, but I don't have much knowledge about hardware and networking because I didn't get lessons from Scientology hackers, a member of the Civil Defense of the USRR (! communist,scientologist/andropov/beria fun ), I want and always will know and remember my history and the history of my country, and a &amp;quot;black&amp;quot; person in scientology - because they decided to control me like a robot/slave from childhood. And sometimes a cloud infrastructure engineer and always without faith.&lt;/div&gt;
+&lt;div class="line"&gt;IT administrator and GNU/Linux user, but I don't have much knowledge about hardware and networking because I didn't get lessons from Scientology hackers, a member of the Civil Defense of the USRR (! communist,scientologist/andropov/beria fun ), I want and always will know and remember my history and the history of my country, and a &amp;quot;black&amp;quot; person for scientology - because they decided to control me like a robot/slave from childhood. And sometimes a cloud infrastructure engineer and always without faith.&lt;/div&gt;
 &lt;div class="line"&gt;If you ask me, I don't allow Scientology people and cyber-criminals to use me and my work, but who asks... and by the way, I use Arch Linux.&lt;/div&gt;
 &lt;div class="line"&gt;I can publish one variant then, after days, remember something an update all site - because my memory is like controlled disk.&lt;/div&gt;
 &lt;/div&gt;
@@ -793,6 +805,52 @@ pacman -Syyu
 &lt;p&gt;&lt;a class="reference external" href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/333080/RCE-20_Health_Effects_RF_Electromagnetic_fields.pdf"&gt;https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/333080/RCE-20_Health_Effects_RF_Electromagnetic_fields.pdf&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://www.ewg.org/news-insights/news-release/2021/07/study-wireless-radiation-exposure-children-should-be-hundreds"&gt;https://www.ewg.org/news-insights/news-release/2021/07/study-wireless-radiation-exposure-children-should-be-hundreds&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
+</content><category term="dew, cybersecurity, military, cults"></category><category term="dew"></category><category term="cybersecurity"></category><category term="military"></category><category term="cults"></category></entry><entry><title>Health Effects in RF Electromagnetic fields</title><link href="https://mksscryertower.quest/Health%20Effects%20in%20RF%20Electromagnetic%20fields-ua.html" rel="alternate"></link><published>2023-02-13T23:29:00+02:00</published><updated>2023-02-13T23:29:00+02:00</updated><author><name>Klimenko Maxim Sergievich</name></author><id>tag:mksscryertower.quest,2023-02-13:/Health Effects in RF Electromagnetic fields-ua.html</id><summary type="html">&lt;p class="first last"&gt;Health Effects in RF Electromagnetic fields&lt;/p&gt;
+</summary><content type="html">&lt;hr class="docutils" /&gt;
+&lt;p&gt;Якщо коротко - це повільне вбивство, CIDT, руйнування пам'яті та всієї системи розпізнавання та обробки паттернів, основи роботи мозку та вашого я (збій усіх функцій організму), якщо хтось із поліції, мафії, служби безпеки чи армії починає опромінювати вас щодня - ЕМП фізично пошкоджує мозок та нейрони. системні та голосові маніпуляції в полях знищюють ваш розум, і злочинці перешкоджають вашим спробам отримати допомогу правозахисних органів. У нас є багато людей, як хтось Конєв, Рибалко, Рябчевський, Чуніхіна, Гурін, Федоренко, частина саєнтологів, якісь армійські злочинці, які мають відношення до саєнтології чи піратства та інші, які хочуть зберегти цей статус-кво.&lt;/p&gt;
+&lt;p&gt;чому:&lt;/p&gt;
+&lt;p&gt;Зображення, з &lt;a class="reference external" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6513191/"&gt;nlm&lt;/a&gt;, зі схематичним зображенням можливих біологічних ефектів:&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/emfhuman.jpg" /&gt;
+&lt;p&gt;ГЕБ - гематоенцефалічний бар'єр.&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/emfspectrum.jpg" /&gt;
+&lt;p&gt;Частина спектру мобільного широкосмугового зв'язку GSM і нижче може бути використана для створення процесу &lt;a class="reference external" href="https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/1750-1326-4-20"&gt;«нейродегенерації»&lt;/a&gt; для «непотрібних» людей.&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/emftable1.png" /&gt;
+&lt;p&gt;І пригнічують активність нейронів або пошкоджують функції організму.&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/emftable2.png" /&gt;
+&lt;p&gt;Таблиці з &lt;a class="reference external" href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/333080/RCE-20_Health_Effects_RF_Electromagnetic_fields.pdf"&gt;RCE-20_Health_Effects_RF_Electromagnetic_fields&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mmrjournal.biomedcentral.com/articles/10.1186/s40779-017-0139-0#Sec12"&gt;«Вплив мікрохвильового випромінювання на морфологію головного мозку»&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Центральна нервова система, особливо гіпокамп, дуже чутлива до мікрохвильового випромінювання [43, 44]. Попередні дослідження показали, що у неекспонованих контрольних щурів нейрони гіпокампу вирівнюються в акуратні ряди, у яких краї чіткі, ядра чіткі, ядерця можна спостерігати, а пірамідні клітини не демонструють явного некрозу. Однак у щурів, які отримували тривале опромінення, нейрони виявляють набряк і розташовані нерегулярно. Спостерігаються також ядерний пікноз і закупорка капілярів.&lt;/p&gt;
+&lt;p&gt;Що стосується ультраструктури гіпокампу, спостерігалися такі симптоми, як атрофія нейронів, набряк мітохондрій, зменшення гребеня та невпорядковане розташування, грубий ендоплазматичний ретикулум демонстрував кістозне розширення, кількість синаптичних везикул зменшилася, а синаптична щілина була розширена (2,45 ГГц). імпульсне мікрохвильове поле із середньою щільністю потужності 1 мВт/см2 протягом 3 год/добу протягом до 30 днів [45] і середньою щільністю потужності 2,5, 5 або 10 мВт/см2 протягом 6 хв/добу до 1 місяць призвело до середнього розрахованого SAR 1,05, 2,1 і 4,2 Вт/кг відповідно [46]). Гіпокамп відіграє важливу роль у навчанні та пам’яті, і результати цих досліджень свідчать про те, що дефіцит функцій навчання та пам’яті, які спостерігаються після впливу мікрохвильового опромінення, може бути наслідком аномалій, індукованих у структурах гіпокампу.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mmrjournal.biomedcentral.com/articles/10.1186/s40779-017-0139-0#Sec2"&gt;Епідеміологія&lt;/a&gt; з військово-медичних досліджень&lt;/p&gt;
+&lt;p&gt;Промислове опромінення&lt;/p&gt;
+&lt;p&gt;У довгострокових епідеміологічних дослідженнях великої кількості населення, що зазнало професійного впливу, результати не були послідовними. Дасдаг та ін. [16] досліджували працівників, які працювали на телевізійній передавальній станції з діапазоном частот між 202 і 209 МГц, 694–701 МГц, 750–757 МГц або 774–781 МГц, а також на станції радіомовлення на середніх хвилях. Їхні відповіді на анкети показали, що працівники страждали від таких симптомів, як головний біль, втома, стрес і безсоння. Більшість робітників одужали, покинувши джерело мікрохвильового випромінювання. Крім того, інше дослідження показало, що значні психіатричні симптоми спостерігалися у людей, які працювали в цих областях. Зокрема, повідомлялося про соматизацію, обсесивно-компульсивність, параноїдальні ідеї та психотизм [17].&lt;/p&gt;
+&lt;p&gt;Військове опромінення&lt;/p&gt;
+&lt;p&gt;Стандартні пристрої, які використовуються військовослужбовцями та можуть становити електромагнітну небезпеку, включають радари та ракетні системи. У звіті Департаменту мікрохвильової безпеки Польщі було проаналізовано професійний вплив електромагнітних полів на робоче середовище персоналу 204 пристроїв, розділених на 5 груп (радари зенітних ракетних систем, літаки та гелікоптери, пристрої зв’язку, спостереження та висотомірні радари, радари аеропортів і радіонавігаційні системи). У 57% випадках використання пристроїв в військових підрозділах польські солдати працюють в професійно захищених зонах. У 35% випадків військовослужбовці працюють у проміжній і небезпечній зонах і в 22% — тільки в проміжній. У 43% пристроїв військовослужбовці не піддаються впливу електромагнітного поля.&lt;/p&gt;
+&lt;p&gt;Час зорової реакції та короткочасну пам’ять здорових працівників чоловічої та жіночої статі на радіолокаційній ділянці з частотним діапазоном 2–18 ГГц реєстрували за допомогою простого сліпого тесту часу зорової реакції за допомогою комп’ютера або модифікованого тесту шкали пам’яті Векслера. Результати показали, що радіолокаційне мікрохвильове випромінювання призводить до зменшення часу реакції та зниження продуктивності короткочасної пам’яті [18]. Серед працівників радіолокаторів, які опромінювалися мікрохвилями 14–18 ГГц, були викликані соматична тривога та безсоння, соціальні дисфункції та важка депресія [19]. Сінгх та ін. [20] розділили працівників радіолокації на три групи: контрольна група (n = 68), група впливу I (n = 40, опромінення 8–12 ГГц) та група опромінення II (n = 58, робота з радаром при 12,5–18,0). ГГц). Три групи були далі розділені на дві групи відповідно до їхнього стажу роботи (до 10 років і &amp;gt;10 років), щоб дослідити вплив років впливу радара. Були оцінені рівні мелатоніну та серотоніну, які відіграють важливу роль у нервовій системі. Результати продемонстрували здатність електричного магнітного поля (ЕМП) впливати на концентрацію мелатоніну та серотоніну в плазмі у працівників радарів. Результати були значущими для діапазону 12,5–18,0 ГГц із терміном служби понад 10 років. Крім того, люди, які піддавалися впливу військових мікрохвильових джерел, були більш уразливими до пухлин мозку. Ріхтер та ін. [21, 22] виявили вищу захворюваність на рак головного мозку у працівників радіолокаторів і скорочений інкубаційний період (тобто менше 10 років). Szmigielski [23] зібрав ретроспективні дані для польських солдатів за 15 років і показав, що поширеність раку мозку була вищою в кожній віковій групі.&lt;/p&gt;
+&lt;p&gt;Вплив мікрохвильового випромінювання на дітей&lt;/p&gt;
+&lt;p&gt;Оскільки нервова система дитини росте, а її голова стає більш вразливою до енергії випромінювання, були проведені дослідження, які спеціально стосувалися того, чи є нервова система дітей більш сприйнятливою до електромагнітного випромінювання. Однак існує мало наукових доказів того, що діти більш чутливі до електромагнітного випромінювання, ніж дорослі [24, 25].&lt;/p&gt;
+&lt;p&gt;Ми розглядаємо діапазони мікрохвильових частот і довжин хвиль від 300 МГц (1 м) до 10 ГГц (3 см) у повітрі, де доступні мікрохвильові джерела, когерентні на коротких масштабах часу (тобто 50 мкс). Діелектрична проникність і провідність білої та сірої речовини мозку показані на малюнку 1 (20). На рисунку 2 показано глибину тканини мозку, де мікрохвильова енергія становить ~1/2,7 падаючої енергії. Зауважте, що довжини мікрохвиль у повітрі та мозковій тканині є функціями мікрохвильової частоти. Довжина хвиль мікрохвиль у тканині мозку коливається від 0,5 до 18 см з глибиною ослаблення 1/2,7 0,2–4 см.&lt;/p&gt;
+&lt;p&gt;На рисунку показано, що мікрохвильове випромінювання 0,3–10 ГГц проникає в тканину головного мозку на відстані від кількох см до кількох мм:&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/2022-12-26_23-25.png" /&gt;
+&lt;p&gt;У 1993 році EMF зброя або вплив також вбивають, CIDT:&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/2022-12-14_04-22.png" /&gt;
+&lt;img alt="" class="align-left" src="images/2022-12-14_04-20.png" /&gt;
+&lt;img alt="" class="align-left" src="images/2022-12-14_04-26.png" /&gt;
+&lt;img alt="" class="align-left" src="images/2022-12-14_04-35.png" /&gt;
+&lt;img alt="" class="align-left" src="images/2022-12-14_05-01.png" /&gt;
+&lt;img alt="" class="align-left" src="images/2022-12-14_04-57.png" /&gt;
+&lt;img alt="" class="align-left" src="images/2022-12-14_05-02_1.png" /&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h2&gt;Resources&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mmrjournal.biomedcentral.com/articles/10.1186/s40779-017-0139-0"&gt;https://mmrjournal.biomedcentral.com/articles/10.1186/s40779-017-0139-0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6513191/"&gt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6513191/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://onlinelibrary.wiley.com/doi/10.1002/bem.22338"&gt;https://onlinelibrary.wiley.com/doi/10.1002/bem.22338&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6015645/"&gt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6015645/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/bem.22310"&gt;https://onlinelibrary.wiley.com/doi/epdf/10.1002/bem.22310&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.nationalgeographic.com/science/article/electromagnetic-noise-disrupts-bird-compass"&gt;https://www.nationalgeographic.com/science/article/electromagnetic-noise-disrupts-bird-compass&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/333080/RCE-20_Health_Effects_RF_Electromagnetic_fields.pdf"&gt;https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/333080/RCE-20_Health_Effects_RF_Electromagnetic_fields.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.ewg.org/news-insights/news-release/2021/07/study-wireless-radiation-exposure-children-should-be-hundreds"&gt;https://www.ewg.org/news-insights/news-release/2021/07/study-wireless-radiation-exposure-children-should-be-hundreds&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
 </content><category term="dew, cybersecurity, military, cults"></category><category term="dew"></category><category term="cybersecurity"></category><category term="military"></category><category term="cults"></category></entry><entry><title>Local DNS server on NanoPi Neo2</title><link href="https://mksscryertower.quest/Local%20DNS%20server%20on%20NanoPi%20Neo2.html" rel="alternate"></link><published>2023-01-25T05:30:00+02:00</published><updated>2023-01-25T05:30:00+02:00</updated><author><name>Klimenko Maxim Sergievich</name></author><id>tag:mksscryertower.quest,2023-01-25:/Local DNS server on NanoPi Neo2.html</id><summary type="html">&lt;p class="first last"&gt;Local DNS server on NanoPi Neo2&lt;/p&gt;
 </summary><content type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="" class="align-left" src="images/mksnanopineo.png" /&gt;
@@ -1111,9 +1169,11 @@ net.ipv6.conf.default.use_tempaddr&lt;span class="o"&gt;=&lt;/span&gt;&lt;span c
 ...
 &lt;span class="nv"&gt;UUID&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;....
 ...
-
-tmpfs&lt;span class="w"&gt; &lt;/span&gt;/dev/shm&lt;span class="w"&gt; &lt;/span&gt;tmpfs&lt;span class="w"&gt; &lt;/span&gt;defaults,noatime,nodev,nosuid,mode&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1777&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
+/dev/nvme0n1p3&lt;span class="w"&gt;              &lt;/span&gt;/&lt;span class="w"&gt;               &lt;/span&gt;ext4&lt;span class="w"&gt;            &lt;/span&gt;rw,relatime&lt;span class="w"&gt;     &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
+/dev/nvme0n1p1&lt;span class="w"&gt;              &lt;/span&gt;/boot&lt;span class="w"&gt;           &lt;/span&gt;vfat&lt;span class="w"&gt;            &lt;/span&gt;rw,nodev,nosuid,noexec,relatime,fmask&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;0022&lt;/span&gt;,dmask&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;0022&lt;/span&gt;,codepage&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;437&lt;/span&gt;,iocharset&lt;span class="o"&gt;=&lt;/span&gt;ascii,shortname&lt;span class="o"&gt;=&lt;/span&gt;mixed,utf8,errors&lt;span class="o"&gt;=&lt;/span&gt;remount-ro&lt;span class="w"&gt;       &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;
+/var&lt;span class="w"&gt;  &lt;/span&gt;/var&lt;span class="w"&gt;   &lt;/span&gt;auto&lt;span class="w"&gt;  &lt;/span&gt;defaults,nodev,nosuid,noexec,nofail,nobootwait,bind&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;
 tmpfs&lt;span class="w"&gt; &lt;/span&gt;/tmp&lt;span class="w"&gt; &lt;/span&gt;tmpfs&lt;span class="w"&gt; &lt;/span&gt;defaults,noatime,nodev,nosuid,mode&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1777&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
+tmpfs&lt;span class="w"&gt; &lt;/span&gt;/dev/shm&lt;span class="w"&gt; &lt;/span&gt;tmpfs&lt;span class="w"&gt; &lt;/span&gt;defaults,noatime,nodev,nosuid,mode&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1777&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
 tmpfs&lt;span class="w"&gt; &lt;/span&gt;/var/tmp&lt;span class="w"&gt; &lt;/span&gt;tmpfs&lt;span class="w"&gt; &lt;/span&gt;defaults,noatime,nodev,nosuid,mode&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1777&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 &lt;/div&gt;
@@ -1159,11 +1219,11 @@ blacklist&lt;span class="w"&gt; &lt;/span&gt;kvm
 blacklist&lt;span class="w"&gt; &lt;/span&gt;kvm_amd
 blacklist&lt;span class="w"&gt; &lt;/span&gt;kvm_intel
 
-options&lt;span class="w"&gt; &lt;/span&gt;snd_hda_intel&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;power_save&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
-options&lt;span class="w"&gt; &lt;/span&gt;cfg80211&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;cfg80211_disable_40mhz_24ghz&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
-options&lt;span class="w"&gt; &lt;/span&gt;mac80211&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;minstrel_vht_only&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;ieee80211_default_rc_algo&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;minstrel_ht
+&lt;span class="c1"&gt;# options snd_hda_intel power_save=1&lt;/span&gt;
+&lt;span class="c1"&gt;# options cfg80211 cfg80211_disable_40mhz_24ghz=1&lt;/span&gt;
+&lt;span class="c1"&gt;# options mac80211 minstrel_vht_only=1 ieee80211_default_rc_algo=minstrel_ht&lt;/span&gt;
 
-options&lt;span class="w"&gt; &lt;/span&gt;iwlwifi&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;disable_11ax&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;disable_11ac&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;uapsd_disable&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;power_save&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
+&lt;span class="c1"&gt;# options iwlwifi disable_11ax=1 disable_11ac=0 uapsd_disable=2 power_save=1&lt;/span&gt;
 &lt;span class="c1"&gt;# enable_ini=0&lt;/span&gt;
 
 install&lt;span class="w"&gt; &lt;/span&gt;dccp&lt;span class="w"&gt; &lt;/span&gt;/bin/false
@@ -1203,21 +1263,85 @@ install&lt;span class="w"&gt; &lt;/span&gt;gfs2&lt;span class="w"&gt; &lt;/span&
 
 install&lt;span class="w"&gt; &lt;/span&gt;vivid&lt;span class="w"&gt; &lt;/span&gt;/bin/false
 
-&lt;span class="c1"&gt;# install bluetooth /bin/false&lt;/span&gt;
-&lt;span class="c1"&gt;# install btusb /bin/false&lt;/span&gt;
+install&lt;span class="w"&gt; &lt;/span&gt;bluetooth&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;btusb&lt;span class="w"&gt; &lt;/span&gt;/bin/false
 
-&lt;span class="c1"&gt;# install uvcvideo /bin/false&lt;/span&gt;
+install&lt;span class="w"&gt; &lt;/span&gt;uvcvideo&lt;span class="w"&gt; &lt;/span&gt;/bin/false
 
 install&lt;span class="w"&gt; &lt;/span&gt;firewire-core&lt;span class="w"&gt; &lt;/span&gt;/bin/false
-&lt;span class="c1"&gt;# install thunderbolt /bin/false&lt;/span&gt;
+install&lt;span class="w"&gt; &lt;/span&gt;thunderbolt&lt;span class="w"&gt; &lt;/span&gt;/bin/false
 &lt;/pre&gt;&lt;/div&gt;
 &lt;/div&gt;
 </content><category term="cybersecurity, diy, it, hacking"></category><category term="cybersecurity"></category><category term="diy"></category><category term="it"></category><category term="hacking"></category></entry><entry><title>Human rights in Ukraine</title><link href="https://mksscryertower.quest/Human%20rights%20in%20Ukraine.html" rel="alternate"></link><published>2022-11-06T19:50:00+02:00</published><updated>2022-11-06T19:50:00+02:00</updated><author><name>Klimenko Maxim Sergievich</name></author><id>tag:mksscryertower.quest,2022-11-06:/Human rights in Ukraine.html</id><summary type="html">&lt;p class="first last"&gt;Human rights in Ukraine&lt;/p&gt;
 </summary><content type="html">&lt;hr class="docutils" /&gt;
-&lt;p&gt;These days we can find criminals and slave traders in the police departments, the army or other government agencies (like the SBU), and these people can be in &lt;em&gt;scientology&lt;/em&gt; or with another dangerous point of view on your life ... Like piracy and &amp;quot;hackers &amp;quot;, army creathure, who decide to play in you, pseudo hackers or just fucking criminals, from the Mirgorod part and the other parts of the cult, otherwise it can not be called, as for me piracy (Real piracy or the first numbers in pirate networks) is the same dangerous and destructive cult as some others, they can directly control the cities. And they try to control me like an electromagnetic disruptor drives away a crowd of birds, they do it every day. Which of the &amp;quot;super-genius&amp;quot; people gives a job in the police or the army to such?.....&lt;/p&gt;
-&lt;p&gt;I want to apologize to the modern, non-criminal and normal members of the Scientology or other religious society, this is not about you. And I never want to apologize to the Ukrainian army, the police, the government and the fucking creatures from the SBU. Because it looks like these fucking creatures sold me to Scientology for using me like a tool when I was in elementary school. I am not a Scientologist and certainly will not be one myself and never was. In the meantime, our security forces and special services are using electromagnetic weapons to surprise the girl/boy and get her/him into bed. They so cool and powerfull, they can push Linus to creating backdors in Linux. And I see by my eays how they brainwash my mother ... people from local police and other fucking creathures and &amp;quot;frends&amp;quot; - think is related to forced transfer of property.&lt;/p&gt;
+&lt;p&gt;Police:&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://zakon.rada.gov.ua/laws/show/580-19#Text"&gt;From Article 42&lt;/a&gt;. Police coercive measures&lt;/p&gt;
+&lt;p&gt;1. The police, while exercising the powers specified by this Law, is authorized to apply the following coercive measures:
+1) physical influence (force);
+2) use of special means;
+3) use of firearms.&lt;/p&gt;
+&lt;ol class="arabic simple" start="2"&gt;
+&lt;li&gt;Physical influence is the use of any physical force, as well as special methods of struggle in order to stop illegal actions of offenders.&lt;/li&gt;
+&lt;li&gt;Special means as police measures of coercion are a set of devices, devices and objects specially made, structurally intended and technically suitable for protecting people from damage by various objects (including weapons), temporary (reversal) damage to a person (offender, opponent ), suppression or restriction of a person's will (psychological or physical) by exerting influence on it or the objects surrounding it, with a clear regulation of the grounds and rules for the use of such means and service animals.&lt;/li&gt;
+&lt;li&gt;To fulfill their powers, police officers may use the following special means:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;rubber and plastic batons;&lt;/li&gt;
+&lt;li&gt;electric shock devices of contact and contact-distance action;&lt;/li&gt;
+&lt;li&gt;means of limiting mobility (handcuffs, nets for tying, etc.);&lt;/li&gt;
+&lt;li&gt;means equipped with lachrymatory and irritating substances;&lt;/li&gt;
+&lt;li&gt;means of forced traffic stop;&lt;/li&gt;
+&lt;li&gt;special marking and coloring means;&lt;/li&gt;
+&lt;li&gt;service dogs and service horses;&lt;/li&gt;
+&lt;li&gt;light-sound devices, grenades and ammunition;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="section" id="means-of-acoustic-and-microwave-influence"&gt;
+&lt;h2&gt;9) means of acoustic and microwave influence;&lt;/h2&gt;
+&lt;ol class="arabic simple" start="10"&gt;
+&lt;li&gt;devices, grenades, ammunition and small explosive devices for destroying obstacles and forcibly opening premises;&lt;/li&gt;
+&lt;li&gt;devices for firing cartridges equipped with non-lethal rubber or similar metal projectiles;&lt;/li&gt;
+&lt;li&gt;means equipped with safe smoke-generating preparations;&lt;/li&gt;
+&lt;li&gt;water cannons, armored vehicles and other special vehicles.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;means of acoustic and microwave influence: they use this without proper law acts and for self profit.&lt;ol class="arabic"&gt;
+&lt;li&gt;&lt;ul class="first"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://photos.app.goo.gl/rUXk3R66SLn8dueg7"&gt;https://photos.app.goo.gl/rUXk3R66SLn8dueg7&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ul class="first"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://photos.app.goo.gl/Jeqt9hPjAfQZ8vcA8"&gt;https://photos.app.goo.gl/Jeqt9hPjAfQZ8vcA8&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ul class="first"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://photos.app.goo.gl/yMjGdd6jr4hUrG378"&gt;https://photos.app.goo.gl/yMjGdd6jr4hUrG378&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ul class="first"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://photos.app.goo.gl/FWpfTfSidKkJimTL8"&gt;https://photos.app.goo.gl/FWpfTfSidKkJimTL8&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ul class="first"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://photos.app.goo.gl/Mqdb4FgJYreTg6gS6"&gt;https://photos.app.goo.gl/Mqdb4FgJYreTg6gS6&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;People in Mirgorod like ~rondroinds~ but their will brocken by &lt;a class="reference external" href="https://mksscryertower.quest/Health Effects in RF Electromagnetic fields.html"&gt;microwaves&lt;/a&gt;. The police themselves claim that microwaves and other ranges cannot harm people, lethally dangerous levels of the background are only ~good~. At the same time, human trafficking simply flourishes and remains uninvestigated and unpunished. Can lead to promotion or another type of suicide.&lt;/p&gt;
+&lt;p&gt;MEDUSA for ukrainian people who dont want be a part of online piracy mafia:
+Mirgorod Gogola 139 80 EMF:&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/IMG_20211211_170729.jpg" /&gt;
+&lt;p&gt;Possible &amp;quot;human control&amp;quot;, or other try to create weapon from PC, author - scientology/police piracy mafia:&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/img-2023-04-23-014631.png" /&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://drive.google.com/drive/folders/1ruSHXJEPLg2V-gQ6sZ1cd7pbd4Ksjscy?usp=share_link"&gt;https://drive.google.com/drive/folders/1ruSHXJEPLg2V-gQ6sZ1cd7pbd4Ksjscy?usp=share_link&lt;/a&gt; maybe I try analize this later.&lt;/p&gt;
+&lt;/div&gt;
 &lt;div class="section" id="wip"&gt;
 &lt;h2&gt;WIP&lt;/h2&gt;
+&lt;p&gt;These days we can find criminals and slave traders in the police departments, the army or other government agencies (like the SBU), and these people can be in &lt;em&gt;scientology&lt;/em&gt; or with another dangerous point of view on your life ... Like piracy and &amp;quot;hackers &amp;quot;, army creathure, who decide to play in you, pseudo hackers or just fucking criminals, from the Mirgorod part and the other parts of the cult, otherwise it can not be called, as for me piracy (Real piracy or the first numbers in pirate networks) is the same dangerous and destructive cult as some others, they can directly control the cities. And they try to control me like an electromagnetic disruptor drives away a crowd of birds, they do it every day. Which of the &amp;quot;super-genius&amp;quot; people gives a job in the police or the army to such?.....&lt;/p&gt;
+&lt;p&gt;I want to apologize to the modern, non-criminal and normal members of the Scientology or other religious society, this is not about you. And I never want to apologize to the Ukrainian army, the police, the government and the fucking creatures from the SBU. Because it looks like these fucking creatures sold me to Scientology for using me like a tool when I was in elementary school. I am not a Scientologist and certainly will not be one myself and never was. In the meantime, our security forces and special services are using electromagnetic weapons to surprise the girl/boy and get her/him into bed. They so cool and powerfull, they can push Linus to creating backdors in Linux. And I see by my eays how they brainwash my mother ... people from local police and other fucking creathures and &amp;quot;frends&amp;quot; - think is related to forced transfer of property.&lt;/p&gt;
 &lt;p&gt;In army and police we have lobby from scientology cults - peoples after &amp;quot;oditing&amp;quot; and other who has interest to brainwashing. They create groups from the young people, give them access to different special devices and users accounts and then you can hear in your house, in microwave specter, songs about how the Cossacks rode. By this listening you must have artificial patriotic feelings or maybe scientology lobby made decision-makers believe in the effectiveness of these methods. In fact, &amp;quot;Cossacks&amp;quot; paired with Scientologists are simply preparing the chosen ones for the fact that everything has already been decided for them, the victims. Some part of Ukrainian people believe in fiction ancestral memory and think about you like about people of 3 kinds - because you wont accept their views and don't want &amp;quot;surrender&amp;quot; to them - as I can know from history and from my life this &amp;quot;surrender&amp;quot; is just slavery and remote control of multiple part of your life and military cigarettes - narcoterror for walking deads. And now when I live like zombie they want use me like part of their network - this creatures use remote control and scanning devices every day and in all cases, they on this weapon when you try to cross road in wrong place. And war not sufficient reason for creating slaves for part of your nation or we really have embryos of the regime in the spirit of Hitler's Germany. And in companies like SocialEdge or CreatorIQ they can steal new software for data analysis and use this for OSINT in social networks, or download in GlobalLogic new firmware for LTE towers ...... etc. If local part of company try to resist they get drugs in coffe from our country protectors. And Russia very like this political aspect, thay say - we are so surprised that you are helping us.&lt;/p&gt;
 &lt;p&gt;By the last 2 years I live in electromagnetic fields and cant use phone, notebooks, or just take shower without surveillance from Ukrainian Army or Scientology side - but this in some cases better then old stupid live without consciousness. And because I wont &amp;quot;surrender&amp;quot; they opened a case about my mythical connection with Russia. All this happen only after my tries to live they lobby and sphere of control - I ask government to help me live scientology &amp;quot;MK Ultra&amp;quot; and army piracy program. This 2 structure very fast find consent about me and other losers and, as I can remember, from childhood we have problems with army and scientology and cant normally live in the country that should be ours. Maybe this all has end when they slice and conspect all my brain connection by the using electromagnetic weapon after they send me to the &amp;quot;oditing&amp;quot; and I finally start believe in Xanu or ancestral memory. Or maybe I &lt;a class="reference external" href="https://www.ewg.org/news-insights/news-release/2021/07/study-wireless-radiation-exposure-children-should-be-hundreds"&gt;get cancer&lt;/a&gt; and die because Ukraine security services and army is a first structures who don't allow getting out of their influence. And Scientology is very useful and tries his best to justify that they are engaged in human trafficking as a reward for their &amp;quot;help&amp;quot;. And now ukraine piracy groups every day try to find new way of attack on human from civil devices and me like slave for this must start buying again cigarettes with drugs because, this &lt;a class="reference external" href="https://www.icrc.org/en/doc/assets/files/other/irrc-867-reyes.pdf"&gt;words from&lt;/a&gt;  &lt;a class="reference external" href="https://en.wikipedia.org/wiki/Music_in_psychological_operations"&gt;attackers&lt;/a&gt;, with them I get better filings in my everyday life. After all of this I say to all fucking Ukraine - fuck of from me. None of those who were tortured by these animals will ever be able to be a patriot. But now they will treat everyone who opposes the decisions of the new government or has different views - because back in 2018, &lt;a class="reference external" href="https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B0_%D0%BB%D1%8E%D0%B4%D0%B8%D0%BD%D0%B8_%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96_(%D0%B4%D0%BE%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D1%8C)#2014-2018_%D1%80%D0%BE%D0%BA%D0%B8"&gt;European law enforcement agencies accused the Ukrainian special services of illegal torture, persecution and other violations of human rights&lt;/a&gt;.&lt;/p&gt;
 &lt;img alt="" class="align-left" src="images/scientologyaccess.png" /&gt;
@@ -1283,6 +1407,72 @@ where he is held incommunicado.
 &lt;p&gt;&lt;a class="reference external" href="https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B0_%D0%BB%D1%8E%D0%B4%D0%B8%D0%BD%D0%B8_%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96_(%D0%B4%D0%BE%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D1%8C"&gt;https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B0_%D0%BB%D1%8E%D0%B4%D0%B8%D0%BD%D0%B8_%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96_(%D0%B4%D0%BE%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D1%8C&lt;/a&gt;)#2014-2018_%D1%80%D0%BE%D0%BA%D0%B8&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://legalaid.gov.ua/novyny/torgivlya-lyudmy-suchasne-rabstvo/"&gt;https://legalaid.gov.ua/novyny/torgivlya-lyudmy-suchasne-rabstvo/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://zakon.rada.gov.ua/laws/show/3322-12#Text"&gt;https://zakon.rada.gov.ua/laws/show/3322-12#Text&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="law, crimes, cults, ukraine"></category><category term="law"></category><category term="crimes"></category><category term="cults"></category><category term="ukraine"></category></entry><entry><title>Human rights in Ukraine</title><link href="https://mksscryertower.quest/Human%20rights%20in%20Ukraine-ua.html" rel="alternate"></link><published>2022-11-06T19:50:00+02:00</published><updated>2022-11-06T19:50:00+02:00</updated><author><name>Klimenko Maxim Sergievich</name></author><id>tag:mksscryertower.quest,2022-11-06:/Human rights in Ukraine-ua.html</id><summary type="html">&lt;p class="first last"&gt;Human rights in Ukraine&lt;/p&gt;
+</summary><content type="html">&lt;hr class="docutils" /&gt;
+&lt;p&gt;Поліція:&lt;/p&gt;
+&lt;p&gt;Зі статті 42. Заходи поліцейського примусу&lt;/p&gt;
+&lt;p&gt;1. Поліція під час здійснення повноважень, визначених цим Законом, має право застосовувати такі заходи примусу:
+1) фізичний вплив (сила);
+2) застосування спеціальних засобів;
+3) застосування вогнепальної зброї.&lt;/p&gt;
+&lt;ol class="arabic simple" start="2"&gt;
+&lt;li&gt;Фізичний вплив - це застосування будь-якої фізичної сили, а також спеціальних методів боротьби з метою припинення протиправних дій правопорушників.&lt;/li&gt;
+&lt;li&gt;Спеціальні засоби як заходи поліцейського примусу - це сукупність пристроїв, пристроїв і предметів, спеціально виготовлених, конструктивно призначених і технічно придатних для захисту людей від ушкоджень різними предметами (у тому числі зброєю), тимчасового (зворотного) ушкодження особи (правопорушника, супротивник), придушення або обмеження волі особи (психологічної чи фізичної) шляхом впливу на неї або на об'єкти, що її оточують, з чітким регламентуванням підстав і правил застосування таких засобів і службових тварин.&lt;/li&gt;
+&lt;li&gt;Для виконання своїх повноважень поліцейські можуть застосовувати такі спеціальні засоби:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;гумові та пластмасові кийки;&lt;/li&gt;
+&lt;li&gt;електрошокери контактної та контактно-дистанційної дії;&lt;/li&gt;
+&lt;li&gt;засоби обмеження рухливості (наручники, сітки для зв'язування тощо);&lt;/li&gt;
+&lt;li&gt;засоби, оснащені сльозогінними та подразливими речовинами;&lt;/li&gt;
+&lt;li&gt;засоби примусової зупинки руху;&lt;/li&gt;
+&lt;li&gt;спеціальні маркувальні та фарбувальні засоби;&lt;/li&gt;
+&lt;li&gt;службові собаки та службові коні;&lt;/li&gt;
+&lt;li&gt;світлозвукові прилади, гранати та боєприпаси;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="section" id="section-1"&gt;
+&lt;h2&gt;9) засоби акустичного та мікрохвильового впливу;&lt;/h2&gt;
+&lt;ol class="arabic simple" start="10"&gt;
+&lt;li&gt;пристрої, гранати, боєприпаси та дрібні вибухові пристрої для руйнування перешкод і примусового розкриття приміщень;&lt;/li&gt;
+&lt;li&gt;пристрої для стрільби патронами, спорядженими несмертельними гумовими або подібними металевими снарядами;&lt;/li&gt;
+&lt;li&gt;засоби, обладнані безпечними димоутворюючими препаратами;&lt;/li&gt;
+&lt;li&gt;водомети, бронетехніка та інші спеціальні засоби.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;засоби акустичного та мікрохвильового впливу: використовують без відповідних нормативно-правових актів та з метою отримання прибутку.&lt;ol class="arabic"&gt;
+&lt;li&gt;&lt;ul class="first"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://photos.app.goo.gl/rUXk3R66SLn8dueg7"&gt;https://photos.app.goo.gl/rUXk3R66SLn8dueg7&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ul class="first"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://photos.app.goo.gl/Jeqt9hPjAfQZ8vcA8"&gt;https://photos.app.goo.gl/Jeqt9hPjAfQZ8vcA8&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ul class="first"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://photos.app.goo.gl/yMjGdd6jr4hUrG378"&gt;https://photos.app.goo.gl/yMjGdd6jr4hUrG378&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ul class="first"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://photos.app.goo.gl/FWpfTfSidKkJimTL8"&gt;https://photos.app.goo.gl/FWpfTfSidKkJimTL8&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ul class="first"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://photos.app.goo.gl/Mqdb4FgJYreTg6gS6"&gt;https://photos.app.goo.gl/Mqdb4FgJYreTg6gS6&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Людям у Миргороді подобаються ~рондроінди~, але їхні будуть зламані &lt;a class="reference external" href="https://mksscryertower.quest/Health Effects in RF Electromagnetic fields.html"&gt;мікрохвилями&lt;/a&gt;. Сама поліція стверджує, що мікрохвилі та інші діапазони не можуть завдати шкоди людям, смертельно небезпечні рівні фону – це лише ~добре~. При цьому торгівля людьми просто процвітає і залишається нерозслідуваною та безкарною. Можуть довести до повішення або іншого виду самогубства.&lt;/p&gt;
+&lt;p&gt;MEDUSA для українців, які не хочуть бути частиною онлайн-піратської мафії:
+Mirgorod Gogola 139 80 EMF:&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/IMG_20211211_170729.jpg" /&gt;
+&lt;p&gt;Можливий &amp;quot;контроль людини&amp;quot;, або інша спроба створити зброю з ПК, автор - саєнтологічна/поліцейська піратська мафія:&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/img-2023-04-23-014631.png" /&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://drive.google.com/drive/folders/1ruSHXJEPLg2V-gQ6sZ1cd7pbd4Ksjscy?usp=share_link"&gt;https://drive.google.com/drive/folders/1ruSHXJEPLg2V-gQ6sZ1cd7pbd4Ksjscy?usp=share_link&lt;/a&gt;, можливо, я спробую проаналізувати це пізніше.&lt;/p&gt;
 &lt;/div&gt;
 </content><category term="law, crimes, cults, ukraine"></category><category term="law"></category><category term="crimes"></category><category term="cults"></category><category term="ukraine"></category></entry><entry><title>Home local network</title><link href="https://mksscryertower.quest/Home%20local%20network.html" rel="alternate"></link><published>2022-10-31T19:50:00+02:00</published><updated>2022-10-31T19:50:00+02:00</updated><author><name>Klimenko Maxim Sergievich</name></author><id>tag:mksscryertower.quest,2022-10-31:/Home local network.html</id><summary type="html">&lt;p class="first last"&gt;Home local network&lt;/p&gt;
 </summary><content type="html">&lt;hr class="docutils" /&gt;
@@ -2075,7 +2265,7 @@ this is a biomedical experiment not sanctioned by society&amp;quot;
 &lt;p&gt;About &amp;quot;Scientology methods&amp;quot; in Ukraine Army, SBU and police - they use scientology mafia and DEW for money and for human trafficking:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Can create loyal &amp;quot;wife&amp;quot; by brainwashing and violence&lt;/li&gt;
-&lt;li&gt;Can teach someone how to use DEW or create/write on people in live - for money and for career&lt;/li&gt;
+&lt;li&gt;Can teach someone how to use DEW or brainwash in live - for money and for career&lt;/li&gt;
 &lt;li&gt;Can kill you because you don't want be a pirate for them&lt;/li&gt;
 &lt;li&gt;Use people as devices in pair with computers for intelligence and piracy&lt;/li&gt;
 &lt;li&gt;Can trade you to the side like device or like sex toy&lt;/li&gt;
@@ -2086,7 +2276,7 @@ this is a biomedical experiment not sanctioned by society&amp;quot;
 &lt;/ul&gt;
 &lt;p&gt;Always use CDA/PCA/&lt;a class="reference external" href="https://mksscryertower.quest/Computer trace system.html"&gt;Security device&lt;/a&gt; without proper legal acts - illegally - without state court decision and notification about this.&lt;/p&gt;
 &lt;p&gt;About scientology and co &amp;quot;medical&amp;quot; activity:&lt;/p&gt;
-&lt;p&gt;They can try to use TMS ( transcranial magnetic stimulation ) and rTMS ( repetitive transcranial magnetic stimulation  ), extremely low freaquency and high-frequency, transcranial direct current stimulation (tDCS)  against &amp;quot;patients&amp;quot; who has nicotine, alcogol or drugs addiction and against people with cancer or other form of brain or neural disease, some people die from this actions in past - I know about 2 women in Ukraine and we have more deads in Ukraine and other countries. They use BBI ( radiate you by signal recorded from their life activity ) and &lt;a class="reference external" href="https://pubmed.ncbi.nlm.nih.gov/34514666/"&gt;TMS&lt;/a&gt; at your home without certification, proper equipment and without your permission. And in process try to control you or create your &amp;quot;shadow&amp;quot; who every day know what you think or do.&lt;/p&gt;
+&lt;p&gt;They can try to use TMS ( transcranial magnetic stimulation ) and rTMS ( repetitive transcranial magnetic stimulation  ), extremely low freaquency and high-frequency, transcranial direct current stimulation (tDCS)  against &amp;quot;patients&amp;quot; who has nicotine, alcogol or drugs addiction and against people with cancer or other form of brain or neural disease, some people was die from this actions in past - I know about 2 women in Ukraine and we have more deads in Ukraine and other countries. They use BBI ( radiate you by signal recorded from their life activity ) and &lt;a class="reference external" href="https://pubmed.ncbi.nlm.nih.gov/34514666/"&gt;TMS&lt;/a&gt; at your home without certification, proper equipment and without your permission. And in process try to control you or create your &amp;quot;shadow&amp;quot; who every day know what you think or do.&lt;/p&gt;
 &lt;p&gt;Scientology in Ukraine news and court:&lt;/p&gt;
 &lt;pre class="literal-block"&gt;
 Refusal to register the charter of the religious community
@@ -2126,6 +2316,201 @@ the document says.
 &lt;div class="section" id="my-conclusion"&gt;
 &lt;h3&gt;My conclusion:&lt;/h3&gt;
 &lt;p&gt;Piracy and Scientology, while war in Ukraine, attack people and try to take in modern slavery, we can see this actions from Russia side with support in Ukrainian piracy and criminal groups - while the Russian forces control, imho electromagnetically too but maybe it only disguise of other criminal forces, since the Russians are destroying telecommunications, which is generally correct, but this also creates a questions, the population and sometimes part of the Ukrainian forces, Scientology, pirates and criminals in government use the war to enrich themselves and search for new &amp;quot;avatars&amp;quot; and crack down old enemies - in fact, in places there is human trafficking - all by the Habbard - you can't live well. All the participants of the described and unmentioned actions are my sworn enemies - most of them are citizens of Ukraine - they torture me for days to make my brain obey every electromagnetic or verbal command.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="resources"&gt;
+&lt;h4&gt;Resources&lt;/h4&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://zakon.rada.gov.ua/laws/show/2341-14?find=1&amp;amp;text=%D1%81%D1%82%D0%B0%D1%82%D1%82%D1%8F+433#w2_1"&gt;https://zakon.rada.gov.ua/laws/show/2341-14?find=1&amp;amp;text=%D1%81%D1%82%D0%B0%D1%82%D1%82%D1%8F+433#w2_1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B0_%D0%BB%D1%8E%D0%B4%D0%B8%D0%BD%D0%B8_%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96_(%D0%B4%D0%BE%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D1%8C"&gt;https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B0_%D0%BB%D1%8E%D0%B4%D0%B8%D0%BD%D0%B8_%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96_(%D0%B4%D0%BE%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D1%8C&lt;/a&gt;)#2014-2018_%D1%80%D0%BE%D0%BA%D0%B8&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://en.wikipedia.org/wiki/White_torture"&gt;https://en.wikipedia.org/wiki/White_torture&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.dy.nayka.com.ua/?op=1&amp;amp;z=548"&gt;http://www.dy.nayka.com.ua/?op=1&amp;amp;z=548&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.researchgate.net/publication/302074340_Everyday_Surveillance"&gt;https://www.researchgate.net/publication/302074340_Everyday_Surveillance&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://repository.uel.ac.uk/download/031c46357cb4584f66b1c87df14152efe5a90023409429f1d3cb879d6d4be49f/221578/Experiencing%20the%20%E2%80%98surveillance%20society%E2%80%99%20%28as%20appeared%29.pdf"&gt;https://repository.uel.ac.uk/download/031c46357cb4584f66b1c87df14152efe5a90023409429f1d3cb879d6d4be49f/221578/Experiencing%20the%20%E2%80%98surveillance%20society%E2%80%99%20%28as%20appeared%29.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://molodyivchenyi.ua/index.php/journal/article/view/640/623"&gt;https://molodyivchenyi.ua/index.php/journal/article/view/640/623&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://commons.wikimedia.org/wiki/File:Description_of_Aum_Shinrikyo_sarin_truck.png"&gt;https://commons.wikimedia.org/wiki/File:Description_of_Aum_Shinrikyo_sarin_truck.png&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.sknews.net/ukrajinske-piratstvo-my-bilshe-ne-hochemo-buty-pershymy/"&gt;https://www.sknews.net/ukrajinske-piratstvo-my-bilshe-ne-hochemo-buty-pershymy/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://klymenko-time.com/novosti/rabota-za-edu-kak-ustroeno-ukrainskoe-rabstvo-albo/?utm_source=telegram&amp;amp;utm_medium=smm&amp;amp;utm_campaign=novosti_ktime_telegram"&gt;https://klymenko-time.com/novosti/rabota-za-edu-kak-ustroeno-ukrainskoe-rabstvo-albo/?utm_source=telegram&amp;amp;utm_medium=smm&amp;amp;utm_campaign=novosti_ktime_telegram&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https:/"&gt;https:/&lt;/a&gt;/капличка.com/sayentology-pronykly-v-ukrayinsku-sys-3&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://el-research.center/2019/05/22/%D0%BB%D0%BE%D0%B1%D1%96%D1%8E%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F-%D1%96%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D1%96%D0%B2-%D0%BD%D0%BE%D0%B2%D1%96%D1%82%D0%BD%D1%96%D1%85-%D1%80%D0%B5%D0%BB%D1%96%D0%B3"&gt;https://el-research.center/2019/05/22/%D0%BB%D0%BE%D0%B1%D1%96%D1%8E%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F-%D1%96%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D1%96%D0%B2-%D0%BD%D0%BE%D0%B2%D1%96%D1%82%D0%BD%D1%96%D1%85-%D1%80%D0%B5%D0%BB%D1%96%D0%B3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://el-research.center/2018/10/02/%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B0-%D1%96-%D0%B4%D0%B5%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D0%B9-%D0%BA%D1%83%D0%BB%D1%8C%D1%82-%D1%81%D0%B5%D0%BA%D1%82%D0%B0-%D0%B2"&gt;https://el-research.center/2018/10/02/%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B0-%D1%96-%D0%B4%D0%B5%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D0%B9-%D0%BA%D1%83%D0%BB%D1%8C%D1%82-%D1%81%D0%B5%D0%BA%D1%82%D0%B0-%D0%B2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://core.ac.uk/download/pdf/10875087.pdf"&gt;https://core.ac.uk/download/pdf/10875087.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.jstor.org/stable/resrep06323?seq=1#metadata_info_tab_contents"&gt;https://www.jstor.org/stable/resrep06323?seq=1#metadata_info_tab_contents&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://en.wikipedia.org/wiki/Operation_Snow_White"&gt;https://en.wikipedia.org/wiki/Operation_Snow_White&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://wwwnc.cdc.gov/eid/article/5/4/99-0409_article"&gt;https://wwwnc.cdc.gov/eid/article/5/4/99-0409_article&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.jstor.org/stable/resrep06323?seq=11#metadata_info_tab_contents"&gt;https://www.jstor.org/stable/resrep06323?seq=11#metadata_info_tab_contents&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://en.wikipedia.org/wiki/Narconon"&gt;https://en.wikipedia.org/wiki/Narconon&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.cs.cmu.edu/~dst/Library/Shelf/wakefield/us-16.html"&gt;https://www.cs.cmu.edu/~dst/Library/Shelf/wakefield/us-16.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://fakty.ua/ru/232914-polkovnik-znal-chto-ecshe-v-1982-godu-gensek-ck-kpss-yurij-andropov-prikazal-sozdat-v-ukraine-glavnyj-centr-psihotroniki"&gt;https://fakty.ua/ru/232914-polkovnik-znal-chto-ecshe-v-1982-godu-gensek-ck-kpss-yurij-andropov-prikazal-sozdat-v-ukraine-glavnyj-centr-psihotroniki&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=&amp;amp;ved=2ahUKEwjVu5mbpaj-AhWslosKHWeIBVEQFnoECBAQAQ&amp;amp;url=https%3A%2F%2Fphilosophy.naiau.kiev.ua%2Findex.php%2Fphilosophy%2Farticle%2Fdownload%2F1255%2F1258%2F&amp;amp;usg=AOvVaw2qNtmc_EGtQ6okPzhcvxD3"&gt;https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=&amp;amp;ved=2ahUKEwjVu5mbpaj-AhWslosKHWeIBVEQFnoECBAQAQ&amp;amp;url=https%3A%2F%2Fphilosophy.naiau.kiev.ua%2Findex.php%2Fphilosophy%2Farticle%2Fdownload%2F1255%2F1258%2F&amp;amp;usg=AOvVaw2qNtmc_EGtQ6okPzhcvxD3&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content><category term="dew, cults, cybersecurity, military, piracy, law"></category><category term="dew"></category><category term="cults"></category><category term="cybersecurity"></category><category term="military"></category><category term="piracy"></category><category term="law"></category></entry><entry><title>Slavery in piracy groups, criminal groups and in cults</title><link href="https://mksscryertower.quest/Slavery%20in%20piracy%20groups,%20criminal%20groups%20and%20in%20cults-ua.html" rel="alternate"></link><published>2022-09-27T10:20:00+03:00</published><updated>2022-11-09T18:40:00+02:00</updated><author><name>Klimenko Maxim Sergievich</name></author><id>tag:mksscryertower.quest,2022-09-27:/Slavery in piracy groups, criminal groups and in cults-ua.html</id><summary type="html">&lt;p class="first last"&gt;Slavery in piracy groups, criminal groups and in cults&lt;/p&gt;
+</summary><content type="html">&lt;hr class="docutils" /&gt;
+&lt;p&gt;Саєнтологія - американсько/радянський тоталітарний деструктивний культ, створений послідовниками Андропова/Берії, рабовласниками та торговцями людьми в США. Для СРСР - вони наче як повинні знищити США зсередини і для США вони повинні знищити СРСР зсередини.
+В мережі UA/RU можна знайти розповіді про &lt;a class="reference external" href="https://fakty.ua/ru/232914-polkovnik-znal-chto-ecshe-v-1982-godu-gensek-ck-kpss-yurij-andropov-prikazal-sozdat-v-ukraine-glavnyj-центрпсихотроніки"&gt;Чорнобильський центр&lt;/a&gt;  &lt;a class="reference external" href="https://unesdoc.unesco.org/ark:/48223/pf0000010750"&gt;&amp;quot;Психотроніки&amp;quot;&lt;/a&gt;  - батьківщину радянської частини Саєнтології, Дуги та подібних проектів, системи управління &amp;quot;Краб&amp;quot; і &amp;quot;Змія&amp;quot;. В теорії..&lt;/p&gt;
+&lt;p&gt;«На основі досліджень, проведених у 1972-1973 роках, в Інституті радіоелектроніки АН СРСР завершено виготовлення і впровадження у військову практику новітнього радіотехнічного озброєння. Штучне створення раси рабів із заданими властивостями». практично стала реальною. У військово-промисловому комплексі існує класифікація, де сьоме, новітнє покоління зброї масового ураження називається зброєю, що впливає на генетичний апарат». - і вся саєнтологія дивиться на вас як на біоробота чи раба.&lt;/p&gt;
+&lt;p&gt;Навіщо нам комуністи в релігійних культах чи релігійний опіум для людей:
+Культурний марксизм був не просто філософською теорією, він став планом комуністичної диверсії під час холодної війни. За словами чеського перебіжчика генерал-майора Яна Сейни, Брежнєв (Генеральний секретар 1964–82) створив «довгостроковий стратегічний план» для перемоги над Заходом шляхом політичної війни та деморалізації. План мав чотири етапи: (1) «мирне співіснування», (2) «боротьба за мирне співіснування», (3) «період динамічних соціальних змін» і (4) «ера глобального демократичного миру», яка мала настати у 1995 році (Sejna, 1982: 106). Метою другої фази було «прискорити соціальну фрагментацію капіталістичних країн» (Sejna, 1982: 106).&lt;/p&gt;
+&lt;p&gt;Військова нейронаука та наступаюча ера нейровійни, 2016 Армін Крішнан, 262–263, 260–262.&lt;/p&gt;
+&lt;p&gt;Військова нейронаука та майбутня ера нейровійни, 2016 Армін Крішнан, 265–266.:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+Процес деморалізації в США в основному
+завершено вже за останні 25 років. Насправді план перевиконано,
+тому що деморалізація зараз досягає таких областей,
+де навіть тов. Андропов і всі його експерти
+навіть мріяти не можуть про такий приголомшливий успіх. Більша частина
+робиться американцями для американців завдяки відсутності моралі та
+стандартів. Як я вже згадував раніше, доступ до правдивої інформації
+більше не має значення. Людина, яка була деморалізована, є
+не в змозі оцінити правдиву інформацію. Факти нічого не говорять
+до нього, навіть якщо я обсипаю його інформацією, достовірними
+доказами, з документами та картинками. ...він відмовиться
+повірте... У цьому й трагізм ситуації деморалізації.
+&lt;/pre&gt;
+&lt;p&gt;Правда, коли почалося справжнє тотальне лайно з контролем всього населення країн мафією, залишки влади намагалися розв'язати війну за порядок, фактично армія та спецслужби мали право вбивати на місці&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+Закон СРСР від 1 серпня 1990 року
+No v1552400-90 «Про пресу та інші засоби масової
+інформації» став першою спробою закріпити
+права на свободу думки і слова у профільному
+нормативно-правовому акті. У ст. 5 (неприпу-
+стимість зловживання свободою слова)
+задеклароване положення щодо недопустимості
+використання засобів масової інформації для
+розголошення відомостей, які становлять державну
+чи іншу таємницю, що спеціально охороняється
+законом, заклику до насильницького повалення або
+зміни державного та суспільного ладу, пропаганда
+війни, насильства й жорстокості, расової,
+національної, релігійної винятковості або нетер-
+пимості, розповсюдження порнографії з метою
+вчинення інших кримінально караних діянь.
+Забороняється й переслідується відповідно до
+закону використання засобів масової інформації
+для втручання в особисте життя громадян,
+посягання на їхню честь і гідність (&amp;quot;Zakon
+SRSR&amp;quot;, 1990).
+&lt;/pre&gt;
+&lt;p&gt;Послідовник Аум Сінрікьо виступає посередником у таборі секти біля гори Фудзі в 1995 році, одягаючи гарнітуру, яка повинна випромінювати мозкові хвилі лідера Шоко Асахари.
+Джерело: &lt;a class="reference external" href="https://asia.nikkei.com/Politics/Executions-can-t-erase-Japanese-death-cult-s-dark-legacy"&gt;https://asia.nikkei.com/Politics/Executions-can-t-erase-Japanese-death-cult-s-dark-legacy&lt;/a&gt;&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/aumshin.jpg" /&gt;
+&lt;p&gt;Де вони це беруть:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+Інший лідер культу, Фуміхіро Джойю, якому зараз 35 років,
+був яскравим молодим інженером з японської космічної програми,
+спеціалізується на штучному інтелекті. Він це залишив для того щоб
+піти на роботу до Аум, де він дуже швидко
+піднявся по кар'єрній службі, щоб зрештою очолити операції культу
+в Росії. Джою наглядав за цим важливим розширенням культу,
+серед іншого «вклавши» аж 12 мільйонів доларів
+у вигляді виплат високопосадовцям.
+Інвестиції культу окупилися завдяки швидкому доступу до
+адміністративних будівель, гуртожитків та інших приміщень
+по всій Росії. Під час атаки в токійському метро
+основним підприємством культу в Росії був московсько-японський
+Університет зі штаб-квартирою в офісах навпроти
+балету Великого театру. Їхній старший російський партнер
+в університеті був чоловік на ім'я Олег Лобов,
+на той час також голова Ради національної безпеки Росії
+і близька довірена особа Бориса Єльцина.
+&lt;/pre&gt;
+&lt;p&gt;Ця організація була розпущена, починаючи з 1995 року, спецслужбами різних країн. Частина з них йде до саєнтологічних та інших злочинних угруповань, частина починає нове життя, а частина, також, у ці дні живе в Росії і має назву «Алеф» - можливо тому, що Росія також розробляє зброю спрямованої енергії військового рівня?, за підтримки української армії в минулому, ~1990-2000, та єкспериментами на українському народі. .. Саєнтологія використовує ті самі методи, що й Аум, для створення нових членів і поєднує це зі своєю старою методологією промивання мізків, за іншою думкою, вони використовують DEW набагато раніше, ніж Аум.&lt;/p&gt;
+&lt;p&gt;Кожна людина з моменту отримання комп'ютера дізнається в Інтернеті, що піратство - це райське заняття і веде до в'язниці або однієї з форм сучасного рабства. Для цього великі інтернет-компанії формують особливий спосіб видачі початкової інформації і ніколи не пропонують людині доступ до піратських ресурсів, поки вона сама своїми діями не навчить цьому алгоритми. Це один із механізмів безпеки людини, який сформувався роками боротьби з кіберзлочинцями, але в деяких регіонах зламаний через регулювання з боку номенклатурного класу.
+Саєнтологічні, злочинні та піратські групи, які використовують людей для доступу до конфіденційної інформації або для роботи та інших форм рабства:&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/IMG_20221108_022003_221.jpg" /&gt;
+&lt;p&gt;Усі вони є частиною груп, які використовують дезінформацію в суспільстві та створюють масову думку про &amp;quot;психозброю&amp;quot; в ноутбуках, смартфонах та інших цивільних пристроях, усіх пристроях із наших магазинів, метальному та біологічному дистанційному керуванні з США (з білого дому) звідусіль, але насправді іноді зломщики може переписати прошивку спеціально для вас. Отримавши контроль над однією людиною або групами людей, вони створюють для них новий «світ», але я вважаю, що це не що інше, як торгівля людьми:&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/BACKCOVER_DaveDanzara_103-1.v01.jpg" /&gt;
+&lt;p&gt;By &amp;#64;davedanzara&lt;/p&gt;
+&lt;div class="section" id="section-1"&gt;
+&lt;h2&gt;У ситуації торгівлі людьми порушуються такі основні права:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p class="first"&gt;заборона або обмеження свободи пересування - порушує право особи на свободу та безпеку особи та свободу пересування;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;жорстоке та таке, що принижує гідність, поводження - багато форм торгівлі людьми, як правило, включають фізичне, сексуальне та психічне насильство, що є фактом жорстокого та такого, що принижує гідність, поводження;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;заборона або обмеження права на свободу слова, доступ до інформації та асоціації – багатьом жертвам торгівлі людьми відмовляють у цих правах у рамках механізмів примусового контролю, за допомогою яких торговці людьми їх експлуатують;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;відмова або обмеження права на приватне чи сімейне життя – у багатьох випадках жертв примусово або шахрайським шляхом забирають із сімей і позбавляють бажання мати приватне життя та сім’ю;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Відмова або обмеження права на гідний рівень життя, включаючи достатнє харчування, одяг і житло – у багатьох випадках, особливо в різних формах трудової експлуатації, жертвам постійно відмовляють у належному рівні їжі або житла і часто тримають у важких та небезпечних умовах життя;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;відмова або обмеження права на стандарти охорони здоров'я - переважна більшість жертв експлуатації мають загрозу життю, наприклад, надання сексуальних послуг без належного захисту або робота на небезпечних шахтах, фабриках тощо, і, окрім того, їм відмовляють у доступі до медичних закладів, що призводить до великої кількості серйозних травм і захворювань, які вони зазнають у результаті прямої експлуатації як жертви торгівлі людьми;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;примусове втягнення у злочинну діяльність;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;обмеження права на освіту - багато дітей і підлітків, які постраждали від торгівлі людьми, розлучаються зі своїми сім'ями і не мають доступу до будь-якої форми освіти.&lt;/p&gt;
+&lt;p&gt;У моєму випадку вся чорна саєнтологічна мафія використовує поліцію (в Україні вони не можуть використовувати електромагнітну зброю)/інтерпол/військові методи доступу, як-от доступ до МЕНЕ через радіо, і якщо я намагаюся знайти або дізнатися щось про це, вони просто wipe me &lt;a class="reference external" href="https://mksscryertower.quest/Health Effects in RF Electromagnetic fields.html"&gt;як SSD на ноутбуках&lt;/a&gt;, ноутбук також отримує знімки. Зараз я відчуваю свою свідомість в абсолютній порожнечі без думок і бажань, 2 роки кожен день без внутрішніх діалогів, все це сталося після електромагнітного спалювання, описаного в &lt;a class="reference external" href="https://mksscryertower.quest/Crimes with brain scanners, human detectors, other devices and me.html"&gt;ще одній статті&lt;/a&gt;. Жити без фантазії і з пошкодженою пам'яттю дуже проблематично, але рятує комп'ютер і Інтернет - це протези. Але зараз успішні випадки маніпуляцій і промивання трапляються рідше. Але в Миргороді у нас є кілька спільнот, які мають доступ до цих знань. Можливо, мені не знадобляться живі навички, тому що я просто народився для цього ринку з саєнтологічними експериментами. В Саєнтології в Україні це єдина вірна правда. Коли у вас проблеми/війна з саєнтологічною поліцією та мафією, країна не важлива, вони просто намагаються створити біоробота з вас. В Україні онлайн-піратство, ресурси та деякі творці контенту створюють підстави для використання промивання мізків проти людей, не знаючи, що вони можуть зробити для власної безпеки. І після багатьох років використання піратського вмісту наші майстри піратства дають вам вибір – ви повинні почати працювати з ними, створювати торренти чи інші правопорушення, або ви можете потрапити в пастку сучасного рабства. Все настільки погано, що навіть голова Нацради з питань телебачення і радіомовлення (Україна) пірат (2017). Через неймовірно величезний рівень піратства Україна виплачувала репарації, 75 мільйонів доларів щороку, а ті, на кого повісили собак, є найбільш незахищеним класом і для них наші спецслужби, інколи, можуть просто почекати та отримати нові цікаві знання. А зайнявши одне з перших місць у рейтингах країн з найвищим рівнем піратства, ми не можемо купити нормальні ноутбуки чи телефони в місцевих українських магазинах. У результаті вони можуть почати використовувати кіберзлочини для контролю ваших запитів до поліції та інших правоохоронних органів. Тотальне стеження дозволяє їм надавати своїм адвокатам дані до того, як вони потраплять до держави, а іноді змінювати їх за власним бажанням. У цій країні такі люди, як &lt;a class="reference external" href="https://youtu.be/amC46KY9G58"&gt;Грибанова&lt;/a&gt; (Нарконон) і &lt;a class="reference external" href="https://svechnoyzavod.com/"&gt;Конев&lt;/a&gt; (ОСА, ІМХО), починають працювати з армією і дітьми в школах, як я знаю, з 1995 чи 1996 року і створюють в країні щось на зразок лобі для іх сфери інтересу, і вони завжди кажуть: ви можете завантажити або почати дивитися будь-який контент в Інтернеті, крім їхнього, вони дізнаються, що люди скоюють злочини, і видають це як прості некримінальні дії або ідеологічну війну, для особливо запущенних людей. Миргородські, київські та харківські члени культу з &lt;a class="reference external" href="https://www.google.com/search?q=Sea+Org&amp;amp;client=firefox-b-d&amp;amp;sxsrf=ALiCzsZc0IUO0foBEf6-x1iOmFSVvxwdSg%3A1667093582540&amp;amp;ei=TtRdY9_JIIOdrgSPh5dg&amp;amp;ved=0ahUKEwjfqK3G54b7AhWDjosKHY_DBQwQ4dUDCA4&amp;amp;uact=5&amp;amp;oq=Sea+Org&amp;amp;gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCAAQkQIyBQgAEJECMgUIABCRAjIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6CggAEEcQ1gQQsAM6BAgjECc6BAgAEEM6CwguEIAEEMcBENEDOggILhCABBDUAjoICAAQxwMQkQI6BwguENQCEEM6BAguEEM6BQguEIAEOggIABCABBDLAToLCC4QgAQQ1AIQywE6BwguEIAEEApKBAhBGABKBAhGGABQ6wZYvRpg_xxoA3ABeACAAXqIAYQGkgEDMi41mAEAoAEByAEEwAEB&amp;amp;sclient=gws-wiz-serp"&gt;Sea Org&lt;/a&gt; - мафія, &lt;a class="reference external" href="https://www.google.com/search?q=Narconon&amp;amp;client=firefox-b-d&amp;amp;sxsrf=ALiCzsZ4qkLzBQe6-flWCY1Gq4ku4l5Ryw%3A1667093497697&amp;amp;ei=-dNdY4aeKo7srgTPkajwCg&amp;amp;ved=0ahUKEwjG_vKd54b7AhUOtosKHc8ICq4Q4dUDCA4&amp;amp;uact=5&amp;amp;oq=Narconon&amp;amp;gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIECCMQJzIFCAAQgAQyBQgAEIAEMgsILhCABBDHARCvATIFCAAQgAQyCwguEIAEEMcBEK8BMgUIABCABDIICAAQgAQQyQMyBQgAEIAEMgsILhCABBDHARCvAToKCAAQRxDWBBCwAzoOCC4QgAQQxwEQ0QMQ1AI6CAguEIAEENQCOgsILhCABBDHARDRAzoFCC4QkQI6BQgAEJECOggILhDUAhCRAjoFCC4QgAQ6CAgAEIAEEMsBOgcIABCABBAKSgQIQRgASgQIRhgAUO8GWLkUYIkZaANwAXgAgAGEAYgB5AaSAQMxLjeYAQCgAQHIAQjAAQE&amp;amp;sclient=gws-wiz-serp"&gt;Narconon&lt;/a&gt; - соціальні працівники - можуть домовитися з низкою місцевих та інших виробників про додавання в сигарети чи напої наркотиків, від яких ви блюватимете кров'ю. в поєднанні з іншою їжею або ліками - наприклад, я живу на таблетках. &lt;a class="reference external" href="https://www.google.com/search?q=Criminon&amp;amp;client=firefox-b-d&amp;amp;sxsrf=ALiCzsZM0wy17EPpaeZdgFUbs-SGg8lN2Q%3A1667093375011&amp;amp;ei=f9NdY7QkjJyuBM7dkKAC&amp;amp;ved=0ahUKEwj037Lj5ob7AhUMjosKHc4uBCQQ4dUDCA4&amp;amp;uact=5&amp;amp;oq=Criminon&amp;amp;gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCAAQgAQyCwguEIAEEMcBEK8BMgUIABCABDIFCAAQgAQyBQgAEIAEMgcIABCABBAKMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoKCAAQRxDWBBCwAzoECCMQJzoFCAAQkQI6CwguEMcBENEDEJECOgsILhCABBDHARDRAzoICC4QgAQQ1AI6BQguEIAEOgUILhCRAjoICC4QgAQQywE6CAgAEIAEEMsBOggIABCABBDJA0oECEEYAEoECEYYAFCaE1iNKGCkKmgDcAF4AIABdogBwAaSAQMzLjWYAQCgAQHIAQjAAQE&amp;amp;sclient=gws-wiz-serp"&gt;Criminon&lt;/a&gt; - поліція та прокуратура та може використовувати низку наркотиків та &lt;a class="reference external" href="https://www.google.com/search?q=office+of+special+affairs&amp;amp;client=firefox-b-d&amp;amp;sxsrf=ALiCzsbNKtscog7nvh_vhQduadkyZQg8sA%3A1667093569301&amp;amp;ei=QdRdY4aBEo-MrwTF2JXQDg&amp;amp;oq=Office+of+spacial+aff&amp;amp;gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgAMgcIABCABBANMggIABAIEB4QDTIICAAQCBAeEA0yBQgAEIYDMgUIABCGAzoKCAAQRxDWBBCwAzoNCAAQ5AIQ1gQQsAMYAToFCAAQgAQ6CAgAEIAEEMkDOgQIIxAnOgUILhCABDoICC4QgAQQ1AI6CwguEIAEEMcBENEDOgoIABCRAhBGEPkBOg4ILhDHARCvARDUAhCRAjoFCAAQkQI6CAgAEIAEEMsBOggILhCABBDLAToLCC4QxwEQ0QMQkQI6CwguEIAEEMcBEK8BOg0ILhCABBDHARDRAxANOgYIABAeEA1KBAhNGAFKBAhBGABKBAhGGAFQlwZYrztg30NoAXABeACAAbUBiAG5E5IBBTEwLjE0mAEAoAEByAENwAEB2gEGCAEQARgJ&amp;amp;sclient=gws-wiz-serp"&gt;OSA&lt;/a&gt; - армія, уряд та СБУ, Netforce - нова саєнтологічна організація для кібертерору та розвідки в Інтернеті, наприклад &lt;a class="reference external" href="https://www.ripe.net/membership/indices/data/ua.netforceua.html"&gt;Netforce Ukraine&lt;/a&gt; - вони можуть працювати в SS7 або новішому аналогу цього типу системи урядового зв'язку. Ця схема - моя думка. Також про то як вони бачать безумовний дохід - це рабство для частини населення - піратство в уряді та рабство, де ви повинні бути піратом та віддавати їм частину грошей або повинні віддавати їм частину грошей частину вашої справи і бути під дистанційним контролем - вони порушують основні права людини, обмежуючи доступ до інформації, позбавляючи волі, недоторканність приватного життя, рівноправність громадян і порушують право на життя, свободу зібрань і асоціацій, а також репресують тих, хто виступає проти рабства. І зараз багато людей, захоплених піратами або саєнтологами - вони крадуть схеми та код мікропрограм у компаній-виробників, щоб спалити або видалити системи та компоненти захисту людини від комп'ютерного високочастотного випромінювання, кібератак - і намагаються промити мізки, створити нервові імпульси ( Радіо-частотна індукція ) і створюють фосфени для всіх своїх жертв, і після цього вони (жертви) не можуть самостійно мислити та приймати правильні рішення через те, що атаки фізично пошкоджують їхній мозок - фізика працює незалежно від поглядів, бажань чи переконань.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Найкращою тактикою цієї та подібних груп є використання&lt;/em&gt; &lt;a class="reference external" href="https://www.nature.com/articles/s41598-019-41895-7"&gt;«технології інтерфейсу «мозок-мозок»&lt;/a&gt; &lt;em&gt;для передачі або отримання електромагнітного представлення волевиявлення, вони називають цю дію - придушення пригнічувальних особистостей, де злочинці самі по собі є тим, що вони знищують відповідно до своєї «віри»., внаслідок чого люди, що перебувають під придушенням, можуть спробувати піти з життя шляхом самогубства - в процесі «придушення». жертви вбивства можуть набути прагнення до саморуйнівної поведінки, яке викликане електромагнітними кайданами, а самогубство є остаточним опором їм.&lt;/em&gt;
+&lt;em&gt;Або після років життя в культі/групі/комуні мати&lt;/em&gt; &lt;a class="reference external" href="https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%BE%D0%BA%D0%B3%D0%BE%D0%BB%D1%8C%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC"&gt;«Стокгольмський синдром»&lt;/a&gt; &lt;em&gt;і почати допомагати й захищати інших членів культів і мучителів. Крім того, культи продають права на рішення про використання подібних технологій терористами під виглядом магічних здібностей, які відображають новий рівень ініціації.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Про саєнтологічний &amp;quot;Нарконон&amp;quot; та інші &amp;quot;освітні&amp;quot; програми:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+У результаті досліджень було встановлено, що самі лекції
+і те, як вони проводяться, порушують фундаментальні європейські
+біоетичні принципи інформованої згоди та презумпції вини
+(до корисності та безпеки медичних чи психологічних
+технологія перевірена, вважається шкідливою та небезпечною).
+Крім того, на думку вчених, лекції Нарконону
+мають психоманіпулятивний характер і містять псевдонаукові концепції.
+Експерти дійшли висновку, що програма є першим кроком у цьому процесі
+залучення молоді до саєнтологічної секти. &amp;quot;По суті,
+це біомедичний експеримент, не санкціонований суспільством&amp;quot;
+&lt;/pre&gt;
+&lt;p&gt;Про «Саєнтологічні методи»/Саєнтологія в Українcькій Армії, СБУ та міліція – використовують саєнтологічну мафію та DEW за гроші та торгівлю людьми:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Може створити вірну «дружину» шляхом промивання мізків і насильства&lt;/li&gt;
+&lt;li&gt;Може навчити когось, як використовувати DEW або створювати/писати мізки людей у прямому ефірі - за гроші та для кар'єри&lt;/li&gt;
+&lt;li&gt;Може вбити вас, тому що ви не хочете бути для них піратом&lt;/li&gt;
+&lt;li&gt;Використовуйте людей як пристрої в парі з комп’ютерами для розвідки та піратства&lt;/li&gt;
+&lt;li&gt;Можна продати вас на сторону, як пристрій або як секс-іграшку&lt;/li&gt;
+&lt;li&gt;Вони починають готувати вас до цього з дитинства, і якщо ви хочете чогось близького до нормального життя, ви повинні зрадити своїх друзів і навчитися &amp;quot;зламувати&amp;quot; комп'ютери та мізки на них&lt;/li&gt;
+&lt;li&gt;Щоденне спостереження - це може зламати вашу психіку&lt;/li&gt;
+&lt;li&gt;Наркотерор, щоб ви не ходили в поліцію і за допомогою електромагнітної зброї створювали для вас принизливі та відразливі ситуації&lt;/li&gt;
+&lt;li&gt;Щоденне психологічне насильство для зміни балансу нейромедіаторів&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Завжди використовують CDA/PCA/&lt;a class="reference external" href="https://mksscryertower.quest/Computer trace system.html"&gt;Security device&lt;/a&gt; без відповідних правових актів - незаконно - без рішення державного суду та повідомлення про це.&lt;/p&gt;
+&lt;p&gt;Про саєнтологію та супутню «медичну» діяльність:&lt;/p&gt;
+&lt;p&gt;Вони можуть спробувати застосувати TMS (транскраніальну магнітну стимуляцію) і rTMS (повторювану транскраніальну магнітну стимуляцію), надзвичайно низькочастотну та високочастотну транскраніальну стимуляцію постійним струмом (tDCS) проти «пацієнтів», які мають нікотинову, алкогольну або наркотичну залежність, а також проти людей. з раком або іншою формою захворювання мозку або нервової системи, деякі люди померли від цих дій у минулому - я знаю про 2 жінок в Україні, і у нас є про більше померлих в Україні та інших країнах. Вони використовують BBI (опромінюють вас сигналом, записаним з їхньої життєдіяльності) та &lt;a class="reference external" href="https://pubmed.ncbi.nlm.nih.gov/34514666/"&gt;TMS&lt;/a&gt; у вашому домі без сертифікації, належного обладнання та без вашого дозволу. І в процесі намагаються контролювати вас або створюють вашу «тінь», яка щодня знає, що ви думаєте або робите.&lt;/p&gt;
+&lt;p&gt;Саєнтологія в Україні, новини та суд&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+Відмова в реєстрації статуту релігійної громади
+«ЦЕРКВА САЄНТОЛОГІЇ КИЇВ» Печерського району Києва
+міститься в розпорядженні КМДА
+від 15.08.2014 No 905, текст якого має КВ.
+
+«Відповідно до статей 14, 15 Закону України
+“Про свободу совісті та релігійні організації”, маючи
+розглянула звернення громадян від 20 травня 2014 року та
+протокол загальних зборів віруючих громадян с
+релігійна громада «ЦЕРКВА САЄНТОЛОГІЇ КИЇВ» на Печерському
+р-ну м. Києва від 12 травня 2014 року No 1, в рамках
+функцій місцевого органу виконавчої влади:
+
+Відмовити в реєстрації статуту релігійної громади
+«ЦЕРКВА САЄНТОЛОГІЇ КИЇВ» в Печерському районі Києва
+у зв’язку з тим, що положення зазначеного Статуту не
+відповідають вимогам статей 5, 9, 12 Закону України
+«Про свободу совісті та релігійні організації»
+йдеться в документі.
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class="section" id="section-2"&gt;
+&lt;h2&gt;Супутнє право в Україні:&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Стаття 163. Порушення таємниці листування, телефонних розмов, телеграфної чи іншої кореспонденції, що передається засобами зв'язку або через комп'ютер&lt;/li&gt;
+&lt;li&gt;Стаття 182. Порушення недоторканності приватного життя&lt;/li&gt;
+&lt;li&gt;Стаття 161. Порушення рівноправності громадян залежно від їх расової, національної, регіональної належності, релігійних переконань, інвалідності та за іншими ознаками&lt;/li&gt;
+&lt;li&gt;Стаття 149. Торгівля людьми&lt;/li&gt;
+&lt;li&gt;Стаття 147. Захоплення заручників&lt;/li&gt;
+&lt;li&gt;Стаття 146. Незаконне позбавлення волі або викрадення людини&lt;/li&gt;
+&lt;li&gt;Стаття 142. Незаконне проведення дослідів на людях&lt;/li&gt;
+&lt;li&gt;Стаття 138. Незаконна медична діяльність&lt;/li&gt;
+&lt;li&gt;Стаття 127. Катування&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="section" id="section-3"&gt;
+&lt;h3&gt;Мій висновок:&lt;/h3&gt;
+&lt;p&gt;Піратство та саєнтологія, поки війна в Україні, атакують людей і намагаються взяти в сучасне рабство, ми можемо бачити ці дії з боку Росії за підтримки українського піратства та злочинних угруповань - тоді як російські сили контролюють, імхо також електромагнітно, але, можливо, це лише маскування інших злочинних сил, оскільки росіяни знищують телекомунікації, що загалом правильно, але це також створює питання, населення, а іноді й частина українських сил, саєнтологія, пірати та злочинці в уряді використовують війну для свого збагачення та пошуку нових &amp;quot;аватарів&amp;quot; і знищення старих ворогів - місцями торгуючи людьми - все по Хаббарду - добре жити не можна. Усі учасники описаних і незгаданих дій є моїми заклятими ворогами - більшість з них громадяни України - вони цілими днями катують мене, щоб мозок підкорявся кожному електромагнітному чи словесному наказу.&lt;/p&gt;
 &lt;hr class="docutils" /&gt;
 &lt;div class="section" id="resources"&gt;
 &lt;h4&gt;Resources&lt;/h4&gt;

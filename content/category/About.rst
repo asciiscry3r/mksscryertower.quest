@@ -14,7 +14,7 @@ Klimenko Maxim Sergievich
 Klimenko Maxim Sergievich
 =========================
 
-| IT administrator and GNU/Linux user, but I don't have much knowledge about hardware and networking because I didn't get lessons from Scientology hackers, a member of the Civil Defense of the USRR (! communist,scientologist/andropov/beria fun ), I want and always will know and remember my history and the history of my country, and a "black" person in scientology - because they decided to control me like a robot/slave from childhood. And sometimes a cloud infrastructure engineer and always without faith.
+| IT administrator and GNU/Linux user, but I don't have much knowledge about hardware and networking because I didn't get lessons from Scientology hackers, a member of the Civil Defense of the USRR (! communist,scientologist/andropov/beria fun ), I want and always will know and remember my history and the history of my country, and a "black" person for scientology - because they decided to control me like a robot/slave from childhood. And sometimes a cloud infrastructure engineer and always without faith.
 | If you ask me, I don't allow Scientology people and cyber-criminals to use me and my work, but who asks... and by the way, I use Arch Linux.
 | I can publish one variant then, after days, remember something an update all site - because my memory is like controlled disk.
 
