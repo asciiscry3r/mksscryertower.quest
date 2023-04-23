@@ -1,7 +1,7 @@
 Health Effects in RF Electromagnetic fields
 ###########################################
 
-:date: 2023-02-13 23:29
+:date: 2023-04-23 23:29
 :tags: dew, cybersecurity, military, cults
 :category: dew, cybersecurity, military, cults
 :slug: Health Effects in RF Electromagnetic fields
@@ -63,12 +63,49 @@ Effects of microwave radiation on children
 
 Because a child’s nervous system is growing and their head is more vulnerable to radiation energy, studies that have specifically addressed whether the nervous systems of children are more susceptible to electromagnetic radiation have been performed. However, there is little scientific evidence to demonstrate that children are more sensitive to electromagnetic radiation than adults [24, 25].
 
+Human control
++++++++++++++
+
+From book Military Neuroscience and the Coming Age of Neurowarfare, 2016 Armin Krishnan:
+
+The CIA conducted human experiments on Vietnamese patients and prisoners at the Bien Hoa Hospital in Saigon in 1966–68. In 1966, the CIA sent psychiatrist Lloyd Cotter to Vietnam to field test some of the methods developed by Cameron (McCoy, 2006: 65). So he subjected patients there to extensive electroconvulsive therapy (ECT), where electrodes are attached to a patient’s head that give stimuli of 70 to 150 V at 500 to 900 milliamperes in an effort of ‘pacifying’ the patients (Schrag, 1978: 151). Gordon Thomas alleges that experiments on prisoners went even further than involuntary ECT and included the implantation of electrodes into their brains:
+         
+Each man was anesthetized and the neurosurgeon, after he had hinged back a flap in their skulls, implanted tiny electrodes in each brain. When the prisoners regained consciousness, the behaviorists set to work. The prisoners were placed in a room and given knives. Pressing the control buttons on their handsets, the behaviorists tried to arouse their subjects to violence.(G. Thomas, 1989: 264–265)
+         
+  The purpose of these experiments was obviously to develop a technology that could be useful in CIA operations and to provide solutions to some of the questions raised in relation to Project Artichoke. The CIA and DARPA were clearly interested in the development of human brain implants in the context of MK ULTRA/ MK SEARCH research. An apparent goal was the development of a remote control for humans that enabled external control over their thoughts and actions. In 1967, a former FBI agent wrote under the pseudonym Lincoln Lawrence the book 'Were We Controlled?' about the Kennedy assassination. With the help of a brain implant it would be possible to remotely change the emotions of a subject and even induce partial amnesia.
+
+The technique was called ‘radio-hypnotic intercerebral control’ and ‘electronic dissolution of memory’ (RHIC-EDOM). Lincoln described it in the following way:
+         
+  Under RHIC, a ‘sleeper’ can be used years later with no realization that the ‘sleeper’ is even being controlled!He can be made to perform acts that he will have no memory of ever having carried out. In a manipulated kind of kamikaze operation where the life of the ‘sleeper’ is dispensable, RHIC processing makes him particularly valuable because if he is detected and caught before he performs the act specified … nothing he says will implicate the group or government which processed and controlled him…By electronically jamming the brain, acetylcholine creates static which blocks out sights and sounds. You would then have no memory of what you saw or heard; your mind would be a blank. (quoted from G. Thomas, 1989: 261–264)
+         
+Further confirmation about this research project came from the Tennessee journalist James L. Moore, who claimed that he had come into the possession of a 350 page CIA manual from 1963 that explained RHIC-EDOM (Bowart, 1978: 262–264).
+         
+  The only official mention of RHIC-EDOM is the questioning of Sidney Gottlieb by Senator Richard Schweiker during a 1977 Congressional hearing, where he partially admitted to its existence. Gottlieb testified: ‘As I remember it, there was a current interest, running interest, all the time in what effects people’s standing in the field of radio energy have, and it could easily have been that somewhere in many projects, someone was trying to see if you could hypnotize someone easier if he was standing in a radio beam. That would seem like a reasonable piece of research to do’ (US Congress, 1977b). In the light of the published experiments with brain implants by Heath and Delgado, the RHIC-EDOM story seems at least plausible.
+
+Or:
++++
+
+For example, MK ULTRA subproject 62, managed by Maitland Baldwin, researched the effects of electromagnetic waves on monkeys. In one published experiment he exposed monkeys to microwaves of a frequency of 388 MHz and the power of 100 V. He noted several effects such as changes in the EEG of the exposed monkeys, as well as arousal and drowsiness. Interestingly, he even observed lethal effects as a result of microwave exposure: ‘It was possible to kill monkeys within a few minutes’ exposure…when the head was elevated and the chin was fixed’ (Baldwin, 1960: 185).
+
+Or:
++++
+
+TMS works with a magnetic coil with several thousands of volts being placed outside of the head to electromagnetically activate or stimulate a particular region of the brain. The stimulation by the magnetic field only lasts 100 to 200 microseconds and could be applied in pulse, paired pulse, or repetitive pulse treatments (R.H. Blank, 2013: 30). The effect is similar to the electrical stimulation of the brain (ECT or DBS), but has the advantage of being neither painful, nor invasive.... As pointed out by Canli et al., there are many potential applications of TMS: ‘Depending on the TMS stimulation parameters, activation in the cortex can be increased or reduced. In practice, TMS can influence (either improve or diminish, depending on the parameters and target region) many brain functions, including directing physical movement, visual perception, memory, reaction time, speech and mood’ (Canli et al., 2007: 4). Neuroscientists are already using TMS in conjunction of BCIs and brain-to-brain interfaces. For example, TMS can be used to stimulate the motor cortex and thereby enable external control over the movements of test subjects or it could stimulate the auditory cortex for transmitting messages, which will be discussed further below. However, TMS has a low spatial resolution, which means that it is not very precise (Tufail et al., 2010).
+
+================================================================================================================
+
 We consider microwave frequency ranges and wavelengths from 300 MHz (1 m) to 10 GHz (3 cm) in air where availability of microwave sources coherent on short time scales (i.e., 50 μs) exist. The permittivity and conductivity of white and gray brain matter are shown in Figure 1 (20). Figure 2 shows the depth into brain tissue where the microwave energy is ~1/2.7 of incident energy. Note that microwave wavelengths in air and brain tissue are functions of microwave frequency. The microwave wavelengths in brain tissue range from 0.5 to 18 cm with 1/2.7 attenuation depths of 0.2–4 cm.
 
 Figure shows that 0.3–10 GHz microwave radiation penetrates a few cm to a few mm into brain tissue:
 
 .. image:: images/2022-12-26_23-25.png
            :align: left
+
+From Military Neuroscience and the Coming Age of Neurowarfare 2016, Armin Krishnan.
+
+Many studies on microwaves from the 1960s and 1970s have already indicated many of the potential issues: long-term exposure to microwaves can cause genetic mutation, brain tumours and other cancers, behavioural abnormalities (suicide), alterations in biological cycles, weakening of the immune system and alterations in learning ability (Becker, 1990: 214–215; also Brodeur, 1977). A 1970 RAND metastudy on neurological effects of microwaves suggested: ‘it seems likely that neural function, and therefore behavior, are indeed disturbed by low intensity microwaves…the studies consistently and repeatedly report that human beings do exhibit behavioral disturbances when exposed to low intensity microwaves’ (MacGregor, 1970: 8).
+         
+These conclusions are not too different from some more recent studies that also indicate brain and behavior changes resulting from long-term EMF exposure. For example, a study from 2000 claims: ‘Natural and man-made electromagnetic fields influence the mood and behavior of healthy and sick people. Considerable evidence suggests that electromagnetic fields affect sleep’ (Sher, 2000). Another study from 2006 has linked ambient electromagnetic fields to human moods and behaviour, finding a significantly increased suicide rate during periods of geomagnetic storm (Berk et al., 2006). Continuous electromagnetic field exposure has been linked in scientific studies to ‘cancer, heart disease, sleep disturbance, depression, suicide, anger, rage, violence, homicide, neurological disease and mortality’ (Cherry, 2002). A leaked study on the British police radio system TETRA prepared for the Police Federation of England and Wales contends that microwaves pulsed in certain frequencies can induce paranoia, depression, suicide, manic behaviour and blindness (Trower, 2001: 30).
 
 .. _Epidemiology: https://mmrjournal.biomedcentral.com/articles/10.1186/s40779-017-0139-0#Sec2
 
