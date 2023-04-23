@@ -139,6 +139,9 @@ In 1993 EMF weapon or influence kill too, CIDT:
            :align: left
 
 
+Ukraine MK Ultra analog:
+https://mhgc21.org/en/mhgc21/events/october2018/MHGC-Proceedings-2018/Psycho-Information-Psychotronic-Technologies-for-Overcoming-the-Effects-of-Operative-Combat-Mental-Trauma-Addictive-Disorders-Drug-Resistant-Major-Depression-Anhedonia-and-Alexithymia-First-Report
+
 #########
 Resources
 #########

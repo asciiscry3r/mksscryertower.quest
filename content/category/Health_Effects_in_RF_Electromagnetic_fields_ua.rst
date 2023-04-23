@@ -21,7 +21,7 @@ Health Effects in RF Electromagnetic fields
 .. image:: images/emfhuman.jpg
              :align: left
 
-ГЕБ - гематоенцефалічний бар'єр.
+BBB - гематоенцефалічний бар'єр.
 
 .. image:: images/emfspectrum.jpg
              :align: left
@@ -138,6 +138,9 @@ From Military Neuroscience and the Coming Age of Neurowarfare 2016, Armin Krishn
 .. image:: images/2022-12-14_05-02_1.png
            :align: left
 
+
+Ukraine MK Ultra analog:
+https://mhgc21.org/en/mhgc21/events/october2018/MHGC-Proceedings-2018/Psycho-Information-Psychotronic-Technologies-for-Overcoming-the-Effects-of-Operative-Combat-Mental-Trauma-Addictive-Disorders-Drug-Resistant-Major-Depression-Anhedonia-and-Alexithymia-First-Report
 
 #########
 Resources

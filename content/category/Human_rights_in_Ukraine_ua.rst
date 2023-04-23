@@ -73,4 +73,29 @@ From Military Neuroscience and the Coming Age of Neurowarfare 2016, Armin Krishn
 
 https://drive.google.com/drive/folders/1ruSHXJEPLg2V-gQ6sZ1cd7pbd4Ksjscy?usp=share_link, можливо, я спробую проаналізувати це пізніше.
 
-Критика наносить шкоду устрою та імені країни та поліція і работорговці після невдач все самовіддано продовжують шукати шлях до створення нової волі у спаленої мікрохвилями жертви....
+Критика наносить шкоду устрою та імені країни та поліція і работорговці після невдач все самовіддано продовжують шукати шлях до створення нової волі у спаленої мікрохвилями жертви.... Можливо просто відбуваються такіж самі події які описані в https://www.cs.cmu.edu/~dst/Library/Shelf/wakefield/us-13.html
+
+
+.. _`words from`: https://www.icrc.org/en/doc/assets/files/other/irrc-867-reyes.pdf
+
+.. _`attackers`: https://en.wikipedia.org/wiki/Music_in_psychological_operations
+
+.. _`get cancer`: https://www.ewg.org/news-insights/news-release/2021/07/study-wireless-radiation-exposure-children-should-be-hundreds
+
+.. _`European law enforcement agencies accused the Ukrainian special services of illegal torture, persecution and other violations of human rights`: https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B0_%D0%BB%D1%8E%D0%B4%D0%B8%D0%BD%D0%B8_%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96_(%D0%B4%D0%BE%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D1%8C)#2014-2018_%D1%80%D0%BE%D0%BA%D0%B8
+
+https://en.wikipedia.org/wiki/Torture_in_Ukraine
+
+https://en.wikipedia.org/wiki/Cruel,_inhuman_or_degrading_treatment
+
+https://en.wikipedia.org/wiki/International_Covenant_on_Civil_and_Political_Rights
+
+https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights
+
+https://en.wikipedia.org/wiki/United_Nations_Convention_Against_Torture
+
+https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%B0_%D0%BB%D1%8E%D0%B4%D0%B8%D0%BD%D0%B8_%D0%B2_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%96_(%D0%B4%D0%BE%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D1%8C)#2014-2018_%D1%80%D0%BE%D0%BA%D0%B8
+
+https://legalaid.gov.ua/novyny/torgivlya-lyudmy-suchasne-rabstvo/
+
+https://zakon.rada.gov.ua/laws/show/3322-12#Text
