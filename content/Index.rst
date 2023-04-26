@@ -1,7 +1,7 @@
 mksscryertower.quest
 ####################
 
-:date: 2029-09-12 03:44
+:date: 2029-12-31 23:48
 :authors: Klimenko Maxim Sergievich
 
 ####################
@@ -35,7 +35,7 @@ Pages
 
 `Router configuration <{filename}/category/Router_configuration.rst>`_
 
-`Home power grid <{filename}/category/Homepowergrid.rst>`_
+`Self protection and Home power grid <{filename}/category/Self_protection_and_Home_power_grid.rst>`_
 
 `Home DNS server <{filename}/category/Home_dns_server.rst>`_
 

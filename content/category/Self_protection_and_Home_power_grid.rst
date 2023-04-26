@@ -1,28 +1,31 @@
-Home power grid
-###############
+Self protection and Home power grid
+###################################
 
 :date: 2023-04-14 20:01
 :tags: cybersecurity, diy, it, hacking, health
 :category: cybersecurity, diy, it, hacking, health
-:slug: Home power grid
+:slug: Self protection and Home power grid
 :authors: Klimenko Maxim Sergievich
 :summary: Home power grid
 
-###############
+###################################
 
 Factors affecting the civilian population during a war between countries or mafia attacks:
 
-1. microwave attacks to take away will or modulated by ultra-low frequencies for control
-2. charging equipment to shock a person with a current or field pulse
-3. power wires without large inductance and that are not grounded from different frequencies bring harmful radiation into the house
-4. grounding can be an ultra-low frequency radio station
-5. ultra-low frequencies and harmful food products (formaldehyde) are in sum a recipe for successful control of citizens
-6. resonant frequencies from the fact that the equipment is turned on in the house/
-7. RF attacks on filters with low inductance
-8. RF attacks on ground for creating current and block ground wire flow
-9. Microwave attacks on filters with low/hight inductance
-10. Mobile network base station is UHF/EHF radiostation with diapason ~900-2800~3000 MHz and hackers or mafia(cults) can just rewrite firmware on all your devices from this or station, get access to signal networks and can use as direct energy weapon. 
+1. Microwave attacks to take away will or modulated by ultra-low frequencies for control.
+2. Charging equipment to shock a person with a current or field pulse.
+3. Power wires without large inductance and that are not grounded from different frequencies bring harmful radiation into the house.
+4. Grounding can be an ultra-low frequency radio station.
+5. Ultra-low frequencies and harmful food products (formaldehyde) are in sum a recipe for successful control of citizens.
+6. Resonant frequencies from the fact that the equipment is turned on in the house.
+7. RF attacks on filters with low inductance.
+8. RF attacks on ground for creating current and block ground wire flow.
+9. Microwave attacks on filters with low/hight inductance.
+10. Mobile network base station is UHF/EHF radiostation with diapason ~900-2800~3000 MHz and hackers or mafia(cults) can just rewrite firmware on all your devices, access to signal networks and can be use them as direct energy weapon. 
 11. Magnetic field radiate form shield on window when petal of the directional diagram looking at the side of the house.
+12. Mind machine/rTMS for offense from PC central processor by manipulation of power signal parameters.
+
+We must use ferrit filter for sound and other types of signal wires, but this very situationally. 
 
 Related science work: https://www.academia.edu/37849621/ELF_SIGNALS_FROM_THE_POWER_GRID_Possible_Use_for_Detecting_Natural_Phenomena
 

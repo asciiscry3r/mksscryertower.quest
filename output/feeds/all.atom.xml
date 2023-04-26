@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>mksscryertower.quest</title><link href="https://mksscryertower.quest/" rel="alternate"></link><link href="https://mksscryertower.quest/feeds/all.atom.xml" rel="self"></link><id>https://mksscryertower.quest/</id><updated>2029-09-12T03:44:00+03:00</updated><subtitle></subtitle><entry><title>mksscryertower.quest</title><link href="https://mksscryertower.quest/mksscryertowerquest.html" rel="alternate"></link><published>2029-09-12T03:44:00+03:00</published><updated>2029-09-12T03:44:00+03:00</updated><author><name>Klimenko Maxim Sergievich</name></author><id>tag:mksscryertower.quest,2029-09-12:/mksscryertowerquest.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>mksscryertower.quest</title><link href="https://mksscryertower.quest/" rel="alternate"></link><link href="https://mksscryertower.quest/feeds/all.atom.xml" rel="self"></link><id>https://mksscryertower.quest/</id><updated>2029-12-31T23:48:00+02:00</updated><subtitle></subtitle><entry><title>mksscryertower.quest</title><link href="https://mksscryertower.quest/mksscryertowerquest.html" rel="alternate"></link><published>2029-12-31T23:48:00+02:00</published><updated>2029-12-31T23:48:00+02:00</updated><author><name>Klimenko Maxim Sergievich</name></author><id>tag:mksscryertower.quest,2029-12-31:/mksscryertowerquest.html</id><summary type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="" class="align-left" src="images/mainmeme.jpg" /&gt;
 &lt;div class="section" id="arch-linux-repository"&gt;
 &lt;h2&gt;Arch Linux repository&lt;/h2&gt;
@@ -21,7 +21,7 @@ pacman -Syyu
 &lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Home local network.html"&gt;Home local network&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Workstation Configuration.html"&gt;Workstation configuration&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Routers Configuration.html"&gt;Router configuration&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Home power grid.html"&gt;Home …&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;hr class="docutils" /&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Self protection and Home power grid.html"&gt;Self …&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;hr class="docutils" /&gt;
 &lt;img alt="" class="align-left" src="images/mainmeme.jpg" /&gt;
 &lt;div class="section" id="arch-linux-repository"&gt;
 &lt;h2&gt;Arch Linux repository&lt;/h2&gt;
@@ -43,7 +43,7 @@ pacman -Syyu
 &lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Home local network.html"&gt;Home local network&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Workstation Configuration.html"&gt;Workstation configuration&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Routers Configuration.html"&gt;Router configuration&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Home power grid.html"&gt;Home power grid&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Self protection and Home power grid.html"&gt;Self protection and Home power grid&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Local DNS server on NanoPi Neo2.html"&gt;Home DNS server&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/2FA for Servers.html"&gt;2FA for servers&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Health Effects in RF Electromagnetic fields.html"&gt;EMF and Human health&lt;/a&gt;&lt;/p&gt;
@@ -269,21 +269,22 @@ The only official mention of RHIC-EDOM is the questioning of Sidney Gottlieb by 
 &lt;p&gt;&lt;a class="reference external" href="https://www.ewg.org/news-insights/news-release/2021/07/study-wireless-radiation-exposure-children-should-be-hundreds"&gt;https://www.ewg.org/news-insights/news-release/2021/07/study-wireless-radiation-exposure-children-should-be-hundreds&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</content><category term="dew, cybersecurity, military, cults"></category><category term="dew"></category><category term="cybersecurity"></category><category term="military"></category><category term="cults"></category></entry><entry><title>Home power grid</title><link href="https://mksscryertower.quest/Home%20power%20grid.html" rel="alternate"></link><published>2023-04-14T20:01:00+03:00</published><updated>2023-04-14T20:01:00+03:00</updated><author><name>Klimenko Maxim Sergievich</name></author><id>tag:mksscryertower.quest,2023-04-14:/Home power grid.html</id><summary type="html">&lt;p class="first last"&gt;Home power grid&lt;/p&gt;
+</content><category term="dew, cybersecurity, military, cults"></category><category term="dew"></category><category term="cybersecurity"></category><category term="military"></category><category term="cults"></category></entry><entry><title>Self protection and Home power grid</title><link href="https://mksscryertower.quest/Self%20protection%20and%20Home%20power%20grid.html" rel="alternate"></link><published>2023-04-14T20:01:00+03:00</published><updated>2023-04-14T20:01:00+03:00</updated><author><name>Klimenko Maxim Sergievich</name></author><id>tag:mksscryertower.quest,2023-04-14:/Self protection and Home power grid.html</id><summary type="html">&lt;p class="first last"&gt;Home power grid&lt;/p&gt;
 </summary><content type="html">&lt;hr class="docutils" /&gt;
 &lt;p&gt;Factors affecting the civilian population during a war between countries or mafia attacks:&lt;/p&gt;
 &lt;ol class="arabic simple"&gt;
-&lt;li&gt;microwave attacks to take away will or modulated by ultra-low frequencies for control&lt;/li&gt;
-&lt;li&gt;charging equipment to shock a person with a current or field pulse&lt;/li&gt;
-&lt;li&gt;power wires without large inductance and that are not grounded from different frequencies bring harmful radiation into the house&lt;/li&gt;
-&lt;li&gt;grounding can be an ultra-low frequency radio station&lt;/li&gt;
-&lt;li&gt;ultra-low frequencies and harmful food products (formaldehyde) are in sum a recipe for successful control of citizens&lt;/li&gt;
-&lt;li&gt;resonant frequencies from the fact that the equipment is turned on in the house/&lt;/li&gt;
-&lt;li&gt;RF attacks on filters with low inductance&lt;/li&gt;
-&lt;li&gt;RF attacks on ground for creating current and block ground wire flow&lt;/li&gt;
-&lt;li&gt;Microwave attacks on filters with low/hight inductance&lt;/li&gt;
-&lt;li&gt;Mobile network base station is UHF/EHF radiostation with diapason ~900-2800~3000 MHz and hackers or mafia(cults) can just rewrite firmware on all your devices from this or station, get access to signal networks and can use as direct energy weapon.&lt;/li&gt;
+&lt;li&gt;Microwave attacks to take away will or modulated by ultra-low frequencies for control.&lt;/li&gt;
+&lt;li&gt;Charging equipment to shock a person with a current or field pulse.&lt;/li&gt;
+&lt;li&gt;Power wires without large inductance and that are not grounded from different frequencies bring harmful radiation into the house.&lt;/li&gt;
+&lt;li&gt;Grounding can be an ultra-low frequency radio station.&lt;/li&gt;
+&lt;li&gt;Ultra-low frequencies and harmful food products (formaldehyde) are in sum a recipe for successful control of citizens.&lt;/li&gt;
+&lt;li&gt;Resonant frequencies from the fact that the equipment is turned on in the house.&lt;/li&gt;
+&lt;li&gt;RF attacks on filters with low inductance.&lt;/li&gt;
+&lt;li&gt;RF attacks on ground for creating current and block ground wire flow.&lt;/li&gt;
+&lt;li&gt;Microwave attacks on filters with low/hight inductance.&lt;/li&gt;
+&lt;li&gt;Mobile network base station is UHF/EHF radiostation with diapason ~900-2800~3000 MHz and hackers or mafia(cults) can just rewrite firmware on all your devices, access to signal networks and can be use them as direct energy weapon.&lt;/li&gt;
 &lt;li&gt;Magnetic field radiate form shield on window when petal of the directional diagram looking at the side of the house.&lt;/li&gt;
+&lt;li&gt;Mind machine/rTMS for offense from PC central processor by manipulation of power signal parameters.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Related science work: &lt;a class="reference external" href="https://www.academia.edu/37849621/ELF_SIGNALS_FROM_THE_POWER_GRID_Possible_Use_for_Detecting_Natural_Phenomena"&gt;https://www.academia.edu/37849621/ELF_SIGNALS_FROM_THE_POWER_GRID_Possible_Use_for_Detecting_Natural_Phenomena&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I try to create low-pass and high-pass filters for powering my appartment and PC, Routers etc trought them, coil with ferrit core:&lt;/p&gt;
