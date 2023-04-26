@@ -250,7 +250,7 @@ Always use CDA/PCA/`Security device <{filename}/category/Computer_trace_system.r
 
 About scientology and co "medical" activity:
 
-They can try to use TMS ( transcranial magnetic stimulation ) and rTMS ( repetitive transcranial magnetic stimulation  ), extremely low freaquency and high-frequency, transcranial direct current stimulation (tDCS)  against "patients" who has nicotine, alcogol or drugs addiction and against people with cancer or other form of brain or neural disease, some people was die from this actions in past - I know about 2 women in Ukraine and we have more deads in Ukraine and other countries. They use BBI ( radiate you by signal recorded from their life activity ) and `TMS`_ at your home without certification, proper equipment and without your permission. And in process try to control you or create your "shadow" who every day know what you think or do.
+They can try to use TMS ( transcranial magnetic stimulation ) and rTMS ( repetitive transcranial magnetic stimulation  ), extremely low freaquency and high-frequency, transcranial direct current stimulation (tDCS)  against "patients" who has nicotine, alcogol or drugs addiction and against people with cancer or other form of brain or neural disease, some people was die from this actions in past - I know about 2 women in Ukraine and we have more deads in Ukraine and other countries. They use BBI ( radiate you by signal recorded from their life activity ) and `TMS`_, `rTMS`_ at your home without certification, proper equipment and without your permission. And in process try to control you or create your "shadow" who every day know what you think or do.
 
 Scientology in Ukraine news and court::
 
@@ -276,6 +276,8 @@ Scientology in Ukraine news and court::
 
 
 .. _TMS: https://pubmed.ncbi.nlm.nih.gov/34514666/
+
+.. _`rTMS`: https://pubmed.ncbi.nlm.nih.gov/26319963/
 
 Related law in Ukraine:
 +++++++++++++++++++++++

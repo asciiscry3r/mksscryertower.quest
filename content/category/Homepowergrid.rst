@@ -21,7 +21,7 @@ Factors affecting the civilian population during a war between countries or mafi
 7. RF attacks on filters with low inductance
 8. RF attacks on ground for creating current and block ground wire flow
 9. Microwave attacks on filters with low/hight inductance
-10. Mobile network base station is UHF radiostation with diapason ~900-2800~3000 MHz and hackers or mafia(cults) can just rewrite firmware on all your devices from this or station, get access to signal networks and can use as direct energy weapon. 
+10. Mobile network base station is UHF/EHF radiostation with diapason ~900-2800~3000 MHz and hackers or mafia(cults) can just rewrite firmware on all your devices from this or station, get access to signal networks and can use as direct energy weapon. 
 11. Magnetic field radiate form shield on window when petal of the directional diagram looking at the side of the house.
 
 Related science work: https://www.academia.edu/37849621/ELF_SIGNALS_FROM_THE_POWER_GRID_Possible_Use_for_Detecting_Natural_Phenomena
@@ -34,6 +34,33 @@ Tests:
            :align: left
 
 .. image:: images/20230403_004322.jpg
+           :align: left
+
+Latest setup:
+
+.. image:: images/img-2023-04-26-214609.png
+           :align: left
+
+.. image:: images/img-2023-04-26-215338.png
+           :align: left
+
+Sound sometimes like `Mind Machine`_ with lite form of `rTMS`_, but its better then UHF in speakers. 
+
+.. _`Mind Machine`: https://en.wikipedia.org/wiki/Mind_machine#Description_of_altered_states
+
+.. _`rTMS`: https://pubmed.ncbi.nlm.nih.gov/26319963/
+
+.. image:: images/20230426_221118.jpg
+           :align: left
+
+And some:
+
+.. image:: images/img-2023-04-26-230524.png
+           :align: left
+
+Thing:
+
+.. image:: images/2023-04-26-23-10-17-640.jpg
            :align: left
 
 First test setup:

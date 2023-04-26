@@ -75,7 +75,7 @@ Possible "human control", or other try to create weapon from PC, author - scient
 
 https://drive.google.com/drive/folders/1ruSHXJEPLg2V-gQ6sZ1cd7pbd4Ksjscy?usp=share_link maybe I try analize this later.
 
-Criticism harms the system and the name of the country, and the police and slave traders, after failures, continue to selflessly search for a way to create a new will in the victim burned by microwaves....
+Criticism harms the system and the name of the country, and the police and slave traders, after failures, continue to selflessly search for a way to create a new will in the victim burned by microwaves.... Perhaps the same events described in https://www.cs.cmu.edu/~dst/Library/Shelf/wakefield/us-13.html are taking place in Myrhorod, Ukraine.
 
 WIP
 +++

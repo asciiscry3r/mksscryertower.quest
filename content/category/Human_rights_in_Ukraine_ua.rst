@@ -73,7 +73,7 @@ From Military Neuroscience and the Coming Age of Neurowarfare 2016, Armin Krishn
 
 https://drive.google.com/drive/folders/1ruSHXJEPLg2V-gQ6sZ1cd7pbd4Ksjscy?usp=share_link, можливо, я спробую проаналізувати це пізніше.
 
-Критика наносить шкоду устрою та імені країни та поліція і работорговці після невдач все самовіддано продовжують шукати шлях до створення нової волі у спаленої мікрохвилями жертви.... Можливо просто відбуваються такіж самі події які описані в https://www.cs.cmu.edu/~dst/Library/Shelf/wakefield/us-13.html
+Критика наносить шкоду устрою та імені країни та поліція і работорговці після невдач все самовіддано продовжують шукати шлях до створення нової волі у спаленої мікрохвилями жертви.... Можливо просто в Миргороді, Україна, відбуваються такіж самі події які описані в https://www.cs.cmu.edu/~dst/Library/Shelf/wakefield/us-13.html
 
 
 .. _`words from`: https://www.icrc.org/en/doc/assets/files/other/irrc-867-reyes.pdf

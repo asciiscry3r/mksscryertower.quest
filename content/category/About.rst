@@ -1,7 +1,7 @@
 Klimenko Maxim Sergievich
 #########################
 
-:date: 2023-03-06 19:55
+:date: 2023-04-26 18:22
 :category: About
 :tags: About
 :slug: About
@@ -14,9 +14,9 @@ Klimenko Maxim Sergievich
 Klimenko Maxim Sergievich
 =========================
 
-| IT administrator and GNU/Linux user, but I don't have much knowledge about hardware and networking because I didn't get lessons from Scientology hackers, a member of the Civil Defense of the USRR (! communist,scientologist/andropov/beria fun ), I want and always will know and remember my history and the history of my country, and a "black" person for scientology - because they decided to control me like a robot/slave from childhood. And sometimes a cloud infrastructure engineer and always without faith.
-| If you ask me, I don't allow Scientology people and cyber-criminals to use me and my work, but who asks... and by the way, I use Arch Linux.
-| I can publish one variant then, after days, remember something an update all site - because my memory is like controlled disk.
+| IT administrator and GNU/Linux user, ~black~ ( final version of supressive ) person for scientology from my 7, but I don't have much knowledge about hardware and networking on level ~about tele control~ because I didn't get lessons or knowlege from Scientology hackers, they come to me, in almost all cases, for blackmail, theft of information and to install a backdoor on my equipment. A self-proclaimed member of the Civil Defense of the USRR ( ! communist,scientologist/andropov/beria fun ), I want and will always know and remember my history and the history of my country.
+  If you ask me, I don't allow Scientology people and cyber-criminals to use me and my work, but who asks... and by the way, I use Arch Linux.
+| I can publish one variant then, after days, remember something and update all the site - because my memory is like a controlled disk.
 
 1. The freedom of one ends where the freedom of another begins.
 
@@ -24,8 +24,8 @@ Klimenko Maxim Sergievich
 
 3. Freedom of association and disassociation.
 
-P.C. Klimenko Maxim Sergievich
-++++++++++++++++++++++++++++++
+Entrepreneur or FOP Klimenko Maxim Sergievich
++++++++++++++++++++++++++++++++++++++++++++++
 
 Articles of Association
 +++++++++++++++++++++++
@@ -51,6 +51,8 @@ Articles of Association
 10. Always be grateful to Ukrainian traitors ( armies,  russia too ) to the people because of brainwashing ( mind wiping, psychic driving ) from early childhood, consider their cults, military hackers an psy-op army and sincerely send all them to (abuse). Unsecure.
 
 11. If you control someone without permission and using killing and any kind of neurological weapon you a creator of human trafficking and criminal.
+
+12. A modern hacker ( most of them or in criminal/mafia world ) is an animal that will feed you with narcotic drugs and commit a series of offenses through you, for which he will demand money from you by blackmail, and then you will be imprisoned instead of him.
 
 Author on photo:
 ++++++++++++++++
