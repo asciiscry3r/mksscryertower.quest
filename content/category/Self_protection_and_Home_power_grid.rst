@@ -25,11 +25,11 @@ Factors affecting the civilian population during a war between countries or mafi
 11. Magnetic field radiate form shield on window when petal of the directional diagram looking at the side of the house.
 12. Mind machine/rTMS for offense from PC central processor by manipulation of power signal parameters.
 
-We must use ferrit filter for sound and other types of signal wires, but this very situationally. 
+We must use ferrit filter for sound and other type of signal wire, but this very situationally - some devices already have filters on input or output. 
 
 Related science work: https://www.academia.edu/37849621/ELF_SIGNALS_FROM_THE_POWER_GRID_Possible_Use_for_Detecting_Natural_Phenomena
 
-I try to create low-pass and high-pass filters for powering my appartment and PC, Routers etc trought them, coil with ferrit core:
+I try to create low-pass and high-pass filters for powering my appartment and PC, Routers etc trought them, coil with ferrit core, after attack on coil I decide to change my sheme:
 
 Tests:
 
@@ -147,3 +147,30 @@ Without filters, like in scientology/hubbard city, they supposed to emmit waves?
 .. _Video 1: https://photos.app.goo.gl/H9xX2h8a394wkJr1A
 
 .. _Video 2: https://photos.app.goo.gl/rKGwcViAuir8a6Zf9
+
+Resources
++++++++++
+
+https://eepower.com/technical-articles/single-point-and-multi-point-signal-grounding/#
+
+https://en.wikipedia.org/wiki/Neural_oscillation
+
+https://en.wikipedia.org/wiki/High-pass_filter
+
+https://en.wikipedia.org/wiki/Low-pass_filter
+
+https://en.wikipedia.org/wiki/Mind_machine#Description_of_altered_states
+
+https://web.archive.org/web/20100210190052/http://www.freewebs.com/psych11/virtuallightandsound.htm
+
+https://en.wikipedia.org/wiki/Microwave
+
+https://ru.wikipedia.org/wiki/%D0%A3%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9C%D0%B0%D0%BA%D1%81%D0%B2%D0%B5%D0%BB%D0%BB%D0%B0#%D0%A2%D0%B5%D0%BD%D0%B7%D0%BE%D1%80_%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%B0%D0%B3%D0%BD%D0%B8%D1%82%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BF%D0%BE%D0%BB%D1%8F
+
+https://www.sciencedirect.com/science/article/pii/S2665945X22000067
+
+https://neurosciencenews.com/wireless-brain-activation-21050/
+
+https://www.iarc.who.int/wp-content/uploads/2018/07/pr208_E.pdf
+
+https://www.researchgate.net/publication/235770387_Electromagnetic_field_50_Hz_Its_influence_on_living_organisms_on_the_cellular_level_Basic_tests_which_have_a_practical_application
