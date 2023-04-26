@@ -174,3 +174,5 @@ https://neurosciencenews.com/wireless-brain-activation-21050/
 https://www.iarc.who.int/wp-content/uploads/2018/07/pr208_E.pdf
 
 https://www.researchgate.net/publication/235770387_Electromagnetic_field_50_Hz_Its_influence_on_living_organisms_on_the_cellular_level_Basic_tests_which_have_a_practical_application
+
+https://en.wikipedia.org/wiki/Octave_(electronics)
