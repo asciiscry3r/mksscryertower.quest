@@ -25,7 +25,9 @@ Factors affecting the civilian population during a war between countries or mafi
 11. Magnetic field radiate form shield on window when petal of the directional diagram looking at the side of the house.
 12. Mind machine/rTMS for offense from PC central processor by manipulation of power signal parameters.
 
-We must use ferrit filter for sound and other type of signal wire, but this very situationally - some devices already have filters on input or output. 
+We/you must use ferrit filter for sound and other type of signal wire, but this very situationally - some devices already have filters on input or output. 
+
+And we/you can use aluminium foil glued and crushed like mylar blanked to internal side of PC box.
 
 Related science work: https://www.academia.edu/37849621/ELF_SIGNALS_FROM_THE_POWER_GRID_Possible_Use_for_Detecting_Natural_Phenomena
 
