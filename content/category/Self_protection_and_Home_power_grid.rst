@@ -29,6 +29,7 @@ Factors affecting the civilian population during a war between countries or mafi
 15. Microwave burning for organs - explained as alcohol or nicotine problem.
 16. Radio frequency attacks on boards in the absence of electromagnetic security in the form of infrastructure technical means turn the board into a device affecting the psyche and health, because of that it is necessary to create a system of notifications about changes in signals and voltages - I wanted this, but they started killing me.
 17. Special sending of an additional signal modulated by ELF/VLF signals on the power lines of a residential area - perhaps this is what allows a criminal to talk and kill at the same time through household appliances.
+18. Signal on tubes.
 
 We/you must use ferrit filter for sound and other type of signal wire, but this very situationally - some devices already have filters on input or output. 
 
