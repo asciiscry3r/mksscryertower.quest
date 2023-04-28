@@ -6,7 +6,7 @@ Self protection and Home power grid
 :category: cybersecurity, diy, it, hacking, health
 :slug: Self protection and Home power grid
 :authors: Klimenko Maxim Sergievich
-:summary: Home power grid
+:summary: Self protection and Home power grid
 
 ###################################
 
@@ -24,6 +24,11 @@ Factors affecting the civilian population during a war between countries or mafi
 10. Mobile network base station is UHF/EHF radiostation with diapason ~900-2800~3000 MHz and hackers or mafia(cults) can just rewrite firmware on all your devices, access to signal networks and can be use them as direct energy weapon. 
 11. Magnetic field radiate form shield on window when petal of the directional diagram looking at the side of the house.
 12. Mind machine/rTMS for offense from PC central processor by manipulation of power signal parameters.
+13. Radio frequency induction on ground wire or possible way to human control.
+14. Radio/Microwave (from 300 MHz) modulated by ELF way to the mind control where mind control is offence, and possible ELF/VLF.
+15. Microwave burning for organs - explained as alcohol or nicotine problem.
+16. Radio frequency attacks on boards in the absence of electromagnetic security in the form of infrastructure technical means turn the board into a device affecting the psyche and health, because of that it is necessary to create a system of notifications about changes in signals and voltages - I wanted this, but they started killing me.
+17. Special sending of an additional signal modulated by ELF/VLF signals on the power lines of a residential area - perhaps this is what allows a criminal to talk and kill at the same time through household appliances.
 
 We/you must use ferrit filter for sound and other type of signal wire, but this very situationally - some devices already have filters on input or output. 
 
@@ -149,6 +154,11 @@ Without filters, like in scientology/hubbard city, they supposed to emmit waves?
 .. _Video 1: https://photos.app.goo.gl/H9xX2h8a394wkJr1A
 
 .. _Video 2: https://photos.app.goo.gl/rKGwcViAuir8a6Zf9
+
+HF resistor from soviet KGB with strange HF window not for brainwashing but.., hacked, IMHO.
+
+.. image:: images/2023-04-27-09-40-07-641.jpg
+           :align: left
 
 Resources
 +++++++++

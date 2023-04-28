@@ -13,6 +13,7 @@ Human rights in Ukraine
 #######################
 
 Police:
++++++++
 
 `From Article 42`_. Police coercive measures
 
@@ -31,11 +32,11 @@ Police:
 
 1) rubber and plastic batons;
 2) electric shock devices of contact and contact-distance action;
-3) means of limiting mobility (handcuffs, nets for tying, etc.);\
+3) means of limiting mobility (handcuffs, nets for tying, etc.);
 4) means equipped with lachrymatory and irritating substances;
 5) means of forced traffic stop;
 6) special marking and coloring means;
-7) service dogs and service horses;\
+7) service dogs and service horses;
 8) light-sound devices, grenades and ammunition;
 
 9) means of acoustic and microwave influence;
@@ -73,9 +74,38 @@ Possible "human control", or other try to create weapon from PC, author - scient
 .. image:: images/img-2023-04-23-014631.png
 	   :align: left
 
-https://drive.google.com/drive/folders/1ruSHXJEPLg2V-gQ6sZ1cd7pbd4Ksjscy?usp=share_link maybe I try analize this later.
+https://drive.google.com/drive/folders/1ruSHXJEPLg2V-gQ6sZ1cd7pbd4Ksjscy?usp=share_link maybe I try analize this later. Since I was repeatedly caused by microwave irradiation to stop my heart, burned my brain, made me commit suicide and learned to stop my body's thought processes, I am now only writing a website.
 
-Criticism harms the system and the name of the country, and the police and slave traders, after failures, continue to selflessly search for a way to create a new will in the victim burned by microwaves.... Perhaps the same events described in https://www.cs.cmu.edu/~dst/Library/Shelf/wakefield/us-13.html are taking place in Myrhorod, Ukraine.
+Criticism harms the system and the name of the country, and the police and slave traders, after failures, selflessly continue to search for a way to create a new will in the victim burned by microwaves.... Maybe just in Myrhorod, Ukraine, the same events as described in https://www.cs.cmu.edu/~dst/Library/Shelf/wakefield/us-13.html
+
+Education, which the Scientologist and Communist understands as control under psychopharmacology
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+The logo or part of it, which the teachers of Ukraine began to use by themselves, out of fashion or because of the mafia, because a person must be stupid - it's easier, they tell pseudo-scientific fictions in classes and selectively tell useful ones, people as a result get one that misleads and live in the world of super-secret mafias and non-existent special services.
+
+https://en.wikipedia.org/wiki/List_of_trademarks_owned_by_the_Church_of_Scientology_and_its_affiliates
+https://www.scientologynews.org/press-releases/ukraine-tutoring-program.html
+https://www.prweb.com/releases/churchofscientology/appliedscholastics/prweb10781615.htm
+
+As a result of this approach, when my parents, who were still raped by the communists, sent me to the 6th grade, my mother could not understand what human trafficking was, and I was sure that such a phenomenon did not exist - like the UN told me.
+They create the impression and confidence that when Ukrainians use electromagnetic weapons against you, throughout their lives, it is normal that way the state authorities communicate when the State communicates only through legal acts in paper or electronic written form.
+
+Army
+++++
+
+For 30+ years, Ukrainian so-called magicians, energy specialists, and radio operators have been studying the intricacies of controlling people from hooligans and bandits, with the absolute full support of Scientology, which is the world leader in supplying people to various countries.
+
+MK ultra-scale country with psychotropic drugs in point-delivered products - the armed forces, police and intelligence when using means of control and psychopharmacology only kills the population with weapons of mass destruction. Due to the facts of poisonings, the mafia, Russian operations with the participation of Ukrainians, there is sometimes confidence that this is MK Ultra analog: https://mhgc21.org/en/mhgc21/events/october2018/MHGC-Proceedings-2018/Psycho-Information-Psychotronic-Technologies-for-Overcoming-the-Effects-of-Operative-Combat-Mental-Trauma-Addictive-Disorders-Drug-Resistant-Major-Depression-Anhedonia-and-Alexithymia-First-Report
+
+Using the controlled female part of the population to provide "handjob" services and create the illusion of fulfilling and respecting human rights for the population and youth who prepare and wash for the army.
+
+The social status of slavery or any other social status that cancels the fact that you are a person is a socially conditioned phenomenon to justify organized crimes, mass murders, etc. - the only existing form of physical human slavery is absolute dependence on the laws of nature and the characteristics of physical space.
+
+Radio frequency attacks on boards in the absence of electromagnetic security in the form of infrastructure technical means turn the board into a device affecting the psyche and health, which is why it is necessary to create a system of notifications about changes in signals and voltages.
+
+Special sending of an additional signal modulated by ELF/VLF signals on the power lines of a residential area - perhaps this is what allows a criminal to talk and kill at the same time through household appliances.
+
+Children 1-2 years old, young people who ask questions on the computer are enrolled into the fictional Red Army, criminals, communists by deception, fake documents and using a code from ordinary words whose meaning is changed, they begin to turn a person into a slave or make him an accomplice to crimes.
 
 WIP
 +++
