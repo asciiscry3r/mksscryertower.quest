@@ -21,10 +21,10 @@ Factors affecting the civilian population during a war between countries or mafi
 7. RF attacks on filters with low inductance.
 8. RF attacks on ground for creating current and block ground wire flow.
 9. Microwave attacks on filters with low/hight inductance.
-10. Mobile network base station is UHF/EHF radiostation with diapason ~900-2800~3000 MHz and hackers or mafia(cults) can just rewrite firmware on all your devices, access to signal networks and can be use them as direct energy weapon. 
-11. Magnetic field radiate form shield on window when petal of the directional diagram looking at the side of the house.
+10. Mobile network base station is UHF/EHF radiostation with diapason ~900-2800~3000 MHz and hackers or mafia(cults) with access can just rewrite firmware on all your devices, access to signal networks and can be use them as direct energy weapon. 
+11. Magnetic field radiate from shield on window when petal of the directional diagram looking at the side of the house.
 12. Mind machine/rTMS for offense from PC central processor by manipulation of power signal parameters.
-13. Radio frequency induction on ground wire or possible way to human control.
+13. Radiofrequency induction on ground wire is possible way to human control.
 14. Radio/Microwave (from 300 MHz) modulated by ELF way to the mind control where mind control is offence, and possible ELF/VLF.
 15. Microwave burning for organs - explained as alcohol or nicotine problem.
 16. Radio frequency attacks on boards in the absence of electromagnetic security in the form of infrastructure technical means turn the board into a device affecting the psyche and health, because of that it is necessary to create a system of notifications about changes in signals and voltages - I wanted this, but they started killing me.
@@ -47,9 +47,12 @@ Tests:
 .. image:: images/20230403_004322.jpg
            :align: left
 
-Latest setup:
+Latest setup, from 2020 criminals 24/7 use microwave ELF for killing and control, IMHO with scheme better for me or other victims:
 
-.. image:: images/img-2023-04-26-214609.png
+.. image:: images/img-2023-04-30-205941.png
+           :align: left
+
+.. image:: images/2023-04-30-18-00-49-977.jpg
            :align: left
 
 .. image:: images/img-2023-04-26-215338.png
@@ -69,7 +72,7 @@ And some:
 .. image:: images/img-2023-04-26-230524.png
            :align: left
 
-Thing:
+Thing, but with this thing and Soviet HF resistor criminals can try to stop heart:
 
 .. image:: images/2023-04-26-23-10-17-640.jpg
            :align: left
@@ -156,7 +159,7 @@ Without filters, like in scientology/hubbard city, they supposed to emmit waves?
 
 .. _Video 2: https://photos.app.goo.gl/rKGwcViAuir8a6Zf9
 
-HF resistor from soviet KGB with strange HF window not for brainwashing but.., hacked, IMHO.
+HF resistor from soviet KGB with strange HF window not for brainwashing but.. can kill, hacked, IMHO.
 
 .. image:: images/2023-04-27-09-40-07-641.jpg
            :align: left

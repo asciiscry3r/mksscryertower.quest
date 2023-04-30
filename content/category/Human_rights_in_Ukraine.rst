@@ -74,7 +74,7 @@ Possible "human control", or other try to create weapon from PC, author - scient
 .. image:: images/img-2023-04-23-014631.png
 	   :align: left
 
-https://drive.google.com/drive/folders/1ruSHXJEPLg2V-gQ6sZ1cd7pbd4Ksjscy?usp=share_link maybe I try analize this later. Since I was repeatedly caused by microwave irradiation to stop my heart, burned my brain, made me commit suicide and learned to stop my body's thought processes, I am now only writing a website.
+https://drive.google.com/drive/folders/1ruSHXJEPLg2V-gQ6sZ1cd7pbd4Ksjscy?usp=share_link maybe I try analize this later. Since I was repeatedly caused by microwave irradiation to stop my heart, burned my brain, made me commit suicide and learned to stop my body's thought processes, I am now only writing a website. Scientology methods aimed at the population cause only harm and create the illusion of life without the possibility of self-realization, while the Scientologists themselves use only pure products and only truly satisfy the pyramid of their needs. Here (Ukraine) it is mostly Soviet communist nomenclature.
 
 Criticism harms the system and the name of the country, and the police and slave traders, after failures, selflessly continue to search for a way to create a new will in the victim burned by microwaves.... Maybe just in Myrhorod, Ukraine, the same events as described in https://www.cs.cmu.edu/~dst/Library/Shelf/wakefield/us-13.html
 
