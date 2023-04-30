@@ -52,7 +52,7 @@ Articles of Association
 
 11. If you control someone without permission and using killing and any kind of neurological weapon you a creator of human trafficking and criminal.
 
-12. A modern hacker ( most of them or in criminal/mafia world ) is an animal that will feed you with narcotic drugs and commit a series of offenses through you, for which he will demand money from you by blackmail, and then you will be imprisoned instead of him.
+12. A modern hacker ( most of them or in criminal/mafia world ) is an animal that will feed you with narcotic drugs and commit a series of offenses through you, for which he will demand money from you by blackmail, and then you will be imprisoned instead of him. Online piracy = criminal hackers or controlled live proxy.
 
 Author on photo:
 ++++++++++++++++
