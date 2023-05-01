@@ -27,9 +27,12 @@
 &lt;p&gt;“Depending on product, the IPT may be implemented as an applet for the engine’s DAL feature, or a native firmware module on the engine. If the firmware supports DAL, for example, on most Intel Ultrabook models, then the IPT implementation will be distributed in a Java applet. On certain smartphones and other products where the DAL is not built into the engine’s firmware, the IPT will be a native firmware ingredient that is loaded from the system’s flash chip. The firmware design and functionalities of the IPT component are identical for both variants.”&lt;/p&gt;
 &lt;p&gt;And all this set realized for IT Business needs.&lt;/p&gt;
 &lt;img alt="" class="align-left" src="images/2022-12-11_08-32.png" /&gt;
-&lt;p&gt;And when cyber-criminals get this access he can very fast find ability to anytime rewriting some parts of machine firmware and can create for self new wireless and cable connections, remote wireless access to web-camera, screen, hard disk, memory etc.&lt;/p&gt;
-&lt;p&gt;But some laptops has bad one thing inside - &lt;a class="reference external" href="https://patents.google.com/patent/US5748084A/en"&gt;Police access&lt;/a&gt;:&lt;/p&gt;
+&lt;p&gt;And when cybercriminals maintain this access, they can very quickly find the opportunity to rewrite some parts of the machine's firmware at any time and create new wireless and cable connections, remote wireless access to the webcam, screen, hard drive, memory. etc.&lt;/p&gt;
+&lt;p&gt;But in some computers there is one bad thing - &lt;a class="reference external" href="https://patents.google.com/patent/US5748084A/en"&gt;Police access&lt;/a&gt;, I have never seen it used for anything other than information piracy:&lt;/p&gt;
 &lt;img alt="" class="align-left" src="images/intelantithef.png" /&gt;
 &lt;p&gt;Research about this:&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://www.blackhat.com/docs/us-14/materials/us-14-Kamluk-Computrace-Backdoor-Revisited-WP.pdf"&gt;https://www.blackhat.com/docs/us-14/materials/us-14-Kamluk-Computrace-Backdoor-Revisited-WP.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://ebrary.net/24869/computer_science/secure_technology"&gt;https://ebrary.net/24869/computer_science/secure_technology&lt;/a&gt;
+&lt;a class="reference external" href="https://freundschafter.com/research/about-amd-trustzone-amd-platform-security-processor-psp-amd-secure-technology/"&gt;https://freundschafter.com/research/about-amd-trustzone-amd-platform-security-processor-psp-amd-secure-technology/&lt;/a&gt;
+&lt;a class="reference external" href="https://www.phoronix.com/news/AMDGPU-Secure-Display-Patches"&gt;https://www.phoronix.com/news/AMDGPU-Secure-Display-Patches&lt;/a&gt;&lt;/p&gt;
 </content><category term="dew, cults, cybersecurity, military"></category><category term="dew"></category><category term="cults"></category><category term="cybersecurity"></category><category term="military"></category></entry></feed>

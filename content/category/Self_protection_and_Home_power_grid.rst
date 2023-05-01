@@ -30,7 +30,7 @@ Factors affecting the civilian population during a war between countries or mafi
 16. Radio frequency attacks on boards in the absence of electromagnetic security in the form of infrastructure technical means turn the board into a device affecting the psyche and health, because of that it is necessary to create a system of notifications about changes in signals and voltages - I wanted this, but they started killing me.
 17. Special sending of an additional signal modulated by ELF/VLF signals on the power lines of a residential area - perhaps this is what allows a criminal to talk and kill at the same time through household appliances.
 18. Signal on metal gas and water tubes.
-19. They burn the brain and hippocampus with microwaves, burn out groups of nerve connections, tear them off from the connection points, for complete control of the human body and brain - its remains in the broth of torn tissues that are chaotically combined and will never be restored like a part of your self and memory.
+19. They burn the brain and hippocampus with microwaves, burn out groups of nerve connections, tear them off from the connection points, for complete control of the human body and brain - its remains in the broth of torn tissues that are chaotically combined and never can be restored like a part of your self and memory.
 
 We/you must use ferrit filter for sound and other type of signal wire, but this very situationally - some devices already have filters on input or output. 
 

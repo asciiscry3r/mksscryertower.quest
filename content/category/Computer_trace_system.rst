@@ -68,3 +68,9 @@ But in some computers there is one bad thing - `Police access`_, I have never se
 Research about this:
 
 https://www.blackhat.com/docs/us-14/materials/us-14-Kamluk-Computrace-Backdoor-Revisited-WP.pdf
+
+
+
+https://ebrary.net/24869/computer_science/secure_technology
+https://freundschafter.com/research/about-amd-trustzone-amd-platform-security-processor-psp-amd-secure-technology/
+https://www.phoronix.com/news/AMDGPU-Secure-Display-Patches

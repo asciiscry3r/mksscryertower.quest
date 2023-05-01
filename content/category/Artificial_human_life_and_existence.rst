@@ -11,6 +11,10 @@ Artificial human life = existence
 
 #################################
 
+All social justice as concept for human controlled avatars from humans, like toilet for girl with shadow from hacker who a man, and all this for mental health of people who have control.
+
+Cancel culture is only about creating new human controlled avatars from humans.
+
 No life concept
 +++++++++++++++
 
