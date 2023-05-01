@@ -8,6 +8,8 @@ Computer trace system
 :slug: Computer trace system
 :authors: Klimenko Maxim Sergievich
 :summary: Computer trace system
+:translation: false
+:lang: en
 
 ########################
 
@@ -52,9 +54,9 @@ And all this set realized for IT Business needs.
 .. image:: images/2022-12-11_08-32.png
 	   :align: left
 
-And when cyber-criminals get this access he can very fast find ability to anytime rewriting some parts of machine firmware and can create for self new wireless and cable connections, remote wireless access to web-camera, screen, hard disk, memory etc.
+And when cybercriminals maintain this access, they can very quickly find the opportunity to rewrite some parts of the machine's firmware at any time and create new wireless and cable connections, remote wireless access to the webcam, screen, hard drive, memory. etc.
 
-But some laptops has bad one thing inside - `Police access`_:
+But in some computers there is one bad thing - `Police access`_, I have never seen it used for anything other than information piracy:
 
 .. image:: images/intelantithef.png
 	   :align: left

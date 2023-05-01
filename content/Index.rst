@@ -53,11 +53,13 @@ Pages
 
 `Human rights in Ukraine UA <{filename}/category/Human_rights_in_Ukraine_ua.rst>`_
 
-`Artificial human life = existence <{filename}/category/Artificial_human_life_and_existence.rst>`_
-
-`Crimes with brain scanners, human detectors, other devices and me <{filename}/category/Crimes_with_brain_scanners_human_detectors_other_devices_and_me.rst>`_
-
 `Computer trace system <{filename}/category/Computer_trace_system.rst>`_
+
+`Computer trace system UA <{filename}/category/Computer_trace_system_ua.rst>`_
+
+`Artificial human life = existence (WIP) <{filename}/category/Artificial_human_life_and_existence.rst>`_
+
+`Crimes with brain scanners, human detectors, other devices and me (WIP) <{filename}/category/Crimes_with_brain_scanners_human_detectors_other_devices_and_me.rst>`_
 
 `Internet as a phenomenon <{filename}/category/Internet_as_a_phenomenon.rst>`_
 
