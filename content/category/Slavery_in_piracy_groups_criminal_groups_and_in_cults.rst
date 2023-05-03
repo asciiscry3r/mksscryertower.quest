@@ -199,6 +199,12 @@ Source Brainwashing and Thought Control in Scientology -- The Road to Rondroid
 
 ================================================================================================================
 
+The theory of neural networks between people based on the principle of intelligent systems of the Swarm type - Scientology slavery is often justified by armies or powerful groups of society due to the fact that after the creation of the first devices of the type as in the `1975 patent`_, it became possible to create special exchange networks between groups of criminals, or other people, brain-to-brain or body-to-body data and thus sufficiently secret and controlled, because knowledge can be taken away or destroyed at any time, develop software for hacking, weapons, operations and so on. After using the device described in the patent and controlled brain cultivation on humans, these people are completely deprived of freedom and rights and are mostly unable to think without electromagnetic stimulation or do not have the evolutionarily necessary element to form thoughts - such as desires or a self.
+
+================================================================================================================
+
+.. _`1975 patent`: https://patents.google.com/patent/US3951134A/en
+
 .. _Rondroinds: https://www.cs.cmu.edu/~dst/Library/Shelf/wakefield/us-14.html
 
 .. _Stockholm Syndrome: https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%BE%D0%BA%D0%B3%D0%BE%D0%BB%D1%8C%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B8%D0%BD%D0%B4%D1%80%D0%BE%D0%BC
