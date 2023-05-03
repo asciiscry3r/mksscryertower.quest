@@ -14,7 +14,7 @@ Klimenko Maxim Sergievich
 Klimenko Maxim Sergievich
 =========================
 
-| IT administrator and GNU/Linux user, ~black~ ( final version of supressive ) person for scientology from my 7, but I don't have much knowledge about hardware and networking on level ~about tele control~ because I didn't get lessons or knowlege from Scientology hackers, they come to me, in almost all cases, for blackmail, theft of information and to install a backdoor on my equipment. A self-proclaimed member of the Civil Defense of the USRR ( ! communist,scientologist/andropov/beria fun ), I want and will always know and remember my history and the history of my country.
+| IT administrator and GNU/Linux user, ~black~ ( final version of supressive ) person for scientology from my 7, but I don't have much knowledge about hardware and networking on level ~about tele control~ or newer has my own machine without piracy, most of the time I work at the computer or in the fields of other people's actions, all kinds of broken AURAs are complete shit or microwave images of girls who seem to need to be masturbated, it's generally death and horror, or under my primitive sources of electromagnetic noise and I shake from the voices of Scientology=Communism because of that that they are in the microwave range - probably so that I die of hunger without money, but working at a computer is the best thing I have ever done - sometimes there is an opportunity to learn or understand something, because I didn't get lessons or knowlege from Scientology/Army hackers, they come to me, in almost all cases, for blackmail, theft of information and to install a backdoor on my equipment. A self-proclaimed member of the Civil Defense of the USRR ( ! communist,scientologist/andropov/beria fun ), I want and will always know and remember my history and the history of my country.
   If you ask me, I don't allow Scientology people and cyber-criminals to use me and my work, but who asks... and by the way, I use Arch Linux.
 | I can publish one variant then, after days, remember something and update all the site - because my memory is like a controlled disk.
 
@@ -52,7 +52,7 @@ Articles of Association
 
 11. If you control someone without permission and using killing and any kind of neurological weapon you a creator of human trafficking and criminal.
 
-1. A modern hacker ( most of them or in criminal/mafia world ) is an animal that will feed you with narcotic drugs and commit a series of offenses through you, for which he will demand money from you by blackmail, and then you will be imprisoned instead of him. Online piracy = richest criminal hackers or controlled live proxy.
+12. A modern hacker, not to be confused with those who are for the freedom of the human mind and individuality together with morality, criminal/cult/mafia world, is an animal that will feed you with narcotic drugs and commit a series of offenses through you, for which he will demand money from you by blackmail, and then you will be imprisoned instead of him. Online piracy = richest criminal hackers or controlled live proxy.
 
 Author on photo:
 ++++++++++++++++

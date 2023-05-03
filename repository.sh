@@ -32,3 +32,10 @@ sudo cp -R -f --remove-destination /var/www/repo.mksscryertower.quest/repoupdate
 #python3 -m grpc_tools.protoc -I. --python_out=../ui/opensnitch/ --grpc_python_out=../ui/opensnitch/ ui.proto
 #~/.cache/yay/opensnitch-git/src/opensnitch
 #~/.cache/yay/opensnitch-git/src/opensnitch/daemon ~/.cache/yay/opensnitch-git/src/opensnitch
+
+
+
+PostUp = ip rule add table 200 from 172.31.1.1
+PostUp = ip route add table 200 default via 172.31.1.1
+PreDown = ip rule delete table 200 from 172.31.1.1
+PreDown = ip route delete table 200 default via 172.31.1.1
