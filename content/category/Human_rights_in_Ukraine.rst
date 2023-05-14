@@ -22,6 +22,9 @@ Police:
 1. The police, while exercising the powers specified by this Law, is authorized to apply the following coercive measures:
 1) physical influence (force);
 2) use of special means;
+
+The police and the prosecutor's office often provide access for their type of `reliable` criminals, where they spend years breaking into the equipment of the population in a difficult situation and earn significant sums from it, while killing the owners of the equipment and not compensating for the damages in any way.
+
 3) use of firearms.
 
 2. Physical influence is the use of any physical force, as well as special methods of struggle in order to stop illegal actions of offenders.
