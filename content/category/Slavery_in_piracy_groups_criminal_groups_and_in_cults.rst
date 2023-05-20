@@ -305,8 +305,10 @@ Related law in Ukraine:
 * Article 142. Illegal conduct of human experiments
 * Article 138. Illegal medical activity
 * Article 127. Torture
+* Article 363 Interference with the operation of electronic computing machines (computers), automated systems, computer networks or telecommunication networks by means of mass distribution of telecommunication messages
+* Prohibition of online or computer piracy - Law of Ukraine "On State Support of Cinematography in Ukraine" (1601-VIII) 03/23/2017 - entered into force on 04/26/2017; Ukraine's law on information
 
-
+  
 My conclusion:
 ==============
 
