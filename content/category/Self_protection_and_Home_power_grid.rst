@@ -56,7 +56,7 @@ Latest setup, from 2020 criminals 24/7 use microwave ELF for killing and control
 .. image:: images/2023-04-30-18-00-49-977.jpg
            :align: left
 
-.. image:: images/img-2023-04-26-215338.png
+.. image:: images/img-2023-05-24-022451.png
            :align: left
 
 Sound sometimes like `Mind Machine`_ with lite form of `rTMS`_, but its better then UHF in speakers. 
