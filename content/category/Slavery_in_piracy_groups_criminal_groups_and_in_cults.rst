@@ -16,11 +16,15 @@ Slavery in piracy groups, criminal groups and in cults
 Scientology - american/soviet totalitarian destructive cult created with Andropov/Beria mindset communists, slave owners and human traders in USA. For USSR - they must destroy USA from inside and for USA they must destroy USSR from inside.
 In UA/RU net we can find stories about `Chernobyl centre`_ of `"Psychotronics"`_ - home of soviet part of Scientology, Duga and similar projects, "Krab" and "Sneak" control systems. In theory..
 
+Unconfirmed rumors about some part of the Communist Party of the Soviet Union:
+
 “Based on the research carried out in 1972-1973, the Institute of Radio Electronics of the USSR Academy of Sciences completed the manufacture and introduction into military practice of the latest radio-technical weapons. The artificial creation of a race of slaves with desired properties has practically become real. There is a classification in the military-industrial complex, where the seventh, newest generation of weapons of mass destruction is called a weapon that affects the genetic apparatus." - and all scientology look at you like at biorobot or slave.
 
 Union councils - created electromagnetic weapons of mass destruction embedded in civilian infrastructure, pumped the entire west with drugs, supported the existence of Scientology and Aum Shinrikyo, introduced new people programs where the slaves should be the workers - as in the idea of communism where people all sing and paint and in factories robots are working The population of the countries is gradually enslaved by the decision of the party after the collapse caused by the defeat in the Cold War and the increasingly massive use of population control. ( IMHO )
 
 Because of this, everyone has different types of will, from control schemes to non-violence schemes, and these neural networks can change over the course of a lifetime. The signal is taken according to the method of radio frequency reading of brain activity invented in 1922. ( IMHO )
+
+Historical references to Communist psychological operations from history:
 
 Why we have communists in religious cults or religious is opium for people's:
 Cultural Marxism was not just a philosophical theory, but it became a blueprint for communist subversion during the Cold War. According to the Czech defector Major-General Jan Sejna, Brezhnev (General Secretary 1964–82) created a ‘long-range strategic plan’ for defeating the West through political warfare and demoralisation. The plan had four stages: (1) ‘peaceful coexistence’, (2) ‘peaceful coexistence struggle’, (3) ‘period of dynamic social change’ and (4) the ‘era of global democratic peace’, which was supposed to arrive in 1995 (Sejna, 1982: 106). The objective in phase two was to ‘accelerate the social fragmentation of the Capitalist countries’ (Sejna, 1982: 106).
@@ -136,6 +140,8 @@ In my case all black Scientology mafia use a police ( in Ukraine they cant use e
 
 Criminals, communists enroll children 1-2 years old into the Red Army by deception, fake documents and using a code from ordinary words whose meaning is changed, they begin to turn the child into a slave or make him an accomplice in crimes.
 
+Scientologists, pirates, slave owners during the war in Ukraine found a new way of disposing of slaves who became inconvenient or unprofitable, slaves are those who have been kept for so long with damaged or constantly kept with damaged internal organs of the central nervous system that they no longer understand that they are controlled or they no longer have any options for salvation because the population does not care about observing their rights and laws, and often the slave never knows about the huge layer of technologies of radio frequency control, stimulation, interference with life and that electromagnetic waves poison the body. Slaves are manipulated into voluntary battalions where there are commanders who have received payment from the mafia and owe it services, and people are brought under the fire of the enemy by radio control in the first battles or when the opportunity arises.
+
 *Best tactic from this and similar groups is using* `brain to brain interface technology`_ *for transmit or recive their will, they call this action - suppression of suppressive personalities, where criminals is in itself what it destroys according to its "faith", in result people under supression can try to leave life by suicide - in the process of "suppression". victims of murder can acquire a desire for self-destructive behavior, which is caused by electromagnetic connections, shackles, and suicide is the final resistance to them.*
 *Or after years of live in cult/group/communa have* `Stockholm Syndrome`_ *and start help and protect other cults members and tormentors.
 Or the victory of the enemy and slavery. In addition, the cults sell the rights to decisions about the use of similar technologies by terrorists under the guise of magical abilities that reflect a new level of initiation.*
@@ -196,6 +202,8 @@ Did Hubbard know what he was doing?
 The answer is yes. Driven by greed, by his twin lusts for money and power, he willfully and knowingly destroyed the lives of the thousands naive enough to follow him. L. Ron Hubbard -- pied piper of the soul....
 
 Source Brainwashing and Thought Control in Scientology -- The Road to Rondroid
+
+From myself - while being held captive and under manipulation, I believe only in the definition that I give below, of the totalitarian-destructive cult of human traffickers "Church of Scientology", and their other public names that are drawn from their ideology and pseudo-science-pseudo-religion, I heard from their old a member of the type who protected humanity from drugs about the fact that I do not "reproduce", as I understood, they experiment with writing radio frequency responses from the irradiation of the brain and body with radio waves and then check whether they are reproduced on the same person after time, if not or if they want to control put 24/7 recorded from themselves.
 
 ================================================================================================================
 
