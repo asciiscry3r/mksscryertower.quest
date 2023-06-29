@@ -21,7 +21,7 @@ Factors affecting the civilian population during a war between countries or mafi
 7. RF attacks on filters with low inductance.
 8. RF attacks on ground for creating current and block ground wire flow.
 9. Microwave attacks on filters with low/hight inductance.
-10. Mobile network base station is UHF/EHF radiostation with diapason ~900-2800~3000 MHz and hackers or mafia(cults) with access can just rewrite firmware on all your devices, access to signal networks and can be use them as direct energy weapon. 
+10. Mobile network base station is UHF/EHF radiostation with diapason ~900-2800~3000 MHz and hackers or mafia(cults) with access can just rewrite firmware on all your devices, access to signal networks and can be use them as direct energy weapon.
 11. Magnetic field radiate from shield on window when petal of the directional diagram looking at the side of the house.
 12. Mind machine/rTMS for offense from PC central processor by manipulation of power signal parameters.
 13. Radiofrequency induction on ground wire is possible way to human control.
@@ -32,7 +32,12 @@ Factors affecting the civilian population during a war between countries or mafi
 18. Signal on metal gas and water tubes.
 19. They burn the brain and hippocampus with microwaves, burn out groups of nerve connections, tear them off from the connection points, for complete control of the human body and brain - its remains in the broth of torn tissues that are chaotically combined and never can be restored like a part of your self and memory.
 
-We/you must use ferrit filter for sound and other type of signal wire, but this very situationally - some devices already have filters on input or output. 
+Only at your own risk and on your own responsibility
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+I need some discharger for power grid charges ....
+
+We/you must use ferrit filter for sound and other type of signal wire, but this very situationally - some devices already have filters on input or output.
 
 And we/you can use aluminium foil glued and crushed like mylar blanked to internal side of PC box.
 
@@ -45,10 +50,23 @@ Tests:
 .. image:: images/20230403_004327.jpg
            :align: left
 
-.. image:: images/20230403_004322.jpg
+From 2020 criminals 24/7 use microwave ELF for killing and control, IMHO with scheme better for me or other victims:
+
+.. image:: images/IMG_20211211_170729.jpg
            :align: left
 
-Latest setup, from 2020 criminals 24/7 use microwave ELF for killing and control, IMHO with scheme better for me or other victims:
+.. image:: images/IMG_20220722_035610.jpg
+           :align: left
+
+Latest setup:
+
+.. image:: images/img-2023-06-29-014904.png
+           :align: left
+
+.. image:: images/img-2023-06-29-011533.png
+           :align: left
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 .. image:: images/img-2023-04-30-205941.png
            :align: left
@@ -59,7 +77,7 @@ Latest setup, from 2020 criminals 24/7 use microwave ELF for killing and control
 .. image:: images/img-2023-05-24-022451.png
            :align: left
 
-Sound sometimes like `Mind Machine`_ with lite form of `rTMS`_, but its better then UHF in speakers. 
+Sound sometimes like `Mind Machine`_ with lite form of `rTMS`_, but its better then UHF in speakers.
 
 .. _`Mind Machine`: https://en.wikipedia.org/wiki/Mind_machine#Description_of_altered_states
 
@@ -193,3 +211,5 @@ https://www.iarc.who.int/wp-content/uploads/2018/07/pr208_E.pdf
 https://www.researchgate.net/publication/235770387_Electromagnetic_field_50_Hz_Its_influence_on_living_organisms_on_the_cellular_level_Basic_tests_which_have_a_practical_application
 
 https://en.wikipedia.org/wiki/Octave_(electronics)
+
+https://vuzlit.com/1019550/aktivni_metodi_zahistu_informatsiyi
