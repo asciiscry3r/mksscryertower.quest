@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>mksscryertower.quest - misc</title><link href="https://mksscryertower.quest/" rel="alternate"></link><link href="https://mksscryertower.quest/feeds/misc.atom.xml" rel="self"></link><id>https://mksscryertower.quest/</id><updated>2029-12-31T23:48:00+02:00</updated><subtitle></subtitle><entry><title>mksscryertower.quest</title><link href="https://mksscryertower.quest/mksscryertowerquest.html" rel="alternate"></link><published>2029-12-31T23:48:00+02:00</published><updated>2029-12-31T23:48:00+02:00</updated><author><name>Klimenko Maxim Sergievich</name></author><id>tag:mksscryertower.quest,2029-12-31:/mksscryertowerquest.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+&lt;img alt="" class="align-left" src="images/mainmeme.jpg" /&gt;
+&lt;div class="section" id="arch-linux-repository"&gt;
+&lt;h2&gt;Arch Linux repository&lt;/h2&gt;
+&lt;p&gt;Repository with builded packages for Arch GNU/Linux and pacman based distros.
+In &lt;strong&gt;/etc/pacman.conf&lt;/strong&gt;&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+[repo.mksscryertower.quest]
+Server = https://repo.mksscryertower.quest/repo/x86_64/
+&lt;/pre&gt;
+&lt;p&gt;Then run, from root&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+pacman-key --recv-keys 8A36037D80912162
+pacman-key --lsign-key 8A36037D80912162
+pacman -Syyu
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class="section" id="pages"&gt;
+&lt;h2&gt;Pages&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Home local network.html"&gt;Home local network&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Workstation Configuration.html"&gt;Workstation configuration&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Routers Configuration.html"&gt;Router configuration&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Self protection and Home power grid.html"&gt;Self …&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;hr class="docutils" /&gt;
+&lt;img alt="" class="align-left" src="images/mainmeme.jpg" /&gt;
+&lt;div class="section" id="arch-linux-repository"&gt;
+&lt;h2&gt;Arch Linux repository&lt;/h2&gt;
+&lt;p&gt;Repository with builded packages for Arch GNU/Linux and pacman based distros.
+In &lt;strong&gt;/etc/pacman.conf&lt;/strong&gt;&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+[repo.mksscryertower.quest]
+Server = https://repo.mksscryertower.quest/repo/x86_64/
+&lt;/pre&gt;
+&lt;p&gt;Then run, from root&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+pacman-key --recv-keys 8A36037D80912162
+pacman-key --lsign-key 8A36037D80912162
+pacman -Syyu
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class="section" id="pages"&gt;
+&lt;h2&gt;Pages&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Home local network.html"&gt;Home local network&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Workstation Configuration.html"&gt;Workstation configuration&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Routers Configuration.html"&gt;Router configuration&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Self protection and Home power grid.html"&gt;Self protection and Home power grid&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Local DNS server on NanoPi Neo2.html"&gt;Home DNS server&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/2FA for Servers.html"&gt;2FA for servers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Health Effects in RF Electromagnetic fields.html"&gt;EMF and Human health&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Health Effects in RF Electromagnetic fields-ua.html"&gt;EMF and Human health UA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Slavery in piracy groups, criminal groups and in cults.html"&gt;Slavery in piracy groups, criminal groups and in cults&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Slavery in piracy groups, criminal groups and in cults-ua.html"&gt;Slavery in piracy groups, criminal groups and in cults UA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Human rights in Ukraine.html"&gt;Human rights in Ukraine&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Human rights in Ukraine-ua.html"&gt;Human rights in Ukraine UA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Computer trace system.html"&gt;Computer trace system&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Computer trace system-ua.html"&gt;Computer trace system UA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Artificial human life = existence.html"&gt;Artificial human life = existence (WIP)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Crimes with brain scanners, human detectors, other devices and me.html"&gt;Crimes with brain scanners, human detectors, other devices and me (WIP)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Internet as a phenomenon.html"&gt;Internet as a phenomenon&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Brainwave entertainment.html"&gt;Brainwave entertainment (WIP)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Radio frequency attacks from user side.html"&gt;Radio frequency attacks from user side (WIP)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Dao of infosec.html"&gt;Dao of infosec&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/Dao of programming.html"&gt;Dao of programming&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://mksscryertower.quest/About.html"&gt;About&lt;/a&gt;&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;The freedom of one ends where the freedom of another begins.&lt;/li&gt;
+&lt;li&gt;The ends do not justify the means.&lt;/li&gt;
+&lt;li&gt;Freedom of association and disassociation.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="links-tree"&gt;
+&lt;h2&gt;Links Tree&lt;/h2&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://github.com/asciiscry3r"&gt;My Github&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.instagram.com/maximklimenkosergievich/"&gt;My Instagram&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://photos.app.goo.gl/Qp3hbLHZ2Ch7RH497"&gt;My Tech&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://linktr.ee/_scry3r_"&gt;My Link Tree&lt;/a&gt;&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/emfanime.png" /&gt;
+&lt;img alt="" class="align-left" src="images/animephosphen.png" /&gt;
+&lt;p&gt;from chaos;head&lt;/p&gt;
+&lt;p&gt;date only for indexing&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="misc"></category></entry></feed>
