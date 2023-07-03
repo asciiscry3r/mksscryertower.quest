@@ -1,7 +1,7 @@
 Self protection and Home power grid
 ###################################
 
-:date: 2023-04-14 20:01
+:date: 2023-07-03 22:24
 :tags: cybersecurity, diy, it, hacking, health
 :category: cybersecurity, diy, it, hacking, health
 :slug: Self protection and Home power grid
@@ -60,10 +60,10 @@ From 2020 criminals 24/7 use microwave ELF for killing and control, IMHO with sc
 
 Latest setup:
 
-.. image:: images/img-2023-06-29-014904.png
+.. image:: images/img-2023-07-03-222124.png
            :align: left
 
-.. image:: images/img-2023-06-29-011533.png
+.. image:: images/img-2023-07-03-220259.png
            :align: left
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
