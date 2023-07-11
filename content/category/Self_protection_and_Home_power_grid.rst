@@ -1,7 +1,7 @@
 Self protection and Home power grid
 ###################################
 
-:date: 2023-07-03 22:24
+:date: 2023-04-03 22:24
 :tags: cybersecurity, diy, it, hacking, health
 :category: cybersecurity, diy, it, hacking, health
 :slug: Self protection and Home power grid
@@ -21,7 +21,7 @@ Factors affecting the civilian population during a war between countries or mafi
 7. RF attacks on filters with low inductance.
 8. RF attacks on ground for creating current and block ground wire flow.
 9. Microwave attacks on filters with low/hight inductance.
-10. Mobile network base station is UHF/EHF radiostation with diapason ~900-2800~3000 MHz and hackers or mafia(cults) with access can just rewrite firmware on all your devices, access to signal networks and can be use them as direct energy weapon.
+10. Mobile network base station is UHF/EHF radiostation with diapason ~900-2800~3000 MHz and hackers or mafia(cults) with access can just rewrite firmware on all your devices and use this as direct energy weapon.
 11. Magnetic field radiate from shield on window when petal of the directional diagram looking at the side of the house.
 12. Mind machine/rTMS for offense from PC central processor by manipulation of power signal parameters.
 13. Radiofrequency induction on ground wire is possible way to human control.
@@ -63,10 +63,12 @@ Latest setup:
 .. image:: images/img-2023-07-03-222124.png
            :align: left
 
-.. image:: images/img-2023-07-03-220259.png
+.. image:: images/img-2023-07-11-185407.png
            :align: left
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Mistakes in schemes and setups definitions | because neurological and cyber offence against me
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 .. image:: images/img-2023-04-30-205941.png
            :align: left
