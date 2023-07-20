@@ -26,6 +26,8 @@ sudo rm -rf /var/www/repo.mksscryertower.quest/repo/x86_64 && sudo mkdir /var/ww
 
 arch@mksscryertower = Prometheus/Node/Nginx/NginxLog/Process
 
+yay -S nginx-mainline lua nginx-mainline-mod-lua luarocks gettext lua-cjson
+
 access_log  /var/log/nginx/mksscryertower/access.log;
 access_log  /var/log/nginx/nginx/repo_mksscryertower/access.log;
 
