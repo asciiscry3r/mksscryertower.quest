@@ -63,7 +63,7 @@ Latest setup:
 .. image:: images/img-2023-07-21-000630.png
            :align: left
 
-.. image:: images/img-2023-07-21-001541.png
+.. image:: images/img-2023-07-21-023246.png
            :align: left
 
 Wrong placement of dumping resistors:
