@@ -58,12 +58,21 @@ From 2020 criminals 24/7 use microwave ELF for killing and control, IMHO with sc
 .. image:: images/IMG_20220722_035610.jpg
            :align: left
 
+.. image:: images/img-2023-07-21-030245.png
+           :align: left
+
 Latest setup:
 
 .. image:: images/img-2023-07-21-000630.png
            :align: left
 
 .. image:: images/img-2023-07-21-023246.png
+           :align: left
+
+.. image:: images/photo_2023-07-21_02-41-05.jpg
+           :align: left
+
+.. image:: images/photo_2023-07-21_02-41-08.jpg
            :align: left
 
 Wrong placement of dumping resistors:
@@ -78,6 +87,14 @@ Wrong placement of dumping resistors:
 Mistakes in schemes and setups definitions | because neurological and cyber offence against me
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
+.. image:: images/photo_2023-07-09_18-15-14.jpg
+           :align: left
+
+Where reward is couple hours of peace
+
+Mistakes
+@@@@@@@@
+		   
 .. image:: images/img-2023-04-30-205941.png
            :align: left
 
