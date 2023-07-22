@@ -63,10 +63,10 @@ From 2020 criminals 24/7 use microwave ELF for killing and control, IMHO with sc
 
 Latest setup:
 
-.. image:: images/img-2023-07-21-235612.png
+.. image:: images/img-2023-07-22-033100.png
            :align: left
 
-.. image:: images/img-2023-07-21-023246.png
+.. image:: images/img-2023-07-22-033153.png
            :align: left
 
 .. image:: images/photo_2023-07-21_02-41-05.jpg
