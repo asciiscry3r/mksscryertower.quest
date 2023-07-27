@@ -31,6 +31,9 @@ Factors affecting the civilian population during a war between countries or mafi
 17. Special sending of an additional signal modulated by ELF/VLF signals on the power lines of a residential area - perhaps this is what allows a criminal to talk and kill at the same time through household appliances.
 18. Signal on metal gas and water tubes.
 19. They burn the brain and hippocampus with microwaves, burn out groups of nerve connections, tear them off from the connection points, for complete control of the human body and brain - its remains in the broth of torn tissues that are chaotically combined and never can be restored like a part of your self and memory.
+20. Radio reciver can be even from a metal rod due to internal resistance, capacitance and inductance - this can radiate magnetic fields.
+21. Use 10-5 kOm resistor for mixing left and rigth channel. And filters - low pass with dump for speakers and power filter ( Sound/LF/HF freaquency ) for acoustic systems.
+22. WE/YOU can safely use binaural beats, not higher than ~30 Hz or ~20 Hz, and different types of noises in acoustic diapason - this not for healing but seems to give some support.
 
 Only at your own risk and on your own responsibility
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
