@@ -6,7 +6,7 @@ BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
-CONFFILE_GTIHUB=$()/pelicanconf-github.py
+CONFFILE_GTIHUB=$(BASEDIR)/pelicanconf-github.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
 SSH_HOST=mksscryertower.quest
