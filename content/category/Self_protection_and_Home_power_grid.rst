@@ -40,6 +40,8 @@ Only at your own risk and on your own responsibility
 
 I need some discharger for power grid charges ....
 
+Multipoint ground for freaquency diapason from 0 to ~300 000 000 Hz.
+
 We/you must use ferrit filter for sound and other type of signal wire, but this very situationally - some devices already have filters on input or output.
 
 And we/you can use aluminium foil glued and crushed like mylar blanked to internal side of PC box.
@@ -66,7 +68,7 @@ From 2020 criminals 24/7 use microwave ELF for killing and control, IMHO with sc
 
 Latest setup:
 
-.. image:: images/img-2023-07-22-033100.png
+.. image:: images/img-2023-08-03-193506.png
            :align: left
 
 .. image:: images/img-2023-07-22-033153.png
@@ -76,6 +78,11 @@ Latest setup:
            :align: left
 
 .. image:: images/photo_2023-07-21_02-41-08.jpg
+           :align: left
+
+Ideas in work:
+
+.. image:: images/img-2023-08-03-193549.png
            :align: left
 
 Wrong placement of dumping resistors:

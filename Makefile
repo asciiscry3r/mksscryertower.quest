@@ -8,6 +8,7 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 CONFFILE_GTIHUB=$(BASEDIR)/pelicanconf-github.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
+OUTPUTDIR_GITHUB=$(BASEDIR)/docs
 
 SSH_HOST=mksscryertower.quest
 SSH_PORT=22
@@ -58,7 +59,7 @@ html:
 	"$(PELICAN)" "$(INPUTDIR)" -o "$(OUTPUTDIR)" -s "$(CONFFILE)" $(PELICANOPTS)
 
 html-github:
-	"$(PELICAN)" "$(INPUTDIR)" -o "$(OUTPUTDIR)" -s "$(CONFFILE_GTIHUB)" $(PELICANOPTS)
+	"$(PELICAN)" "$(INPUTDIR)" -o "$(OUTPUTDIR_GITHUB)" -s "$(CONFFILE_GTIHUB)" $(PELICANOPTS)
 
 clean:
 	[ ! -d "$(OUTPUTDIR)" ] || rm -rf "$(OUTPUTDIR)"
