@@ -1,5 +1,5 @@
 AUTHOR = 'Klimenko Maxim Sergievich'
-SITENAME = 'asciiscry3r.github.io'
+SITENAME = 'mksscryertower.quest'
 SITEURL = 'https://asciiscry3r.github.io/'
 
 THEME = 'nmnlist/'

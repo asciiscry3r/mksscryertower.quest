@@ -34,13 +34,14 @@ Factors affecting the civilian population during a war between countries or mafi
 20. Radio reciver can be even from a metal rod due to internal resistance, capacitance and inductance - this can radiate magnetic fields.
 21. Use 10-5 kOm resistor for mixing left and rigth channel. And filters - low pass with dump for speakers and power filter ( Sound/LF/HF freaquency ) for acoustic systems.
 22. WE/YOU can safely use binaural beats, not higher than ~30 Hz or ~20 Hz, and different types of noises in acoustic diapason - this not for healing but seems to give some support.
+23. One capacitor between ground and Neutral - all signals at Line affect and control living creathures more then without him.
 
 Only at your own risk and on your own responsibility
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 I need some discharger for power grid charges ....
 
-Multipoint ground for freaquency diapason from 0 to ~300 000 000 Hz.
+Multipoint ground for freaquency diapason from 0 to ~3 000 000 000 Hz.
 
 We/you must use ferrit filter for sound and other type of signal wire, but this very situationally - some devices already have filters on input or output.
 
