@@ -1,5 +1,5 @@
 AUTHOR = 'Klimenko Maxim Sergievich'
-SITENAME = 'mksscryertower.quest'
+SITENAME = 'asciiscry3r.github.io'
 SITEURL = 'https://asciiscry3r.github.io/'
 
 THEME = 'nmnlist/'
@@ -42,7 +42,7 @@ LOAD_CONTENT_CACHE = False
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
+RELATIVE_URLS = True
 DISPLAY_PAGES_ON_MENU = False
 
 INDEX_SAVE_AS = 'index.html'
