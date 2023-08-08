@@ -72,7 +72,7 @@ Latest setup, must be Open-source hardware (OSH):
 .. image:: images/img-2023-08-09-005605.png
            :align: left
 
-.. image:: images/img-2023-08-09-005651.png
+.. image:: images/img-2023-08-09-012609.png
            :align: left
 
 .. image:: images/photo_2023-07-21_02-41-05.jpg
