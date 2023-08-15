@@ -89,7 +89,7 @@ Ideas in work || from night 14-15.08.2023 in test:
 .. image:: images/img-2023-08-15-221152.png
            :align: left
 
-.. image:: images/img-2023-08-15-221152.png
+.. image:: images/2023-08-15-22-26-55-575.jpg
            :align: left
 
 Wrong placement of dumping resistors:
