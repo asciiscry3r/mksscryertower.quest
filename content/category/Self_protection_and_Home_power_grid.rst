@@ -81,9 +81,15 @@ Latest setup, must be Open-source hardware (OSH):
 .. image:: images/photo_2023-07-21_02-41-08.jpg
            :align: left
 
-Ideas in work:
+Ideas in work || from night 14-15.08.2023 in test:
 
 .. image:: images/img-2023-08-03-193549.png
+           :align: left
+
+.. image:: images/img-2023-08-15-221152.png
+           :align: left
+
+.. image:: images/img-2023-08-15-221152.png
            :align: left
 
 Wrong placement of dumping resistors:
