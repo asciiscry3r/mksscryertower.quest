@@ -81,7 +81,7 @@ Latest setup, must be Open-source hardware (OSH):
 
 Main problem and main enemy weapon:
 
-.. image:: images/img-2023-08-21-154543.png
+.. image:: images/img-2023-08-21-161041.png
            :align: left
 
 Work:
@@ -89,7 +89,7 @@ Work:
 .. image:: images/photo_2023-07-21_02-41-05.jpg
            :align: left
 	   
-.. image:: images/photo_2023-07-21_02-41-05.jpg
+.. image:: images/2023-08-21-15-51-43-254.jpg
            :align: left
 
 .. image:: images/photo_2023-07-21_02-41-08.jpg
