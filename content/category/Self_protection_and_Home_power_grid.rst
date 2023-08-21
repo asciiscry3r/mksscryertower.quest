@@ -12,6 +12,7 @@ Self protection and Home power grid
 
 Factors affecting the civilian population during a war between countries or mafia attacks:
 
+0. Biological radio
 1. Microwave attacks to take away will or modulated by ultra-low frequencies for control.
 2. Charging equipment to shock a person with a current or field pulse.
 3. Power wires without large inductance and that are not grounded from different frequencies bring harmful radiation into the house.
@@ -69,19 +70,48 @@ From 2020 criminals 24/7 use microwave ELF for killing and control, IMHO with sc
 
 Latest setup, must be Open-source hardware (OSH):
 
-.. image:: images/img-2023-08-09-005605.png
+.. image:: images/img-2023-08-21-155833.png
            :align: left
 
-.. image:: images/img-2023-08-09-012609.png
+.. image:: images/img-2023-08-21-160245.png
            :align: left
 
+.. image:: images/img-2023-08-21-154543.png
+           :align: left
+
+Main problem and main enemy weapon:
+
+.. image:: images/img-2023-08-21-154543.png
+           :align: left
+
+Work:
+
+.. image:: images/photo_2023-07-21_02-41-05.jpg
+           :align: left
+	   
 .. image:: images/photo_2023-07-21_02-41-05.jpg
            :align: left
 
 .. image:: images/photo_2023-07-21_02-41-08.jpg
            :align: left
 
-Ideas in work || from night 14-15.08.2023 in test:
+.. image:: images/2023-08-20-22-50-17-710.jpg
+           :align: left
+
+.. image:: images/2023-08-20-12-07-36-149.jpg
+           :align: left
+
+.. image:: images/photo_2023-08-21_16-35-23.jpg
+           :align: left
+
+Ideas in work - Grounding device:
+
+Revision 2 || 19-21.08.2023
+
+.. image:: images/img-2023-08-21-154543.png
+           :align: left
+
+from night 14-15.08.2023 in test:
 
 .. image:: images/img-2023-08-03-193549.png
            :align: left
