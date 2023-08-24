@@ -76,7 +76,7 @@ Latest setup, must be Open-source hardware (OSH):
 .. image:: images/img-2023-08-24-234613.png
            :align: left
 
-.. image:: images/img-2023-08-24-234834.png
+.. image:: images/img-2023-08-25-002402.png
            :align: left
 
 Main problem and main enemy weapon:
