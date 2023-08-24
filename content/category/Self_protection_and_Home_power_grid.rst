@@ -70,13 +70,13 @@ From 2020 criminals 24/7 use microwave ELF for killing and control, IMHO with sc
 
 Latest setup, must be Open-source hardware (OSH):
 
-.. image:: images/img-2023-08-21-155833.png
+.. image:: images/img-2023-08-24-233406.png
            :align: left
 
-.. image:: images/img-2023-08-21-160245.png
+.. image:: images/img-2023-08-24-234613.png
            :align: left
 
-.. image:: images/img-2023-08-21-154543.png
+.. image:: images/img-2023-08-24-234834.png
            :align: left
 
 Main problem and main enemy weapon:
