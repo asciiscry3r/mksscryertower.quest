@@ -40,6 +40,9 @@ Factors affecting the civilian population during a war between countries or mafi
 Only at your own risk and on your own responsibility
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+.. image:: images/Image.jpg
+           :align: left
+
 I need some discharger for power grid charges ....
 
 Multipoint ground for freaquency diapason from 0 to ~3 000 000 000 Hz.
@@ -70,13 +73,13 @@ From 2020 criminals 24/7 use microwave ELF for killing and control, IMHO with sc
 
 Latest setup, must be Open-source hardware (OSH):
 
-.. image:: images/img-2023-08-24-233406.png
+.. image:: images/img-2023-09-04-230108.png
            :align: left
 
-.. image:: images/img-2023-08-24-234613.png
+.. image:: images/img-2023-09-04-225214.png
            :align: left
 
-.. image:: images/img-2023-08-25-002402.png
+.. image:: images/img-2023-09-04-225214.png
            :align: left
 
 Main problem and main enemy weapon:
@@ -106,9 +109,9 @@ Work:
 
 Ideas in work - Grounding device:
 
-Revision 2 || 19-21.08.2023
+Revision 3 || 19.08-04.09.2023
 
-.. image:: images/img-2023-08-21-154543.png
+.. image:: images/img-2023-09-04-225214.png
            :align: left
 
 from night 14-15.08.2023 in test:
