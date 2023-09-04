@@ -73,6 +73,11 @@ From 2020 criminals 24/7 use microwave ELF for killing and control, IMHO with sc
 
 Latest setup, must be Open-source hardware (OSH):
 
+Repositories:
+1. https://github.com/asciiscry3r/filter_for_pc
+2. https://github.com/asciiscry3r/Filter_AC
+3. https://github.com/asciiscry3r/grounding_device
+
 .. image:: images/img-2023-09-04-230108.png
            :align: left
 
