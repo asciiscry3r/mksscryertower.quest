@@ -84,7 +84,7 @@ Repositories:
 .. image:: images/img-2023-09-04-231809.png
            :align: left
 
-.. image:: images/img-2023-09-04-225214.png
+.. image:: images/img-2023-09-19-202404.png
            :align: left
 
 Main problem and main enemy weapon:
@@ -116,7 +116,7 @@ Ideas in work - Grounding device:
 
 Revision 3 || 19.08-04.09.2023
 
-.. image:: images/img-2023-09-04-225214.png
+.. image:: images/img-2023-09-19-202404.png
            :align: left
 
 from night 14-15.08.2023 in test:
