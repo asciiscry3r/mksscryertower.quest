@@ -68,7 +68,7 @@ From 2020 criminals 24/7 use microwave ELF for killing and control, IMHO with sc
 .. image:: images/IMG_20220722_035610.jpg
            :align: left
 
-.. image:: images/img-2023-07-21-030245.png
+.. image:: images/img-2023-10-09-153121.png
            :align: left
 
 Latest setup, must be Open-source hardware (OSH):
@@ -141,7 +141,7 @@ Ideas in work - Grounding device:
 
 Revision 4 || 19.08-09.10.2023
 
-.. image:: images/img-2023-09-20-194512.png
+.. image:: images/img-2023-10-09-153121.png
            :align: left
 
 Revision 3 || 19.08-04.09.2023
