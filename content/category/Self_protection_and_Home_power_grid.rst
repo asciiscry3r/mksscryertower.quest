@@ -36,7 +36,7 @@ Factors affecting the civilian population during a war between countries or mafi
 21. Use 10-5 kOm resistor for mixing left and rigth channel. And filters - low pass with dump for speakers and power filter ( Sound/LF/HF freaquency ) for acoustic systems.
 22. WE/YOU can safely use binaural beats, not higher than ~30 Hz or ~20 Hz, and different types of noises in acoustic diapason - this not for healing but seems to give some support.
 23. One capacitor between ground and Neutral - all signals at Line affect and control living creathures more then without him.
-24. Microwave generators from power lines and soviet details building fro living, 3-rd paralell lines in ceiling with Eddy currents
+24. Microwave generators from power lines and soviet details in building for living, 3-rd paralell lines in ceiling with Eddy currents
 
 .. image:: images/photo_2023-10-09_15-53-00.jpg
            :align: left
@@ -81,7 +81,7 @@ From 2020 criminals 24/7 use microwave ELF for killing and control, IMHO with sc
 .. image:: images/IMG_20220722_035610.jpg
            :align: left
 
-.. image:: images/img-2023-10-09-153121.png
+.. image:: images/img-2023-07-21-030245.png
            :align: left
 
 Latest setup, must be Open-source hardware (OSH):
@@ -98,7 +98,7 @@ Repositories:
 .. image:: images/img-2023-09-28-190220.png
            :align: left
 
-.. image:: images/img-2023-10-09-152604.png
+.. image:: images/img-2023-10-09-153121.png
            :align: left
 
 Main problem and main enemy weapon:
