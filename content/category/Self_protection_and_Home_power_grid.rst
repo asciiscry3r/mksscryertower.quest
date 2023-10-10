@@ -75,7 +75,7 @@ Tests:
 
 From 2020 criminals 24/7 use microwave ELF for killing and control, IMHO with scheme better for me or other victims:
 
-.. image:: images/img-2023-10-10-193237.png
+.. image:: images/img-2023-10-10-195055.png
            :align: left
 
 .. image:: images/IMG_20220722_035610.jpg
@@ -92,7 +92,7 @@ Repositories:
    2. https://github.com/asciiscry3r/Filter_AC
    3. https://github.com/asciiscry3r/grounding_device
 
-.. image:: images/img-2023-09-04-230108.png
+.. image:: images/img-2023-10-10-195055.png
            :align: left
 
 .. image:: images/img-2023-09-28-190220.png
