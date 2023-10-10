@@ -75,7 +75,7 @@ Tests:
 
 From 2020 criminals 24/7 use microwave ELF for killing and control, IMHO with scheme better for me or other victims:
 
-.. image:: images/img-2023-10-10-195055.png
+.. image:: images/IMG_20211211_170729.jpg
            :align: left
 
 .. image:: images/IMG_20220722_035610.jpg
