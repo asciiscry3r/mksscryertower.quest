@@ -92,13 +92,13 @@ Repositories:
    2. https://github.com/asciiscry3r/Filter_AC
    3. https://github.com/asciiscry3r/grounding_device
 
-.. image:: images/img-2023-10-10-195055.png
+.. image:: images/img-2023-10-23-193203.png
            :align: left
 
-.. image:: images/img-2023-09-28-190220.png
+.. image:: images/img-2023-10-23-203221.png
            :align: left
 
-.. image:: images/img-2023-10-09-153121.png
+.. image:: images/img-2023-10-23-195354.png
            :align: left
 
 Main problem and main enemy weapon:
@@ -173,9 +173,9 @@ Work:
 
 Ideas in work - Grounding device:
 
-Revision 4 || 19.08-09.10.2023
+Revision 4 || 19.08-23.10.2023
 
-.. image:: images/img-2023-10-09-153121.png
+.. image:: images/img-2023-10-23-195354.png
            :align: left
 
 Revision 3 || 19.08-04.09.2023
