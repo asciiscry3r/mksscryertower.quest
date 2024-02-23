@@ -32,11 +32,11 @@ Entrepreneur or FOP Klimenko Maxim Sergievich
 Articles of Association
 +++++++++++++++++++++++
 
-1. No religion, only scientific atheism.
+1. No religion, all religion is slavery and mind controll, only scientific atheism.
 
 2. Full respect for universal human rights and their implementation to the maximum extent possible, does not take into account religious organizations or other people if they violate them first.
 
-3. Prohibition of human control using technical means and transmission of electromagnetic radiation from life activities.
+3. Prohibition of human control or programming using technical means and transmission of electromagnetic radiation from scan or records of life activities.
 
 4. Prohibited online piracy/criminals and its support how much as possible. Security reason.
 
@@ -48,13 +48,9 @@ Articles of Association
 
 8. Not following the will of the society, people or organization of any kind if I (you) do not have freedom, will, and if it does not bring benefit if there is freedom with free my ( your ) will. Security reason.
 
-9. No for all scientology/online piracy/criminals proposes and prohibited work for them when you realy know about them, as much as possible. Security reason.
+9. No for all scientology/online piracy/Ua army workers and criminals proposes and prohibited work for them when you realy know about them, as much as possible. Security reason.
 
-10. Always be grateful to Ukrainian traitors ( armies,  russia too ) to the people because of brainwashing ( mind wiping, psychic driving ) from early childhood, consider their cults, military hackers an psy-op army and sincerely send all them to (abuse). Unsecure.
-
-11. If you control someone without permission and using killing and any kind of neurological weapon you a creator of human trafficking and criminal.
-
-12. A modern hacker, not to be confused with those who are for the freedom of the human mind and individuality together with morality, criminal/cult/mafia world, is an animal that will feed you with narcotic drugs and commit a series of offenses through you, for which he will demand money from you by blackmail, and then you will be imprisoned instead of him. Online piracy = richest criminal hackers or controlled live proxy.
+10. Follow the principles of the statute of the Interpol organization.
 
 Author on photo:
 ++++++++++++++++
