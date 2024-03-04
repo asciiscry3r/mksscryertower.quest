@@ -273,11 +273,6 @@ Fix for some freaquency oscilation on line:
 .. image:: images/2023-04-17-02-42-34-712.jpg
            :align: left
 
-Low price:
-
-.. image:: images/2023-04-17-02-42-15-645.jpg
-           :align: left
-
 Second test setup with `notch filters`_ for line grounding and for neutral grounding:
 
 .. _`notch filters`: https://www.researchgate.net/figure/50-Hz-twin-T-passive-notch-filter-circuit_fig8_282404009
