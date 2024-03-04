@@ -17,7 +17,7 @@ Klimenko Maxim Sergievich
 klimenkomaximsergievich@gmail.com
 mksklimenkomaximsergievich@gmail.com
 
-| IT administrator and GNU/Linux user, ~black~ ( final version of supressive ) person for scientology from my 7 - because I broke the nose of the son of a communist with my foot, and it seems that not one of them, but I don't have much knowledge about hardware and networking on level ~about tele control~ or newer has my own machine without piracy
+| IT administrator and GNU/Linux user, ~black~ ( final version of supressive ) person for scientology from my 7 - because I broke the nose of the son of a communist with my foot, and it seems that not one of them, but I don't have much knowledge about hardware and networking on level ~about tele control~ or newer has my own machine without piracy or "cosmonauts" - they create too many fake documents about their right to use my property.
 
 1. The freedom of one ends where the freedom of another begins.
 
@@ -25,8 +25,8 @@ mksklimenkomaximsergievich@gmail.com
 
 3. Freedom of association and disassociation.
 
-Entrepreneur or FOP Klimenko Maxim Sergievich
-+++++++++++++++++++++++++++++++++++++++++++++
+Entrepreneur Klimenko Maxim Sergievich
+++++++++++++++++++++++++++++++++++++++
 
 Articles of Association
 +++++++++++++++++++++++
@@ -47,7 +47,7 @@ Articles of Association
 
 8. Not following the will of the society, people or organization of any kind if I (you) do not have freedom, will, and if it does not bring benefit if there is freedom with free my ( your ) will. Security reason.
 
-9. No for all scientology/online piracy/Ua army workers and criminals proposes and prohibited work for them when you realy know about them, as much as possible. Security reason.
+9. No for all scientology/piracy/Some Ukrainian DF workers, criminals proposes and prohibited work for them when you realy know about them, as much as possible. Security reason.
 
 10. Follow the principles of the statute of the Interpol organization.
 

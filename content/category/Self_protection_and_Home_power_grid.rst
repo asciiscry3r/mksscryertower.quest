@@ -84,6 +84,9 @@ From 2020 criminals 24/7 use microwave ELF for killing and control, IMHO with sc
 .. image:: images/img-2023-07-21-030245.png
            :align: left
 
+.. image:: images/2024-01-18-10-08-40-043.jpg
+	   :align: left
+
 Latest setup, must be Open-source hardware (OSH):
 
 Repositories:
@@ -92,13 +95,13 @@ Repositories:
    2. https://github.com/asciiscry3r/Filter_AC
    3. https://github.com/asciiscry3r/grounding_device
 
-.. image:: images/img-2023-10-23-193203.png
+.. image:: images/img-2024-03-04-034043.png
            :align: left
 
-.. image:: images/img-2023-10-23-203221.png
+.. image:: images/img-2024-03-04-034527.png
            :align: left
 
-.. image:: images/img-2023-10-23-195354.png
+.. image:: images/img-2024-03-04-033543.png
            :align: left
 
 Main problem and main enemy weapon:
@@ -171,7 +174,19 @@ Work:
 .. image:: images/photo_2023-10-09_15-38-17.jpg
            :align: left
 
+Try to use filters im Ukrainian Defence Force - they just try to kill me like KGB CIA agents.
+		   
+.. image:: images/2024-01-03-11-24-51-385.jpg
+	   :align: left
+
+.. image:: images/2024-01-22-13-51-32-099.jpg
+	   :align: left
+
+.. image:: images/IMG_20240204_211553_100.jpg
+           :align: left
+
 Ideas in work - Grounding device:
+
 
 Revision 4 || 19.08-23.10.2023
 

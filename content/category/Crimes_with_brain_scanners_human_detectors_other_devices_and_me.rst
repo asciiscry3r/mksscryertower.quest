@@ -2,7 +2,7 @@ Crimes with brain scanners, human detectors, other devices and me
 #################################################################
 
 :date: 2022-09-27 10:20
-:modified: 2023-05-02 23:49
+:modified: 2024-03-04 23:49
 :tags: dew, cults, cybersecurity, military
 :category: cybersecurity, crimes, cults, ukraine
 :slug: Crimes with brain scanners, human detectors, other devices and me
@@ -36,6 +36,16 @@ From April 2021 I sometimes record logs and magnetic field in different places o
 * RF(DEW) attacks, Ukrainian Scientology and Ukrainian online piracy ( lobby and other criminals ) brainwashing and control, Shishatska 88 Mirgorod EMF - https://photos.app.goo.gl/FWpfTfSidKkJimTL8
 
 * EMF Mirgorod - https://photos.app.goo.gl/yMjGdd6jr4hUrG378
+
+* EMF Kharkiv - https://photos.app.goo.gl/qmDmHwBZdRRm5tGAZ
+
+* Work in UAF/UDF | EMF level and AFC for microwaves - https://photos.app.goo.gl/yM
+
+* EMF Sumy - https://photos.app.goo.gl/Pt9AYfBDK7FKheJd9
+
+
+Its not a Game but Bla Bla Bla
+++++++++++++++++++++++++++++++
 
 I`m random enemy for criminal/cult group from my childhood, imho and in fact scientology criminal group, they say something about "Freedom Fox" and "triad" who supposed to left a China in past and but i cant believe them but they all looks like canonical piracy from Ukraine - all of them liars and always can betray you, they decide to create and delivery torrent with Intel confidential leaks - for this they start narco and electromagnetic terror in IT office near center of Kharkiv city - there they/we develop one popular chat app and one European payment system - at that time. Like Riabchevski and one US company .....
 
