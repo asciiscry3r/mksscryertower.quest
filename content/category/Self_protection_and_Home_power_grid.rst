@@ -98,7 +98,7 @@ Repositories:
 .. image:: images/img-2024-03-06-162144.png
            :align: left
 
-.. image:: images/img-2024-03-06-155445.png
+.. image:: images/img-2024-03-15-085246.png
            :align: left
 
 .. image:: images/img-2024-03-06-160111.png
