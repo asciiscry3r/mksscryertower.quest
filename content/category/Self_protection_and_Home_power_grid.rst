@@ -95,7 +95,7 @@ Repositories:
    2. https://github.com/asciiscry3r/Filter_AC
    3. https://github.com/asciiscry3r/grounding_device
 
-.. image:: images/img-2024-03-06-162144.png
+.. image:: images/img-2024-03-20-193048.png
            :align: left
 
 .. image:: images/img-2024-03-15-085246.png
@@ -229,7 +229,7 @@ Mistakes in schemes and setups definitions | because neurological and cyber offe
 .. image:: images/photo_2023-07-09_18-15-14.jpg
            :align: left
 
-Where reward is couple hours of peace
+Where reward is couple hours of peace - scientology and piracy just use new lines for RHIC EDoM and other forms of EM mind control
 
 Mistakes
 @@@@@@@@
