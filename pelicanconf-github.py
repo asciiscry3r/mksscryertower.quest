@@ -1,6 +1,6 @@
 AUTHOR = 'Klimenko Maxim Sergievich'
-SITENAME = 'asciiscry3r.github.io'
-SITEURL = 'https://asciiscry3r.github.io/'
+SITENAME = 'backup.mksscryertower.quest'
+SITEURL = 'https://backup.mksscryertower.quest/'
 
 THEME = 'nmnlist/'
 
