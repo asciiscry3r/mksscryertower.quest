@@ -25,6 +25,11 @@ Then run, from root ::
   pacman-key --lsign-key 8A36037D80912162
   pacman -Syyu
 
+And back of this all:
+
+.. image:: images/img-2024-03-25-160129.png
+	   :align: left
+  
 =====
 Pages
 =====
