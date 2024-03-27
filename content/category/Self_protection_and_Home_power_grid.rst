@@ -101,7 +101,7 @@ Repositories:
 .. image:: images/img-2024-03-15-085246.png
            :align: left
 
-.. image:: images/img-2024-03-06-160111.png
+.. image:: images/img-2024-03-27-144036.png
            :align: left
 
 Sound system:
@@ -192,6 +192,10 @@ Try to use filters im Ukrainian Defence Force - they just try to kill me like KG
 
 Ideas in work - Grounding device:
 
+Latest revision || 27.03.2024
+
+.. image:: images/img-2024-03-27-144036.png
+           :align: left
 
 Revision 4 || 19.08-23.10.2023
 
