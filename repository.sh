@@ -23,6 +23,8 @@ repo-add --verify --sign --new repo.mksscryertower.quest.db.tar.gz *.zst
 
 sudo rm -rf /var/www/repo.mksscryertower.quest/repo/x86_64 && sudo mkdir /var/www/repo.mksscryertower.quest/repo/x86_64 && sudo cp -R -f --remove-destination /var/www/repo.mksscryertower.quest/repoupdate/* /var/www/repo.mksscryertower.quest/repo/x86_64/ && sudo chown www-data:arch -R /var/www/repo.mksscryertower.quest/repo
 
+sudo rm -rf /home/max/Development/repo.mksscryertower.quest/repo/x86_64 && sudo mkdir /home/max/Development/repo.mksscryertower.quest/repo/x86_64 && sudo cp -R -f --remove-destination /home/max/Development/repo.mksscryertower.quest/repoupdate/* /home/max/Development/repo.mksscryertower.quest/repo/x86_64/ && ssh mksscryertower.quest sudo chown -R ubuntu:ubuntu /var/www/repo.mksscryertower.quest/ && ssh mksscryertower.quest sudo rm -rf /var/www/repo.mksscryertower.quest/repo/x86_64/* && rsync -r --progress /home/max/Development/repo.mksscryertower.quest/repo/*  mksscryertower.quest:/var/www/repo.mksscryertower.quest/repo/ && ssh mksscryertower.quest sudo chown -R www-data:www-data /var/www/repo.mksscryertower.quest/
+
 arch@mksscryertower = Prometheus/Node/Nginx/NginxLog/Process
 
 yay -S nginx-mainline lua nginx-mainline-mod-lua luarocks gettext lua-cjson

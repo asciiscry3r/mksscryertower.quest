@@ -95,13 +95,13 @@ Repositories:
    2. https://github.com/asciiscry3r/Filter_AC
    3. https://github.com/asciiscry3r/grounding_device
 
-.. image:: images/img-2024-03-27-142722.png
+.. image:: images/img-2024-04-01-234536.png
            :align: left
 
 .. image:: images/img-2024-03-15-085246.png
            :align: left
 
-.. image:: images/img-2024-03-27-144036.png
+.. image:: images/img-2024-03-27-194013.png
            :align: left
 
 Sound system:
