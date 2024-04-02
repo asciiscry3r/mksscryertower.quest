@@ -106,7 +106,7 @@ Repositories:
 
 Sound system:
 
-.. image:: images/img-2024-03-13-000116.png
+.. image:: images/img-2024-04-02-233735.png
            :align: left
 
 Main problem and main enemy weapon:
