@@ -11,8 +11,8 @@ Server = https://repo.mksscryertower.quest/repo/x86_64/
 &lt;/pre&gt;
 &lt;p&gt;Then run, from root&lt;/p&gt;
 &lt;pre class="literal-block"&gt;
-pacman-key --recv-keys 8A36037D80912162
-pacman-key --lsign-key 8A36037D80912162
+pacman-key --recv-keys CF26478FD667CD54
+pacman-key --lsign-key CF26478FD667CD54
 pacman -Syyu
 &lt;/pre&gt;
 &lt;p&gt;And back of this all:&lt;/p&gt;
@@ -32,8 +32,8 @@ Server = https://repo.mksscryertower.quest/repo/x86_64/
 &lt;/pre&gt;
 &lt;p&gt;Then run, from root&lt;/p&gt;
 &lt;pre class="literal-block"&gt;
-pacman-key --recv-keys 8A36037D80912162
-pacman-key --lsign-key 8A36037D80912162
+pacman-key --recv-keys CF26478FD667CD54
+pacman-key --lsign-key CF26478FD667CD54
 pacman -Syyu
 &lt;/pre&gt;
 &lt;p&gt;And back of this all:&lt;/p&gt;
