@@ -21,15 +21,15 @@ In **/etc/pacman.conf** ::
 
 Then run, from root ::
 
-  pacman-key --recv-keys 8A36037D80912162
-  pacman-key --lsign-key 8A36037D80912162
+  pacman-key --recv-keys CF26478FD667CD54
+  pacman-key --lsign-key CF26478FD667CD54
   pacman -Syyu
 
 And back of this all:
 
 .. image:: images/img-2024-03-25-160129.png
 	   :align: left
-  
+
 =====
 Pages
 =====
