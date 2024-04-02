@@ -104,6 +104,11 @@ Repositories:
 .. image:: images/img-2024-04-02-230309.png
            :align: left
 
+hank of wire with filters is disconected from power grid:
+
+.. image:: images/2024-04-02-22-19-11-416.jgp
+           :align: left
+
 Sound system:
 
 .. image:: images/img-2024-04-02-233735.png
