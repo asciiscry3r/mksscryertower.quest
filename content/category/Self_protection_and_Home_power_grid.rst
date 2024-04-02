@@ -106,7 +106,7 @@ Repositories:
 
 hank of wire with filters is disconected from power grid:
 
-.. image:: images/2024-04-02-22-19-11-416.jgp
+.. image:: images/2024-04-02-22-19-11-416.jpg
            :align: left
 
 Sound system:
@@ -117,6 +117,20 @@ Sound system:
 Main problem and main enemy weapon:
 
 .. image:: images/img-2023-08-21-161041.png
+           :align: left
+
+Current protection system:
+
+.. image:: images/2024-04-03-00-02-59-328.jpg
+           :align: left
+
+.. image:: images/2024-04-03-00-03-57-779.jpg
+           :align: left
+
+.. image:: images/2024-04-03-00-03-48-491.jpg
+           :align: left
+
+.. image:: images/2024-04-03-00-03-07-182.jpg
            :align: left
 
 Work:
