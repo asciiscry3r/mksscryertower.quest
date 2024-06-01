@@ -1,7 +1,7 @@
 Self protection and Home power grid
 ###################################
 
-:date: 2023-04-03 22:24
+:date: 2024-06-01 22:43
 :tags: cybersecurity, diy, it, hacking, health
 :category: cybersecurity, diy, it, hacking, health
 :slug: Self protection and Home power grid
@@ -98,13 +98,10 @@ Repositories:
    2. https://github.com/asciiscry3r/Filter_AC
    3. https://github.com/asciiscry3r/grounding_device
 
-.. image:: images/img-2024-04-02-225957.png
+.. image:: images/photo_2024-06-01_22-39-40.jpg
            :align: left
 
-.. image:: images/img-2024-03-15-085246.png
-           :align: left
-
-.. image:: images/img-2024-04-02-230309.png
+.. image:: images/photo_2024-06-01_22-39-54.jpg
            :align: left
 
 hank of wire with filters is disconected from power grid:
