@@ -112,7 +112,7 @@ Detection of "BFS"("Big F*cking Speaker" - electromagnetic waves in ELF,ULF,VLF+
 .. image:: images/photo_2024-06-01_23-30-51.jpg
            :align: left
 
-hank of wire with filters is disconected from power grid:
+Hank of wire with filters is disconected from power grid:
 
 .. image:: images/2024-04-02-22-19-11-416.jpg
            :align: left
