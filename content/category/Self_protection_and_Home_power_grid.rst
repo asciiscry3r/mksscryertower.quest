@@ -98,10 +98,18 @@ Repositories:
    2. https://github.com/asciiscry3r/Filter_AC
    3. https://github.com/asciiscry3r/grounding_device
 
-.. image:: images/photo_2024-06-01_22-39-40.jpg
+.. image:: images/photo_2024-06-01_23-33-16.jpg
            :align: left
 
 .. image:: images/photo_2024-06-01_22-39-54.jpg
+           :align: left
+
+.. image:: images/photo_2024-06-01_23-29-21.jpg
+           :align: left
+
+Detection of "BFS"("Big F*cking Speaker" - electromagnetic waves in ELF,ULF,VLF+ at power lines):
+
+.. image:: images/photo_2024-06-01_23-30-51.jpg
            :align: left
 
 hank of wire with filters is disconected from power grid:
