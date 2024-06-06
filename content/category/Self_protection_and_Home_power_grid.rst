@@ -98,10 +98,12 @@ Repositories:
    2. https://github.com/asciiscry3r/Filter_AC
    3. https://github.com/asciiscry3r/grounding_device
 
-.. image:: images/photo_2024-06-01_23-33-16.jpg
+Solder to power dc lines of device 150pF-100pF and 8.2nF
+      
+.. image:: images/photo_2024-06-06_20-09-20.jpg
            :align: left
 
-.. image:: images/photo_2024-06-01_22-39-54.jpg
+.. image:: images/photo_2024-06-06_20-09-15.jpg
            :align: left
 
 .. image:: images/photo_2024-06-01_23-29-21.jpg
@@ -111,6 +113,10 @@ Detection of "BFS"("Big F*cking Speaker" - electromagnetic waves in ELF,ULF,VLF+
 
 .. image:: images/photo_2024-06-01_23-30-51.jpg
            :align: left
+
+And Wide-Impulse modulation at powerlines:
+
+https://photos.app.goo.gl/TEuXquJaN4771ozT8
 
 Hank of wire with filters is disconected from power grid:
 
