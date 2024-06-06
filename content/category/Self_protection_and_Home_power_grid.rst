@@ -103,7 +103,7 @@ Solder to power dc lines of device 150pF-100pF and 8.2nF
 .. image:: images/photo_2024-06-06_20-09-20.jpg
            :align: left
 
-.. image:: images/photo_2024-06-06_20-09-15.jpg
+.. image:: images/photo_2024-06-06_20-51-39.jpg
            :align: left
 
 .. image:: images/photo_2024-06-01_23-29-21.jpg
