@@ -98,10 +98,10 @@ Repositories:
    2. https://github.com/asciiscry3r/Filter_AC
    3. https://github.com/asciiscry3r/grounding_device
 
-.. image:: images/photo_2024-07-16_01-03-24.jpg
+.. image:: images/photo_2024-07-16_01-44-14.jpg
            :align: left
 
-.. image:: images/photo_2024-07-16_01-03-33.jpg
+.. image:: images/photo_2024-07-16_01-44-05.jpg
            :align: left
 
 .. image:: images/photo_2024-06-01_23-29-21.jpg
