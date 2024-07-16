@@ -133,6 +133,11 @@ Main problem and main enemy weapon:
 .. image:: images/img-2023-08-21-161041.png
            :align: left
 
+And some experiments in this radio field:
+
+.. image:: images/photo_radio.jpg
+           :align: left
+
 Current protection system:
 
 .. image:: images/2024-04-03-00-02-59-328.jpg
