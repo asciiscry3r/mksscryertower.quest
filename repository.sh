@@ -10,7 +10,7 @@ aurpackages="ace qt5-styleplugins acpitool alien_package_converter amttool-tng a
 yay -Syyu --nocleanmenu --noeditmenu --nodiffmenu --noupgrademenu --rebuildall $aurpackages
 
 cd /var/www/repo.mksscryertower.quest/repoupdate
- 
+ grqx
 rm -rf *.sig && rm -rf repo.mksscryertower*
 
 builded=`ls -all | grep .pkg.tar.zst | awk '{ print $9 }'`
