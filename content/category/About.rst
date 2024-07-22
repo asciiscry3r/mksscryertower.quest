@@ -47,14 +47,12 @@ Articles of Association
 
 8. Not following the will of the society, people or organization of any kind if I (you) do not have freedom, will, and if it does not bring benefit if there is freedom with free my ( your ) will. Security reason.
 
-9. No for all scientology/piracy/Some Ukrainian DF workers, criminals proposes and prohibited work for them when you realy know about them, as much as possible. Security reason.
-
-10. Follow the principles of the statute of the Interpol organization.
+9. No for all New Age and criminals proposes and prohibited work for them when you realy know about them, as much as possible. Security reason.
 
 Author on photo:
 ++++++++++++++++
 
-25.05.1991 in Ukraine/USRR Mirgorod.
+25.05.1991 in Ukraine, Mirgorod.
 
 .. image:: images/ktms.jpg
            :align: left

@@ -135,7 +135,7 @@ Main problem and main enemy weapon:
 
 And some experiments in this radio field:
 
-.. image:: images/photo_radio.jpg
+.. image:: images/photo_radio_2.jpg
            :align: left
 
 Current protection system:
