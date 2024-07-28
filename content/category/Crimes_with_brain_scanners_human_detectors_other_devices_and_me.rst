@@ -2,7 +2,7 @@ Crimes with brain scanners, human detectors, other devices and me
 #################################################################
 
 :date: 2022-09-27 10:20
-:modified: 2024-03-04 23:49
+:modified: 2024-07-28 23:49
 :tags: dew, cults, cybersecurity, military
 :category: cybersecurity, crimes, cults, ukraine
 :slug: Crimes with brain scanners, human detectors, other devices and me
@@ -89,6 +89,8 @@ And now Im in Mirgorod/Ukraine do this change at 6 am 2022/10/19, some creatures
 2023.03.07 - electronic warfare act about 03.50 or 04.00 - they again damage my organs and CNS. Hubbard start their brainwashing after that. Fucking talking Chunihina and Hubbard...
 
 2023.04.09 - they try to kill me by EMF multiple times. Stupid fucking triada cospleers with hentai brainwashing has joined to this scientology slave factory. I build new PC from new details and they from first day of using start attack motherboard by RF and use CPU and motherboard, monitor EMF like by in technique was called ‘radio-hypnotic intercerebral control’ and ‘electronic dissolution of memory’ (RHIC-EDOM). But PC is realy better. And piracy stole their favorite weapon from Scientology and engaged in slow suicide ( direct energy and neurological 'tetan' or 'thetan' ). It would be really cool if it happened without me. And they took on all the sinfulness of having sex with Scientology girls. Scientology use formaldehyde and with criminals and police create from me empty headed something. And I feel pain every day 24/7. Forge brainwave fingerprints for manipulation of the investigation - and use all ability of tech for remote control of slaves. 2023.05.02 - all same do the same - look like UA only assist and by use police special microwave means for coercion (violence) of the population stole my real id. And today again military scientologist burn me by radar impulse. 2023.05.28/29 Looks like they kill my rice cooker and set focal point inside my head - slow and repeat destroy my hippocampus, neurons and capillaries with abhorrent voice of Hayko Valeriya Valerievna. For 2023.05.30 - damage to property in the form of equipment in the amount of 50,000 Ukrainian hryvnias, damage to intellectual property in the amount of 245,000 dollars, damage to health and psyche - 4 times on the brink of death and driven crazy and programmed around the clock. Criminals controll me and I can`t leave mind controll without help...
+
+2024.07.28 - same .... Ukrainian army project with Yusmalos and Scientology for "transfer of consciousness" from me to their "members".
 
 About phones, PCA/CDA/SD computers:
 +++++++++++++++++++++++++++++++++++

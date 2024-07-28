@@ -2,7 +2,7 @@ Slavery in piracy groups, criminal groups and in cults
 ######################################################
 
 :date: 2022-09-27 10:20
-:modified: 2022-11-09 18:40
+:modified: 2024-07-28 18:40
 :tags: dew, cults, cybersecurity, military, piracy, law
 :category: dew, cults, cybersecurity, military, piracy, law
 :slug: Slavery in piracy groups, criminal groups and in cults
@@ -13,14 +13,14 @@ Slavery in piracy groups, criminal groups and in cults
 
 #####################################################
 
-Scientology - american/soviet totalitarian destructive cult created with Andropov/Beria mindset communists, slave owners and human traders in USA. For USSR - they must destroy USA from inside and for USA they must destroy USSR from inside.
-In UA/RU net we can find stories about `Chernobyl centre`_ of `"Psychotronics"`_ - home of soviet part of Scientology, Duga and similar projects, "Krab" and "Sneak" control systems. In theory..
+Scientology or Yusmalos of post Soviet territory - american/soviet totalitarian destructive cult created with Andropov/Beria mindset communists and technocracy. Main human traffcker .In some USSR party documents they must - For USSR - they must destroy USA from inside and for USA they must destroy USSR from inside and Bla Bla, on practice this is groups who conduct experiments on humans and their nervous systems but for millitary advantage. This look like slaves for millitary who cam understand an "hear" EEG radio scans from foreign citizens.
+In UA/RU net we can find stories about `Chernobyl centre`_ of `"Psychotronics"`_ - home of soviet part of Yusmalos, Scientology, Duga and similar projects, "Krab" and "Sneak" control systems. In theory..
 
 Unconfirmed rumors about some part of the Communist Party of the Soviet Union:
 
 “Based on the research carried out in 1972-1973, the Institute of Radio Electronics of the USSR Academy of Sciences completed the manufacture and introduction into military practice of the latest radio-technical weapons. The artificial creation of a race of slaves with desired properties has practically become real. There is a classification in the military-industrial complex, where the seventh, newest generation of weapons of mass destruction is called a weapon that affects the genetic apparatus." - and all scientology look at you like at biorobot or slave.
 
-Union councils - created electromagnetic weapons of mass destruction embedded in civilian infrastructure, pumped the entire west with drugs, supported the existence of Scientology and Aum Shinrikyo, introduced new people programs where the slaves should be the workers - as in the idea of communism where people all sing and paint and in factories robots are working The population of the countries is gradually enslaved by the decision of the party after the collapse caused by the defeat in the Cold War and the increasingly massive use of population control. ( IMHO )
+Union councils - created electromagnetic weapons of mass destruction embedded in civilian infrastructure, pumped the entire west with drugs, supported the existence of Yusmalos, Scientology and Aum Shinrikyo, introduced new people programs where the slaves should be the workers - as in the idea of communism where people all sing and paint and in factories robots are working The population of the countries is gradually enslaved by the decision of the party after the collapse caused by the defeat in the Cold War and the increasingly massive use of population control. ( IMHO )
 
 Because of this, everyone has different types of will, from control schemes to non-violence schemes, and these neural networks can change over the course of a lifetime. The signal is taken according to the method of radio frequency reading of brain activity invented in 1922. ( IMHO )
 
