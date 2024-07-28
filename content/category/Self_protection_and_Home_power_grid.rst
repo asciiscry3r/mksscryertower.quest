@@ -97,6 +97,7 @@ Repositories:
    1. https://github.com/asciiscry3r/filter_for_pc
    2. https://github.com/asciiscry3r/Filter_AC
    3. https://github.com/asciiscry3r/grounding_device
+   4. https://github.com/asciiscry3r/powersource
 
 .. image:: images/photo_filter_latest.jpg
            :align: left
@@ -117,6 +118,11 @@ And Wide-Impulse modulation at powerlines:
 https://photos.app.goo.gl/TEuXquJaN4771ozT8
 
 I buried one filter and a phase shifter for the ground, with a low-pass filter at the input, almost a meter deep in a metal container, drank coffee and began to see “souls”...............
+
+Workaround with PWM power sources:
+
+.. image:: images/photo_powersource.jpg
+           :align: left
 
 Hank of wire with filters is disconected from power grid:
 
