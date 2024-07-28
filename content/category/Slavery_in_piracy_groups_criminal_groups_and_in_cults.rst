@@ -13,8 +13,7 @@ Slavery in piracy groups, criminal groups and in cults
 
 #####################################################
 
-Scientology or Yusmalos of post Soviet territory - american/soviet totalitarian destructive cult created with Andropov/Beria mindset communists and technocracy. Main human traffcker .In some USSR party documents they must - For USSR - they must destroy USA from inside and for USA they must destroy USSR from inside and Bla Bla, on practice this is groups who conduct experiments on humans and their nervous systems but for millitary advantage. This look like slaves for millitary who cam understand an "hear" EEG radio scans from foreign citizens.
-In UA/RU net we can find stories about `Chernobyl centre`_ of `"Psychotronics"`_ - home of soviet part of Yusmalos, Scientology, Duga and similar projects, "Krab" and "Sneak" control systems. In theory..
+Scientology or Yusmalos of the post-Soviet space is an American/Soviet totalitarian destructive cult created with the Andropov-Beria mentality of communists and technocracy. The main trafficker of people. In some party documents of the USSR they must - for the USSR - they must destroy the USA from within, and for the USA they must destroy the USSR from within and blah-blah, in practice these are groups that conduct experiments on people and their nervous system, but for military gain. It looks like slaves for the military who can understand and "hear" EEG radio scans from foreign citizens. In the UA/RU network we can find stories about the Chernobyl center of "Psychotronics" - the home of the Soviet part of Yusmalos, Scientology, Duga and similar projects, the "Crab" and "Sneak" control systems. In theory..
 
 Unconfirmed rumors about some part of the Communist Party of the Soviet Union:
 
