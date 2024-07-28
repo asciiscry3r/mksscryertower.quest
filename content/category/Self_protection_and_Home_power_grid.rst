@@ -121,7 +121,7 @@ I buried one filter and a phase shifter for the ground, with a low-pass filter a
 
 Workaround with PWM power sources:
 
-.. image:: images/photo_powersource.jpg
+.. image:: images/photo_powersource_2.jpg
            :align: left
 
 Hank of wire with filters is disconected from power grid:
