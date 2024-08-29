@@ -2,6 +2,7 @@ Self protection and Home power grid
 ###################################
 
 :date: 2024-06-01 22:43
+:modified: 2024-08-30 01:49
 :tags: cybersecurity, diy, it, hacking, health
 :category: cybersecurity, diy, it, hacking, health
 :slug: Self protection and Home power grid
@@ -99,7 +100,7 @@ Repositories:
    3. https://github.com/asciiscry3r/grounding_device
    4. https://github.com/asciiscry3r/powersource
 
-.. image:: images/photo_filter_latest.jpg
+.. image:: images/photo_home.jpg
            :align: left
 
 .. image:: images/photo_2024-07-16_01-44-05.jpg
@@ -108,7 +109,7 @@ Repositories:
 .. image:: images/photo_2024-06-01_23-29-21.jpg
            :align: left
 
-Detection of "BFS"("Big F*cking Speaker" - electromagnetic waves in ELF,ULF,VLF+ at power lines):
+Detection of "BFS"("Big F*cking Speaker" or "GOD" - electromagnetic waves in ELF,ULF,VLF+ at power lines, keep town under fire about 4 year, all "live" in "SWS"?):
 
 .. image:: images/photo_2024-06-01_23-30-51.jpg
            :align: left
@@ -121,7 +122,7 @@ I buried one filter and a phase shifter for the ground, with a low-pass filter a
 
 Workaround with PWM power sources:
 
-.. image:: images/photo_powersource_2.jpg
+.. image:: images/photo_power.jpg
            :align: left
 
 Hank of wire with filters is disconected from power grid:
@@ -141,7 +142,7 @@ Main problem and main enemy weapon:
 
 And some experiments in this radio field:
 
-.. image:: images/photo_radio_3.jpg
+.. image:: images/photo_radio_5.jpg
            :align: left
 
 Current protection system:
