@@ -12,7 +12,7 @@ Health Effects in RF Electromagnetic fields
 
 ###########################################
 
-In short - is a slowly murder, CIDT, destroy memory and all pattern recognition and processing system ( failure of all organism functions ), if someone from police, mafia, security service or army start radiate you every day - EMF physically damage brain, neural system and voice manipulations in fields break your mind and by this criminal refuse you attempts to get help from rights and law protection agencies. I may write here what "people" already knew, but then I just learned that the "native" army ( in past they be a part of army, but now I too far from this structures ) and its assistants forbade me to know because they wanted to use me with their assistants ( like unofficial scientology or bandits ). We have many people, like someone Konev, Ribalko, Riabchevskiy, Chunihina, Gurin, Fedorenko, part of scientology some  army criminals who related to scientology or piracy and others, who want keep this status quo. They call this all a GAME.
+In short - all what I found and see in Ukraine for last years is a slowly murder, CIDT, destroy memory and all pattern recognition and processing system ( failure of all organism functions ), if someone from police, mafia, security service or army start radiate you every day - EMF physically damage brain, neural system and voice manipulations in fields break your mind and by this criminal refuse you attempts to get help from rights and law protection agencies.
 
 Why:
 
@@ -115,29 +115,21 @@ These conclusions are not too different from some more recent studies that also 
 
 .. _neurodegeneration: https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/1750-1326-4-20
 
-In 1993 EMF weapon or influence kill too, CIDT:
+From 1991 Ukraine has all this in service too, CIDT:
+Effects of Electromagnetic Radiation on Biological Systems: Current Status in the Former Soviet Union (1993): Internet Archive.
 
-.. image:: images/2022-12-14_04-22.png
+.. image:: images/img-USSR-EMF-12.png
            :align: left
 
-.. image:: images/2022-12-14_04-20.png
+.. image:: images/img-USSR-EMF-2.png
            :align: left
 
-.. image:: images/2022-12-14_04-26.png
+.. image:: images/img-USSR-EMF-3.png
            :align: left
 
-.. image:: images/2022-12-14_04-35.png
-           :align: left
-
-.. image:: images/2022-12-14_05-01.png
-           :align: left
-
-.. image:: images/2022-12-14_04-57.png
-           :align: left
-
-.. image:: images/2022-12-14_05-02_1.png
-           :align: left
-
+2020-2024, Ukraine, Kharkiv, Mirgorod,
+Goggle photos video record of incoming signal from millitary ( DEW ) generators for power lines:
+https://photos.app.goo.gl/TpBwVAqG9EpT81ME9
 
 Ukraine MK Ultra analog:
 https://mhgc21.org/en/mhgc21/events/october2018/MHGC-Proceedings-2018/Psycho-Information-Psychotronic-Technologies-for-Overcoming-the-Effects-of-Operative-Combat-Mental-Trauma-Addictive-Disorders-Drug-Resistant-Major-Depression-Anhedonia-and-Alexithymia-First-Report
@@ -145,6 +137,9 @@ https://mhgc21.org/en/mhgc21/events/october2018/MHGC-Proceedings-2018/Psycho-Inf
 #########
 Resources
 #########
+
+Effects of Electromagnetic Radiation on Biological Systems: Current Status in the Former Soviet Union (1993) : Free Download, Borrow, and Streaming : Internet Archive
+https://web.archive.org/web/20211108134629/https://ia601205.us.archive.org/18/items/CIA-RDP96-00792R000100070001-9/CIA-RDP96-00792R000100070001-9_text.pdf
 
 https://mmrjournal.biomedcentral.com/articles/10.1186/s40779-017-0139-0
 

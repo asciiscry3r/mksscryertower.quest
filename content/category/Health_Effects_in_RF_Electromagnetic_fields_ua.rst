@@ -12,9 +12,9 @@ Health Effects in RF Electromagnetic fields
 
 ###########################################
 
-Якщо коротко - це повільне вбивство, CIDT, руйнування пам'яті та всієї системи розпізнавання та обробки паттернів, основи роботи мозку та вашого я (збій усіх функцій організму). Якщо хтось із поліції, мафії, служби безпеки чи армії починає опромінювати вас щодня - то він фізично пошкоджує мозок та нейрони, системні голосові маніпуляції в полях знищюють ваш розум, і цим злочинці перешкоджають вашим спробам отримати допомогу правозахисних органів. У нас є багато людей, як Конєв, Рибалко, Рябчевський, Чуніхіна, Гурін, Федоренко, частина саєнтологів, якісь армійські злочинці, які мають відношення до саєнтології чи піратства та інші, які хочуть зберегти цей статус-кво - де єлектромагнітне випромінювання не шкодить та вони можуть 24/7 опромінювати маси народу.
+Коротше - все, що я знайшов і бачу в Україні за останні роки - це повільне вбивство, CIDT, знищення пам'яті та всієї системи розпізнавання та обробки (збій усіх функцій організму), якщо хтось із поліції, мафії, служби безпеки чи армії починає випромінювати вас щодня - електромагнітне поле фізично пошкоджує мозок, нервову систему, а голосові маніпуляції в полях ламають ваш розум і цим злочинці відмовляють вам у спробах отримати допомогу від правозахисних органів.
 
-чому:
+Чому:
 
 Зображення, з `nlm`_, зі схематичним зображенням можливих біологічних ефектів:
 
@@ -115,29 +115,21 @@ From Military Neuroscience and the Coming Age of Neurowarfare 2016, Armin Krishn
 
 .. _«нейродегенерації»: https://molecularneurodegeneration.biomedcentral.com/articles/10.1186/1750-1326-4-20
 
-У 1993 році EMF зброя або вплив також вбивають, CIDT:
+З 1991 року все це є на озброєнні і в Україні, CIDT:
+Вплив електромагнітного випромінювання на біологічні системи: поточний стан у колишньому Радянському Союзі (1993): Інтернет-архів.
 
-.. image:: images/2022-12-14_04-22.png
+.. image:: images/img-USSR-EMF-12.png
            :align: left
 
-.. image:: images/2022-12-14_04-20.png
+.. image:: images/img-USSR-EMF-2.png
            :align: left
 
-.. image:: images/2022-12-14_04-26.png
+.. image:: images/img-USSR-EMF-3.png
            :align: left
 
-.. image:: images/2022-12-14_04-35.png
-           :align: left
-
-.. image:: images/2022-12-14_05-01.png
-           :align: left
-
-.. image:: images/2022-12-14_04-57.png
-           :align: left
-
-.. image:: images/2022-12-14_05-02_1.png
-           :align: left
-
+2020-2024, Україна, Харків, Миргород,
+Goggle photos відеозапис вхідного сигналу від військових ( DEW ) генераторів для ліній електропередач:
+https://photos.app.goo.gl/TpBwVAqG9EpT81ME9
 
 Ukraine MK Ultra analog:
 https://mhgc21.org/en/mhgc21/events/october2018/MHGC-Proceedings-2018/Psycho-Information-Psychotronic-Technologies-for-Overcoming-the-Effects-of-Operative-Combat-Mental-Trauma-Addictive-Disorders-Drug-Resistant-Major-Depression-Anhedonia-and-Alexithymia-First-Report
@@ -145,6 +137,9 @@ https://mhgc21.org/en/mhgc21/events/october2018/MHGC-Proceedings-2018/Psycho-Inf
 #########
 Resources
 #########
+
+Effects of Electromagnetic Radiation on Biological Systems: Current Status in the Former Soviet Union (1993) : Free Download, Borrow, and Streaming : Internet Archive
+https://web.archive.org/web/20211108134629/https://ia601205.us.archive.org/18/items/CIA-RDP96-00792R000100070001-9/CIA-RDP96-00792R000100070001-9_text.pdf
 
 https://mmrjournal.biomedcentral.com/articles/10.1186/s40779-017-0139-0
 
