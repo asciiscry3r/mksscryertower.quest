@@ -2,7 +2,7 @@ Crimes with brain scanners, human detectors, other devices and me
 #################################################################
 
 :date: 2022-09-27 10:20
-:modified: 2024-08-30 01:49
+:modified: 2024-09-30 22:49
 :tags: dew, cults, cybersecurity, military
 :category: cybersecurity, crimes, cults, ukraine
 :slug: Crimes with brain scanners, human detectors, other devices and me
@@ -16,7 +16,7 @@ Main achivement of Human Traffickers is a about ~520000 people in slavery every 
 
 49.6 million people were living in modern slavery in 2021, of which 27.6 million were in forced labour and 22 million in forced marriage.
 
-1 in every 150 people are victims.
+1 in every 150 people are victims. In Ukraine - every person except "Big White Brotherhood"
 
 =========================================
 About violence from brainwashed criminals
@@ -94,6 +94,7 @@ And now Im in Mirgorod/Ukraine do this change at 6 am 2022/10/19, some creatures
 
 2024.08.30 - the same .... Ukrainian army project with Yusmalos and Scientology to "transfer consciousness" from me to their "members".
 
+2024.09.30 - the same .... Ukrainian old ( White Brotherhood with others pro-soviet or pro-neurological warfare actors ) army project with Yusmalos and Scientology to "transfer consciousness" from me to their "members" - neurological piracy with skill stealing with voice and radio sound depaterning in 'stasi' condition.
 
 About phones, PCA/CDA/SD computers:
 +++++++++++++++++++++++++++++++++++
