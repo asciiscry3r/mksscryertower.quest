@@ -1,8 +1,0 @@
-user-agent: googlebot-news
-allow: /
-
-user-agent: *
-allow: /
-
-user-agent: googlebot-news
-allow: /

@@ -30,7 +30,7 @@ Im still use `OpenWrt`_, from 2021 on this board:
 
 DIY part of power supply, other is separated Chieftec PSU:
 		   
-.. image:: images/images/2024-09-26-19-14-06-586.jpg
+.. image:: images/2024-09-26-19-14-06-586.jpg
            :align: left
 
 Firewall - rules for netfiler and BPF: 
