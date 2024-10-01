@@ -50,6 +50,8 @@ Pages
 
 `EMF and Human health UA <{filename}/category/Health_Effects_in_RF_Electromagnetic_fields_ua.rst>`_
 
+`Piracy on computers <{filename}/category/Piracy_on_computers.rst>`_
+
 `Slavery in piracy groups, criminal groups and in cults <{filename}/category/Slavery_in_piracy_groups_criminal_groups_and_in_cults.rst>`_
 
 `Slavery in piracy groups, criminal groups and in cults UA <{filename}/category/Slavery_in_piracy_groups_criminal_groups_and_in_cults_ua.rst>`_
