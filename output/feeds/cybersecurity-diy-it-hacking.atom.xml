@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>mksscryertower.quest - cybersecurity, diy, it, hacking</title><link href="https://mksscryertower.quest/" rel="alternate"></link><link href="https://mksscryertower.quest/feeds/cybersecurity-diy-it-hacking.atom.xml" rel="self"></link><id>https://mksscryertower.quest/</id><updated>2024-10-01T19:50:00+03:00</updated><entry><title>Routers Configuration</title><link href="https://mksscryertower.quest/Routers%20Configuration.html" rel="alternate"></link><published>2024-10-01T19:50:00+03:00</published><updated>2024-10-01T19:50:00+03:00</updated><author><name>Klimenko Maxim Sergievich</name></author><id>tag:mksscryertower.quest,2024-10-01:/Routers Configuration.html</id><summary type="html">&lt;p class="first last"&gt;Routers Configuration&lt;/p&gt;
+</summary><content type="html">&lt;hr class="docutils" /&gt;
+&lt;p&gt;Setup power supply and EMF protected box, install diferent boxes for supply and computers and routers:&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/photo_2024-10-01_19-04-59.jpg" /&gt;
+&lt;img alt="" class="align-left" src="images/photo_2024-10-01_19-04-48.jpg" /&gt;
+&lt;img alt="" class="align-left" src="images/photo_2024-10-01_19-04-33.jpg" /&gt;
+&lt;p&gt;Im still use &lt;a class="reference external" href="https://openwrt.org/start"&gt;OpenWrt&lt;/a&gt;, from 2021 on this board:&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/img-2024-10-01-180755.png" /&gt;
+&lt;p&gt;DIY part of power supply, other is separated Chieftec PSU:&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/images/2024-09-26-19-14-06-586.jpg" /&gt;
+&lt;p&gt;Firewall - rules for netfiler and BPF:&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/img-2024-10-01-184048.png" /&gt;
+&lt;p&gt;Monitoring: exporter on board to Prometheus and from DB to Grafana:&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/2020-12-15-191648_2048x1152_scrot.png" /&gt;
+&lt;p&gt;Drop Intel &lt;a class="reference external" href="https://software.intel.com/sites/manageability/AMT_Implementation_and_Reference_Guide/default.htm?turl=WordDocuments%2Fkvmandintelamt.htm"&gt;AMT&lt;/a&gt; comm&lt;/p&gt;
+&lt;p&gt;OpenWrt&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/2023-01-24_19-48-r.png" /&gt;
+</content><category term="cybersecurity, diy, it, hacking"></category><category term="cybersecurity"></category><category term="diy"></category><category term="it"></category><category term="hacking"></category></entry><entry><title>Workstation Configuration</title><link href="https://mksscryertower.quest/Workstation%20Configuration.html" rel="alternate"></link><published>2022-12-26T19:50:00+02:00</published><updated>2022-12-26T19:50:00+02:00</updated><author><name>Klimenko Maxim Sergievich</name></author><id>tag:mksscryertower.quest,2022-12-26:/Workstation Configuration.html</id><summary type="html">&lt;p class="first last"&gt;Workstation Configuration&lt;/p&gt;
+</summary><content type="html">&lt;hr class="docutils" /&gt;
+&lt;img alt="" class="align-left" src="images/workstation.png" /&gt;
+&lt;img alt="" class="align-left" src="images/2023-04-13-22-23-38-723.jpg" /&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://github.com/asciiscry3r/dotfiles"&gt;Linux configs and etc&lt;/a&gt;&lt;/p&gt;
+&lt;div class="section" id="etc-sysctl-conf"&gt;
+&lt;h2&gt;/etc/sysctl.conf&lt;/h2&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="c1"&gt;###&lt;/span&gt;
+&lt;span class="c1"&gt;### Performance&lt;/span&gt;
+&lt;span class="c1"&gt;###&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Recommended value to improve performance when sufficient memory exists in a system&lt;/span&gt;
+vm.swappiness&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;10&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Laptop mode&lt;/span&gt;
+&lt;span class="c1"&gt;# vm.laptop_mode = 5&lt;/span&gt;
+
+&lt;span class="c1"&gt;###&lt;/span&gt;
+&lt;span class="c1"&gt;### SYSTEM SECURITY ###&lt;/span&gt;
+&lt;span class="c1"&gt;###&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Kernel entropy pool size&lt;/span&gt;
+kernel.random.poolsize&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;8192&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Enable address Space Randomization&lt;/span&gt;
+kernel.randomize_va_space&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Restrict core dumps&lt;/span&gt;
+fs.suid_dumpable&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Hide kernel pointers&lt;/span&gt;
+kernel.kptr_restrict&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Restrict access to kernel logs&lt;/span&gt;
+kernel.dmesg_restrict&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Restrict ptrace scope&lt;/span&gt;
+kernel.yama.ptrace_scope&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Protect links on the filesystem&lt;/span&gt;
+fs.protected_hardlinks&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
+fs.protected_symlinks&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
+
+&lt;span class="c1"&gt;# By setting core_uses_pid to 1, the coredump filename becomes core.PID&lt;/span&gt;
+&lt;span class="c1"&gt;# kernel.core_uses_pidi = 1&lt;/span&gt;
+
+&lt;span class="c1"&gt;# tty: ldisc: set 0 to prevent autoloading of ldiscs&lt;/span&gt;
+dev.tty.ldisc_autoload&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
+
+&lt;span class="c1"&gt;# dmesg is the kernel log. It exposes a large amount of useful kernel debugging information, but this can often leak sensitive information, such as kernel pointers. Changing the above sysctl restricts the kernel log to the CAP_SYSLOG capability.&lt;/span&gt;
+kernel.printk&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;3&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;3&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;3&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;3&lt;/span&gt;
+
+&lt;span class="c1"&gt;# This restricts loading TTY line disciplines to the CAP_SYS_MODULE capability to prevent unprivileged attackers from loading vulnerable line disciplines with the TIOCSETD ioctl, which has been abused in a number of exploits before.&lt;/span&gt;
+vm.unprivileged_userfaultfd&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Disallows open of FIFOs or regular files not owned by the user in world&lt;/span&gt;
+fs.protected_fifos&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;
+fs.protected_regular&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Magic SysRq key&lt;/span&gt;
+kernel.sysrq&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Non-Maskable Interrupt(NMI)&lt;/span&gt;
+kernel.nmi_watchdog&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Kexec allows replacing the current running kernel&lt;/span&gt;
+kernel.kexec_load_disabled&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
+
+&lt;span class="c1"&gt;# User namespaces&lt;/span&gt;
+&lt;span class="c1"&gt;# user.max_user_namespaces = 0&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Unprivileged user namespaces&lt;/span&gt;
+kernel.unprivileged_userns_clone&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Performance events add considerable kernel attack surface and have caused abundant vulnerabilities. This sysctl restricts all usage of performance events to the CAP_PERFMON capability (CAP_SYS_ADMIN on kernel versions prior to 5.8).&lt;/span&gt;
+kernel.perf_event_paranoid&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;3&lt;/span&gt;
+
+&lt;span class="c1"&gt;# ASLR is a common exploit mitigation which randomises the position of critical parts of a process in memory. This can make a wide variety of exploits harder to pull off, as they first require an information leak. The above settings increase the bits of entropy used for mmap ASLR, improving its effectiveness.&lt;/span&gt;
+vm.mmap_rnd_bits&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;32&lt;/span&gt;
+vm.mmap_rnd_compat_bits&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;16&lt;/span&gt;
+
+&lt;span class="c1"&gt;###&lt;/span&gt;
+&lt;span class="c1"&gt;### NETWORK SECURITY ###&lt;/span&gt;
+&lt;span class="c1"&gt;###&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Do not allow unprivileged users to run code in the kernel through BPF&lt;/span&gt;
+kernel.unprivileged_bpf_disabled&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
+&lt;span class="c1"&gt;# Enable JIT compiler against SPECTRE variants&lt;/span&gt;
+net.core.bpf_jit_enable&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
+&lt;span class="c1"&gt;# Harden BPF JIT compiler&lt;/span&gt;
+net.core.bpf_jit_harden&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Prevent SYN attack, enable SYNcookies (they will kick-in when the max_syn_backlog reached)&lt;/span&gt;
+net.ipv4.tcp_syncookies&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
+net.ipv4.tcp_syn_retries&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;
+net.ipv4.tcp_synack_retries&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;
+net.ipv4.tcp_max_syn_backlog&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;4096&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Disable packet forwarding&lt;/span&gt;
+net.ipv4.ip_forward&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
+net.ipv4.conf.all.forwarding&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
+net.ipv4.conf.default.forwarding&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
+net.ipv6.conf.all.forwarding&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
+net.ipv6.conf.default.forwarding&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Enable IP spoofing protection&lt;/span&gt;
+&lt;span class="c1"&gt;# Turn on source route verification&lt;/span&gt;
+net.ipv4.conf.all.rp_filter&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
+net.ipv4.conf.default.rp_filter&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Disable Redirect Acceptance&lt;/span&gt;
+net.ipv4.conf.all.accept_redirects&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
+net.ipv4.conf.default.accept_redirects&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
+net.ipv4.conf.all.secure_redirects&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
+net.ipv4.conf.default.secure_redirects&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
+net.ipv6.conf.all.accept_redirects&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
+net.ipv6.conf.default.accept_redirects&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Disable Redirect Sending&lt;/span&gt;
+net.ipv4.conf.all.send_redirects&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
+net.ipv4.conf.default.send_redirects&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Disable IP source routing&lt;/span&gt;
+net.ipv4.conf.all.accept_source_route&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
+net.ipv4.conf.default.accept_source_route&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
+net.ipv6.conf.all.accept_source_route&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
+net.ipv6.conf.default.accept_source_route&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Don&amp;#39;t relay bootp&lt;/span&gt;
+net.ipv4.conf.all.bootp_relay&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Disable proxy ARP&lt;/span&gt;
+net.ipv4.conf.all.proxy_arp&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
+net.ipv4.conf.all.arp_ignore&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
+net.ipv4.conf.all.arp_announce&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Mitigate time-wait assassination hazards in TCP&lt;/span&gt;
+net.ipv4.tcp_rfc1337&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Enable logging martian packages&lt;/span&gt;
+&lt;span class="c1"&gt;# Otherwise it might cause DOS&lt;/span&gt;
+net.ipv4.conf.default.log_martians&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
+net.ipv4.conf.all.log_martians&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Enable bad error message Protection&lt;/span&gt;
+net.ipv4.icmp_ignore_bogus_error_responses&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Enable ignoring broadcasts request&lt;/span&gt;
+net.ipv4.icmp_echo_ignore_broadcasts&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Ensure that subsequent connections use the new values&lt;/span&gt;
+&lt;span class="c1"&gt;# PUT TO THE END&lt;/span&gt;
+net.ipv4.route.flush&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
+net.ipv6.route.flush&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
+
+&lt;span class="c1"&gt;# IPv6 addresses are generated from your computer&amp;#39;s MAC address, making your IPv6 address unique and tied directly to your computer. Privacy extensions generate a random IPv6 address to mitigate this form of tracking. Note that these steps are unnecessary if you have spoofed your MAC address or have disabled IPv6.&lt;/span&gt;
+net.ipv6.conf.all.use_tempaddr&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;
+net.ipv6.conf.default.use_tempaddr&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Disable IPv6&lt;/span&gt;
+&lt;span class="c1"&gt;# net.ipv6.conf.all.disable_ipv6 = 1&lt;/span&gt;
+&lt;span class="c1"&gt;# net.ipv6.conf.wlp2s0.disable_ipv6 = 1&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="etc-fstab"&gt;
+&lt;h2&gt;/etc/fstab&lt;/h2&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;File&lt;span class="w"&gt; &lt;/span&gt;start
+...
+&lt;span class="nv"&gt;UUID&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;....
+...
+/dev/nvme0n1p3&lt;span class="w"&gt;              &lt;/span&gt;/&lt;span class="w"&gt;               &lt;/span&gt;ext4&lt;span class="w"&gt;            &lt;/span&gt;rw,relatime&lt;span class="w"&gt;     &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
+/dev/nvme0n1p1&lt;span class="w"&gt;              &lt;/span&gt;/boot&lt;span class="w"&gt;           &lt;/span&gt;vfat&lt;span class="w"&gt;            &lt;/span&gt;rw,nodev,nosuid,noexec,relatime,fmask&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;0022&lt;/span&gt;,dmask&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;0022&lt;/span&gt;,codepage&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;437&lt;/span&gt;,iocharset&lt;span class="o"&gt;=&lt;/span&gt;ascii,shortname&lt;span class="o"&gt;=&lt;/span&gt;mixed,utf8,errors&lt;span class="o"&gt;=&lt;/span&gt;remount-ro&lt;span class="w"&gt;       &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;
+/var&lt;span class="w"&gt;  &lt;/span&gt;/var&lt;span class="w"&gt;   &lt;/span&gt;auto&lt;span class="w"&gt;  &lt;/span&gt;defaults,nodev,nosuid,noexec,nofail,nobootwait,bind&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;2&lt;/span&gt;
+tmpfs&lt;span class="w"&gt; &lt;/span&gt;/tmp&lt;span class="w"&gt; &lt;/span&gt;tmpfs&lt;span class="w"&gt; &lt;/span&gt;defaults,noatime,nodev,nosuid,mode&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1777&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
+tmpfs&lt;span class="w"&gt; &lt;/span&gt;/dev/shm&lt;span class="w"&gt; &lt;/span&gt;tmpfs&lt;span class="w"&gt; &lt;/span&gt;defaults,noatime,nodev,nosuid,mode&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1777&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
+tmpfs&lt;span class="w"&gt; &lt;/span&gt;/var/tmp&lt;span class="w"&gt; &lt;/span&gt;tmpfs&lt;span class="w"&gt; &lt;/span&gt;defaults,noatime,nodev,nosuid,mode&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1777&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;0&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="etc-csh-cshrc-etc-bash-bashrc-etc-profile"&gt;
+&lt;h2&gt;/etc/csh.cshrc /etc/bash.bashrc /etc/profile&lt;/h2&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;file&lt;span class="w"&gt; &lt;/span&gt;start
+...
+&lt;span class="nb"&gt;umask&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;27&lt;/span&gt;
+xhost&lt;span class="w"&gt; &lt;/span&gt;-
+mesg&lt;span class="w"&gt; &lt;/span&gt;n
+...
+&lt;/pre&gt;&lt;/div&gt;
+&lt;img alt="" class="align-left" src="images/emacssddm.png" /&gt;
+&lt;/div&gt;
+&lt;div class="section" id="etc-sddm-conf-d-default-conf"&gt;
+&lt;h2&gt;/etc/sddm.conf.d/default.conf&lt;/h2&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;file&lt;span class="w"&gt; &lt;/span&gt;start
+...
+&lt;span class="o"&gt;[&lt;/span&gt;X11&lt;span class="o"&gt;]&lt;/span&gt;
+&lt;span class="c1"&gt;# Path to a script to execute when starting the display server&lt;/span&gt;
+&lt;span class="nv"&gt;DisplayCommand&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;/usr/share/sddm/scripts/Xsetup
+
+&lt;span class="c1"&gt;# Path to a script to execute when stopping the display server&lt;/span&gt;
+&lt;span class="nv"&gt;DisplayStopCommand&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;/usr/share/sddm/scripts/Xstop
+
+&lt;span class="c1"&gt;# Enable Qt&amp;#39;s automatic high-DPI scaling&lt;/span&gt;
+&lt;span class="nv"&gt;EnableHiDPI&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="nb"&gt;false&lt;/span&gt;
+
+&lt;span class="c1"&gt;# The lowest virtual terminal number that will be used.&lt;/span&gt;
+&lt;span class="nv"&gt;MinimumVT&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Arguments passed to the X server invocation&lt;/span&gt;
+&lt;span class="nv"&gt;ServerArguments&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;-nolisten&lt;span class="w"&gt; &lt;/span&gt;tcp&lt;span class="w"&gt; &lt;/span&gt;-nolisten&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nb"&gt;local&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;-nolisten&lt;span class="w"&gt; &lt;/span&gt;abstract&lt;span class="w"&gt; &lt;/span&gt;-keeptty&lt;span class="w"&gt; &lt;/span&gt;-noreset
+...
+...
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="etc-modprobe-d-modulessettings-conf"&gt;
+&lt;h2&gt;/etc/modprobe.d/modulessettings.conf&lt;/h2&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;blacklist&lt;span class="w"&gt; &lt;/span&gt;nouveau
+blacklist&lt;span class="w"&gt; &lt;/span&gt;pcspkr
+blacklist&lt;span class="w"&gt; &lt;/span&gt;kvm
+blacklist&lt;span class="w"&gt; &lt;/span&gt;kvm_amd
+blacklist&lt;span class="w"&gt; &lt;/span&gt;kvm_intel
+
+&lt;span class="c1"&gt;# options snd_hda_intel power_save=1&lt;/span&gt;
+&lt;span class="c1"&gt;# options cfg80211 cfg80211_disable_40mhz_24ghz=1&lt;/span&gt;
+&lt;span class="c1"&gt;# options mac80211 minstrel_vht_only=1 ieee80211_default_rc_algo=minstrel_ht&lt;/span&gt;
+
+&lt;span class="c1"&gt;# options iwlwifi disable_11ax=1 disable_11ac=0 uapsd_disable=2 power_save=1&lt;/span&gt;
+&lt;span class="c1"&gt;# enable_ini=0&lt;/span&gt;
+
+install&lt;span class="w"&gt; &lt;/span&gt;dccp&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;sctp&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;rds&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;tipc&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;n-hdlc&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;ax25&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;netrom&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;x25&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;rose&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;decnet&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;econet&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;af_802154&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;ipx&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;appletalk&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;psnap&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;p8023&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;p8022&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;can&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;atm&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+
+install&lt;span class="w"&gt; &lt;/span&gt;cramfs&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;freevxfs&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;jffs2&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;hfs&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;hfsplus&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;squashfs&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;udf&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+
+install&lt;span class="w"&gt; &lt;/span&gt;cifs&lt;span class="w"&gt; &lt;/span&gt;/bin/true
+install&lt;span class="w"&gt; &lt;/span&gt;nfs&lt;span class="w"&gt; &lt;/span&gt;/bin/true
+install&lt;span class="w"&gt; &lt;/span&gt;nfsv3&lt;span class="w"&gt; &lt;/span&gt;/bin/true
+install&lt;span class="w"&gt; &lt;/span&gt;nfsv4&lt;span class="w"&gt; &lt;/span&gt;/bin/true
+install&lt;span class="w"&gt; &lt;/span&gt;ksmbd&lt;span class="w"&gt; &lt;/span&gt;/bin/true
+install&lt;span class="w"&gt; &lt;/span&gt;gfs2&lt;span class="w"&gt; &lt;/span&gt;/bin/true
+
+install&lt;span class="w"&gt; &lt;/span&gt;vivid&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+
+install&lt;span class="w"&gt; &lt;/span&gt;bluetooth&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;btusb&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+
+install&lt;span class="w"&gt; &lt;/span&gt;uvcvideo&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+
+install&lt;span class="w"&gt; &lt;/span&gt;firewire-core&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+install&lt;span class="w"&gt; &lt;/span&gt;thunderbolt&lt;span class="w"&gt; &lt;/span&gt;/bin/false
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+</content><category term="cybersecurity, diy, it, hacking"></category><category term="cybersecurity"></category><category term="diy"></category><category term="it"></category><category term="hacking"></category></entry><entry><title>Home local network</title><link href="https://mksscryertower.quest/Home%20local%20network.html" rel="alternate"></link><published>2022-10-31T19:50:00+02:00</published><updated>2022-10-31T19:50:00+02:00</updated><author><name>Klimenko Maxim Sergievich</name></author><id>tag:mksscryertower.quest,2022-10-31:/Home local network.html</id><summary type="html">&lt;p class="first last"&gt;Home local network&lt;/p&gt;
+</summary><content type="html">&lt;hr class="docutils" /&gt;
+&lt;img alt="" class="align-left" src="images/CIAJMK1209-en.svg.png" /&gt;
+&lt;p&gt;Home network in server cabinet ( PPE (PC) Klimenko Maxim Sergievich ):&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/photo_2023-02-11_19-03-50.jpg" /&gt;
+&lt;img alt="" class="align-left" src="images/photo_2023-02-11_19-03-48.jpg" /&gt;
+&lt;img alt="" class="align-left" src="images/photo_2023-02-11_19-03-45.jpg" /&gt;
+&lt;img alt="" class="align-left" src="images/photo_2023-02-11_19-03-42.jpg" /&gt;
+&lt;img alt="" class="align-left" src="images/photo_2023-02-11_19-03-40.jpg" /&gt;
+&lt;img alt="" class="align-left" src="images/photo_2023-02-11_19-03-34.jpg" /&gt;
+&lt;img alt="" class="align-left" src="images/2023-04-13-22-23-38-723.jpg" /&gt;
+&lt;img alt="" class="align-left" src="images/2023-03-30-22-34-34-538.jpg" /&gt;
+&lt;img alt="" class="align-left" src="images/2023-03-09-18-56-31-891.jpg" /&gt;
+&lt;p&gt;OpenWRT firmware&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/IMG_20221020_043306.jpg" /&gt;
+&lt;p&gt;Arm local network server for backups but at now not is use,
+Ground, zero to ground, shields and etc...&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/IMG_20221020_043259.jpg" /&gt;
+&lt;p&gt;Original firmware, attacked by RF and has always blinking red led :)&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/IMG_20221020_043303.jpg" /&gt;
+&lt;p&gt;Network diagram:&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/Diagramofthemynetwork.png" /&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://github.com/asciiscry3r/firewall/blob/main/firewall.sh"&gt;Laptop Firewall&lt;/a&gt;  and same ports are closed by firewalls on other network devices.&lt;/p&gt;
+&lt;p&gt;Home server cabinet:&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/photo_2023-02-09_21-51-15.jpg" /&gt;
+&lt;img alt="" class="align-left" src="images/photo_2023-02-09_21-51-12.jpg" /&gt;
+&lt;img alt="" class="align-left" src="images/photo_2023-02-09_21-51-08.jpg" /&gt;
+&lt;p&gt;And all transformers, power supply sources, in something close to a faraday cage.&lt;/p&gt;
+&lt;p&gt;Reason and conclusion&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/memeaboutwork.png" /&gt;
+</content><category term="cybersecurity, diy, it, hacking"></category><category term="cybersecurity"></category><category term="diy"></category><category term="it"></category><category term="hacking"></category></entry></feed>
