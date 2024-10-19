@@ -16,31 +16,30 @@ Klimenko Maxim Sergievich
 .. image:: images/20241019_183028.jpg
 	   :align: left
 
-klimenkomaximsergievich@gmail.com
-
 Contacts
 --------
 
   :Address: Robitnicha street 22, 37600 Ukraine, Mirgorod
-  :SITE: https://mksscryertower.quest/
-  :GITHUB: https://github.com/asciiscry3r
-  :PHONE: +380675084899
+  :Site: https://mksscryertower.quest/
+  :Github: https://github.com/asciiscry3r
+  :Phone: +380675084899
+  :Email: klimenkomaximsergievich@gmail.com
 
 Skills
 ------
 
-========= = ===========
-Tool        Languages
-========= = ===========
-Terraform + HCL
-Ansible   + Python/YAML
-Shell     + bash script
-Pelican   + Python
-Org-mode  + any
-Chef      + Ruby
-Jenkins   + Groovy
-\*nix     + any
-========= = ===========
+========= ===========
+Tool      Languages
+========= ===========
+Terraform HCL
+Ansible   Python/YAML
+Shell     bash script
+Pelican   Python
+Org-mode  any
+Chef      Ruby
+Jenkins   Groovy
+\*nix     any
+========= ===========
 
 Work expirience
 ---------------
