@@ -34,11 +34,13 @@ And back of this all:
 Pages
 =====
 
-`Home local network <{filename}/category/Home_local_network.rst>`_
+`Curriculum Vitae <{filename}/category/Curriculum_Vitae_of_Klimenko_Maxim_Sergievich.rst>`_
 
 `Workstation configuration <{filename}/category/Workstation_configuration.rst>`_
 
 `Router configuration <{filename}/category/Router_configuration.rst>`_
+
+`Piracy on computers <{filename}/category/Piracy_on_computers.rst>`_
 
 `Self protection and Home power grid <{filename}/category/Self_protection_and_Home_power_grid.rst>`_
 
@@ -49,8 +51,6 @@ Pages
 `EMF and Human health <{filename}/category/Health_Effects_in_RF_Electromagnetic_fields.rst>`_
 
 `EMF and Human health UA <{filename}/category/Health_Effects_in_RF_Electromagnetic_fields_ua.rst>`_
-
-`Piracy on computers <{filename}/category/Piracy_on_computers.rst>`_
 
 `Slavery in piracy groups, criminal groups and in cults <{filename}/category/Slavery_in_piracy_groups_criminal_groups_and_in_cults.rst>`_
 
@@ -63,6 +63,8 @@ Pages
 `Computer trace system <{filename}/category/Computer_trace_system.rst>`_
 
 `Computer trace system UA <{filename}/category/Computer_trace_system_ua.rst>`_
+
+`Home local network <{filename}/category/Home_local_network.rst>`_
 
 `Artificial human life = existence (WIP) <{filename}/category/Artificial_human_life_and_existence.rst>`_
 
@@ -77,8 +79,6 @@ Pages
 `Dao of infosec <{filename}/category/Dao_of_infosec.rst>`_
 
 `Dao of programming <{filename}/category/Dao_of_programming.rst>`_
-
-`About <{filename}/category/About.rst>`_
 
 #####################
 
