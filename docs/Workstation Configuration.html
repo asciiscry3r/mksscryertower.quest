@@ -201,15 +201,21 @@ tmpfs<span class="w"> </span>/dev/shm<span class="w"> </span>tmpfs<span class="w
 tmpfs<span class="w"> </span>/var/tmp<span class="w"> </span>tmpfs<span class="w"> </span>defaults,noatime,nodev,nosuid,mode<span class="o">=</span><span class="m">1777</span><span class="w"> </span><span class="m">0</span><span class="w"> </span><span class="m">0</span>
 </pre></div>
 </div>
-<div class="section" id="etc-csh-cshrc-etc-bash-bashrc-etc-profile">
-<h2>/etc/csh.cshrc /etc/bash.bashrc /etc/profile</h2>
+<div class="section" id="etc-profile-bashrc-etc-login-defs">
+<h2>/etc/profile ~/.bashrc /etc/login.defs</h2>
 <div class="highlight"><pre><span></span>file<span class="w"> </span>start
 ...
-<span class="nb">umask</span><span class="w"> </span><span class="m">27</span>
+<span class="nb">umask</span><span class="w"> </span><span class="m">027</span>
 xhost<span class="w"> </span>-
 mesg<span class="w"> </span>n
 ...
 </pre></div>
+<div class="highlight"><pre><span></span>file<span class="w"> </span>/etc/login.defs
+...
+UMASK<span class="w">                </span><span class="m">027</span>
+...
+</pre></div>
+<img alt="" class="align-left" src="images/emacspermissions.png" />
 <img alt="" class="align-left" src="images/emacssddm.png" />
 </div>
 <div class="section" id="etc-sddm-conf-d-default-conf">

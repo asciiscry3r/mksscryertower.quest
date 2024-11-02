@@ -199,18 +199,27 @@ Workstation Configuration
     tmpfs /var/tmp tmpfs defaults,noatime,nodev,nosuid,mode=1777 0 0
 
 
-/etc/csh.cshrc /etc/bash.bashrc /etc/profile
-++++++++++++++++++++++++++++++++++++++++++++
+/etc/profile ~/.bashrc /etc/login.defs
+++++++++++++++++++++++++++++++++++++++
 
 ..  code-block:: shell
 
     file start
     ...
-    umask 27
+    umask 027
     xhost -
     mesg n
     ...
 
+.. code-block:: shell
+
+   file /etc/login.defs
+   ...
+   UMASK		027
+   ...
+
+.. image:: images/emacspermissions.png
+           :align: left
 
 .. image:: images/emacssddm.png
            :align: left
