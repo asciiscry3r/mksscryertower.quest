@@ -120,26 +120,28 @@ Detection of "BFS"("Big F*cking Speaker" or "GOD" - electromagnetic waves in ELF
 .. image:: images/photo_2024-06-01_23-30-51.jpg
            :align: left
 
+Someone evil decide "help in dead" to my two osciloscopes and now I have only this:
+
+.. image:: images/setup.jpg
+           :align: left
+
 And Wide-Impulse modulation at powerlines:
 
 https://photos.app.goo.gl/TEuXquJaN4771ozT8
 
 I buried one filter and a phase shifter for the ground, with a low-pass filter at the input, almost a meter deep in a metal container, drank coffee and began to see “souls”...............
 
-Workaround with PWM power sources:
+Workaround with PWM power sources, but now I use one of my PSU and resonace FH on power lines:
 
 .. image:: images/photo_power.jpg
            :align: left
 
-Hank of wire with filters is disconected from power grid:
+Hank of wire with filters is disconected from power grid - in history and trash box:
 
 .. image:: images/2024-04-02-22-19-11-416.jpg
            :align: left
 
-Sound system:
-
-.. image:: images/img-2024-04-02-233735.png
-           :align: left
+Sound system - just speakers by my sheme and 2 jlh 1969 amplifier.
 
 Main problem and main enemy weapon:
 
