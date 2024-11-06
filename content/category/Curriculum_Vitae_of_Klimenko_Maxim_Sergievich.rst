@@ -19,27 +19,40 @@ Klimenko Maxim Sergievich
 Contacts
 --------
 
-  :Address: Robitnicha street 22, 37600 Ukraine, Mirgorod
-  :Site: https://mksscryertower.quest/
-  :Github: https://github.com/asciiscry3r
-  :Phone: +380675084899
-  :Email: klimenkomaximsergievich@gmail.com
+-  Address: Robitnicha street 22, 37600 Ukraine, Mirgorod
+-  Site: https://mksscryertower.quest/
+-  GitHub: https://github.com/asciiscry3r
+-  Email: klimenkomaximsergievich@gmail.com
+-  Phone: +380675084899
 
 Skills
 ------
 
-========= ===========
-Tool      Languages
-========= ===========
-Terraform HCL
-Ansible   Python/YAML
-Shell     bash script
-Pelican   Python
-Org-mode  any
-Chef      Ruby
-Jenkins   Groovy
-\*nix     any
-========= ===========
++-----------+-------------+--------------------+--------------------+
+| Tool      | Languages   | Skills             | Technology         |
++===========+=============+====================+====================+
+| Terraform | HCL         | Database           | MySQL, PostgreSQL, |
+|           |             | administartion     | Elasticsearch      |
++-----------+-------------+--------------------+--------------------+
+| Ansible   | Python/YAML | Process automation | Jenkins, Chef,     |
+|           |             |                    | Ansible, Bash,     |
+|           |             |                    | Python             |
++-----------+-------------+--------------------+--------------------+
+| Shell     | bash script | Cloud management   | AWS, GCP, Hetzner  |
++-----------+-------------+--------------------+--------------------+
+| Pelican   | Python/RST  | IaC                | Terraform, API,    |
+|           |             |                    | AWS CF, Packer     |
++-----------+-------------+--------------------+--------------------+
+| Org-mode  | any         | CI and CD          | Git (GitLab,       |
+|           |             |                    | GitHub),           |
++-----------+-------------+--------------------+--------------------+
+| Chef      | Ruby        |                    | Docker Hub,        |
+|           |             |                    | containers repos   |
++-----------+-------------+--------------------+--------------------+
+| Jenkins   | Groovy      |                    |                    |
++-----------+-------------+--------------------+--------------------+
+| \*nix     | any         |                    |                    |
++-----------+-------------+--------------------+--------------------+
 
 Work expirience
 ---------------
@@ -117,13 +130,33 @@ Education
 -  Couple of cources about Radio Engineering and Computer Engineering in
    National Aerospace University – "Kharkiv Aviation Institute" , NAU
    "KhAI".
--  Self education with resources from FSF and OSC.
+-  Self education with resources from FSF and OSC. My own projects.
 
 Interests
 ---------
 
 Cyber security, technology and science, music (happy metal), gaming and
-DIY, neuroscience, anime, SCI-FI, science and technical litherature.
+DIY, neuroscience, anime, SCI-FI, science and technical litherature. My
+own projects:
+
++---------------------+---------------------------------------------------------+
+| Computer Science    | GitHub                                                  |
++=====================+=========================================================+
+| Packet filtering    | https://github.com/asciiscry3r/simple-stateful-firewall |
++---------------------+---------------------------------------------------------+
+| IaC                 | https://github.com/asciiscry3r/myinfrastructure         |
++---------------------+---------------------------------------------------------+
+| Simple Web          | https://github.com/asciiscry3r/mksscryertower.quest     |
++---------------------+---------------------------------------------------------+
+| Extended Monitoring | https://github.com/asciiscry3r/sensors_exporter         |
++---------------------+---------------------------------------------------------+
+
+================= ===============================================
+Radio/Electronics GitHub
+================= ===============================================
+Electronics       https://github.com/asciiscry3r/grounding_device
+Signal Processing https://github.com/asciiscry3r/phaseshiftfilter
+================= ===============================================
 
 References
 ----------
