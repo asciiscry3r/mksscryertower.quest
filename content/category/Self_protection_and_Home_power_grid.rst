@@ -2,11 +2,11 @@ Self protection and Home power grid
 ###################################
 
 :date: 2024-06-01 22:43
-:modified: 2024-08-30 01:49
+:modified: 2024-11-06 23:49
 :tags: cybersecurity, diy, it, hacking, health
 :category: cybersecurity, diy, it, hacking, health
 :slug: Self protection and Home power grid
-:authors: Klimenko Maxim Sergievich
+:authors: Klimenko Maxim Serhiyevich
 :summary: Self protection and Home power grid
 
 ###################################
@@ -99,8 +99,14 @@ Repositories:
    2. https://github.com/asciiscry3r/Filter_AC
    3. https://github.com/asciiscry3r/grounding_device
    4. https://github.com/asciiscry3r/powersource
+   5. https://github.com/asciiscry3r/phaseshiftfilter
 
-.. image:: images/photo_home.jpg
+.. image:: images/my_home.jpg
+           :align: left
+
+Current main filter and main filter construction concept:
+
+.. image:: images/phaseshiftfilter.jpg
            :align: left
 
 .. image:: images/photo_2024-07-16_01-44-05.jpg
