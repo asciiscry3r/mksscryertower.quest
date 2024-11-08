@@ -15,7 +15,6 @@ SSH_PORT=22
 SSH_USER=arch
 SSH_TARGET_DIR=/var/www/mksscryertower.quest
 
-
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)
 	PELICANOPTS += -D
