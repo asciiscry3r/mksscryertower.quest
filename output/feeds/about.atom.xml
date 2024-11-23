@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>mksscryertower.quest - about</title><link href="https://mksscryertower.quest/" rel="alternate"></link><link href="https://mksscryertower.quest/feeds/about.atom.xml" rel="self"></link><id>https://mksscryertower.quest/</id><updated>2024-10-19T20:18:00+03:00</updated><entry><title>Curriculum Vitae of Klimenko Maxim Sergievich</title><link href="https://mksscryertower.quest/Curriculum%20Vitae%20of%20Klimenko%20Maxim%20Sergievich.html" rel="alternate"></link><published>2024-10-19T20:18:00+03:00</published><updated>2024-10-19T20:18:00+03:00</updated><author><name>Klimenko Maxim Sergievich</name></author><id>tag:mksscryertower.quest,2024-10-19:/Curriculum Vitae of Klimenko Maxim Sergievich.html</id><summary type="html">&lt;p class="first last"&gt;Curriculum Vitae of Klimenko Maxim Sergievich&lt;/p&gt;
+</summary><content type="html">&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="klimenko-maxim-sergievich"&gt;
+&lt;h2&gt;Klimenko Maxim Sergievich&lt;/h2&gt;
+&lt;img alt="" class="align-left" src="images/20241019_183028.jpg" /&gt;
+&lt;div class="section" id="contacts"&gt;
+&lt;h3&gt;Contacts&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Address: Robitnicha street 22, 37600 Ukraine, Mirgorod&lt;/li&gt;
+&lt;li&gt;Site: &lt;a class="reference external" href="https://mksscryertower.quest/"&gt;https://mksscryertower.quest/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GitHub: &lt;a class="reference external" href="https://github.com/asciiscry3r"&gt;https://github.com/asciiscry3r&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Email: &lt;a class="reference external" href="mailto:klimenkomaximsergievich&amp;#64;gmail.com"&gt;klimenkomaximsergievich&amp;#64;gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Phone: +380675084899&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="skills"&gt;
+&lt;h3&gt;Skills&lt;/h3&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="17%" /&gt;
+&lt;col width="20%" /&gt;
+&lt;col width="31%" /&gt;
+&lt;col width="31%" /&gt;
+&lt;/colgroup&gt;
+&lt;thead valign="bottom"&gt;
+&lt;tr&gt;&lt;th class="head"&gt;Tool&lt;/th&gt;
+&lt;th class="head"&gt;Languages&lt;/th&gt;
+&lt;th class="head"&gt;Skills&lt;/th&gt;
+&lt;th class="head"&gt;Technology&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt;Terraform&lt;/td&gt;
+&lt;td&gt;HCL&lt;/td&gt;
+&lt;td&gt;Database
+administartion&lt;/td&gt;
+&lt;td&gt;MySQL, PostgreSQL,
+Elasticsearch&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Ansible&lt;/td&gt;
+&lt;td&gt;Python/YAML&lt;/td&gt;
+&lt;td&gt;Process automation&lt;/td&gt;
+&lt;td&gt;Jenkins, Chef,
+Ansible, Bash,
+Python&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Shell&lt;/td&gt;
+&lt;td&gt;bash script&lt;/td&gt;
+&lt;td&gt;Cloud management&lt;/td&gt;
+&lt;td&gt;AWS, GCP, Hetzner&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Pelican&lt;/td&gt;
+&lt;td&gt;Python/RST&lt;/td&gt;
+&lt;td&gt;IaC&lt;/td&gt;
+&lt;td&gt;Terraform, API,
+AWS CF, Packer&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Org-mode&lt;/td&gt;
+&lt;td&gt;any&lt;/td&gt;
+&lt;td&gt;CI and CD&lt;/td&gt;
+&lt;td&gt;Git (GitLab,
+GitHub),&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Chef&lt;/td&gt;
+&lt;td&gt;Ruby&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Jenkins&lt;/td&gt;
+&lt;td&gt;Groovy&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;*nix&lt;/td&gt;
+&lt;td&gt;any&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div class="section" id="work-expirience"&gt;
+&lt;h3&gt;Work expirience&lt;/h3&gt;
+&lt;div class="section" id="system-administrator-with-devops-methodology"&gt;
+&lt;h4&gt;System administrator with DevOps methodology&lt;/h4&gt;
+&lt;ol class="arabic"&gt;
+&lt;li&gt;&lt;p class="first"&gt;Requestum — Outsource company 2017 - 2018&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;QuickBlox - Outstaf work from Requestum Jul 2018 - Aug 2018&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;CreatorIQ — Product company/SocialEdge inc. 2019 - 2020&lt;/p&gt;
+&lt;p&gt;Infrastructure development and maintenance in AWS cloud.
+Containerizing applications with Docker. Work with ELK stack.
+Development of a highly loaded proxy using Nginx, Jenkins and
+Terrafom. Deploying a server and virtual networks for the access
+control system. Creation and support of serverless applications for
+collecting and processing logs, for AWS WAF etc. Creation of
+perimeters for environments setting up security groups and continuous
+integration into named environments.Basic knowledge of Kubernetes ‑
+helm, nginx ingress and support. Some technologies and utilities:
+Python, Terraform, Chef, Ansible, Vagrant, libvirt, Groovy, Jenkins,
+Gitlab‑CI Some info about project stack: AWS, ELK, PHP, Node, Nginx,
+SQS, Memcahe etc.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Digifico&lt;/p&gt;
+&lt;p&gt;Two products ‑ chat and online store with POS systems. Working with
+the ELK stack, managing indexes and collecting logs with TD‑Agent.
+Support for Java server applications, build HL services like RabbitMQ
+cluster. Maintenance and improvement of infrastructure and logging.
+Used Grafana, Prometeus to collect and view metrics. Alert manager
+and Slack for reporting critical issues. Gitlab CI and Ansible for
+process automation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Kenv — Automated orchestration in multiple types of cloud, Project
+work.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Autodoc — Product company 2021 - 2022&lt;/p&gt;
+&lt;p&gt;Infrastructure development, improvement and maintenance in GSP cloud.
+Containerizing applications with Docker. Kubernetes ‑ helm, nginx
+ingress and support. Some technologies and utilities: Python,
+Terraform, Chef, Ansible, Kubernetes, Vagrant, libvirt, Groovy,
+Jenkins, Gitlab‑CI Some info about project stack: Vagrant,
+GCP,Kubernetes, ELK, PHP, Node, Nginx, Memcahe etc.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Smile FR/ Smile UA — International outsource company 2022 - 2023&lt;/p&gt;
+&lt;p&gt;Infrastructure development and maintenance in AWS and bare metal
+clouds. Containerizing applications with Docker. Development and
+support for Ansible provision project with different types of php
+applications — Drupal, Magento Environments. We work with social
+companies from France and international companies like Dior Coutur.
+Some technologies and utilities: Python, Terraform, Chef, Ansible,
+Vagrant, libvirt, Groovy, Jenkins, Gitlab‑CI Some info about project
+stack: Vagrant, AWS, ELK, PHP, Node, Nginx, SQS, Memcahe etc.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="qualifications"&gt;
+&lt;h3&gt;Qualifications&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Coding or scripting&lt;/li&gt;
+&lt;li&gt;Process re‑engineering&lt;/li&gt;
+&lt;li&gt;Communicating and collaborating with others&lt;/li&gt;
+&lt;li&gt;Ability to use a wide variety of open source technologies and tools&lt;/li&gt;
+&lt;li&gt;Experience with systems and IT operations&lt;/li&gt;
+&lt;li&gt;Comfort with frequent, incremental code testing and deployment&lt;/li&gt;
+&lt;li&gt;Strong grasp of automation tools&lt;/li&gt;
+&lt;li&gt;Data management skills&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="education"&gt;
+&lt;h3&gt;Education&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Couple of cources about Radio Engineering and Computer Engineering in
+National Aerospace University – &amp;quot;Kharkiv Aviation Institute&amp;quot; , NAU
+&amp;quot;KhAI&amp;quot;.&lt;/li&gt;
+&lt;li&gt;Self education with resources from FSF and OSC. My own projects.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="interests"&gt;
+&lt;h3&gt;Interests&lt;/h3&gt;
+&lt;p&gt;Cyber security, technology and science, music (happy metal), gaming and
+DIY, neuroscience, anime, SCI-FI, science and technical litherature. My
+own projects:&lt;/p&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="27%" /&gt;
+&lt;col width="73%" /&gt;
+&lt;/colgroup&gt;
+&lt;thead valign="bottom"&gt;
+&lt;tr&gt;&lt;th class="head"&gt;Computer Science&lt;/th&gt;
+&lt;th class="head"&gt;GitHub&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt;Packet filtering&lt;/td&gt;
+&lt;td&gt;&lt;a class="reference external" href="https://github.com/asciiscry3r/simple-stateful-firewall"&gt;https://github.com/asciiscry3r/simple-stateful-firewall&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;IaC&lt;/td&gt;
+&lt;td&gt;&lt;a class="reference external" href="https://github.com/asciiscry3r/myinfrastructure"&gt;https://github.com/asciiscry3r/myinfrastructure&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Simple Web&lt;/td&gt;
+&lt;td&gt;&lt;a class="reference external" href="https://github.com/asciiscry3r/mksscryertower.quest"&gt;https://github.com/asciiscry3r/mksscryertower.quest&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Extended Monitoring&lt;/td&gt;
+&lt;td&gt;&lt;a class="reference external" href="https://github.com/asciiscry3r/sensors_exporter"&gt;https://github.com/asciiscry3r/sensors_exporter&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="27%" /&gt;
+&lt;col width="73%" /&gt;
+&lt;/colgroup&gt;
+&lt;thead valign="bottom"&gt;
+&lt;tr&gt;&lt;th class="head"&gt;Radio/Electronics&lt;/th&gt;
+&lt;th class="head"&gt;GitHub&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt;Electronics&lt;/td&gt;
+&lt;td&gt;&lt;a class="reference external" href="https://github.com/asciiscry3r/grounding_device"&gt;https://github.com/asciiscry3r/grounding_device&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Signal Processing&lt;/td&gt;
+&lt;td&gt;&lt;a class="reference external" href="https://github.com/asciiscry3r/phaseshiftfilter"&gt;https://github.com/asciiscry3r/phaseshiftfilter&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div class="section" id="references"&gt;
+&lt;h3&gt;References&lt;/h3&gt;
+&lt;p&gt;References available on request.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content><category term="about"></category><category term="about"></category></entry></feed>
