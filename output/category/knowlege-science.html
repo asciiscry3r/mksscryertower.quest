@@ -40,7 +40,7 @@ Include<span class="w"> </span>/etc/ssh/sshd_config.d/*.conf
 
 Port<span class="w"> </span><span class="m">22</span>
 AddressFamily<span class="w"> </span>inet
-ListenAddress<span class="w"> </span><span class="m">192</span>.168.0.130<span class="w"> </span><span class="c1"># your local ip</span>
+ListenAddress<span class="w"> </span><span class="m">192</span>.168.0.130<span class="w"> </span><span class="c1"># your local ip / or 0.0.0.0</span>
 
 
 <span class="c1">#HostKey /etc/ssh/ssh_host_rsa_key</span>
@@ -56,13 +56,13 @@ ListenAddress<span class="w"> </span><span class="m">192</span>.168.0.130<span c
 
 <span class="c1"># Authentication:</span>
 
-<span class="c1">#LoginGraceTime 2m</span>
+LoginGraceTime<span class="w"> </span>2m
 PermitRootLogin<span class="w"> </span>no
-<span class="c1">#StrictModes yes</span>
-<span class="c1">#MaxAuthTries 6</span>
-<span class="c1">#MaxSessions 10</span>
+StrictModes<span class="w"> </span>yes
+MaxAuthTries<span class="w"> </span><span class="m">6</span>
+MaxSessions<span class="w"> </span><span class="m">10</span>
 
-PubkeyAuthentication<span class="w"> </span>no
+PubkeyAuthentication<span class="w"> </span>yes
 
 <span class="c1"># Expect .ssh/authorized_keys2 to be disregarded by default in future.</span>
 <span class="c1">#AuthorizedKeysFile .ssh/authorized_keys .ssh/authorized_keys2</span>
@@ -78,15 +78,16 @@ PubkeyAuthentication<span class="w"> </span>no
 <span class="c1"># HostbasedAuthentication</span>
 <span class="c1">#IgnoreUserKnownHosts no</span>
 <span class="c1"># Don&#39;t read the user&#39;s ~/.rhosts and ~/.shosts files</span>
-<span class="c1">#IgnoreRhosts yes</span>
+IgnoreRhosts<span class="w"> </span>yes
 
 <span class="c1"># To disable tunneled clear text passwords, change to no here!</span>
 PasswordAuthentication<span class="w"> </span>no
-<span class="c1">#PermitEmptyPasswords no</span>
+PermitEmptyPasswords<span class="w"> </span>no
 
 <span class="c1"># Change to yes to enable challenge-response passwords (beware issues with</span>
-<span class="c1"># some PAM modules and threads)</span>
+<span class="c1"># some PAM modules and threads) Needed for OTP.</span>
 KbdInteractiveAuthentication<span class="w"> </span>yes
+AuthenticationMethods<span class="w"> </span>publickey,keyboard-interactive:pam
 
 <span class="c1"># Kerberos options</span>
 <span class="c1">#KerberosAuthentication no</span>
@@ -145,6 +146,8 @@ Match<span class="w"> </span>Address<span class="w"> </span><span class="m">192<
 <span class="w">             </span>PermitRootLogin<span class="w"> </span>yes
 root@mksnanopineo2:~#
 </pre></div>
+<p>Do not forgot to check defaults in sshd_config.d folder, they all have higher priority ( numbered )then main sshd config file:</p>
+<img alt="" class="align-left" src="images/img-2024-11-23-030640.png" />
 <p>File /etc/pam.d/sshd for openwrt use <a class="reference external" href="https://openwrt.org/docs/guide-user/services/ssh/ssh.mfa.auth">this</a></p>
 <div class="highlight"><pre><span></span>root@mksnanopineo2:~#<span class="w"> </span>cat<span class="w"> </span>/etc/pam.d/sshd
 <span class="c1"># PAM configuration for the Secure Shell service</span>
@@ -206,6 +209,13 @@ session<span class="w"> </span><span class="o">[</span><span class="nv">success<
 <span class="c1"># Standard Un*x password updating.</span>
 @include<span class="w"> </span>common-password
 root@mksnanopineo2:~#
+</pre></div>
+<div class="highlight"><pre><span></span>auth      required  pam_securetty.so   #disable remote root
+auth      required  pam_google_authenticator.so
+#auth      include   system-remote-login
+account   include   system-remote-login
+password  include   system-remote-login
+session   include   system-remote-login
 </pre></div>
 <p>Run command:</p>
 <div class="highlight"><pre><span></span>$<span class="w"> </span>google-authenticator

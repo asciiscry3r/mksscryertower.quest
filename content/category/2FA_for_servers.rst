@@ -2,7 +2,7 @@
 ###############
 
 :date: 2022-10-10 10:20
-:modified: 2022-11-09 18:40
+:modified: 2024-11-23 03:40
 :tags: knowlege, science
 :category: knowlege, science
 :slug: 2FA for Servers
@@ -31,8 +31,8 @@ File /etc/ssh/sshd_config don`t reload after edit
 
     Port 22
     AddressFamily inet
-    ListenAddress 192.168.0.130 # your local ip
-    
+    ListenAddress 192.168.0.130 # your local ip / or 0.0.0.0
+
 
     #HostKey /etc/ssh/ssh_host_rsa_key
     #HostKey /etc/ssh/ssh_host_ecdsa_key
@@ -47,13 +47,13 @@ File /etc/ssh/sshd_config don`t reload after edit
 
     # Authentication:
 
-    #LoginGraceTime 2m
+    LoginGraceTime 2m
     PermitRootLogin no
-    #StrictModes yes
-    #MaxAuthTries 6
-    #MaxSessions 10
+    StrictModes yes
+    MaxAuthTries 6
+    MaxSessions 10
 
-    PubkeyAuthentication no
+    PubkeyAuthentication yes
 
     # Expect .ssh/authorized_keys2 to be disregarded by default in future.
     #AuthorizedKeysFile	.ssh/authorized_keys .ssh/authorized_keys2
@@ -69,15 +69,16 @@ File /etc/ssh/sshd_config don`t reload after edit
     # HostbasedAuthentication
     #IgnoreUserKnownHosts no
     # Don't read the user's ~/.rhosts and ~/.shosts files
-    #IgnoreRhosts yes
+    IgnoreRhosts yes
 
     # To disable tunneled clear text passwords, change to no here!
     PasswordAuthentication no
-    #PermitEmptyPasswords no
+    PermitEmptyPasswords no
 
     # Change to yes to enable challenge-response passwords (beware issues with
-    # some PAM modules and threads)
+    # some PAM modules and threads) Needed for OTP.
     KbdInteractiveAuthentication yes
+    AuthenticationMethods publickey,keyboard-interactive:pam
 
     # Kerberos options
     #KerberosAuthentication no
@@ -136,6 +137,11 @@ File /etc/ssh/sshd_config don`t reload after edit
 		 PermitRootLogin yes
     root@mksnanopineo2:~#
 
+
+Do not forgot to check defaults in sshd_config.d folder, they all have higher priority ( numbered )then main sshd config file:
+
+.. image:: images/img-2024-11-23-030640.png
+           :align: left
 
 File /etc/pam.d/sshd for openwrt use `this`_
 
@@ -202,6 +208,17 @@ File /etc/pam.d/sshd for openwrt use `this`_
     @include common-password
     root@mksnanopineo2:~#
 
+.. code-block:: shell
+    [arch@mksscryertower ~]$ cat /etc/pam.d/sshd
+    #%PAM-1.0
+
+    auth      required  pam_securetty.so   #disable remote root
+    auth      required  pam_google_authenticator.so
+    #auth      include   system-remote-login
+    account   include   system-remote-login
+    password  include   system-remote-login
+    session   include   system-remote-login
+
 
 Run command:
 
@@ -217,7 +234,7 @@ Run command:
 
 
 On your mobile device, open the `Google Authenticator`_ app, select + to add a new account. Then, select Scan a QR code, enabling you to scan the previously generated QR code. Scanning the QR code will show you the Linux virtual machine (VM) name, the user account, and a unique TOTP code that changes every 30 seconds.
-    
+
 
 .. _`Google Authenticator`: https://goteleport.com/blog/ssh-2fa-tutorial/
 
