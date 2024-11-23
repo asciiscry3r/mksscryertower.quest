@@ -144,7 +144,7 @@ Match<span class="w"> </span>Address<span class="w"> </span><span class="m">192<
 <span class="w">             </span>PermitRootLogin<span class="w"> </span>yes
 root@mksnanopineo2:~#
 </pre></div>
-<p>Do not forgot to check defaults in sshd_config.d folder, they all have higher priority ( numbered )then main sshd config file:</p>
+<p>Do not forgot to check defaults in sshd_config.d folder, they all have higher priority ( they numbered ) then main sshd config file:</p>
 <img alt="" class="align-left" src="images/img-2024-11-23-030640.png" />
 <p>File /etc/pam.d/sshd for openwrt use <a class="reference external" href="https://openwrt.org/docs/guide-user/services/ssh/ssh.mfa.auth">this</a></p>
 <div class="highlight"><pre><span></span>root@mksnanopineo2:~#<span class="w"> </span>cat<span class="w"> </span>/etc/pam.d/sshd
@@ -208,12 +208,15 @@ session<span class="w"> </span><span class="o">[</span><span class="nv">success<
 @include<span class="w"> </span>common-password
 root@mksnanopineo2:~#
 </pre></div>
-<div class="highlight"><pre><span></span>auth      required  pam_securetty.so   #disable remote root
-auth      required  pam_google_authenticator.so
-#auth      include   system-remote-login
-account   include   system-remote-login
-password  include   system-remote-login
-session   include   system-remote-login
+<div class="highlight"><pre><span></span><span class="o">[</span>arch@mksscryertower<span class="w"> </span>~<span class="o">]</span>$<span class="w"> </span>cat<span class="w"> </span>/etc/pam.d/sshd
+<span class="c1">#%PAM-1.0</span>
+
+auth<span class="w">      </span>required<span class="w">  </span>pam_securetty.so<span class="w">   </span><span class="c1">#disable remote root</span>
+auth<span class="w">      </span>required<span class="w">  </span>pam_google_authenticator.so
+<span class="c1">#auth      include   system-remote-login</span>
+account<span class="w">   </span>include<span class="w">   </span>system-remote-login
+password<span class="w">  </span>include<span class="w">   </span>system-remote-login
+session<span class="w">   </span>include<span class="w">   </span>system-remote-login
 </pre></div>
 <p>Run command:</p>
 <div class="highlight"><pre><span></span>$<span class="w"> </span>google-authenticator

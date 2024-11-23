@@ -138,10 +138,12 @@ File /etc/ssh/sshd_config don`t reload after edit
     root@mksnanopineo2:~#
 
 
-Do not forgot to check defaults in sshd_config.d folder, they all have higher priority ( numbered )then main sshd config file:
+Do not forgot to check defaults in sshd_config.d folder, they all have higher priority ( they numbered ) then main sshd config file:
+
 
 .. image:: images/img-2024-11-23-030640.png
            :align: left
+
 
 File /etc/pam.d/sshd for openwrt use `this`_
 
@@ -208,7 +210,9 @@ File /etc/pam.d/sshd for openwrt use `this`_
     @include common-password
     root@mksnanopineo2:~#
 
+
 .. code-block:: shell
+
     [arch@mksscryertower ~]$ cat /etc/pam.d/sshd
     #%PAM-1.0
 
