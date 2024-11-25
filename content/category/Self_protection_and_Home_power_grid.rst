@@ -59,7 +59,7 @@ Only at your own risk and on your own responsibility
 
 I need some discharger for power grid charges ....
 
-Multipoint ground for freaquency diapason from 0 to ~3 000 000 000 Hz.
+And "Thing" for freaquency diapason from 0 to ~3 000 000 000 Hz.
 
 We/you must use ferrit filter for sound and other type of signal wire, but this very situationally - some devices already have filters on input or output.
 
@@ -104,7 +104,7 @@ Repositories:
 .. image:: images/my_home.jpg
            :align: left
 
-Current main filter and main filter construction concept:
+Current main filter and filter construction concept:
 
 .. image:: images/phaseshiftfilter.jpg
            :align: left
@@ -125,11 +125,16 @@ Someone evil decide "help in dead" to my two osciloscopes and now I have only th
 .. image:: images/setup.jpg
            :align: left
 
+"Help":
+
+.. image:: images/GdMO7hFW0AAdcsq.jpeg
+	   :align: left
+
 And Wide-Impulse modulation at powerlines:
 
 https://photos.app.goo.gl/TEuXquJaN4771ozT8
 
-I buried one filter and a phase shifter for the ground, with a low-pass filter at the input, almost a meter deep in a metal container, drank coffee and began to see “souls”...............
+I buried one filter and a phase shifter for the ground, with a low-pass filter at the input, almost a meter deep in a metal container, drank coffee and began to see “souls”............... at second or third night someone decide to show me how phase shifter can shoot ELF-VLF radio waves, after I found almost burned shifter. - DONT USE PHASE SHIFTERS with SIMPLE ONE COIL!!!!
 
 Workaround with PWM power sources, but now I use one of my PSU and resonace FH on power lines:
 
@@ -171,7 +176,7 @@ Work:
 
 .. image:: images/photo_2023-07-21_02-41-05.jpg
            :align: left
-	   
+
 .. image:: images/2023-08-21-15-51-43-254.jpg
            :align: left
 
@@ -233,7 +238,7 @@ Work:
            :align: left
 
 Try to use filters im Ukrainian Defence Force - they just try to kill me like KGB CIA agents.
-		   
+
 .. image:: images/2024-01-03-11-24-51-385.jpg
 	   :align: left
 
@@ -290,7 +295,7 @@ Where reward is couple hours of peace - scientology and piracy just use new line
 
 Mistakes
 @@@@@@@@
-		   
+
 .. image:: images/img-2023-04-30-205941.png
            :align: left
 

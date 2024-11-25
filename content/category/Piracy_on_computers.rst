@@ -41,7 +41,7 @@ Ground planes "in air", like at most places in Ukraine, under cyber attacks, lik
 .. image:: images/thats-super-secret-general-deckler.gif
            :align: left
 
-Rumors about 'mind crawler' and some observations of 3d sound or "Sound blaster" with new/super-secret/old `phonones`_ from PC speaker stereo system. As absolutely every electro/electronic/radio thing can radiate tensors of fields after some `calculations`_ and by radio-induction, and caused by this responses in radiowaves, someone with enough transmitter can try to realise this rumors - "After some `calculations`_ you can stand as a Human" - Piracy.
+Rumors about 'mind crawler' and some observations of 3d sound or "Sound blaster" with new/super-secret/old `phonones`_ from PC speaker stereo system. As absolutely every electro/electronic/radio thing can radiate tensors of fields after some `calculations`_ and by radio-induction, and caused by this responses in radiowaves, someone with enough radio transmitter, or for powerlines, can try to realize this rumors and torture to lifelong disablement by the influence of a ʼscannerʼ or use it as much as his imagination allows - "After some `calculations`_ you can stand as a Human" - Piracy.
 
 .. _phonones: https://www.google.com/search?q=phonones&oq=phonones&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIRCAEQIxgnGEYY-QEYgAQYigUyDQgCEAAYkQIYgAQYigUyDQgDEAAYkQIYgAQYigUyDAgEEC4YQxiABBiKBTIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDIzNTFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
 
