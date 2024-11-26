@@ -13,7 +13,7 @@ Curriculum Vitae of Klimenko Maxim Sergievich
 Klimenko Maxim Sergievich
 =========================
 
-.. image:: images/photo_2024-11-23_04-51-33.jpg
+.. image:: images/photo_2024-11-26_14-14-39.jpg
 	   :align: left
 
 Contacts
