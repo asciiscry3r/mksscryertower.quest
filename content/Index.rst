@@ -12,7 +12,7 @@ mksscryertower.quest
 
 And back of this all:
 
-.. image:: images/img-2024-11-23-011418.v01.png
+.. image:: images/img-2024-12-03-011613.png
 	   :align: left
 
 =====
