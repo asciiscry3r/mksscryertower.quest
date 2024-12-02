@@ -25,6 +25,8 @@ EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
     'extra/favicon.ico': {'path': 'favicon.ico'},
     'extra/LICENSE': {'path': 'LICENSE'},
+    'extra/.nojekyll': {'path': '.nojekyll'},
+    'extra/CNAME': {'path': 'CNAME'},
 }
 
 # Blogroll
