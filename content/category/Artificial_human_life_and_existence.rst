@@ -18,7 +18,7 @@ Cancel culture is only about creating new human controlled avatars from humans.
 No life concept
 +++++++++++++++
 
-E culture ... Porn Hentai Masturbation EM and some sound brainwave entertaiment ETC.
+E culture ... Some Porn Some Hentai All Masturbation EM and some sound brainwave entertaiment ETC.
 
 Part of the IT
 
