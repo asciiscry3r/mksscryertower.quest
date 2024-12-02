@@ -132,6 +132,14 @@ Someone evil decide "help in dead" to my two osciloscopes and now I have only th
 .. image:: images/GdMO7hFW0AAdcsq.jpeg
 	   :align: left
 
+Local Area Network attacks by the incertion a signal at freaquency ~10MHz in ethernet cable:
+
+https://photos.app.goo.gl/UPf3KzeXxiHdh5iA9
+
+And attack possible result:
+
+https://photos.app.goo.gl/4YV7QVtPUtWAfrEH6
+
 And Wide-Impulse modulation at powerlines:
 
 https://photos.app.goo.gl/TEuXquJaN4771ozT8

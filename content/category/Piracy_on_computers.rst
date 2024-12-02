@@ -43,6 +43,14 @@ Ground planes "in air", like at most places in Ukraine, under cyber attacks, lik
 
 Rumors about 'mind crawler' and some observations of 3d sound or "Sound blaster" with new/super-secret/old `phonones`_ from PC speaker stereo system. As absolutely every electro/electronic/radio thing can radiate tensors of fields after some `calculations`_ and by radio-induction, and caused by this responses in radiowaves, someone with enough radio transmitter, or for powerlines, can try to realize this rumors and torture to lifelong disablement by the influence of a ʼscannerʼ or use it as much as his imagination allows - "After some `calculations`_ you can stand as a Human" - Piracy.
 
+Local Area Network attacks by the incertion a signal at freaquency ~10MHz in ethernet cable:
+
+https://photos.app.goo.gl/UPf3KzeXxiHdh5iA9
+
+And attack possible result:
+
+https://photos.app.goo.gl/4YV7QVtPUtWAfrEH6
+
 .. _phonones: https://www.google.com/search?q=phonones&oq=phonones&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIRCAEQIxgnGEYY-QEYgAQYigUyDQgCEAAYkQIYgAQYigUyDQgDEAAYkQIYgAQYigUyDAgEEC4YQxiABBiKBTIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDIzNTFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
 
 .. _calculations: https://en.wikipedia.org/wiki/Maxwell%27s_equations
