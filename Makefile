@@ -63,6 +63,8 @@ html-github:
 clean:
 	[ ! -d "$(OUTPUTDIR)" ] || rm -rf "$(OUTPUTDIR)"
 
+	[ ! -d "$(OUTPUTDIR_GITHUB)" ] || rm -rf "$(OUTPUTDIR_GITHUB)"
+
 regenerate:
 	"$(PELICAN)" -r "$(INPUTDIR)" -o "$(OUTPUTDIR)" -s "$(CONFFILE)" $(PELICANOPTS)
 

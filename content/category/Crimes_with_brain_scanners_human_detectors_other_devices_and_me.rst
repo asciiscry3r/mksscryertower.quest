@@ -62,7 +62,7 @@ Without normal work of the hippo-campus and with everyday voice and electromagne
 .. image:: images/brainaaaaa.png
            :align: left
 
-In the last 3 years, I managed to start thinking independently about 3 times - and each time this skill/ability was taken away from me in a couple of hours - I spent thousands of my money and months of my time on it.
+In the last 3 years, I "managed" to start thinking independently about 3 times - and each time this skill/ability was taken away from me in a couple of hours - I spent thousands of my money and months of my time on it.
 
 Involved:
 +++++++++
@@ -71,7 +71,7 @@ Scientology Piracy/traffickers cyber-terrorists and other human traffickers:
 
 Hubmee startup workers with nazi radio skills - Stas Khort https://t.me/n1x0n9, https://t.me/BMR333, and others like Digifico and Creator IQ Ukraine - 2023.38.09
 
-Unknown to me military people, Gaiko Valentin, stepfather - human trafficker ( try to remote controll me many times and give army permission to control me in my 18? or 19? and in past controlled by Riabchevskiy ) and Vlad Rybalko, Ihor Ryabchevskiy, Oleksandr Osnach, police officer Volodymyr ( Scientology lobby ),  Yarmola Andriy, the address of the parents residence Sorochynska 148a Myrhorod, Kondratenko Anna and sometimes her relatives ( Scientology ) - she want create from me same creathure as her brother - slave, Fedorenko Oleksandr - Scientology, brother Vybor younger, Vladyslav nicknamed ʼʼMalyʼʼ and his girlfriend who works in IT - crackers and human traffickeers, and some part of police ( imho piracy or hubbard ), and police appruved criminals ( imho piracy or hubbard ) - most often they are the ones who distribute access and set up an electromagnetic background that worsens my condition - human trafficker, in my opinion, most common human traffickers, cybercriminals, device crackers and DEW terrorists - Hayko Valeriya Valerievna, Michurina St, 5А, Myrhorod, Poltavs'ka oblast, 37600 - scientology/hentai brainwasher and want to control me and get all my property - has army access to PC, Arseniy Kuznetsov - apple, Oleksandr Gurin - piracy, Liza, Taras Lavryk ( sometimes controlled by Riabchewskiy ) and his friends Mykhailo and Yaroslav. Vitalia Sydorenko, Ruslana Sydorenko - they all use police mind and remote control on me, her younger sister - human trafficking, Konev Andriy - human trafficking, Hrybanova Marina - human trafficking, Vladyslav Demchenko ???, Chunikhina/Mizulina Elizavetta ( girl ) and her acquaintances  - human trafficking, the Hubbard cult (Scientology) - human trafficking, Anton, I do not know the last name - a former member of the Myrhorod party Lyashka, Melnyk Oleksandr - human trafficking and victim, Volodymyr Melnyk - human trafficking, Pavel Svetych ???, Maryana Ro - human trafficking and her familiar blonde twins  - human trafficking, cybercrimes and brainwashing, Andriy Karandashov ???, Marina "Venus" - human trafficking, Sea ORG and others - human trafficking and computer hacking as a necessity for my "rescue"., Mykhailo Shiryaev, Sobakar Andriy, Maksym Kaminsky, Tetiana Khyzha-Zagachevska. Arkadiy from Kharkiv Patrik pub 3. Victoria Marchenko. All has army access to PC/laptops. And all use their brainwaves for keep me in unhealth state. 
+Unknown to me military people, Gaiko Valentin, stepfather - human trafficker ( try to remote controll me many times and give army permission to control me in my 18? or 19? and in past controlled by Riabchevskiy ) and Vlad Rybalko, Ihor Ryabchevskiy, Oleksandr Osnach, police officer Volodymyr ( Scientology lobby ),  Yarmola Andriy, the address of the parents residence Sorochynska 148a Myrhorod, Kondratenko Anna and sometimes her relatives ( Scientology ) - she want create from me same creathure as her brother - slave, Fedorenko Oleksandr - Scientology, brother Vybor younger, Vladyslav nicknamed ʼʼMalyʼʼ and his girlfriend who works in IT - crackers and human traffickeers, and some part of police ( imho piracy or hubbard ), and police appruved criminals ( imho piracy or hubbard ) - most often they are the ones who distribute access and set up an electromagnetic background that worsens my condition - human trafficker, in my opinion, most common human traffickers, cybercriminals, device crackers and DEW terrorists - Hayko Valeriya Valerievna, Michurina St, 5А, Myrhorod, Poltavs'ka oblast, 37600 - scientology/hentai brainwasher and want to control me and get all my property - has army access to PC, Arseniy Kuznetsov - apple, Oleksandr Gurin - piracy, Liza, Taras Lavryk ( sometimes controlled by Riabchewskiy ) and his friends Mykhailo and Yaroslav. Vitalia Sydorenko, Ruslana Sydorenko - they all use police mind and remote control on me, her younger sister - human trafficking, Konev Andriy - human trafficking, Hrybanova Marina - human trafficking, Vladyslav Demchenko ???, Chunikhina/Mizulina Elizavetta ( girl ) and her acquaintances  - human trafficking, the Hubbard cult (Scientology) - human trafficking, Anton, I do not know the last name - a former member of the Myrhorod party Lyashka, Melnyk Oleksandr - human trafficking and victim, Volodymyr Melnyk - human trafficking, Pavel Svetych ???, Maryana Ro - human trafficking and her familiar blonde twins  - human trafficking, cybercrimes and brainwashing, Andriy Karandashov ???, Marina "Venus" - human trafficking, Sea ORG and others - human trafficking and computer hacking as a necessity for my "rescue"., Mykhailo Shiryaev, Sobakar Andriy, Maksym Kaminsky, Tetiana Khyzha-Zagachevska. Arkadiy from Kharkiv Patrik pub 3. Victoria Marchenko. All has army access to PC/laptops. And all use their brainwaves for keep me in unhealth state.
 
 Darina/Daria ??? BloodMoon, Zakhar or Olexandr and Olexandr and Maxim and gilrs: Nastia ????.
 
@@ -95,6 +95,8 @@ And now Im in Mirgorod/Ukraine do this change at 6 am 2022/10/19, some creatures
 2024.08.30 - the same .... Ukrainian army project with Yusmalos and Scientology to "transfer consciousness" from me to their "members".
 
 2024.09.30 - the same .... Ukrainian old ( White Brotherhood with others pro-soviet or pro-neurological warfare actors ) army project with Yusmalos and Scientology to "transfer consciousness" from me to their "members" - neurological piracy with skill stealing with voice and radio sound depaterning in 'stasi' condition.
+
+2024.12.03 - the same .... Ukrainian old ( White Brotherhood with others pro-soviet or pro-neurological warfare actors ) army project with Yusmalos and Scientology to "transfer consciousness" from me to their "members" - neurological piracy with skill stealing with voice and radio sound depaterning in 'stasi' condition. Multiple radio operators from Ukrainian army, police and SSU manipulate trought rTMS coused by EW and by this cancel my right to intellectual property.
 
 About phones, PCA/CDA/SD computers:
 +++++++++++++++++++++++++++++++++++
@@ -186,7 +188,7 @@ They use RF DEW in this way, I think, with beam forming, if this used for long t
            :align: left
 
 RF/MF is VHF/UHF in normal radio spectrum. Or cult/criimals/other hackers can try to use you phone or laptop as reciver for signal modulated by brainwawes, IMHO, they are killers and don't care about your health or life - and they can do this only from CDA side - Only CDA can rewrite parts of firmware of hight freaquency recivers or transmitters. EMF from WiFi AP and cameras for remote human/ human brain monitoring - they just find all this in internet.
-		   
+
 .. _Related-law-in-Ukraine:
 
 ################################################################
@@ -234,7 +236,7 @@ Instruments for slave traders, Information from google patents and other sources
   are simultaneously transmitted to the brain of the subject in which the signals
   interfere with one another to yield a waveform
   which is modulated by the subject's brain waves.
- 
+
   Part from patent::
 
 	 In addition to channeling its information to display devices 24,
@@ -291,7 +293,7 @@ Instruments for slave traders, Information from google patents and other sources
   received energy into electrical signals for processing.
 
   Part from patent::
-	
+
 	 BACKGROUND OF THE INVENTION
 	 It has been known that functioning muscles and nerves naturally
 	 generate electricity and that such activity within a living body
@@ -333,7 +335,7 @@ Instruments for slave traders, Information from google patents and other sources
      :align: left
 
 
-* Method and apparatus for neuroenhancement to enhance emotional response. 
+* Method and apparatus for neuroenhancement to enhance emotional response.
   Worldwide applications 2018 WO EP US US US 2022 US.
   https://patents.google.com/patent/US11273283B2/en
 
@@ -458,7 +460,7 @@ Instruments for slave traders, Information from google patents and other sources
   * Article 149. Human trafficking
   * Article 146. Illegal deprivation of liberty/will or kidnapping of a person
   * Article 127. Torture
-      
+
   Summary: A newly developed system uses wireless technology to remotely
   activate specific brain networks in fruit flies in less than one second.
   Source: https://neurosciencenews.com/wireless-brain-activation-21050/
