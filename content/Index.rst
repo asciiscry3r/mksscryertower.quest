@@ -27,7 +27,7 @@ Pages
 
 `Piracy on computers <{filename}/category/Piracy_on_computers.rst>`_
 
-`Self protection and Home power grid <{filename}/category/Self_protection_and_Home_power_grid.rst>`_
+`"Restoration" in Ukraine. Self protection and Home power grid <{filename}/category/Self_protection_and_Home_power_grid.rst>`_
 
 `Home DNS server <{filename}/category/Home_dns_server.rst>`_
 

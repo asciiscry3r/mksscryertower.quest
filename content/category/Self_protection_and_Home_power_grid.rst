@@ -1,15 +1,17 @@
-Self protection and Home power grid
-###################################
+"Restoration" in Ukraine. Self protection and Home power grid
+#############################################################
 
 :date: 2024-06-01 22:43
-:modified: 2024-11-06 23:49
+:modified: 2024-12-03 23:49
 :tags: cybersecurity, diy, it, hacking, health
 :category: cybersecurity, diy, it, hacking, health
 :slug: Self protection and Home power grid
 :authors: Klimenko Maxim Serhiyevich
 :summary: Self protection and Home power grid
 
-###################################
+#############################################################
+
+"Restoration" in Ukraine.
 
 Factors affecting the civilian population during a war between countries or mafia attacks:
 
@@ -115,7 +117,7 @@ Current main filter and filter construction concept:
 .. image:: images/photo_2024-06-01_23-29-21.jpg
            :align: left
 
-Detection of "BFS"("Big F*cking Speaker" or "GOD" - electromagnetic waves in ELF,ULF,VLF+ at power lines, keep town under fire about 4 year, all "live" in "SWS"?):
+Detection of "BFS"("Big F*cking Speaker" or "GOD" - electromagnetic waves in ELF,ULF,VLF+ at power lines, keep town under fire about 4 year, all "live" in "SWS"?), from summer 2024 I have problems with the "refugees" who settled right in the neighboring apartment, and around town - they put LC circuits and other simple home-made devices to provide opportunities for creating ultra-low frequency oscillations of sufficiently high power - my changes to the filters do not produce effects while these "orcs" keep everything turned on:
 
 .. image:: images/photo_2024-06-01_23-30-51.jpg
            :align: left
