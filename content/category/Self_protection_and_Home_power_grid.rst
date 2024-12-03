@@ -108,10 +108,13 @@ Repositories:
 
 Current main filter and filter construction concept:
 
-.. image:: images/phaseshiftfilter.jpg
+.. image:: images/phaseshiftfilter2.jpg
            :align: left
 
-.. image:: images/photo_2024-07-16_01-44-05.jpg
+.. image:: images/gdorfh.jpg
+           :align: left
+
+.. image:: images/dcpowerfilter.jpg
            :align: left
 
 .. image:: images/photo_2024-06-01_23-29-21.jpg
