@@ -96,7 +96,9 @@ And now Im in Mirgorod/Ukraine do this change at 6 am 2022/10/19, some creatures
 
 2024.09.30 - the same .... Ukrainian old ( White Brotherhood with others pro-soviet or pro-neurological warfare actors ) army project with Yusmalos and Scientology to "transfer consciousness" from me to their "members" - neurological piracy with skill stealing with voice and radio sound depaterning in 'stasi' condition.
 
-2024.12.03 - the same .... Ukrainian old ( White Brotherhood with others pro-soviet or pro-neurological warfare actors ) army project with Yusmalos and Scientology to "transfer consciousness" from me to their "members" - neurological piracy with skill stealing with voice and radio sound depaterning in 'stasi' condition. Multiple radio operators from Ukrainian army, police and SSU manipulate trought rTMS coused by EW and by this cancel my right to intellectual property.
+2024.12.03 - the same .... Ukrainian old ( White Brotherhood with others pro-soviet or pro-neurological warfare actors ) army project with Yusmalos and Scientology to "transfer consciousness" from me to their "members" - neurological piracy with skill stealing with voice and radio sound depaterning in 'stasi' condition. Multiple radio operators from Ukrainian army on Russia side, police and SSU manipulate trought rTMS coused by EW and by this cancel my right to intellectual property.
+
+2024.12.10 - the same .... Ukrainian old ( White Brotherhood with others pro-soviet or pro-neurological warfare actors ) army project with Yusmalos and Scientology to "transfer consciousness" from me to their "members" - neurological piracy with skill stealing with voice and radio sound depaterning in 'stasi' condition. Multiple radio operators from Ukrainian army on Russia side, police and SSU manipulate trought rTMS coused by EW and by this cancel my right to intellectual property.
 
 About phones, PCA/CDA/SD computers:
 +++++++++++++++++++++++++++++++++++
