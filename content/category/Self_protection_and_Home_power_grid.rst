@@ -103,7 +103,9 @@ Repositories:
    4. https://github.com/asciiscry3r/powersource
    5. https://github.com/asciiscry3r/phaseshiftfilter
 
-.. image:: images/my_home.jpg
+Some "hell":
+
+.. image:: images/home.jpg
            :align: left
 
 Current main filter and filter construction concept, and for choosing GD, if you have multiple in one box, use random algoritm, like random number from 1 to 10/50 or other:
