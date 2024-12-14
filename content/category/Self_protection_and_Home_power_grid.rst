@@ -108,7 +108,7 @@ Some "hell":
 .. image:: images/home.jpg
            :align: left
 
-Current main filter and filter construction concept, and for choosing GD, if you have multiple in one box, use random algoritm, like random number from 1 to 10/50 or other:
+Filter construction concept, and for choosing GD, if you have multiple in one box, use random algoritm, like random number from 1 to 10/50 or other:
 
 .. image:: images/phaseshifterfilterupdated.jpg
            :align: left
