@@ -106,9 +106,9 @@ Repositories:
 .. image:: images/my_home.jpg
            :align: left
 
-Current main filter and filter construction concept:
+Current main filter and filter construction concept, and for choosing GD, if you have multiple in one box, use random algoritm, like random number from 1 to 10/50 or other:
 
-.. image:: images/photo_2024-12-09_19-14-46.jpg
+.. image:: images/phaseshifterfilterupdated.jpg
            :align: left
 
 .. image:: images/photo_2024-12-09_19-14-49.jpg
