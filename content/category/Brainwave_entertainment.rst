@@ -1,15 +1,39 @@
-Brainwave entertainment
-#######################
+Brainwave entertainment and BrainMachine
+########################################
 
 :date: 2022-10-10 10:20
-:modified: 2022-11-09 18:40
+:modified: 2024-12-18 22:40
 :tags: knowlege, science
 :category: knowlege, science
 :slug: Brainwave entertainment
 :authors: Klimenko Maxim Sergievich
 :summary: Brainwave entertaiment
 
-#######################
+########################################
+
+My "brain machine":
+
+Github: https://github.com/asciiscry3r/brainmachine
+
+.. image:: images/brainwavemachine.jpg
+           :align: left
+
+In life, when, I start this for first time, it’s difficult to understand the background EMF that passes in the speakers coils:
+
+.. image:: images/brainwavemachineEMF2.png
+           :align: left
+
+Updates and workarounds:
+
+.. image:: images/brainwavemachineEMF.jpg
+           :align: left
+
+.. image:: images/brainwavemachinebuild.jpg
+           :align: left
+
+.. image:: images/aoeregulatedfireaction.jpg
+           :align: left
+
 
 The brain does not operate in just one single frequency; the full spectrum of brainwave frequencies are always running, all the time. The dominant frequency determines our mental state – and entrainment temporarily shifts our mental state by boosting one frequency to be louder than the others.
 
@@ -29,7 +53,7 @@ Types Of Brainwave Entertainment:
 
 Brainwave entertainment in mafia/cults or in inhuman countries ( MkUltra / Scientology / Ukraine people( they call self a hackers ) brainwashed by OSA/Guardians ) - IMHO JFF
 
-First experiments with brainwaves - 1922:
+First, known for me, experiments with brainwaves - 1922/1923:
 
 Кажинский Бернард - Биологическая радиосвязь/Kazhinsky Bernard - Biological radio communication
 
@@ -45,7 +69,17 @@ And first experiments with mental state transplantation.
 
 .. image:: images/img-2023-04-18-075605.png
            :align: left
-		   
+
+
+
+
+
+
+
+
+
+
+
 Plan
 ++++
 

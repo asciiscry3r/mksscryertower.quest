@@ -29,6 +29,10 @@ Pages
 
 `"Restoration" in Ukraine. Self protection and Home power grid <{filename}/category/Self_protection_and_Home_power_grid.rst>`_
 
+`Internet as a phenomenon <{filename}/category/Internet_as_a_phenomenon.rst>`_
+
+`Brainwave entertainment and BrainMachine <{filename}/category/Brainwave_entertainment.rst>`_
+
 `Home DNS server <{filename}/category/Home_dns_server.rst>`_
 
 `2FA for servers <{filename}/category/2FA_for_servers.rst>`_
@@ -54,10 +58,6 @@ Pages
 `Artificial human life = existence (WIP) <{filename}/category/Artificial_human_life_and_existence.rst>`_
 
 `Crimes with brain scanners, human detectors, other devices and me (WIP) <{filename}/category/Crimes_with_brain_scanners_human_detectors_other_devices_and_me.rst>`_
-
-`Internet as a phenomenon <{filename}/category/Internet_as_a_phenomenon.rst>`_
-
-`Brainwave entertainment (WIP) <{filename}/category/Brainwave_entertainment.rst>`_
 
 `Radio frequency attacks from user side (WIP) <{filename}/category/Radio_frequency_attacks_from_user_side.rst>`_
 
