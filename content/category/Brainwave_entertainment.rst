@@ -20,15 +20,15 @@ Github: https://github.com/asciiscry3r/brainmachine
 
 In life, when, I start this for first time, it’s difficult to understand the background EMF that passes in the speakers coils:
 
-.. image:: images/brainwavemachineEMF2.png
+.. image:: images/brainmachineEMF2.png
            :align: left
 
 Updates and workarounds:
 
-.. image:: images/brainwavemachineEMF.jpg
+.. image:: images/brainmachineEMF.jpg
            :align: left
 
-.. image:: images/brainwavemachinebuild.jpg
+.. image:: images/brainmachinebuild.jpg
            :align: left
 
 .. image:: images/aoeregulatedfireaction.jpg
