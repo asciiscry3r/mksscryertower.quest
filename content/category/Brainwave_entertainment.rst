@@ -15,7 +15,7 @@ My "brain machine":
 
 Github: https://github.com/asciiscry3r/brainmachine
 
-.. image:: images/brainwavemachine.jpg
+.. image:: images/brainmachine.jpg
            :align: left
 
 In life, when, I start this for first time, it’s difficult to understand the background EMF that passes in the speakers coils:
