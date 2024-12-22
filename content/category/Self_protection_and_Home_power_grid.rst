@@ -108,7 +108,7 @@ Some "hell":
 .. image:: images/home.jpg
            :align: left
 
-Filter construction concept, and for choosing GD, if you have multiple in one box, use random algoritm, like random number from 1 to 10/50 or other, local piracy "win" trought "biologycal radio"/ELF parts of schemes and I`m don`t have parts for all this, and, GD without 10mkF filters, full termionator, but:
+Filter construction concept, and for choosing GD, if you have multiple in one box, use random algoritm, like random number from 1 to 10/50 or other, local piracy "win" trought "biologycal radio"/ELF parts of schemes and I`m don`t have parts for all this, and, GD without 10mkF filters, full terminator, but:
 
 .. image:: images/phaseshiftfilterupdated2.jpg
            :align: left
