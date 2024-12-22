@@ -39,6 +39,8 @@ Updates and workarounds:
 .. image:: images/aoeregulatedfireaction.jpg
            :align: left
 
+.. image:: images/brainmachinewithrnd.jpg
+           :align: left
 
 The brain does not operate in just one single frequency; the full spectrum of brainwave frequencies are always running, all the time. The dominant frequency determines our mental state – and entrainment temporarily shifts our mental state by boosting one frequency to be louder than the others.
 
