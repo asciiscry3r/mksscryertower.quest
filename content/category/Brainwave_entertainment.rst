@@ -20,7 +20,7 @@ Github: https://github.com/asciiscry3r/brainmachine
 
 I`m don`t have 10 mkF capasitors, but:
 
-.. image:: images/brainmachine4.jpg
+.. image:: images/brainmachine5.jpg
            :align: left
 
 In life, when, I start this for first time, it’s difficult to understand the background EMF that passes in the speakers coils:
