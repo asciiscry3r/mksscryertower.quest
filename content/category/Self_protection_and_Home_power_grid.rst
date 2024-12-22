@@ -110,7 +110,7 @@ Some "hell":
 
 Filter construction concept, and for choosing GD, if you have multiple in one box, use random algoritm, like random number from 1 to 10/50 or other:
 
-.. image:: images/phaseshifterfilterupdated.jpg
+.. image:: images/phaseshiftfilterupdated2.jpg
            :align: left
 
 .. image:: images/photo_2024-12-09_19-14-49.jpg
