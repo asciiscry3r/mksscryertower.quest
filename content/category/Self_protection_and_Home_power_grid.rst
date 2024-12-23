@@ -113,7 +113,7 @@ Filter construction concept, and for choosing GD, if you have multiple in one bo
 .. image:: images/phaseshiftfilterupdated2.jpg
            :align: left
 
-.. image:: images/groundingdeviceorFH.jpg
+.. image:: images/gdfh.jpg
            :align: left
 
 .. image:: images/dcpowerfilter.jpg
