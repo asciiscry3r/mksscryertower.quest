@@ -143,9 +143,7 @@ https://photos.app.goo.gl/rkkrNDkQKnnATahB7
 
 https://photos.app.goo.gl/vvUyoNtYCXdpyS9g8
 
-https://photos.app.goo.gl/TcZES8KZeCqRqADe8
-
-https://photos.app.goo.gl/5wNDMys1vnRqkGAWA
+https://photos.app.goo.gl/BubMrBkAMNuaQAoX7
 
 .. image:: images/warfare.jpg
 	   :align: left
