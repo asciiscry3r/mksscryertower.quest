@@ -189,6 +189,8 @@ And some experiments in this radio field:
 .. image:: images/radiosoundfilters.jpg
            :align: left
 
+And `Mind Machine or Brain Machine and random impulse generator <{filename}/category/Brainwave_entertainment.rst>`_
+
 Current protection system:
 
 .. image:: images/2024-04-03-00-02-59-328.jpg
@@ -432,10 +434,6 @@ Without filters, like in scientology/hubbard city, they supposed to emmit waves?
 
 .. _Video 2: https://photos.app.goo.gl/rKGwcViAuir8a6Zf9
 
-HF resistor from soviet KGB with strange HF window not for brainwashing but.. can kill, hacked, IMHO.
-
-.. image:: images/2023-04-27-09-40-07-641.jpg
-           :align: left
 
 Resources
 +++++++++
@@ -467,3 +465,11 @@ https://www.researchgate.net/publication/235770387_Electromagnetic_field_50_Hz_I
 https://en.wikipedia.org/wiki/Octave_(electronics)
 
 https://vuzlit.com/1019550/aktivni_metodi_zahistu_informatsiyi
+
+https://www.researchgate.net/figure/Bootstrapped-switched-capacitor-charge-pump-circuit_fig2_351483400
+
+https://www.researchgate.net/publication/332433281_Switched-Capacitor_Filters
+
+https://en.wikipedia.org/wiki/Switched_capacitor
+
+https://en.wikipedia.org/wiki/Choke_(electronics)
