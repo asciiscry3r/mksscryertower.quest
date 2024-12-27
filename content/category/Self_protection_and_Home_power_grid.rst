@@ -471,3 +471,5 @@ https://www.researchgate.net/publication/332433281_Switched-Capacitor_Filters
 https://en.wikipedia.org/wiki/Switched_capacitor
 
 https://en.wikipedia.org/wiki/Choke_(electronics)
+
+https://www.digikey.com/en/resources/conversion-calculators/conversion-calculator-low-pass-and-high-pass-filter
