@@ -137,6 +137,22 @@ Someone evil decide "help in dead" to my two osciloscopes and now I have only th
 .. image:: images/GdMO7hFW0AAdcsq.jpeg
 	   :align: left
 
+Warfare and my cry:
+
+https://photos.app.goo.gl/rkkrNDkQKnnATahB7
+
+https://photos.app.goo.gl/vvUyoNtYCXdpyS9g8
+
+https://photos.app.goo.gl/TcZES8KZeCqRqADe8
+
+https://photos.app.goo.gl/5wNDMys1vnRqkGAWA
+
+.. image:: images/warfare.jpg
+	   :align: left
+
+.. image:: images/warfare2.jpg
+	   :align: left
+
 Local Area Network attacks by the incertion a signal at freaquency ~10MHz in ethernet cable:
 
 https://photos.app.goo.gl/UPf3KzeXxiHdh5iA9
