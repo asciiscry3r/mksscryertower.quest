@@ -110,6 +110,8 @@ Visible for me part of firmware
            :align: left
 
 
+Repository with dumps - https://github.com/asciiscry3r/bios_asus_motherboard/tree/main
+
 Videos:
 Day 1 - https://photos.app.goo.gl/5e1a4YQP2XdyLPss6
 Day 3 - https://photos.app.goo.gl/nB2vjs7pig7Zwi7eA
