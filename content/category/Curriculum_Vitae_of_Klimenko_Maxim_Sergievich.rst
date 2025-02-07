@@ -57,14 +57,22 @@ Skills
 Work expirience
 ---------------
 
-System administrator with DevOps methodology
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+System administrator with DevOps methodology or just DevOps
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-#. Requestum — Outsource company 2017 - 2018
+#. Requestum — Outsource company ~2017 - December 2018 and
 
 #. QuickBlox - Outstaf work from Requestum Jul 2018 - Aug 2018
 
-#. CreatorIQ — Product company/SocialEdge inc. 2019 - 2020
+   Per client infrastructure development and maintenance in AWS cloud.
+   Containerizing applications with Docker. Work with ELK stack and
+   using him for metrics and log collection. Zabbix. Creation of
+   perimeters, by client request, for environments setting up security
+   groups and CDCI for every case. Some technologies and utilities:
+   Python, Terraform, Chef, Ansible, Vagrant, libvirt, Groovy, Jenkins,
+   AWS, ELK, PHP, Node, Nginx, SQS, Memcahe etc.
+
+#. CreatorIQ — Product company/SocialEdge inc. Jan.2019 - April 2020
 
    Infrastructure development and maintenance in AWS cloud.
    Containerizing applications with Docker. Work with ELK stack.
@@ -73,11 +81,10 @@ System administrator with DevOps methodology
    control system. Creation and support of serverless applications for
    collecting and processing logs, for AWS WAF etc. Creation of
    perimeters for environments setting up security groups and continuous
-   integration into named environments.Basic knowledge of Kubernetes ‑
-   helm, nginx ingress and support. Some technologies and utilities:
-   Python, Terraform, Chef, Ansible, Vagrant, libvirt, Groovy, Jenkins,
-   Gitlab‑CI Some info about project stack: AWS, ELK, PHP, Node, Nginx,
-   SQS, Memcahe etc.
+   integration into named environments. Kubernetes ‑ helm, nginx ingress
+   and support. Some technologies and utilities: Python, Terraform,
+   Chef, Ansible, Vagrant, libvirt, Groovy, Jenkins, Gitlab‑CI Some info
+   about project stack: AWS, ELK, PHP, Node, Nginx, SQS, Memcahe etc.
 
 #. Digifico
 
