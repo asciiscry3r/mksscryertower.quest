@@ -66,3 +66,50 @@ https://photos.app.goo.gl/4YV7QVtPUtWAfrEH6
 
 .. image:: images/photo_2024-10-01_19-05-37.jpg
            :align: left
+
+And firmware, his "work", as I can see, writed by piracy:
+
+"Work"
+
+.. image:: images/img-2025-02-07-144758.png
+           :align: left
+
+.. image:: images/img-2025-02-07-144417.png
+           :align: left
+
+.. image:: images/img-2025-02-07-144442.png
+           :align: left
+
+.. image:: images/img-2025-02-05-150922.png
+           :align: left
+
+.. image:: images/img-2025-02-05-150928.png
+           :align: left
+
+.. image:: images/img-2025-02-05-131806.png
+           :align: left
+
+.. image:: images/img-2025-02-05-134311.png
+           :align: left
+
+Visible for me part of firmware
+
+.. image:: images/img-2025-02-07-161324.png
+           :align: left
+
+.. image:: images/img-2025-02-07-161311.png
+           :align: left
+
+.. image:: images/img-2025-02-07-161254.png
+           :align: left
+
+.. image:: images/img-2025-02-07-161237.png
+           :align: left
+
+.. image:: images/img-2025-02-07-161223.png
+           :align: left
+
+
+Videos:
+Day 1 - https://photos.app.goo.gl/5e1a4YQP2XdyLPss6
+Day 3 - https://photos.app.goo.gl/nB2vjs7pig7Zwi7eA
