@@ -79,7 +79,7 @@ Pages
 Arch Linux repository
 =====================
 
-Unavaliable - couse problem with money.
+**Unavaliable - couse problem with some people equal no money.**
 Repository with builded packages for Arch GNU/Linux and pacman based distros.
 In **/etc/pacman.conf** ::
 
