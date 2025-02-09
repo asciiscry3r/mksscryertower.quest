@@ -31,6 +31,21 @@ PS. Their slang is built on the basis of social games in history from mass media
 
 They can be called, as in Ukraine and Russia, with literary words - "person", but keep in mind that this is their eyelids and forehead, this is the most famous example.
 
+Links:
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6032823/
+
+https://www.economist.com/science-and-technology/2020/01/23/people-can-now-be-identified-at-a-distance-by-their-heartbeat
+
+https://www.news-medical.net/health/What-are-Wireless-Brain-Sensors.aspx
+
+https://elight.springeropen.com/articles/10.1186/s43593-022-00019-x
+
+https://ui.adsabs.harvard.edu/abs/2019arXiv191212192C/abstract
+
+https://royalsocietypublishing.org/doi/10.1098/rsta.2021.0020#RSTA20210020F2
+
+https://eceweb.rice.edu/news/brain-brain-communication-demo-receives-darpa-funding
 
 https://aeon.co/essays/how-might-telepathy-actually-work-outside-the-realm-of-sci-fi?utm_source=rss-feed
 
