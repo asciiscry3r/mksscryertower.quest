@@ -25,7 +25,12 @@ All this builds a capsule for a part of society in which there is no life for th
 
 PS. As another option, you can live in a way that is completely incompatible with "users", where I am now, for many here now this leads to a life under "control" and "experiment", with piracy at devices, where every movement is calculated, every second body can be controlled, and the "rightful owner" grows to the "source" without obstacles, and with bans after "cyber shootouts" this does not inspire hope for survival but alternative is described higher.
 
-психологічні травми
+PS. Their slang is built on the basis of social games in history from mass media where there is a confrontation of good and evil, where it is proposed to take the dark side, but more often on the basis of the history and culture of the people where the victims, initially parts of the mafia, play feudal societies in which they occupy the positions of the nobility, plebs, serfs - people wage war for a better place under the sun. From the main concepts:
+- there are people, you can't do anything because of them, first of all to their victims.
+- there are "dude", they serve as proxies in achieving goals in business
+
+They can be called, as in Ukraine and Russia, with literary words - "person", but keep in mind that this is their eyelids and forehead, this is the most famous example.
+
 
 https://aeon.co/essays/how-might-telepathy-actually-work-outside-the-realm-of-sci-fi?utm_source=rss-feed
 
