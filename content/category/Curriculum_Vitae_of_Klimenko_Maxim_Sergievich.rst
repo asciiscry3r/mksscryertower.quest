@@ -126,7 +126,7 @@ System administrator with DevOps methodology or just DevOps
    Vagrant, libvirt, Groovy, Jenkins, Gitlab‑CI Some info about project
    stack: Vagrant, AWS, ELK, PHP, Node, Nginx, SQS, Memcahe etc.
 
-#. Millitary service from November 2024 to April 2025
+#. Millitary service from November 2023 to April 2024
 
    service in the infantry before being wounded
 
