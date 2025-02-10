@@ -54,13 +54,14 @@ Skills
 | \*nix     | any         |                X   |                0   |
 +-----------+-------------+--------------------+--------------------+
 
+
 Work expirience
 ---------------
 
 System administrator with DevOps methodology or just DevOps
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-#. Requestum — Outsource company ~2017 - December 2018 and
+#. Requestum — Outsource company ~2017 - December 2018
 
 #. QuickBlox - Outstaf work from Requestum Jul 2018 - Aug 2018
 
@@ -86,7 +87,7 @@ System administrator with DevOps methodology or just DevOps
    Chef, Ansible, Vagrant, libvirt, Groovy, Jenkins, Gitlab‑CI Some info
    about project stack: AWS, ELK, PHP, Node, Nginx, SQS, Memcahe etc.
 
-#. Digifico
+#. Digifico - 3 month of summer 2020
 
    Two products ‑ chat and online store with POS systems. Working with
    the ELK stack, managing indexes and collecting logs with TD‑Agent.
@@ -94,7 +95,10 @@ System administrator with DevOps methodology or just DevOps
    cluster. Maintenance and improvement of infrastructure and logging.
    Used Grafana, Prometeus to collect and view metrics. Alert manager
    and Slack for reporting critical issues. Gitlab CI and Ansible for
-   process automation.
+   process automation. Resigned due to problems with cyber security and
+   constant life under the attack of computer pirates, who as a result
+   forced us to download a torrent at work - now I have some experience
+   in cyber security.
 
 #. Kenv — Automated orchestration in multiple types of cloud, Project
    work.
@@ -106,7 +110,10 @@ System administrator with DevOps methodology or just DevOps
    ingress and support. Some technologies and utilities: Python,
    Terraform, Chef, Ansible, Kubernetes, Vagrant, libvirt, Groovy,
    Jenkins, Gitlab‑CI Some info about project stack: Vagrant,
-   GCP,Kubernetes, ELK, PHP, Node, Nginx, Memcahe etc.
+   GCP,Kubernetes, ELK, PHP, Node, Nginx, Memcahe etc. Management of
+   secrets for devops and developers teams.
+
+#. Freelance
 
 #. Smile FR/ Smile UA — International outsource company 2022 - 2023
 
@@ -118,6 +125,11 @@ System administrator with DevOps methodology or just DevOps
    Some technologies and utilities: Python, Terraform, Chef, Ansible,
    Vagrant, libvirt, Groovy, Jenkins, Gitlab‑CI Some info about project
    stack: Vagrant, AWS, ELK, PHP, Node, Nginx, SQS, Memcahe etc.
+
+#. Millitary service from November 2024 to April 2025
+
+   service in the infantry before being wounded
+
 
 Qualifications
 --------------
