@@ -20,13 +20,14 @@ I`m don`t have 10 mkF capasitors, but:
 .. image:: images/brainmachine5.jpg
            :align: left
 
-.. image:: images/bm1.jpg
-           :align: left
-
-.. image:: images/bm2.jpg
-           :align: left
-
 .. image:: images/wipatmega.jpg
+           :align: left
+
+.. image:: images/bm2
+	   .jpg
+           :align: left
+
+.. image:: images/bm1.jpg
            :align: left
 
 
