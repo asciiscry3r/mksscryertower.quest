@@ -15,9 +15,6 @@ My "brain machine":
 
 Github: https://github.com/asciiscry3r/brainmachine
 
-.. image:: images/brainmachine.jpg
-           :align: left
-
 I`m don`t have 10 mkF capasitors, but:
 
 .. image:: images/brainmachine5.jpg
@@ -48,6 +45,16 @@ The brain can be entrained within a certain frequency range, known as the Freque
 
 Worden, F. & Marsh, J. Frequency-following (microphonic-like) neural responses evoked by sound. Electroencephalogr. Clin. Neurophysiol. 25, 42–52 (1968).
 
+* Delta Waves – (0.1 – 3.9 Hz) — When in a deep, dreamless sleep. Newborns sleep in this stage, adults less so.
+
+* Theta Waves – (4 – 7.9 Hz) — Dreaming sleep (REM), this is the goal for meditation or self-hypnosis.
+
+* Alpha Waves – (8 – 13.9 Hz) — Relaxed, daydreaming and watching TV.
+
+* Beta Waves – (14 – 30 Hz) — The awake state. Engaged in activities and conversation.
+
+* Gamma Waves – (31 Hz+) — Hyper alert, good for insights and higher learning.
+
 Types Of Brainwave Entertainment:
 
 *    Music Modulation
@@ -58,7 +65,8 @@ Types Of Brainwave Entertainment:
 *    EEG Active
 *    Electromagnetic (EM)
 
-Brainwave entertainment in mafia/cults or in inhuman countries ( MkUltra / Scientology / Ukraine people( they call self a hackers ) brainwashed by OSA/Guardians ) - IMHO JFF
+
+Artifical telepathy and tele control
 
 First, known for me, experiments with brainwaves - 1922/1923:
 
@@ -87,6 +95,47 @@ And first experiments with mental state transplantation.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Plan
 ++++
 
@@ -101,7 +150,7 @@ neuroconstructivist https://www.google.com/search?q=neuroconstructivist&client=f
 
 Power signals from electrical devices - EMF tele control but only n some places and this can be current injectino
 
-Transformers - EMF tele control
+Transformers
 
 VHF/UHF and Computers and TV - ideology
 
@@ -116,42 +165,6 @@ memory - gipocampus/brain damage by microwave/uhf or vhf
 https://www.ukessays.com/essays/psychology/nativist-and-neuroconstructivist-positions-of-brain-development.php
 
 https://en.wikipedia.org/wiki/Interactive_specialization
-
-
-WIP
-+++
-
-* Delta Waves – (0.1 – 3.9 Hz) — When in a deep, dreamless sleep. Newborns sleep in this stage, adults less so.
-
-* Theta Waves – (4 – 7.9 Hz) — Dreaming sleep (REM), this is the goal for meditation or self-hypnosis.
-
-* Alpha Waves – (8 – 13.9 Hz) — Relaxed, daydreaming and watching TV.
-
-* Beta Waves – (14 – 30 Hz) — The awake state. Engaged in activities and conversation.
-
-* Gamma Waves – (31 Hz+) — Hyper alert, good for insights and higher learning.
-
-phone magnetometer can`t record brain waves - he need ability to measure super low power fields ( nano Tesla or in pico Telsa ):
-
-.. image:: images/achh.jpg
-           :align: left
-
-
-Hakers - cults or religions brainwashers and soldiers - all brainwashed - rondroinds, old aum hakers, new age, etc. - terrorists - they use all devices with CDA in building and cell towers for killing enemy
-
-Hakers - tech subculture - anarhy but somethimes they have same ideology or morale - geeks - sometimes someone can be a fucked up - regular criminals
-
-Hakers - millitary brainwashed instruments - terrorists
-
-Hakers - piracy ( e-shpionage ) brainwashed instrument - terrorists
-
-Scientology - piracy and ELF terrorists
-
-And today I find same class of device on market, hope it is only fake for money...
-https://choosemuse.com/muse-2/
-
-An info from another media source
-https://www.fastcompany.com/3036390/how-i-wore-a-brainwave-reading-headset-for-a-week-and-learned-to-calm-my-mind
 
 https://www.med-technews.com/news/neurostimulation-sleep-headset-made-available-worldwide/
 

@@ -43,6 +43,24 @@ Ground planes "in air", like at most places in Ukraine, under cyber attacks, lik
 
 Rumors about 'mind crawler' and some observations of 3d sound or "Sound blaster" with new/super-secret/old `phonones`_ from PC speaker stereo system. As absolutely every electro/electronic/radio thing can radiate tensors of fields after some `calculations`_ and by radio-induction, and caused by this responses in radiowaves, someone with enough radio transmitter, or for powerlines, can try to realize this rumors and torture to lifelong disablement by the influence of a ʼscannerʼ or use it as much as his imagination allows - "After some `calculations`_ you can stand as a Human" - Piracy.
 
+Neurological piracy
++++++++++++++++++++
+
+In most case this can be realised through police or army special equipment with known to us methodology, minimum from 2002 by the "Remote Detection of Human Electroencephalograms Using Ultra High Input Impedance Electric Potential Sensors" or analog:
+
+.. image:: images/neuropiracy.jpg
+           :align: left
+
+
+With civil tech:
+
+https://www.ibtimes.co.uk/passwords-can-now-be-stolen-by-reading-your-brainwaves-1628454
+
+And, this used by absolutely crazy people or terrorists - experiments with frequency generators in any environments
+
+Attacks:
+++++++++
+
 Local Area Network attacks by the incertion a signal at freaquency ~10MHz in ethernet cable:
 
 https://photos.app.goo.gl/UPf3KzeXxiHdh5iA9
@@ -115,3 +133,18 @@ Repository with dumps - https://github.com/asciiscry3r/bios_asus_motherboard/tre
 Videos:
 Day 1 - https://photos.app.goo.gl/5e1a4YQP2XdyLPss6
 Day 3 - https://photos.app.goo.gl/nB2vjs7pig7Zwi7eA
+
+
+https://www.monash.edu/news/articles/the-science-behind-piracy
+
+https://neurosciencenews.com/magnetogenetics-brain-activity-27835/
+
+https://www.psypost.org/electromagnetic-fields-could-boost-focus-and-learning-new-research-suggests/
+
+https://www.good.is/scientists-recreate-a-pink-floyd-song-by-extracting-it-from-listeners-brainwaves-and-it-sounds-eerie
+
+https://www.eurekalert.org/news-releases/1051652
+
+https://www.cbsnews.com/colorado/news/mind-reading-technology-improves-colorado-passes-first-nation-law-protect-privacy-thoughts/
+
+https://www.researchgate.net/publication/237612253_Remote_Detection_of_Human_Electroencephalograms_Using_Ultrahigh_Input_Impedance_Electric_Potential_Sensors
