@@ -20,6 +20,16 @@ I`m don`t have 10 mkF capasitors, but:
 .. image:: images/brainmachine5.jpg
            :align: left
 
+.. image:: images/bm1.jpg
+           :align: left
+
+.. image:: images/bm2.jpg
+           :align: left
+
+.. image:: images/wipatmega.jpg
+           :align: left
+
+
 In life, when, I start this for first time, it’s difficult to understand the background EMF that passes in the speakers coils:
 
 .. image:: images/brainmachineEMF2.png
