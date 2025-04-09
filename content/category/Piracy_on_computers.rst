@@ -43,6 +43,8 @@ Ground planes "in air", like at most places in Ukraine, under cyber attacks, lik
 
 Rumors about 'mind crawler' and some observations of 3d sound or "Sound blaster" with new/super-secret/old `phonones`_ from PC speaker stereo system. As absolutely every electro/electronic/radio thing can radiate tensors of fields after some `calculations`_ and by radio-induction, and caused by this responses in radiowaves, someone with enough radio transmitter, or for powerlines, can try to realize this rumors and torture to lifelong disablement by the influence of a ʼscannerʼ or use it as much as his imagination allows - "After some `calculations`_ you can stand as a Human" - Piracy.
 
+And years of actions, by "contract", against victim give, to this type of military related criminals, knowledge and ability to hack groups of nerves in body, and brain, use radio to try, to build, simple signal system with their priority on highest level, what lead to multiple TBI (traumatic brain injury) in victims body, what feel and consequences like blind for one eye and lost felling for parts of the body, or parts just like disabled for a month.
+
 Neurological piracy
 +++++++++++++++++++
 
