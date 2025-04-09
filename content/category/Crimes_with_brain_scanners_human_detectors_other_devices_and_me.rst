@@ -2,7 +2,7 @@ Crimes with brain scanners, human detectors, other devices and me
 #################################################################
 
 :date: 2022-09-27 10:20
-:modified: 2024-09-30 22:49
+:modified: 2025-04-09 22:49
 :tags: dew, cults, cybersecurity, military
 :category: cybersecurity, crimes, cults, ukraine
 :slug: Crimes with brain scanners, human detectors, other devices and me
@@ -103,6 +103,8 @@ And now Im in Mirgorod/Ukraine do this change at 6 am 2022/10/19, some creatures
 2024.12.22 - the same .... Ukrainian old ( White Brotherhood with others pro-soviet or pro-neurological warfare actors and human traffickers/traders ) army project with Yusmalos and Scientology to "transfer consciousness" from me to their "members" - neurological piracy with skill stealing with voice and radio sound depaterning in 'stasi' condition. Multiple radio operators from Ukrainian army on Russia side, police and SSU manipulate trought rTMS coused by EW and by this cancel my right to intellectual property. And they use inductances from blacklight circuit of my old backup monitor from DELL for something like "remote viewing". Today i see some old 'militia' workers from old Azov?
 
 2025.03.26 - the same .... Ukrainian and Russian old ( White Brotherhood with others pro-soviet or pro-neurological warfare actors and human traffickers/traders ) army project with Yusmalos and Scientology to "transfer consciousness" from me to their "members" and back ( common "magical" human trafficking ) - neurological piracy with skill stealing with voice and radio sound depaterning in 'stasi' condition. Multiple radio operators from Ukrainian army on Russia side, police and SSU manipulate trought rTMS coused by EW and by this cancel my right to intellectual property. Use UHF radio modulated by sound freaquency and just increase count of "soviet humans" and mafia who use me as source and 24/7 controll by tensors from powerlines with amplitude of 20 volt, I have luck to write this from self on video while do measurements with my osciloscope. Local regime use me for "investigation" everywere, and especially agains some russian and other, this, in most - womens from Yusmalos who work for ministry of home affairs, create in jurisprudence precedent where described actions is lawfull and even create "possibilities" for upgrading my devices that by thair desicion is "protection" for them - just disable part of controll for couple of days, after this all rights been transfered to their "mens", radio cosmonauts, owners of local bar and others "cats". And I use this about half of year https://github.com/asciiscry3r/brainmachine and with https://github.com/asciiscry3r/grounding_device/tree/main .
+
+2025.04.09 - the same .... And I get from them blind in my right eye and full felling lost for left part of the brain - when right feels some heat while I shave my head by electrical shaver left absolutely 'silent'
 
 
 About phones, PCA/CDA/SD computers:
