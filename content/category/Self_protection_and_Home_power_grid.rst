@@ -119,6 +119,14 @@ Filter construction concept, and for choosing GD, if you have multiple in one bo
 .. image:: images/dcpowerfilter.jpg
            :align: left
 
+New DC power filter based on previous expirience:
+
+.. image:: images/newfilter.jpg
+           :align: left
+
+.. image:: images/newfilter2.jpg
+           :align: left
+
 .. image:: images/photo_2024-06-01_23-29-21.jpg
            :align: left
 
