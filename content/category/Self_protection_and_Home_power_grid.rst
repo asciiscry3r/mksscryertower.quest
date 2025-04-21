@@ -1,7 +1,7 @@
 "Restoration" in Ukraine. Self protection and Home power grid
 #############################################################
 
-:date: 2024-06-01 22:43
+:date: 2023-04-09 22:43
 :modified: 2024-12-03 23:49
 :tags: cybersecurity, diy, it, hacking, health
 :category: cybersecurity, diy, it, hacking, health
@@ -110,10 +110,10 @@ Some "hell":
 
 Filter construction concept, and for choosing GD, if you have multiple in one box, use random algoritm, like random number from 1 to 10/50 or other, local piracy "win" trought "biologycal radio"/ELF parts of schemes and I`m don`t have parts for all this, and, GD without 10mkF filters, full terminator, but:
 
-.. image:: images/phaseshiftfilterupdated2.jpg
+.. image:: images/justfilter.png
            :align: left
 
-.. image:: images/gdfh.jpg
+.. image:: images/gdfhscsrsc.png
            :align: left
 
 .. image:: images/dcpowerfilter.jpg
@@ -127,7 +127,25 @@ New DC power filter based on previous expirience:
 .. image:: images/newfilter2.jpg
            :align: left
 
+Before "control" from "army":
+
 .. image:: images/photo_2024-06-01_23-29-21.jpg
+           :align: left
+
+After:
+
+.. image:: images/2025-04-22-00-38-09-760.jpg
+           :align: left
+
+.. image:: images/2025-04-22-00-38-15-365.jpg
+           :align: left
+
+.. image:: images/2025-04-22-00-38-22-849.jpg
+           :align: left
+
+"A gas mask is all that 'old Ukraine' owes us, after a person receives it, they are obliged to leave it for life, with all their children"
+
+.. image:: images/2025-04-22-00-38-37-390.jpg
            :align: left
 
 Detection of "BFS"("Big F*cking Speaker" or "GOD" - electromagnetic waves in ELF,ULF,VLF+ at power lines, keep town under fire about 4 year, all "live" in "SWS"?), from summer 2024 I have problems with the "refugees" who settled right in the neighboring apartment, and around town - they put LC circuits and other simple home-made devices to provide opportunities for creating ultra-low frequency oscillations of sufficiently high power - my changes to the filters do not produce effects while these "orcs" keep everything turned on:
@@ -135,9 +153,17 @@ Detection of "BFS"("Big F*cking Speaker" or "GOD" - electromagnetic waves in ELF
 .. image:: images/photo_2024-06-01_23-30-51.jpg
            :align: left
 
+Still f*cking "BFS":
+https://photos.app.goo.gl/L1PcSuhvkQnJbNa76
+
 Someone evil decide "help in dead" to my two osciloscopes and now I have only this:
 
 .. image:: images/setup.jpg
+           :align: left
+
+And now 2025.04.22:
+
+.. image:: images/setup01.jpg
            :align: left
 
 "Help":
