@@ -17,7 +17,7 @@ Klimenko Maxim Sergievich
 klimenkomaximsergievich@gmail.com
 mksklimenkomaximsergievich@gmail.com
 
-| IT administrator and GNU/Linux user, ~black~ (final version of suppressive) person for Scientology/Yusmalos from my 7 - because I broke the nose of the son of a communist with my foot, after military crime committed by me, I'm running trough 'perimeter?' to not fenced football field, have 'life imprisonment' from my 5, and it seems that not one of them, but I don't have much knowledge about hardware and Networking on level ~about tele control~ or newer has my own machine without piracy or "cosmonauts" - they create too many fake documents about their right to use my property and me.
+| IT administrator and GNU/Linux user, ~black~ (final version of suppressive) person for 'them' - Scientology/Yusmalos from my 7 - because I broke the nose of the son of a communist with my foot, after military crime committed by me, I'm running trough 'perimeter?' to not fenced football field, close millitary org. buildings, have 'life imprisonment' from my 5, after, possibility to read books has been realised from Asahara side, and it seems that not one of 'them', Im live/exist under 'control', with years of 'sleep', still want in tech and science but I don't have much knowledge about hardware and Networking on level ~about tele control~ or newer has my own machine without piracy or "cosmonauts" - they create too many fake documents about their right to use my property and me. And millitary give me a rest, I can restore self and be self for short time, after using me.
 
 1. The freedom of one ends where the freedom of another begins.
 
@@ -48,3 +48,12 @@ Articles of Association
 8. Not following the will of the society, people or organization of any kind if I (you) do not have freedom, will, and if it does not bring benefit if there is freedom with free my ( your ) will.
 
 9. No for all New Age and criminals proposes and prohibited work for them when you realy know about them, as much as possible.
+
+Me and my life support:
+
+.. image:: images/myphoto.jpg
+           :align: left
+
+
+.. image:: images/myproperty.jpg
+           :align: left
