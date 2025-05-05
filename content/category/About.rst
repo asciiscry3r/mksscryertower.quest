@@ -56,3 +56,12 @@ Me and my life support:
 
 .. image:: images/myproperty.jpg
            :align: left
+
+
++++++++
+
+
+And Im not a first:
+
+.. image:: images/img-2025-05-06-015222.png
+           :align: left
