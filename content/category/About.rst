@@ -1,7 +1,7 @@
 Klimenko Maxim Sergievich
 #########################
 
-:date: 2023-04-26 18:22
+:date: 2023-04-26 18:23
 :category: About
 :tags: About
 :slug: About
@@ -17,7 +17,7 @@ Klimenko Maxim Sergievich
 klimenkomaximsergievich@gmail.com
 mksklimenkomaximsergievich@gmail.com
 
-| IT administrator and GNU/Linux user, ~black~ ( final version of supressive ) person for scientology from my 7 - because I broke the nose of the son of a communist with my foot, and it seems that not one of them, but I don't have much knowledge about hardware and networking on level ~about tele control~ or newer has my own machine without piracy or "cosmonauts" - they create too many fake documents about their right to use my property.
+| IT administrator and GNU/Linux user, ~black~ (final version of suppressive) person for Scientology/Yusmalos from my 7 - because I broke the nose of the son of a communist with my foot, after military crime committed by me, I'm running trough 'perimeter?' to not fenced football field, have 'life imprisonment' from my 5, and it seems that not one of them, but I don't have much knowledge about hardware and Networking on level ~about tele control~ or newer has my own machine without piracy or "cosmonauts" - they create too many fake documents about their right to use my property and me.
 
 1. The freedom of one ends where the freedom of another begins.
 
