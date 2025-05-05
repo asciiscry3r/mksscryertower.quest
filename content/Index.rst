@@ -65,6 +65,8 @@ Pages
 
 `Dao of programming <{filename}/category/Dao_of_programming.rst>`_
 
+`About <{filename}/category/About.rst>`_
+
 #####################
 
 1. The freedom of one ends where the freedom of another begins.
