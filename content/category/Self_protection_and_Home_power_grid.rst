@@ -11,7 +11,7 @@
 
 #############################################################
 
-"Restoration" in Ukraine.
+"Restoration" of Soviet in Ukraine.
 
 Factors affecting the civilian population during a war between countries or mafia attacks:
 
@@ -39,51 +39,7 @@ Factors affecting the civilian population during a war between countries or mafi
 21. Use 10-5 kOm resistor for mixing left and rigth channel. And filters - low pass with dump for speakers and power filter ( Sound/LF/HF freaquency ) for acoustic systems.
 22. WE/YOU can safely use binaural beats, not higher than ~30 Hz or ~20 Hz, and different types of noises in acoustic diapason - this not for healing but seems to give some support.
 23. One capacitor between ground and Neutral - all signals at Line affect and control living creathures more then without him.
-24. Microwave generators from power lines and soviet details in building for living, 3-rd paralell lines in ceiling with Eddy currents
-
-.. image:: images/photo_2023-10-09_15-53-00.jpg
-           :align: left
-
-.. image:: images/photo_2023-10-09_15-53-03.jpg
-           :align: left
-
-.. image:: images/photo_2023-10-09_15-53-07.jpg
-           :align: left
-
-.. image:: images/photo_2023-10-09_15-53-11.jpg
-           :align: left
-
-Only at your own risk and on your own responsibility
-++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-.. image:: images/Image.jpg
-           :align: left
-
-Related science work: https://www.academia.edu/37849621/ELF_SIGNALS_FROM_THE_POWER_GRID_Possible_Use_for_Detecting_Natural_Phenomena
-
-I try to create low-pass and high-pass filters for powering my appartment and PC, Routers etc trought them, coil with ferrit core, after attack on coil I decide to change my sheme:
-
-Tests:
-
-.. image:: images/20230403_004327.jpg
-           :align: left
-
-From 2020 criminals 24/7 use microwave ELF for killing and control, IMHO with scheme better for me or other victims:
-
-.. image:: images/IMG_20211211_170729.jpg
-           :align: left
-
-.. image:: images/IMG_20220722_035610.jpg
-           :align: left
-
-.. image:: images/img-2023-07-21-030245.png
-           :align: left
-
-.. image:: images/2024-01-18-10-08-40-043.jpg
-	   :align: left
-
-.. image:: images/2024-04-05-22-11-44-021.jpg
-	   :align: left
+24. Microwave generators from power lines and soviet details in building for living, 3-rd paralell lines in ceiling with Eddy currents.
 
 Latest setup, must be Open-source hardware (OSH):
 
@@ -206,6 +162,50 @@ And Wide-Impulse modulation at powerlines:
 https://photos.app.goo.gl/TEuXquJaN4771ozT8
 
 I buried one filter and a phase shifter for the ground, with a low-pass filter at the input, almost a meter deep in a metal container, drank coffee and began to see “souls”............... at second or third night someone decide to show me how phase shifter can shoot ELF-VLF radio waves, after I found almost burned shifter. - DONT USE PHASE SHIFTERS with SIMPLE ONE COIL fuck*ng "Tesla"!!!!
+
+.. image:: images/photo_2023-10-09_15-53-00.jpg
+           :align: left
+
+.. image:: images/photo_2023-10-09_15-53-03.jpg
+           :align: left
+
+.. image:: images/photo_2023-10-09_15-53-07.jpg
+           :align: left
+
+.. image:: images/photo_2023-10-09_15-53-11.jpg
+           :align: left
+
+Only at your own risk and on your own responsibility
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+.. image:: images/Image.jpg
+           :align: left
+
+Related science work: https://www.academia.edu/37849621/ELF_SIGNALS_FROM_THE_POWER_GRID_Possible_Use_for_Detecting_Natural_Phenomena
+
+I try to create low-pass and high-pass filters for powering my appartment and PC, Routers etc trought them, coil with ferrit core, after attack on coil I decide to change my sheme:
+
+Tests:
+
+.. image:: images/20230403_004327.jpg
+           :align: left
+
+From 2020 criminals 24/7 use microwave ELF for killing and control, IMHO with scheme better for me or other victims:
+
+.. image:: images/IMG_20211211_170729.jpg
+           :align: left
+
+.. image:: images/IMG_20220722_035610.jpg
+           :align: left
+
+.. image:: images/img-2023-07-21-030245.png
+           :align: left
+
+.. image:: images/2024-01-18-10-08-40-043.jpg
+	   :align: left
+
+.. image:: images/2024-04-05-22-11-44-021.jpg
+	   :align: left
 
 Main problem and main enemy weapon:
 
