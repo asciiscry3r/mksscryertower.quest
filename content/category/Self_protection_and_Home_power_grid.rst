@@ -52,7 +52,7 @@ Repositories:
    5. https://github.com/asciiscry3r/powersource
    6. https://github.com/asciiscry3r/phaseshiftfilter
 
-Some "hell" and I as always under EW from piracy:
+Some "hell" and I as always under EW from piracy, 2025.05.28, f*cking people always say that all my properti is a "our" or "people property", and my eyes,computer screen with phone too, anyone didn't buy any part of this or didn't help with any:
 
 .. image:: images/2025-05-29-00-12-30-251.v01.jpg
            :align: left
