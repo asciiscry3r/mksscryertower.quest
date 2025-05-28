@@ -99,9 +99,10 @@ Repositories:
 
    1. https://github.com/asciiscry3r/filter_for_pc
    2. https://github.com/asciiscry3r/Filter_AC
-   3. https://github.com/asciiscry3r/grounding_device
-   4. https://github.com/asciiscry3r/powersource
-   5. https://github.com/asciiscry3r/phaseshiftfilter
+   3. https://github.com/asciiscry3r/brainmachine - as signal generator with switched capacitors, resistors and coils.
+   4. https://github.com/asciiscry3r/grounding_device
+   5. https://github.com/asciiscry3r/powersource
+   6. https://github.com/asciiscry3r/phaseshiftfilter
 
 Some "hell":
 
@@ -199,18 +200,6 @@ https://photos.app.goo.gl/TEuXquJaN4771ozT8
 
 I buried one filter and a phase shifter for the ground, with a low-pass filter at the input, almost a meter deep in a metal container, drank coffee and began to see “souls”............... at second or third night someone decide to show me how phase shifter can shoot ELF-VLF radio waves, after I found almost burned shifter. - DONT USE PHASE SHIFTERS with SIMPLE ONE COIL fuck*ng "Tesla"!!!!
 
-Workaround with PWM power sources, but now I use one of my PSU and resonace FH on power lines:
-
-.. image:: images/photo_power.jpg
-           :align: left
-
-Hank of wire with filters is disconected from power grid - in history and trash box:
-
-.. image:: images/2024-04-02-22-19-11-416.jpg
-           :align: left
-
-Sound system - just speakers by my sheme and 2 jlh 1969 amplifier.
-
 Main problem and main enemy weapon:
 
 .. image:: images/img-2023-08-21-161041.png
@@ -223,18 +212,14 @@ And some experiments in this radio field:
 
 And `Mind Machine or Brain Machine and random impulse generator <{filename}/category/Brainwave_entertainment.rst>`_
 
-Current protection system:
+Workaround with PWM power sources, but now I use one of my PSU and resonace FH on power lines:
 
-.. image:: images/2024-04-03-00-02-59-328.jpg
+.. image:: images/photo_power.jpg
            :align: left
 
-.. image:: images/2024-04-03-00-03-57-779.jpg
-           :align: left
+Hank of wire with filters is disconected from power grid - in history and trash box:
 
-.. image:: images/2024-04-03-00-03-48-491.jpg
-           :align: left
-
-.. image:: images/2024-04-03-00-03-07-182.jpg
+.. image:: images/2024-04-02-22-19-11-416.jpg
            :align: left
 
 Work:
