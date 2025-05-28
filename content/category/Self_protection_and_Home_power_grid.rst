@@ -96,7 +96,7 @@ Repositories:
    5. https://github.com/asciiscry3r/powersource
    6. https://github.com/asciiscry3r/phaseshiftfilter
 
-Some "hell":
+Some "hell" and I as always under EW from piracy:
 
 .. image:: images/2025-05-29-00-12-30-251.v01.jpg
            :align: left
