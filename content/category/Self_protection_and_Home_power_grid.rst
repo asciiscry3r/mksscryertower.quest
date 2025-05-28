@@ -2,7 +2,7 @@
 #############################################################
 
 :date: 2023-04-09 22:43
-:modified: 2024-12-03 23:49
+:modified: 2025-05-28 22:00
 :tags: cybersecurity, diy, it, hacking, health
 :category: cybersecurity, diy, it, hacking, health
 :slug: Self protection and Home power grid
@@ -197,7 +197,7 @@ And Wide-Impulse modulation at powerlines:
 
 https://photos.app.goo.gl/TEuXquJaN4771ozT8
 
-I buried one filter and a phase shifter for the ground, with a low-pass filter at the input, almost a meter deep in a metal container, drank coffee and began to see “souls”............... at second or third night someone decide to show me how phase shifter can shoot ELF-VLF radio waves, after I found almost burned shifter. - DONT USE PHASE SHIFTERS with SIMPLE ONE COIL!!!!
+I buried one filter and a phase shifter for the ground, with a low-pass filter at the input, almost a meter deep in a metal container, drank coffee and began to see “souls”............... at second or third night someone decide to show me how phase shifter can shoot ELF-VLF radio waves, after I found almost burned shifter. - DONT USE PHASE SHIFTERS with SIMPLE ONE COIL fuck*ng "Tesla"!!!!
 
 Workaround with PWM power sources, but now I use one of my PSU and resonace FH on power lines:
 
@@ -218,7 +218,7 @@ Main problem and main enemy weapon:
 
 And some experiments in this radio field:
 
-.. image:: images/radiosoundfilters.jpg
+.. image:: images/radiosoundfilters2.jpg
            :align: left
 
 And `Mind Machine or Brain Machine and random impulse generator <{filename}/category/Brainwave_entertainment.rst>`_
