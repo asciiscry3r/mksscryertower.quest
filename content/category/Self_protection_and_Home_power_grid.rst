@@ -59,14 +59,6 @@ Only at your own risk and on your own responsibility
 .. image:: images/Image.jpg
            :align: left
 
-I need some discharger for power grid charges ....
-
-And "Thing" for freaquency diapason from 0 to ~3 000 000 000 Hz.
-
-We/you must use ferrit filter for sound and other type of signal wire, but this very situationally - some devices already have filters on input or output.
-
-And we/you can use aluminium foil glued and crushed like mylar blanked to internal side of PC box.
-
 Related science work: https://www.academia.edu/37849621/ELF_SIGNALS_FROM_THE_POWER_GRID_Possible_Use_for_Detecting_Natural_Phenomena
 
 I try to create low-pass and high-pass filters for powering my appartment and PC, Routers etc trought them, coil with ferrit core, after attack on coil I decide to change my sheme:
@@ -105,6 +97,21 @@ Repositories:
    6. https://github.com/asciiscry3r/phaseshiftfilter
 
 Some "hell":
+
+.. image:: images/2025-05-29-00-12-30-251.v01.jpg
+           :align: left
+
+.. image:: images/2025-05-29-00-15-13-747.v01.jpg
+           :align: left
+
+.. image:: images/2025-05-29-00-15-02-873.v01.jpg
+           :align: left
+
+.. image:: images/2025-05-29-00-12-49-917.v01.jpg
+	   :align: left
+
+.. image:: images/2025-05-29-00-12-02-621.v01.jpg
+	   :align: left
 
 .. image:: images/home.jpg
            :align: left
