@@ -91,6 +91,11 @@ New DC power filter based on previous expirience:
 .. image:: images/newfilter2.jpg
            :align: left
 
+And some experiments in radio field:
+
+.. image:: images/radiosoundfilters3.jpg
+           :align: left
+
 Before "control" from "army":
 
 .. image:: images/photo_2024-06-01_23-29-21.jpg
