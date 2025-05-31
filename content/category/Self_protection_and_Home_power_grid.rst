@@ -106,15 +106,6 @@ Updated DC power filter in "fied testing/research how" and grounding/earthing de
 .. image:: images/newfilterandeath3.jpg
            :align: left
 
-.. image:: images/newfilterandeath4.jpg
-           :align: left
-
-.. image:: images/newfilterandeath5.jpg
-           :align: left
-
-.. image:: images/newfilterandeath6.jpg
-           :align: left
-
 And some experiments in radio field:
 
 .. image:: images/radiosoundfilters3.jpg
