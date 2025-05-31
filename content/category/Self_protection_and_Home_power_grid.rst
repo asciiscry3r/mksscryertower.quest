@@ -47,12 +47,12 @@ Repositories:
 
    1. https://github.com/asciiscry3r/filter_for_pc
    2. https://github.com/asciiscry3r/Filter_AC
-   3. https://github.com/asciiscry3r/brainmachine - as signal generator with switched capacitors, resistors and coils.
+   3. https://github.com/asciiscry3r/brainmachine - as pseudo random signal generator with switched capacitors, resistors and coils.
    4. https://github.com/asciiscry3r/grounding_device
    5. https://github.com/asciiscry3r/powersource
    6. https://github.com/asciiscry3r/phaseshiftfilter
 
-Some "hell" and I as always under EW from piracy, 2025.05.28, f*cking people always say that all my properti is a "our" or "people property", and my eyes,computer screen with phone too, anyone didn't buy any part of this or didn't help with any:
+As always under EW from piracy, 2025.05.28, because of people from "soviet" or piracy sometime is my tomb with transcranial induction form them, where they all are ~my brain~:
 
 .. image:: images/2025-05-29-00-12-30-251.v01.jpg
            :align: left
@@ -69,10 +69,14 @@ Some "hell" and I as always under EW from piracy, 2025.05.28, f*cking people alw
 .. image:: images/2025-05-29-00-12-02-621.v01.jpg
 	   :align: left
 
+Part of my home on this scheme:
+
 .. image:: images/home.jpg
            :align: left
 
 Filter construction concept, and for choosing GD, if you have multiple in one box, use random algoritm, like random number from 1 to 10/50 or other, local piracy "win" trought "biologycal radio"/ELF parts of schemes and I`m don`t have parts for all this, and, GD without 10mkF filters, full terminator, but:
+
+~Main filter~
 
 .. image:: images/justfilter.png
            :align: left
@@ -89,6 +93,26 @@ New DC power filter based on previous expirience:
            :align: left
 
 .. image:: images/newfilter2.jpg
+           :align: left
+
+Updated DC power filter in "fied testing/research how" and grounding/earthing devices based on previous expirience, algorithm is a resistor switched capacitors and sound with distortion to input at avr based pseudo random signal generator:
+
+.. image:: images/newfilterandeath1.jpg
+           :align: left
+
+.. image:: images/newfilterandeath2.jpg
+           :align: left
+
+.. image:: images/newfilterandeath3.jpg
+           :align: left
+
+.. image:: images/newfilterandeath4.jpg
+           :align: left
+
+.. image:: images/newfilterandeath5.jpg
+           :align: left
+
+.. image:: images/newfilterandeath6.jpg
            :align: left
 
 And some experiments in radio field:
@@ -112,9 +136,15 @@ After:
 .. image:: images/2025-04-22-00-38-22-849.jpg
            :align: left
 
-"A gas mask is all that 'old Ukraine' owes us, after a person receives it, they are obliged to leave it for life, with all their children"
+After life under piracy:
 
-.. image:: images/2025-04-22-00-38-37-390.jpg
+.. image:: images/1Crunchyroll.png
+           :align: left
+
+.. image:: images/2Crunchyroll.png
+           :align: left
+
+.. image:: images/Im.jpg
            :align: left
 
 Detection of "BFS"("Big F*cking Speaker" or "GOD" - electromagnetic waves in ELF,ULF,VLF+ at power lines, keep town under fire about 4 year, all "live" in "SWS"?), from summer 2024 I have problems with the "refugees" who settled right in the neighboring apartment, and around town - they put LC circuits and other simple home-made devices to provide opportunities for creating ultra-low frequency oscillations of sufficiently high power - my changes to the filters do not produce effects while these "orcs" keep everything turned on:
