@@ -111,22 +111,6 @@ And some experiments in radio field:
 .. image:: images/radiosoundfilters3.jpg
            :align: left
 
-Before "control" from "army":
-
-.. image:: images/photo_2024-06-01_23-29-21.jpg
-           :align: left
-
-After:
-
-.. image:: images/2025-04-22-00-38-09-760.jpg
-           :align: left
-
-.. image:: images/2025-04-22-00-38-15-365.jpg
-           :align: left
-
-.. image:: images/2025-04-22-00-38-22-849.jpg
-           :align: left
-
 After life under piracy:
 
 .. image:: images/1Crunchyroll.png
@@ -216,7 +200,7 @@ Tests:
 .. image:: images/20230403_004327.jpg
            :align: left
 
-From 2020 criminals 24/7 use microwave ELF for killing and control, IMHO with scheme better for me or other victims:
+Why? - From 2020 criminals 24/7 use microwave ELF for killing and control:
 
 .. image:: images/IMG_20211211_170729.jpg
            :align: left
