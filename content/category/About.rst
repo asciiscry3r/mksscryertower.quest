@@ -17,7 +17,7 @@ Klimenko Maxim Sergievich
 klimenkomaximsergievich@gmail.com
 mksklimenkomaximsergievich@gmail.com
 
-| IT administrator and GNU/Linux user, ~black~ (final version of suppressive) person for 'them' - Scientology/Yusmalos from my 7 - because I broke the nose of the son of a communist with my foot, after military crime committed by me, I'm running trough 'perimeter?' to not fenced football field, close millitary org. buildings, have 'life imprisonment' from my 5, after, possibility to read books has been realised from Asahara side, and it seems that not one of 'them', Im live/exist under 'control', with years of 'sleep', still want in tech and science but I don't have much knowledge about hardware and Networking on level ~about tele control~ or newer has my own machine without piracy or "cosmonauts" - they create too many fake documents about their right to use my property and me. Today, still, millitary give me a rest, I can restore self and be self for short time, after using me, because of this you can see me, or not...
+| IT administrator and GNU/Linux user, ~black~ (final version of suppressive) person for 'them' - Scientology/Yusmalos from my 7 - because I broke the nose of the son of a communist with my foot, after military crime committed by me, I'm running trough 'perimeter?' to not fenced football field, close millitary org. buildings, have 'life imprisonment' from my 5, after, this Im a still not a pirate!
 
 1. The freedom of one ends where the freedom of another begins.
 
@@ -51,7 +51,8 @@ Articles of Association
 
 Me and my life support:
 
-.. image:: images/myphoto.jpg
+
+.. image:: images/Im.jpg
            :align: left
 
 .. image:: images/myproperty.jpg
