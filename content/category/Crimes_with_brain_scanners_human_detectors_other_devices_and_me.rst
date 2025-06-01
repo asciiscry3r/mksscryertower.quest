@@ -2,7 +2,7 @@ Crimes with brain scanners, human detectors, other devices and me
 #################################################################
 
 :date: 2022-09-27 10:20
-:modified: 2025-05-07 19:52
+:modified: 2025-06-01 05:55
 :tags: dew, cults, cybersecurity, military
 :category: cybersecurity, crimes, cults, ukraine
 :slug: Crimes with brain scanners, human detectors, other devices and me

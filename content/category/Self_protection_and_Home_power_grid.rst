@@ -2,7 +2,7 @@
 #############################################################
 
 :date: 2023-04-09 22:43
-:modified: 2025-05-28 22:00
+:modified: 2025-06-01 05:55
 :tags: cybersecurity, diy, it, hacking, health
 :category: cybersecurity, diy, it, hacking, health
 :slug: Self protection and Home power grid
@@ -93,6 +93,11 @@ New DC power filter based on previous expirience:
            :align: left
 
 .. image:: images/newfilter2.jpg
+           :align: left
+
+Part of signal generator without updates, mega as example:
+
+.. image:: images/brainmachine5.jpg
            :align: left
 
 Updated DC power filter in "fied testing/research how" and grounding/earthing devices based on previous expirience, algorithm is a resistor switched capacitors and sound with distortion to input at avr based pseudo random signal generator:

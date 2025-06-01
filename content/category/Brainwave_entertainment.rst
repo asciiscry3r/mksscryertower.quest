@@ -2,7 +2,7 @@ Brainwave entertainment and BrainMachine
 ########################################
 
 :date: 2022-10-10 10:20
-:modified: 2024-12-18 22:40
+:modified: 2025-06-01 05:55
 :tags: knowlege, science
 :category: knowlege, science
 :slug: Brainwave entertainment
@@ -15,7 +15,7 @@ My "brain machine":
 
 Github: https://github.com/asciiscry3r/brainmachine
 
-I`m don`t have 10 mkF capasitors, but:
+Base of current without brain machine program, I will write program to portable version in futhure:
 
 .. image:: images/brainmachine5.jpg
            :align: left
