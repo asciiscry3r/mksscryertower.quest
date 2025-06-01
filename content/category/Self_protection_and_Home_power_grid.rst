@@ -111,7 +111,7 @@ And some experiments in radio field:
 .. image:: images/radiosoundfilters3.jpg
            :align: left
 
-After life under piracy:
+After life under russian/ukrainian police and army piracy/raiders:
 
 .. image:: images/1Crunchyroll.png
            :align: left

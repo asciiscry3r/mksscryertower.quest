@@ -111,7 +111,7 @@ And now Im in Mirgorod/Ukraine do this change at 6 am 2022/10/19, some creatures
 
 2025.05.13 - the same .... and women`s of local nomenclature commit more than usual experiments on my brain because of me who are like 'hack' their neurological piracy network, or they just think that,...
 
-2025.06/01 - the same .... Lavrinovic with other are build SWS for my nervous and radio head based on resonance in tissue
+2025.06/01 - the same .... Lavrinovic with other, army piracy/raiders, are build SWS for my nervous and radio head based on resonance in tissue
 
 About phones, PCA/CDA/SD computers:
 +++++++++++++++++++++++++++++++++++
