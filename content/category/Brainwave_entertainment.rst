@@ -26,8 +26,7 @@ Base of current without brain machine program, I will write program to portable 
 .. image:: images/wipatmega.jpg
            :align: left
 
-.. image:: images/bm2
-	   .jpg
+.. image:: images/bm2.jpg
            :align: left
 
 .. image:: images/bm1.jpg
