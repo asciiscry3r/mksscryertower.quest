@@ -113,6 +113,8 @@ And now Im in Mirgorod/Ukraine do this change at 6 am 2022/10/19, some creatures
 
 2025.06/01 - the same .... Lavrinovic with other, army piracy/raiders, are build SWS for my nervous and radio head based on resonance in tissue
 
+2025.06/01 - the same with masturbator who said he would jerk off on my nerves until I died .... Lavrinovic-Vybor-Tesla-Younger with other, army piracy/raiders, are build SWS for my nervous and radio head based on resonance in tissue
+
 About phones, PCA/CDA/SD computers:
 +++++++++++++++++++++++++++++++++++
 

@@ -2,7 +2,7 @@ Brainwave entertainment and BrainMachine
 ########################################
 
 :date: 2022-10-10 10:20
-:modified: 2025-06-01 05:55
+:modified: 2025-06-29 05:55
 :tags: knowlege, science
 :category: knowlege, science
 :slug: Brainwave entertainment
