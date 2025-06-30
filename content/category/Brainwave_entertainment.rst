@@ -17,7 +17,7 @@ Github: https://github.com/asciiscry3r/brainmachine
 
 Base of current without brain machine program, I will write program to portable version in futhure:
 
-.. image:: images/brainmachine25.jpg
+.. image:: images/brainmachine45.jpg
            :align: left
 
 .. image:: images/brainmachine35.jpg
