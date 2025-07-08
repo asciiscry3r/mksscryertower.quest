@@ -9,6 +9,21 @@ mksscryertower.quest
 .. image:: images/mainmeme.jpg
 	   :align: left
 
+=====================
+Arch Linux repository
+=====================
+
+Repository with builded packages for Arch GNU/Linux and pacman based distros.
+In **/etc/pacman.conf** ::
+
+  [repo.mksscryertower.quest]
+  Server = https://repo.mksscryertower.quest/repo/x86_64/
+
+Then run, from root ::
+
+  pacman-key --recv-keys CF26478FD667CD54
+  pacman-key --lsign-key CF26478FD667CD54
+  pacman -Syyu
 
 And back of this all:
 
@@ -76,24 +91,6 @@ Pages
 3. Freedom of association and disassociation.
 
 #####################
-
-=====================
-Arch Linux repository
-=====================
-
-**Unavaliable - couse problem with some people equal no money.**
-Repository with builded packages for Arch GNU/Linux and pacman based distros.
-In **/etc/pacman.conf** ::
-
-  [repo.mksscryertower.quest]
-  Server = https://repo.mksscryertower.quest/repo/x86_64/
-
-Then run, from root ::
-
-  pacman-key --recv-keys CF26478FD667CD54
-  pacman-key --lsign-key CF26478FD667CD54
-  pacman -Syyu
-
 
 ==========
 Links Tree
