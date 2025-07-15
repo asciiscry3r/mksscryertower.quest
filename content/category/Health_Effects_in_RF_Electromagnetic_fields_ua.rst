@@ -4,7 +4,7 @@ Health Effects in RF Electromagnetic fields
 :date: 2023-04-23 23:29
 :tags: dew, cybersecurity, military, cults
 :category: dew, cybersecurity, military, cults
-:slug: Вплив на здоров'я в РЧ електромагнітних полях
+:slug: Health Effects in RF Electromagnetic fields
 :authors: Klimenko Maxim Sergievich
 :summary: Health Effects in RF Electromagnetic fields
 :series: Human rights in Ukraine

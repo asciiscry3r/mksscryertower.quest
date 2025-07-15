@@ -4,7 +4,7 @@ Human rights in Ukraine
 :date: 2022-11-06 19:50
 :category: law, crimes, cults, ukraine
 :tags: law, crimes, cults, ukraine
-:slug: Права людини в Україні
+:slug: Human rights in Ukraine
 :authors: Klimenko Maxim Sergievich
 :summary: Human rights in Ukraine
 :series: Human rights in Ukraine

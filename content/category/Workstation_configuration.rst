@@ -80,7 +80,7 @@ Workstation Configuration
     # Magic SysRq key
     kernel.sysrq = 0
 
-    # Non-Maskable Interrupt(NMI) 
+    # Non-Maskable Interrupt(NMI)
     kernel.nmi_watchdog = 0
 
     # Kexec allows replacing the current running kernel
@@ -95,7 +95,7 @@ Workstation Configuration
     # Performance events add considerable kernel attack surface and have caused abundant vulnerabilities. This sysctl restricts all usage of performance events to the CAP_PERFMON capability (CAP_SYS_ADMIN on kernel versions prior to 5.8).
     kernel.perf_event_paranoid=3
 
-    # ASLR is a common exploit mitigation which randomises the position of critical parts of a process in memory. This can make a wide variety of exploits harder to pull off, as they first require an information leak. The above settings increase the bits of entropy used for mmap ASLR, improving its effectiveness. 
+    # ASLR is a common exploit mitigation which randomises the position of critical parts of a process in memory. This can make a wide variety of exploits harder to pull off, as they first require an information leak. The above settings increase the bits of entropy used for mmap ASLR, improving its effectiveness.
     vm.mmap_rnd_bits=32
     vm.mmap_rnd_compat_bits=16
 
@@ -173,7 +173,7 @@ Workstation Configuration
     net.ipv4.route.flush=1
     net.ipv6.route.flush=1
 
-    # IPv6 addresses are generated from your computer's MAC address, making your IPv6 address unique and tied directly to your computer. Privacy extensions generate a random IPv6 address to mitigate this form of tracking. Note that these steps are unnecessary if you have spoofed your MAC address or have disabled IPv6. 
+    # IPv6 addresses are generated from your computer's MAC address, making your IPv6 address unique and tied directly to your computer. Privacy extensions generate a random IPv6 address to mitigate this form of tracking. Note that these steps are unnecessary if you have spoofed your MAC address or have disabled IPv6.
     net.ipv6.conf.all.use_tempaddr=2
     net.ipv6.conf.default.use_tempaddr=2
 
@@ -315,4 +315,95 @@ Workstation Configuration
     install thunderbolt /bin/false
 
 
+Entropy feeders and generators
+++++++++++++++++++++++++++++++
 
+repo: https://github.com/asciiscry3r/simple-entropy-feeder
+
+
+.. code-block: shell
+
+   sudo pacman -S tpm2-tools
+
+   sudo vim /usr/bin/simpleentropyfeeder.sh
+
+   #!/usr/bin/env bash
+
+   twuewand --bytes 32 | rndaddentropy
+   tpm2_getrandom 32 | rndaddentropy
+
+
+
+Timer for systemd:
+
+.. code-block: shell
+
+   sudo vim /usr/lib/systemd/system/simpleentropyfeeder.timer
+
+   [Unit]
+   Description=Start/Restart Simple Entropy feeder service
+
+   [Timer]
+   Unit=simpleentropyfeeder.service
+   OnBootSec=1
+   OnUnitInactiveSec=1
+
+   [Install]
+   WantedBy=timers.target
+
+
+Systemd service:
+
+.. code-block: shell
+
+   sudo vim /usr/lib/systemd/system/simpleentropyfeeder.service
+
+   [Unit]
+   Description=Simple Entropy feeder
+
+   [Service]
+   Type=oneshot
+   ExecStart=/usr/bin/simpleentropyfeeder.sh
+   PrivateNetwork=yes
+   PrivateTmp=yes
+   InaccessibleDirectories=/home
+   ReadOnlyDirectories=/var
+   #LimitNPROC=1
+   #LimitFSIZE=0
+   #CapabilityBoundingSet=CAP_CHOWN CAP_KILL
+
+   [Install]
+   WantedBy=multi-user.target
+
+
+Enable and start:
+
+.. code-block: shell
+
+   sudo systemctl enable simpleentropyfeeder.service
+   sudo systemctl start simpleentropyfeeder.timer
+   sudo systemctl enable simpleentropyfeeder.timer
+
+
+Simple stateful firewall with opensnitch
+++++++++++++++++++++++++++++++++++++++++
+
+repo: https://github.com/asciiscry3r/simple-stateful-firewall
+
+.. code-block: shell
+
+   sudo pacman -S opensnitch opensnitch-ebpf-module
+
+   yay -S simple-stateful-firewall-git
+
+   Or
+
+   wget https://repo.mksscryertower.quest/repo/x86_64/simple-stateful-firewall-git-0.0.34-1-x86_64.pkg.tar.zst
+
+   sudo pacman -U simple-stateful-firewall-git-0.0.34-1-x86_64.pkg.tar.zst
+
+   Or
+
+   git clone https://github.com/asciiscry3r/simple-stateful-firewall.git
+   cd simple-stateful-firewall
+   make install
