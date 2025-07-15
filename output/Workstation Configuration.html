@@ -26,6 +26,7 @@
 <img alt="" class="align-left" src="images/workstation.png" />
 <img alt="" class="align-left" src="images/2023-04-13-22-23-38-723.jpg" />
 <p><a class="reference external" href="https://github.com/asciiscry3r/dotfiles">Linux configs and etc</a></p>
+<p>Configuration files, installation of entropy feeders and firewalls:</p>
 <div class="section" id="etc-sysctl-conf">
 <h2>/etc/sysctl.conf</h2>
 <div class="highlight"><pre><span></span><span class="c1">###</span>
@@ -306,6 +307,22 @@ install<span class="w"> </span>thunderbolt<span class="w"> </span>/bin/false
 <!-- code-block: shell
 
 sudo pacman -S tpm2-tools
+
+yay -S twuewand-git
+
+Or
+
+wget https://repo.mksscryertower.quest/repo/x86_64/twuewand-git-0.0.4-1-any.pkg.tar.zst
+
+sudo pacman -U twuewand-git-0.0.4-1-any.pkg.tar.zst
+
+Or
+
+git clone https://github.com/rfinnie/twuewand.git
+cd twuewand
+make install
+cd rndaddentropy
+make install
 
 sudo vim /usr/bin/simpleentropyfeeder.sh
 

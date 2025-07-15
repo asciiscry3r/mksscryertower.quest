@@ -10,8 +10,46 @@ Home local network
 
 ##################
 
+Reason and conclusion
+
+.. image:: images/memeaboutwork.png
+           :align: left
+
 .. image:: images/CIAJMK1209-en.svg.png
            :align: left
+
+
+Power source for router and 2 automation boards on linux, they be configured for sensors data collection and alerting:
+
+.. image:: images/network.jpg
+           :align: left
+
+.. image:: images/network2.jpg
+           :align: left
+
+.. image:: images/networkpowersource.jpg
+           :align: left
+
+.. image:: images/networkpowersource2.jpg
+           :align: left
+
+Automated by Ansible with regular updates and installation of security pathes
+
+.. image:: images/networkautomation.jpg
+           :align: left
+
+.. image:: images/img-2025-07-16-024558.png
+           :align: left
+
+.. image:: images/img-2025-07-16-024633.png
+           :align: left
+
+.. image:: images/img-2025-07-16-024716.png
+           :align: left
+
+
+History
++++++++
 
 Home network in server cabinet ( PPE (PC) Klimenko Maxim Sergievich ):
 
@@ -41,7 +79,7 @@ Home network in server cabinet ( PPE (PC) Klimenko Maxim Sergievich ):
 
 .. image:: images/2023-03-09-18-56-31-891.jpg
            :align: left
-		   
+
 OpenWRT firmware
 
 .. image:: images/IMG_20221020_043306.jpg
@@ -79,8 +117,3 @@ Home server cabinet:
 .. _Laptop Firewall: https://github.com/asciiscry3r/firewall/blob/main/firewall.sh
 
 And all transformers, power supply sources, in something close to a faraday cage.
-
-Reason and conclusion
-
-.. image:: images/memeaboutwork.png
-           :align: left

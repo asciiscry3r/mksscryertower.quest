@@ -10,6 +10,8 @@ Routers Configuration
 
 #####################
 
+Will be updated
+
 Setup power supply and EMF protected box, install diferent boxes for supply and computers and routers:
 
 .. image:: images/photo_2024-10-01_19-04-59.jpg
@@ -33,7 +35,7 @@ DIY part of power supply, other is separated Chieftec PSU:
 .. image:: images/2024-09-26-19-14-06-586.jpg
            :align: left
 
-Firewall - rules for netfiler and BPF: 
+Firewall - rules for netfiler and BPF:
 
 .. image:: images/img-2024-10-01-184048.png
            :align: left
@@ -52,4 +54,3 @@ OpenWrt
 
 
 .. _AMT: https://software.intel.com/sites/manageability/AMT_Implementation_and_Reference_Guide/default.htm?turl=WordDocuments%2Fkvmandintelamt.htm
-

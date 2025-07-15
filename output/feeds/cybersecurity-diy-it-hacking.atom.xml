@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>mksscryertower.quest - cybersecurity, diy, it, hacking</title><link href="https://mksscryertower.quest/" rel="alternate"/><link href="https://mksscryertower.quest/feeds/cybersecurity-diy-it-hacking.atom.xml" rel="self"/><id>https://mksscryertower.quest/</id><updated>2024-10-01T19:50:00+03:00</updated><entry><title>Routers Configuration</title><link href="https://mksscryertower.quest/Routers%20Configuration.html" rel="alternate"/><published>2024-10-01T19:50:00+03:00</published><updated>2024-10-01T19:50:00+03:00</updated><author><name>Klimenko Maxim Sergievich</name></author><id>tag:mksscryertower.quest,2024-10-01:/Routers Configuration.html</id><summary type="html">&lt;p class="first last"&gt;Routers Configuration&lt;/p&gt;
 </summary><content type="html">&lt;hr class="docutils" /&gt;
+&lt;p&gt;Will be updated&lt;/p&gt;
 &lt;p&gt;Setup power supply and EMF protected box, install diferent boxes for supply and computers and routers:&lt;/p&gt;
 &lt;img alt="" class="align-left" src="images/photo_2024-10-01_19-04-59.jpg" /&gt;
 &lt;img alt="" class="align-left" src="images/photo_2024-10-01_19-04-48.jpg" /&gt;
@@ -21,6 +22,7 @@
 &lt;img alt="" class="align-left" src="images/workstation.png" /&gt;
 &lt;img alt="" class="align-left" src="images/2023-04-13-22-23-38-723.jpg" /&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://github.com/asciiscry3r/dotfiles"&gt;Linux configs and etc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Configuration files, installation of entropy feeders and firewalls:&lt;/p&gt;
 &lt;div class="section" id="etc-sysctl-conf"&gt;
 &lt;h2&gt;/etc/sysctl.conf&lt;/h2&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="c1"&gt;###&lt;/span&gt;
@@ -295,9 +297,116 @@ install&lt;span class="w"&gt; &lt;/span&gt;firewire-core&lt;span class="w"&gt; &
 install&lt;span class="w"&gt; &lt;/span&gt;thunderbolt&lt;span class="w"&gt; &lt;/span&gt;/bin/false
 &lt;/pre&gt;&lt;/div&gt;
 &lt;/div&gt;
+&lt;div class="section" id="entropy-feeders-and-generators"&gt;
+&lt;h2&gt;Entropy feeders and generators&lt;/h2&gt;
+&lt;p&gt;repo: &lt;a class="reference external" href="https://github.com/asciiscry3r/simple-entropy-feeder"&gt;https://github.com/asciiscry3r/simple-entropy-feeder&lt;/a&gt;&lt;/p&gt;
+&lt;!-- code-block: shell
+
+sudo pacman -S tpm2-tools
+
+yay -S twuewand-git
+
+Or
+
+wget https://repo.mksscryertower.quest/repo/x86_64/twuewand-git-0.0.4-1-any.pkg.tar.zst
+
+sudo pacman -U twuewand-git-0.0.4-1-any.pkg.tar.zst
+
+Or
+
+git clone https://github.com/rfinnie/twuewand.git
+cd twuewand
+make install
+cd rndaddentropy
+make install
+
+sudo vim /usr/bin/simpleentropyfeeder.sh
+
+#!/usr/bin/env bash
+
+twuewand - -bytes 32 | rndaddentropy
+tpm2_getrandom 32 | rndaddentropy --&gt;
+&lt;p&gt;Timer for systemd:&lt;/p&gt;
+&lt;!-- code-block: shell
+
+sudo vim /usr/lib/systemd/system/simpleentropyfeeder.timer
+
+[Unit]
+Description=Start/Restart Simple Entropy feeder service
+
+[Timer]
+Unit=simpleentropyfeeder.service
+OnBootSec=1
+OnUnitInactiveSec=1
+
+[Install]
+WantedBy=timers.target --&gt;
+&lt;p&gt;Systemd service:&lt;/p&gt;
+&lt;!-- code-block: shell
+
+sudo vim /usr/lib/systemd/system/simpleentropyfeeder.service
+
+[Unit]
+Description=Simple Entropy feeder
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/simpleentropyfeeder.sh
+PrivateNetwork=yes
+PrivateTmp=yes
+InaccessibleDirectories=/home
+ReadOnlyDirectories=/var
+#LimitNPROC=1
+#LimitFSIZE=0
+#CapabilityBoundingSet=CAP_CHOWN CAP_KILL
+
+[Install]
+WantedBy=multi-user.target --&gt;
+&lt;p&gt;Enable and start:&lt;/p&gt;
+&lt;!-- code-block: shell
+
+sudo systemctl enable simpleentropyfeeder.service
+sudo systemctl start simpleentropyfeeder.timer
+sudo systemctl enable simpleentropyfeeder.timer --&gt;
+&lt;/div&gt;
+&lt;div class="section" id="simple-stateful-firewall-with-opensnitch"&gt;
+&lt;h2&gt;Simple stateful firewall with opensnitch&lt;/h2&gt;
+&lt;p&gt;repo: &lt;a class="reference external" href="https://github.com/asciiscry3r/simple-stateful-firewall"&gt;https://github.com/asciiscry3r/simple-stateful-firewall&lt;/a&gt;&lt;/p&gt;
+&lt;!-- code-block: shell
+
+sudo pacman -S opensnitch opensnitch-ebpf-module
+
+yay -S simple-stateful-firewall-git
+
+Or
+
+wget https://repo.mksscryertower.quest/repo/x86_64/simple-stateful-firewall-git-0.0.34-1-x86_64.pkg.tar.zst
+
+sudo pacman -U simple-stateful-firewall-git-0.0.34-1-x86_64.pkg.tar.zst
+
+Or
+
+git clone https://github.com/asciiscry3r/simple-stateful-firewall.git
+cd simple-stateful-firewall
+make install --&gt;
+&lt;/div&gt;
 </content><category term="cybersecurity, diy, it, hacking"/><category term="cybersecurity"/><category term="diy"/><category term="it"/><category term="hacking"/></entry><entry><title>Home local network</title><link href="https://mksscryertower.quest/Home%20local%20network.html" rel="alternate"/><published>2022-10-31T19:50:00+02:00</published><updated>2022-10-31T19:50:00+02:00</updated><author><name>Klimenko Maxim Sergievich</name></author><id>tag:mksscryertower.quest,2022-10-31:/Home local network.html</id><summary type="html">&lt;p class="first last"&gt;Home local network&lt;/p&gt;
 </summary><content type="html">&lt;hr class="docutils" /&gt;
+&lt;p&gt;Reason and conclusion&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/memeaboutwork.png" /&gt;
 &lt;img alt="" class="align-left" src="images/CIAJMK1209-en.svg.png" /&gt;
+&lt;p&gt;Power source for router and 2 automation boards on linux, they be configured for sensors data collection and alerting:&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/network.jpg" /&gt;
+&lt;img alt="" class="align-left" src="images/network2.jpg" /&gt;
+&lt;img alt="" class="align-left" src="images/networkpowersource.jpg" /&gt;
+&lt;img alt="" class="align-left" src="images/networkpowersource2.jpg" /&gt;
+&lt;p&gt;Automated by Ansible with regular updates and installation of security pathes&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/networkautomation.jpg" /&gt;
+&lt;img alt="" class="align-left" src="images/img-2025-07-16-024558.png" /&gt;
+&lt;img alt="" class="align-left" src="images/img-2025-07-16-024633.png" /&gt;
+&lt;img alt="" class="align-left" src="images/img-2025-07-16-024716.png" /&gt;
+&lt;div class="section" id="history"&gt;
+&lt;h2&gt;History&lt;/h2&gt;
 &lt;p&gt;Home network in server cabinet ( PPE (PC) Klimenko Maxim Sergievich ):&lt;/p&gt;
 &lt;img alt="" class="align-left" src="images/photo_2023-02-11_19-03-50.jpg" /&gt;
 &lt;img alt="" class="align-left" src="images/photo_2023-02-11_19-03-48.jpg" /&gt;
@@ -323,6 +432,5 @@ Ground, zero to ground, shields and etc...&lt;/p&gt;
 &lt;img alt="" class="align-left" src="images/photo_2023-02-09_21-51-12.jpg" /&gt;
 &lt;img alt="" class="align-left" src="images/photo_2023-02-09_21-51-08.jpg" /&gt;
 &lt;p&gt;And all transformers, power supply sources, in something close to a faraday cage.&lt;/p&gt;
-&lt;p&gt;Reason and conclusion&lt;/p&gt;
-&lt;img alt="" class="align-left" src="images/memeaboutwork.png" /&gt;
+&lt;/div&gt;
 </content><category term="cybersecurity, diy, it, hacking"/><category term="cybersecurity"/><category term="diy"/><category term="it"/><category term="hacking"/></entry></feed>

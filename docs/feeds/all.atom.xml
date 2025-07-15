@@ -374,6 +374,7 @@ Day 3 - &lt;a class="reference external" href="https://photos.app.goo.gl/nB2vjs7
 &lt;/div&gt;
 </content><category term="cybersecurity, diy, it, hacking, piracy"/><category term="cybersecurity"/><category term="diy"/><category term="it"/><category term="hacking"/><category term="piracy"/></entry><entry><title>Routers Configuration</title><link href="https://backup.mksscryertower.quest/Routers%20Configuration.html" rel="alternate"/><published>2024-10-01T19:50:00+03:00</published><updated>2024-10-01T19:50:00+03:00</updated><author><name>Klimenko Maxim Sergievich</name></author><id>tag:backup.mksscryertower.quest,2024-10-01:/Routers Configuration.html</id><summary type="html">&lt;p class="first last"&gt;Routers Configuration&lt;/p&gt;
 </summary><content type="html">&lt;hr class="docutils" /&gt;
+&lt;p&gt;Will be updated&lt;/p&gt;
 &lt;p&gt;Setup power supply and EMF protected box, install diferent boxes for supply and computers and routers:&lt;/p&gt;
 &lt;img alt="" class="align-left" src="images/photo_2024-10-01_19-04-59.jpg" /&gt;
 &lt;img alt="" class="align-left" src="images/photo_2024-10-01_19-04-48.jpg" /&gt;
@@ -1540,6 +1541,7 @@ root@mksnanopineo2:~#
 &lt;img alt="" class="align-left" src="images/workstation.png" /&gt;
 &lt;img alt="" class="align-left" src="images/2023-04-13-22-23-38-723.jpg" /&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://github.com/asciiscry3r/dotfiles"&gt;Linux configs and etc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Configuration files, installation of entropy feeders and firewalls:&lt;/p&gt;
 &lt;div class="section" id="etc-sysctl-conf"&gt;
 &lt;h2&gt;/etc/sysctl.conf&lt;/h2&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="c1"&gt;###&lt;/span&gt;
@@ -1820,6 +1822,22 @@ install&lt;span class="w"&gt; &lt;/span&gt;thunderbolt&lt;span class="w"&gt; &lt
 &lt;!-- code-block: shell
 
 sudo pacman -S tpm2-tools
+
+yay -S twuewand-git
+
+Or
+
+wget https://repo.mksscryertower.quest/repo/x86_64/twuewand-git-0.0.4-1-any.pkg.tar.zst
+
+sudo pacman -U twuewand-git-0.0.4-1-any.pkg.tar.zst
+
+Or
+
+git clone https://github.com/rfinnie/twuewand.git
+cd twuewand
+make install
+cd rndaddentropy
+make install
 
 sudo vim /usr/bin/simpleentropyfeeder.sh
 
@@ -2164,7 +2182,21 @@ where he is held incommunicado.
 &lt;/div&gt;
 </content><category term="law, crimes, cults, ukraine"/><category term="law"/><category term="crimes"/><category term="cults"/><category term="ukraine"/></entry><entry><title>Home local network</title><link href="https://backup.mksscryertower.quest/Home%20local%20network.html" rel="alternate"/><published>2022-10-31T19:50:00+02:00</published><updated>2022-10-31T19:50:00+02:00</updated><author><name>Klimenko Maxim Sergievich</name></author><id>tag:backup.mksscryertower.quest,2022-10-31:/Home local network.html</id><summary type="html">&lt;p class="first last"&gt;Home local network&lt;/p&gt;
 </summary><content type="html">&lt;hr class="docutils" /&gt;
+&lt;p&gt;Reason and conclusion&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/memeaboutwork.png" /&gt;
 &lt;img alt="" class="align-left" src="images/CIAJMK1209-en.svg.png" /&gt;
+&lt;p&gt;Power source for router and 2 automation boards on linux, they be configured for sensors data collection and alerting:&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/network.jpg" /&gt;
+&lt;img alt="" class="align-left" src="images/network2.jpg" /&gt;
+&lt;img alt="" class="align-left" src="images/networkpowersource.jpg" /&gt;
+&lt;img alt="" class="align-left" src="images/networkpowersource2.jpg" /&gt;
+&lt;p&gt;Automated by Ansible with regular updates and installation of security pathes&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/networkautomation.jpg" /&gt;
+&lt;img alt="" class="align-left" src="images/img-2025-07-16-024558.png" /&gt;
+&lt;img alt="" class="align-left" src="images/img-2025-07-16-024633.png" /&gt;
+&lt;img alt="" class="align-left" src="images/img-2025-07-16-024716.png" /&gt;
+&lt;div class="section" id="history"&gt;
+&lt;h2&gt;History&lt;/h2&gt;
 &lt;p&gt;Home network in server cabinet ( PPE (PC) Klimenko Maxim Sergievich ):&lt;/p&gt;
 &lt;img alt="" class="align-left" src="images/photo_2023-02-11_19-03-50.jpg" /&gt;
 &lt;img alt="" class="align-left" src="images/photo_2023-02-11_19-03-48.jpg" /&gt;
@@ -2190,8 +2222,7 @@ Ground, zero to ground, shields and etc...&lt;/p&gt;
 &lt;img alt="" class="align-left" src="images/photo_2023-02-09_21-51-12.jpg" /&gt;
 &lt;img alt="" class="align-left" src="images/photo_2023-02-09_21-51-08.jpg" /&gt;
 &lt;p&gt;And all transformers, power supply sources, in something close to a faraday cage.&lt;/p&gt;
-&lt;p&gt;Reason and conclusion&lt;/p&gt;
-&lt;img alt="" class="align-left" src="images/memeaboutwork.png" /&gt;
+&lt;/div&gt;
 </content><category term="cybersecurity, diy, it, hacking"/><category term="cybersecurity"/><category term="diy"/><category term="it"/><category term="hacking"/></entry><entry><title>Internet as a phenomenon</title><link href="https://backup.mksscryertower.quest/Internet%20as%20a%20phenomenon.html" rel="alternate"/><published>2022-10-27T19:50:00+03:00</published><updated>2022-10-27T19:50:00+03:00</updated><author><name>Klimenko Maxim Sergievich</name></author><id>tag:backup.mksscryertower.quest,2022-10-27:/Internet as a phenomenon.html</id><summary type="html">&lt;p class="first last"&gt;Internet as a phenomenon&lt;/p&gt;
 </summary><content type="html">&lt;hr class="docutils" /&gt;
 &lt;p&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=gvIy52kX-uU"&gt;https://www.youtube.com/watch?v=gvIy52kX-uU&lt;/a&gt;&lt;/p&gt;

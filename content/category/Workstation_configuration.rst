@@ -20,6 +20,8 @@ Workstation Configuration
 
 .. _Linux configs and etc: https://github.com/asciiscry3r/dotfiles
 
+Configuration files, installation of entropy feeders and firewalls:
+
 /etc/sysctl.conf
 ++++++++++++++++
 
@@ -321,9 +323,25 @@ Entropy feeders and generators
 repo: https://github.com/asciiscry3r/simple-entropy-feeder
 
 
-.. code-block: shell
+.. code-block:: shell
 
    sudo pacman -S tpm2-tools
+
+   yay -S twuewand-git
+
+   Or
+
+   wget https://repo.mksscryertower.quest/repo/x86_64/twuewand-git-0.0.4-1-any.pkg.tar.zst
+
+   sudo pacman -U twuewand-git-0.0.4-1-any.pkg.tar.zst
+
+   Or
+
+   git clone https://github.com/rfinnie/twuewand.git
+   cd twuewand
+   make install
+   cd rndaddentropy
+   make install
 
    sudo vim /usr/bin/simpleentropyfeeder.sh
 
@@ -336,7 +354,7 @@ repo: https://github.com/asciiscry3r/simple-entropy-feeder
 
 Timer for systemd:
 
-.. code-block: shell
+.. code-block:: shell
 
    sudo vim /usr/lib/systemd/system/simpleentropyfeeder.timer
 
@@ -354,7 +372,7 @@ Timer for systemd:
 
 Systemd service:
 
-.. code-block: shell
+.. code-block:: shell
 
    sudo vim /usr/lib/systemd/system/simpleentropyfeeder.service
 
@@ -378,7 +396,7 @@ Systemd service:
 
 Enable and start:
 
-.. code-block: shell
+.. code-block:: shell
 
    sudo systemctl enable simpleentropyfeeder.service
    sudo systemctl start simpleentropyfeeder.timer
@@ -390,7 +408,7 @@ Simple stateful firewall with opensnitch
 
 repo: https://github.com/asciiscry3r/simple-stateful-firewall
 
-.. code-block: shell
+.. code-block:: shell
 
    sudo pacman -S opensnitch opensnitch-ebpf-module
 
