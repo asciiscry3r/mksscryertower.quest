@@ -10,6 +10,8 @@ TIMEZONE = 'Europe/Kiev'
 
 DEFAULT_LANG = 'en'
 
+LOCALE = ('usa', 'uk', 'en_US', 'uk_UA')
+
 PLUGIN_PATHS = ["plugins", ".venv/lib/python3.13/site-packages/pelican/plugins/"]
 
 PLUGINS = ["sitemap", "series"]

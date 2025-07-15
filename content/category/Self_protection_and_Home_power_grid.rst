@@ -6,6 +6,7 @@
 :tags: cybersecurity, diy, it, hacking, health
 :category: cybersecurity, diy, it, hacking, health
 :slug: Self protection and Home power grid
+:series: Human rights in Ukraine
 :authors: Klimenko Maxim Serhiyevich
 :summary: Self protection and Home power grid
 

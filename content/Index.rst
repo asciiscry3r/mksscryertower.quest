@@ -38,15 +38,11 @@ Pages
 
 `Curriculum Vitae <{filename}/category/Curriculum_Vitae_of_Klimenko_Maxim_Sergievich.rst>`_
 
+`Home local network <{filename}/category/Home_local_network.rst>`_
+
 `Workstation configuration <{filename}/category/Workstation_configuration.rst>`_
 
 `Router configuration <{filename}/category/Router_configuration.rst>`_
-
-`Piracy on computers <{filename}/category/Piracy_on_computers.rst>`_
-
-`"Restoration" in Ukraine. Self protection and Home power grid <{filename}/category/Self_protection_and_Home_power_grid.rst>`_
-
-`Internet as a phenomenon <{filename}/category/Internet_as_a_phenomenon.rst>`_
 
 `Brainwave entertainment and BrainMachine <{filename}/category/Brainwave_entertainment.rst>`_
 
@@ -54,13 +50,15 @@ Pages
 
 `2FA for servers <{filename}/category/2FA_for_servers.rst>`_
 
+`Piracy on computers <{filename}/category/Piracy_on_computers.rst>`_
+
+`Internet as a phenomenon <{filename}/category/Internet_as_a_phenomenon.rst>`_
+
 `Artificial human life = existence <{filename}/category/Artificial_human_life_and_existence.rst>`_
 
 `Computer trace system <{filename}/category/Computer_trace_system.rst>`_
 
 `Computer trace system UA <{filename}/category/Computer_trace_system_ua.rst>`_
-
-`Home local network <{filename}/category/Home_local_network.rst>`_
 
 `Radio frequency attacks from user side (WIP) <{filename}/category/Radio_frequency_attacks_from_user_side.rst>`_
 
