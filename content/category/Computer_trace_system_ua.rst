@@ -5,7 +5,7 @@ Computer trace system
 :modified: 2022-11-09 18:40
 :tags: dew, cults, cybersecurity, military
 :category: dew, cults, cybersecurity, military
-:slug: Computer trace system
+:slug: Система відстежування комп'ютерів
 :authors: Klimenko Maxim Sergievich
 :summary: Computer trace system
 :translation: true

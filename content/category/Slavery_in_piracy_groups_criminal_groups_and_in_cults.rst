@@ -10,7 +10,7 @@ Slavery in piracy groups, criminal groups and in cults
 :summary: Slavery in piracy groups, criminal groups and in cults
 :series: Human rights in Ukraine
 :translation: false
-:lang: en
+:lang: en_US
 
 #####################################################
 

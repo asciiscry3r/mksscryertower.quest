@@ -5,7 +5,7 @@ Slavery in piracy groups, criminal groups and in cults
 :modified: 2022-11-09 18:40
 :tags: dew, cults, cybersecurity, military, piracy, law
 :category: dew, cults, cybersecurity, military, piracy, law
-:slug: Slavery in piracy groups, criminal groups and in cults
+:slug: Рабство в піратських, кримінальних групах та культах
 :authors: Klimenko Maxim Sergievich
 :summary: Slavery in piracy groups, criminal groups and in cults
 :series: Human rights in Ukraine
@@ -313,6 +313,8 @@ Source Brainwashing and Thought Control in Scientology -- The Road to Rondroid
 * Стаття 127. Катування
 * Стаття 363 Втручання в роботу електронно-обчислювальних машин (комп'ютерів), автоматизованих систем, комп'ютерних мереж або мереж електрозв'язку шляхом масового розповсюдження повідомлень електрозв'язку
 * Заборона онлайн або комп'ютерного піратства - Закон України "Про державну підтримку кінематографії в Україні" (1601-VIII) 23.03.2017 - набув чинності 26.04.2017; Закон України про інформацію
+
+# перевага гвалтівника
 
 Мій висновок:
 =============

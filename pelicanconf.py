@@ -10,14 +10,29 @@ TIMEZONE = 'Europe/Kiev'
 
 DEFAULT_LANG = 'en'
 
-LOCALE = ('usa', 'uk', 'en_US', 'uk_UA')
+LOCALE = ('en_US', 'uk_UA')
 
 PLUGIN_PATHS = ["plugins", ".venv/lib/python3.13/site-packages/pelican/plugins/"]
 
-PLUGINS = ["sitemap", "series"]
+PLUGINS = ["sitemap", "series"] #, "i18n_subsites"]
+
+I18N_SUBSITES = {
+    'ua': {
+    'SITENAME': 'mksscryertower.quest',
+    }
+}
+
+JINJA_ENVIRONMENT = {
+'extensions': ['jinja2.ext.i18n'],
+}
+
+ARTICLE_URL = '{slug}.html'
+ARTICLE_SAVE_AS = '{slug}.html'
+ARTICLE_LANG_URL = '{slug}-{lang}.html'
+ARTICLE_LANG_SAVE_AS = '{slug}-{lang}.html'
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None

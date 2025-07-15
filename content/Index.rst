@@ -98,6 +98,10 @@ Links Tree
 
 .. _My Link Tree: https://linktr.ee/_scry3r_
 
+`Backup`_
+
+.. _Backup: https://backup.mksscryertower.quest/
+
 
 .. image:: images/emfanime.png
 	   :align: left

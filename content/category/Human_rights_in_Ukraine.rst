@@ -7,9 +7,9 @@ Human rights in Ukraine
 :slug: Human rights in Ukraine
 :authors: Klimenko Maxim Sergievich
 :summary: Human rights in Ukraine
-:series: Human rights in Ukraine
+:series: Human rights in Ukraine\
 :translation: false
-:lang: en
+:lang: en_US
 
 #######################
 

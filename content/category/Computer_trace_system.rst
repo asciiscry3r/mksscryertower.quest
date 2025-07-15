@@ -9,7 +9,7 @@ Computer trace system
 :authors: Klimenko Maxim Sergievich
 :summary: Computer trace system
 :translation: false
-:lang: en
+:lang: en_US
 
 ########################
 

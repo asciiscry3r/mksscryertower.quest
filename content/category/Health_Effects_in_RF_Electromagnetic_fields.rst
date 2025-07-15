@@ -9,7 +9,7 @@ Health Effects in RF Electromagnetic fields
 :summary: Health Effects in RF Electromagnetic fields
 :series: Human rights in Ukraine
 :translation: false
-:lang: en
+:lang: en_US
 
 ###########################################
 
