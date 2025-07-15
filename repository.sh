@@ -19,9 +19,13 @@ for pkg in ${builded[@]}; do
     gpg --use-agent --output $pkg.sig --detach-sig $pkg
 done
 
+# do by service in right way [klimenkomaximsergievich max]# watch -n 1 tpm2_getrandom 32 > /dev/random
+# sudo twuewand --bytes 32 | sudo rndaddentropy
+# sudo tpm2_getrandom 32 | sudo rndaddentropy
+
 repo-add --verify --sign --new repo.mksscryertower.quest.db.tar.gz *.zst
 
-sudo rm -rf /var/www/repo.mksscryertower.quest/repo/x86_64 && sudo mkdir /var/www/repo.mksscryertower.quest/repo/x86_64 && sudo cp -R -f --remove-destination /var/www/repo.mksscryertower.quest/repoupdate/* /var/www/repo.mksscryertower.quest/repo/x86_64/ && sudo chown www-data:arch -R /var/www/repo.mksscryertower.quest/repo
+sudo rm -rf /var/www/repo.mksscryertower.quest/repo/x86_64 && sudo mkdir /var/www/repo.mksscryertower.quest/repo/x86_64 && sudo cp -R -f --remove-destination /var/www/repo.mksscryertower.quest/repoupdate/* /var/www/repo.mksscryertower.quest/repo/x86_64/ && sudo chown www-data:linuxuser -R /var/www/repo.mksscryertower.quest/repo
 
 sudo rm -rf /home/max/Development/repo.mksscryertower.quest/repo/x86_64 && sudo mkdir /home/max/Development/repo.mksscryertower.quest/repo/x86_64 && sudo cp -R -f --remove-destination /home/max/Development/repo.mksscryertower.quest/repoupdate/* /home/max/Development/repo.mksscryertower.quest/repo/x86_64/ && ssh mksscryertower.quest sudo chown -R ubuntu:ubuntu /var/www/repo.mksscryertower.quest/ && ssh mksscryertower.quest sudo rm -rf /var/www/repo.mksscryertower.quest/repo/x86_64/* && rsync -r --progress /home/max/Development/repo.mksscryertower.quest/repo/*  mksscryertower.quest:/var/www/repo.mksscryertower.quest/repo/ && ssh mksscryertower.quest sudo chown -R www-data:www-data /var/www/repo.mksscryertower.quest/
 
@@ -72,7 +76,7 @@ type = mysql
 host = 127.0.0.1:3306
 name = grafana
 user = grafana
-password = "^Jg&44xHsysiQirxadTqC6J^$D!srZ"
+password = "^Jg&^$D!srZ"
 
 /usr/lib/systemd/system/prometheus-node-exporter.service 127.0.0.1:9100
 /usr/lib/systemd/system/nginx-prometheus-exporter.service 127.0.0.1:9113
@@ -146,13 +150,13 @@ options edns0 single-request
               python-setuptools-1:67.8.0-1  python-wheel-0.40.0-3
 
 [max@mksscryerpc pyboinc]$ namcap pyboinc-0.0.1-1-any.pkg.tar.zst
-	      
+
 pyboinc E: Missing custom license directory (usr/share/licenses/pyboinc)
 pyboinc W: Referenced python module 'pyboinc.init_rpc_client' is an uninstalled dependency (needed in files ['usr/lib/python3.11/site-packages/pyboinc/tests/test_web.py'])
 pyboinc W: Referenced python module 'pyboinc.rpc_client.GUI_RPC_DEFAULT_PORT' is an uninstalled dependency (needed in files ['usr/lib/python3.11/site-packages/pyboinc/tests/test_web.py'])
 pyboinc W: Description should not contain the package name.
 pyboinc E: Dependency python detected and not included (python modules ['typing.List', 'datetime.datetime', 'datetime.timedelta', 'typing.Dict', 'typing.Union', 'unittest', 'hashlib.md5', 'enum.Enum', 'socket.AF_INET', 'asyncio', 'xml.etree.ElementTree'] needed in files ['usr/lib/python3.11/site-packages/pyboinc/tests/test_web.py', 'usr/lib/python3.11/site-packages/pyboinc/rpc_client.py', 'usr/lib/python3.11/site-packages/pyboinc/_parse.py', 'usr/lib/python3.11/site-packages/pyboinc/_constants.py', 'usr/lib/python3.11/site-packages/pyboinc/_raw_client.py'], programs ['python'] needed in scripts ['usr/lib/python3.11/site-packages/pyboinc/tests/test_web.py'])
-	      
+
 {'name': 'MCM1_0199813_6491_0', 'wu_name': 'MCM1_0199813_6491', 'platform': 'x86_64-pc-linux-gnu', 'version_num': 761, 'plan_class': True, 'project_url': <Project https://www.worldcommunitygrid.org/, {'master_url': 'https://www.worldcommunitygrid.org/'}>, 'final_cpu_time': datetime.timedelta(0), 'final_elapsed_time': datetime.timedelta(0), 'exit_status': 0, 'state': 2, 'report_deadline': datetime.datetime(2023, 6, 11, 0, 55, 59), 'received_time': datetime.datetime(2023, 6, 5, 0, 55, 59, 226586), 'estimated_cpu_time_remaining': datetime.timedelta(seconds=36782, microseconds=626123), 'active_task': {'active_task_state': 1, 'app_version_num': 761, 'slot': 0, 'pid': 9812, 'scheduler_state': 2, 'checkpoint_cpu_time': datetime.timedelta(seconds=3615, microseconds=130000), 'fraction_done': 0.057327, 'current_cpu_time': datetime.timedelta(seconds=3653, microseconds=53000), 'elapsed_time': datetime.timedelta(seconds=3763, microseconds=220714), 'swap_size': 70242304.0, 'working_set_size': 69492736.0, 'working_set_size_smoothed': 69492735.0, 'page_fault_rate': 0.0, 'bytes_sent': 0.0, 'bytes_received': 0.0, 'progress_rate': 1.4e-05, 'graphics_exec_path': '/var/lib/boinc/projects/www.worldcommunitygrid.org/wcgrid_mcm1_gfx_7.61_x86_64-pc-linux-gnu', 'slot_path': '/var/lib/boinc/slots/0'}}
 {'name': 'MCM1_0199813_6493_1', 'wu_name': 'MCM1_0199813_6493', 'platform': 'x86_64-pc-linux-gnu', 'version_num': 761, 'plan_class': True, 'project_url': <Project https://www.worldcommunitygrid.org/, {'master_url': 'https://www.worldcommunitygrid.org/'}>, 'final_cpu_time': datetime.timedelta(0), 'final_elapsed_time': datetime.timedelta(0), 'exit_status': 0, 'state': 2, 'report_deadline': datetime.datetime(2023, 6, 11, 0, 55, 59), 'received_time': datetime.datetime(2023, 6, 5, 0, 55, 59, 226586), 'estimated_cpu_time_remaining': datetime.timedelta(seconds=39019, microseconds=516686)}
 
@@ -200,7 +204,7 @@ kernel.shmmax=268435456
 # kernel.kptr_restrict=2
 
 # Restrict reading from /proc/<pid>/maps to those who share ->mm or can ptrace pid
-# kernel.maps_protect=1 No such file or directory	
+# kernel.maps_protect=1 No such file or directory
 
 # Restrict access to kernel logs
 kernel.dmesg_restrict=1

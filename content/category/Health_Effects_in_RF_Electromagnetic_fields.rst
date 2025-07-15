@@ -7,6 +7,7 @@ Health Effects in RF Electromagnetic fields
 :slug: Health Effects in RF Electromagnetic fields
 :authors: Klimenko Maxim Sergievich
 :summary: Health Effects in RF Electromagnetic fields
+:series: Human rights in Ukraine
 :translation: false
 :lang: en
 
@@ -69,17 +70,17 @@ Human control
 From book Military Neuroscience and the Coming Age of Neurowarfare, 2016 Armin Krishnan:
 
 The CIA conducted human experiments on Vietnamese patients and prisoners at the Bien Hoa Hospital in Saigon in 1966–68. In 1966, the CIA sent psychiatrist Lloyd Cotter to Vietnam to field test some of the methods developed by Cameron (McCoy, 2006: 65). So he subjected patients there to extensive electroconvulsive therapy (ECT), where electrodes are attached to a patient’s head that give stimuli of 70 to 150 V at 500 to 900 milliamperes in an effort of ‘pacifying’ the patients (Schrag, 1978: 151). Gordon Thomas alleges that experiments on prisoners went even further than involuntary ECT and included the implantation of electrodes into their brains:
-         
+
 Each man was anesthetized and the neurosurgeon, after he had hinged back a flap in their skulls, implanted tiny electrodes in each brain. When the prisoners regained consciousness, the behaviorists set to work. The prisoners were placed in a room and given knives. Pressing the control buttons on their handsets, the behaviorists tried to arouse their subjects to violence.(G. Thomas, 1989: 264–265)
-         
+
   The purpose of these experiments was obviously to develop a technology that could be useful in CIA operations and to provide solutions to some of the questions raised in relation to Project Artichoke. The CIA and DARPA were clearly interested in the development of human brain implants in the context of MK ULTRA/ MK SEARCH research. An apparent goal was the development of a remote control for humans that enabled external control over their thoughts and actions. In 1967, a former FBI agent wrote under the pseudonym Lincoln Lawrence the book 'Were We Controlled?' about the Kennedy assassination. With the help of a brain implant it would be possible to remotely change the emotions of a subject and even induce partial amnesia.
 
 The technique was called ‘radio-hypnotic intercerebral control’ and ‘electronic dissolution of memory’ (RHIC-EDOM). Lincoln described it in the following way:
-         
+
   Under RHIC, a ‘sleeper’ can be used years later with no realization that the ‘sleeper’ is even being controlled!He can be made to perform acts that he will have no memory of ever having carried out. In a manipulated kind of kamikaze operation where the life of the ‘sleeper’ is dispensable, RHIC processing makes him particularly valuable because if he is detected and caught before he performs the act specified … nothing he says will implicate the group or government which processed and controlled him…By electronically jamming the brain, acetylcholine creates static which blocks out sights and sounds. You would then have no memory of what you saw or heard; your mind would be a blank. (quoted from G. Thomas, 1989: 261–264)
-         
+
 Further confirmation about this research project came from the Tennessee journalist James L. Moore, who claimed that he had come into the possession of a 350 page CIA manual from 1963 that explained RHIC-EDOM (Bowart, 1978: 262–264).
-         
+
   The only official mention of RHIC-EDOM is the questioning of Sidney Gottlieb by Senator Richard Schweiker during a 1977 Congressional hearing, where he partially admitted to its existence. Gottlieb testified: ‘As I remember it, there was a current interest, running interest, all the time in what effects people’s standing in the field of radio energy have, and it could easily have been that somewhere in many projects, someone was trying to see if you could hypnotize someone easier if he was standing in a radio beam. That would seem like a reasonable piece of research to do’ (US Congress, 1977b). In the light of the published experiments with brain implants by Heath and Delgado, the RHIC-EDOM story seems at least plausible.
 
 Or:
@@ -104,7 +105,7 @@ Figure shows that 0.3–10 GHz microwave radiation penetrates a few cm to a few 
 From Military Neuroscience and the Coming Age of Neurowarfare 2016, Armin Krishnan.
 
 Many studies on microwaves from the 1960s and 1970s have already indicated many of the potential issues: long-term exposure to microwaves can cause genetic mutation, brain tumours and other cancers, behavioural abnormalities (suicide), alterations in biological cycles, weakening of the immune system and alterations in learning ability (Becker, 1990: 214–215; also Brodeur, 1977). A 1970 RAND metastudy on neurological effects of microwaves suggested: ‘it seems likely that neural function, and therefore behavior, are indeed disturbed by low intensity microwaves…the studies consistently and repeatedly report that human beings do exhibit behavioral disturbances when exposed to low intensity microwaves’ (MacGregor, 1970: 8).
-         
+
 These conclusions are not too different from some more recent studies that also indicate brain and behavior changes resulting from long-term EMF exposure. For example, a study from 2000 claims: ‘Natural and man-made electromagnetic fields influence the mood and behavior of healthy and sick people. Considerable evidence suggests that electromagnetic fields affect sleep’ (Sher, 2000). Another study from 2006 has linked ambient electromagnetic fields to human moods and behaviour, finding a significantly increased suicide rate during periods of geomagnetic storm (Berk et al., 2006). Continuous electromagnetic field exposure has been linked in scientific studies to ‘cancer, heart disease, sleep disturbance, depression, suicide, anger, rage, violence, homicide, neurological disease and mortality’ (Cherry, 2002). A leaked study on the British police radio system TETRA prepared for the Police Federation of England and Wales contends that microwaves pulsed in certain frequencies can induce paranoia, depression, suicide, manic behaviour and blindness (Trower, 2001: 30).
 
 .. _Epidemiology: https://mmrjournal.biomedcentral.com/articles/10.1186/s40779-017-0139-0#Sec2

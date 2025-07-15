@@ -1,9 +1,8 @@
 {% extends "base.html" %}
 {% block content_title %}{% endblock %}
-{% block content %}        
+{% block content %}
 {% if articles %}
     {% for article in articles %}
-
         {# First item #}
         {% if loop.first %}
             <header>
@@ -13,11 +12,11 @@
             </header>
 
             <article>
-                {{ article.content }}{% include 'comments.html' %}
+              {{ article.content }}{% include 'comments.html' %}
             </article>
         {% endif %}
     {% endfor %}
 {% else %}
-    No pages for the moment.
+	    No pages for the moment.
 {% endif %}
 {% endblock content %}

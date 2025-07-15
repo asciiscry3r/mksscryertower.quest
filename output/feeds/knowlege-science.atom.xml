@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>A Pelican Blog - knowlege, science</title><link href="https://mksscryertower.quest/" rel="alternate"/><link href="https://mksscryertower.quest/feeds/knowlege-science.atom.xml" rel="self"/><id>https://mksscryertower.quest/</id><updated>2025-06-29T05:55:00+03:00</updated><entry><title>2FA for Servers</title><link href="https://mksscryertower.quest/2FA%20for%20Servers.html" rel="alternate"/><published>2022-10-10T10:20:00+03:00</published><updated>2024-11-23T03:40:00+02:00</updated><author><name>Klimenko Maxim Sergievich</name></author><id>tag:mksscryertower.quest,2022-10-10:/2FA for Servers.html</id><summary type="html">&lt;p class="first last"&gt;2FA for Servers&lt;/p&gt;
+</summary><content type="html">&lt;hr class="docutils" /&gt;
+&lt;p&gt;Start from libpam-google-authenticator installation&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$&lt;span class="w"&gt; &lt;/span&gt;sudo&lt;span class="w"&gt; &lt;/span&gt;apt-get&lt;span class="w"&gt; &lt;/span&gt;install&lt;span class="w"&gt; &lt;/span&gt;libpam-google-authenticator
+
+$&lt;span class="w"&gt; &lt;/span&gt;yay&lt;span class="w"&gt; &lt;/span&gt;-S&lt;span class="w"&gt; &lt;/span&gt;libpam-google-authenticator
+
+&lt;span class="c1"&gt;# opkg install libpam-google-authenticator&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;File /etc/ssh/sshd_config don`t reload after edit&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;root@mksnanopineo2:~#&lt;span class="w"&gt; &lt;/span&gt;cat&lt;span class="w"&gt; &lt;/span&gt;/etc/ssh/sshd_config
+Include&lt;span class="w"&gt; &lt;/span&gt;/etc/ssh/sshd_config.d/*.conf
+
+Port&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;22&lt;/span&gt;
+AddressFamily&lt;span class="w"&gt; &lt;/span&gt;inet
+ListenAddress&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;192&lt;/span&gt;.168.0.130&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="c1"&gt;# your local ip / or 0.0.0.0&lt;/span&gt;
+
+
+&lt;span class="c1"&gt;#HostKey /etc/ssh/ssh_host_rsa_key&lt;/span&gt;
+&lt;span class="c1"&gt;#HostKey /etc/ssh/ssh_host_ecdsa_key&lt;/span&gt;
+&lt;span class="c1"&gt;#HostKey /etc/ssh/ssh_host_ed25519_key&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Ciphers and keying&lt;/span&gt;
+&lt;span class="c1"&gt;#RekeyLimit default none&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Logging&lt;/span&gt;
+&lt;span class="c1"&gt;#SyslogFacility AUTH&lt;/span&gt;
+&lt;span class="c1"&gt;#LogLevel INFO&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Authentication:&lt;/span&gt;
+
+LoginGraceTime&lt;span class="w"&gt; &lt;/span&gt;2m
+PermitRootLogin&lt;span class="w"&gt; &lt;/span&gt;no
+StrictModes&lt;span class="w"&gt; &lt;/span&gt;yes
+MaxAuthTries&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;6&lt;/span&gt;
+MaxSessions&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;10&lt;/span&gt;
+
+PubkeyAuthentication&lt;span class="w"&gt; &lt;/span&gt;yes
+
+&lt;span class="c1"&gt;# Expect .ssh/authorized_keys2 to be disregarded by default in future.&lt;/span&gt;
+&lt;span class="c1"&gt;#AuthorizedKeysFile .ssh/authorized_keys .ssh/authorized_keys2&lt;/span&gt;
+
+&lt;span class="c1"&gt;#AuthorizedPrincipalsFile none&lt;/span&gt;
+
+&lt;span class="c1"&gt;#AuthorizedKeysCommand none&lt;/span&gt;
+&lt;span class="c1"&gt;#AuthorizedKeysCommandUser nobody&lt;/span&gt;
+
+&lt;span class="c1"&gt;# For this to work you will also need host keys in /etc/ssh/ssh_known_hosts&lt;/span&gt;
+&lt;span class="c1"&gt;#HostbasedAuthentication no&lt;/span&gt;
+&lt;span class="c1"&gt;# Change to yes if you don&amp;#39;t trust ~/.ssh/known_hosts for&lt;/span&gt;
+&lt;span class="c1"&gt;# HostbasedAuthentication&lt;/span&gt;
+&lt;span class="c1"&gt;#IgnoreUserKnownHosts no&lt;/span&gt;
+&lt;span class="c1"&gt;# Don&amp;#39;t read the user&amp;#39;s ~/.rhosts and ~/.shosts files&lt;/span&gt;
+IgnoreRhosts&lt;span class="w"&gt; &lt;/span&gt;yes
+
+&lt;span class="c1"&gt;# To disable tunneled clear text passwords, change to no here!&lt;/span&gt;
+PasswordAuthentication&lt;span class="w"&gt; &lt;/span&gt;no
+PermitEmptyPasswords&lt;span class="w"&gt; &lt;/span&gt;no
+
+&lt;span class="c1"&gt;# Change to yes to enable challenge-response passwords (beware issues with&lt;/span&gt;
+&lt;span class="c1"&gt;# some PAM modules and threads) Needed for OTP.&lt;/span&gt;
+KbdInteractiveAuthentication&lt;span class="w"&gt; &lt;/span&gt;yes
+AuthenticationMethods&lt;span class="w"&gt; &lt;/span&gt;publickey,keyboard-interactive:pam
+
+&lt;span class="c1"&gt;# Kerberos options&lt;/span&gt;
+&lt;span class="c1"&gt;#KerberosAuthentication no&lt;/span&gt;
+&lt;span class="c1"&gt;#KerberosOrLocalPasswd yes&lt;/span&gt;
+&lt;span class="c1"&gt;#KerberosTicketCleanup yes&lt;/span&gt;
+&lt;span class="c1"&gt;#KerberosGetAFSToken no&lt;/span&gt;
+
+&lt;span class="c1"&gt;# GSSAPI options&lt;/span&gt;
+&lt;span class="c1"&gt;#GSSAPIAuthentication no&lt;/span&gt;
+&lt;span class="c1"&gt;#GSSAPICleanupCredentials yes&lt;/span&gt;
+&lt;span class="c1"&gt;#GSSAPIStrictAcceptorCheck yes&lt;/span&gt;
+&lt;span class="c1"&gt;#GSSAPIKeyExchange no&lt;/span&gt;
+
+UsePAM&lt;span class="w"&gt; &lt;/span&gt;yes
+ChallengeResponseAuthentication&lt;span class="w"&gt; &lt;/span&gt;yes
+
+&lt;span class="c1"&gt;#AllowAgentForwarding yes&lt;/span&gt;
+&lt;span class="c1"&gt;#AllowTcpForwarding yes&lt;/span&gt;
+&lt;span class="c1"&gt;#GatewayPorts no&lt;/span&gt;
+X11Forwarding&lt;span class="w"&gt; &lt;/span&gt;no
+&lt;span class="c1"&gt;#X11DisplayOffset 10&lt;/span&gt;
+&lt;span class="c1"&gt;#X11UseLocalhost yes&lt;/span&gt;
+&lt;span class="c1"&gt;#PermitTTY yes&lt;/span&gt;
+PrintMotd&lt;span class="w"&gt; &lt;/span&gt;no
+&lt;span class="c1"&gt;#PrintLastLog yes&lt;/span&gt;
+&lt;span class="c1"&gt;#TCPKeepAlive yes&lt;/span&gt;
+&lt;span class="c1"&gt;#PermitUserEnvironment no&lt;/span&gt;
+&lt;span class="c1"&gt;#Compression delayed&lt;/span&gt;
+&lt;span class="c1"&gt;#ClientAliveInterval 0&lt;/span&gt;
+&lt;span class="c1"&gt;#ClientAliveCountMax 3&lt;/span&gt;
+&lt;span class="c1"&gt;#UseDNS no&lt;/span&gt;
+&lt;span class="c1"&gt;#PidFile /run/sshd.pid&lt;/span&gt;
+&lt;span class="c1"&gt;#MaxStartups 10:30:100&lt;/span&gt;
+&lt;span class="c1"&gt;#PermitTunnel no&lt;/span&gt;
+&lt;span class="c1"&gt;#ChrootDirectory none&lt;/span&gt;
+&lt;span class="c1"&gt;#VersionAddendum none&lt;/span&gt;
+
+&lt;span class="c1"&gt;# no default banner path&lt;/span&gt;
+&lt;span class="c1"&gt;#Banner none&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Allow client to pass locale environment variables&lt;/span&gt;
+AcceptEnv&lt;span class="w"&gt; &lt;/span&gt;LANG&lt;span class="w"&gt; &lt;/span&gt;LC_*
+
+&lt;span class="c1"&gt;# override default of no subsystems&lt;/span&gt;
+Subsystem&lt;span class="w"&gt;   &lt;/span&gt;sftp&lt;span class="w"&gt;    &lt;/span&gt;/usr/lib/openssh/sftp-server
+
+&lt;span class="c1"&gt;# Example of overriding settings on a per-user basis&lt;/span&gt;
+&lt;span class="c1"&gt;#Match User anoncvs&lt;/span&gt;
+&lt;span class="c1"&gt;#   X11Forwarding no&lt;/span&gt;
+&lt;span class="c1"&gt;#   AllowTcpForwarding no&lt;/span&gt;
+&lt;span class="c1"&gt;#   PermitTTY no&lt;/span&gt;
+&lt;span class="c1"&gt;#   ForceCommand cvs server&lt;/span&gt;
+Match&lt;span class="w"&gt; &lt;/span&gt;Address&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;192&lt;/span&gt;.168.0.0/16&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="c1"&gt;# your local subnets&lt;/span&gt;
+&lt;span class="w"&gt;             &lt;/span&gt;PubkeyAuthentication&lt;span class="w"&gt; &lt;/span&gt;yes
+&lt;span class="w"&gt;             &lt;/span&gt;PasswordAuthentication&lt;span class="w"&gt; &lt;/span&gt;yes
+&lt;span class="w"&gt;             &lt;/span&gt;PermitRootLogin&lt;span class="w"&gt; &lt;/span&gt;yes
+root@mksnanopineo2:~#
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Do not forgot to check defaults in sshd_config.d folder, they all have higher priority ( they numbered ) then main sshd config file:&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/img-2024-11-23-030640.png" /&gt;
+&lt;p&gt;File /etc/pam.d/sshd for openwrt use &lt;a class="reference external" href="https://openwrt.org/docs/guide-user/services/ssh/ssh.mfa.auth"&gt;this&lt;/a&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;root@mksnanopineo2:~#&lt;span class="w"&gt; &lt;/span&gt;cat&lt;span class="w"&gt; &lt;/span&gt;/etc/pam.d/sshd
+&lt;span class="c1"&gt;# PAM configuration for the Secure Shell service&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Standard Un*x authentication.&lt;/span&gt;
+@include&lt;span class="w"&gt; &lt;/span&gt;common-auth
+
+&lt;span class="c1"&gt;# two-factor authentication via Google Authenticator !!!!!!!!!!!!!!!!&lt;/span&gt;
+auth&lt;span class="w"&gt;   &lt;/span&gt;required&lt;span class="w"&gt;   &lt;/span&gt;pam_google_authenticator.so
+
+&lt;span class="c1"&gt;# Disallow non-root logins when /etc/nologin exists.&lt;/span&gt;
+account&lt;span class="w"&gt;    &lt;/span&gt;required&lt;span class="w"&gt;     &lt;/span&gt;pam_nologin.so
+
+&lt;span class="c1"&gt;# Uncomment and edit /etc/security/access.conf if you need to set complex&lt;/span&gt;
+&lt;span class="c1"&gt;# access limits that are hard to express in sshd_config.&lt;/span&gt;
+&lt;span class="c1"&gt;# account  required     pam_access.so&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Standard Un*x authorization.&lt;/span&gt;
+@include&lt;span class="w"&gt; &lt;/span&gt;common-account
+
+&lt;span class="c1"&gt;# SELinux needs to be the first session rule.  This ensures that any&lt;/span&gt;
+&lt;span class="c1"&gt;# lingering context has been cleared.  Without this it is possible that a&lt;/span&gt;
+&lt;span class="c1"&gt;# module could execute code in the wrong domain.&lt;/span&gt;
+session&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="nv"&gt;success&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;ok&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;ignore&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;ignore&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;module_unknown&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;ignore&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;default&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;bad&lt;span class="o"&gt;]&lt;/span&gt;&lt;span class="w"&gt;        &lt;/span&gt;pam_selinux.so&lt;span class="w"&gt; &lt;/span&gt;close
+
+&lt;span class="c1"&gt;# Set the loginuid process attribute.&lt;/span&gt;
+session&lt;span class="w"&gt;    &lt;/span&gt;required&lt;span class="w"&gt;     &lt;/span&gt;pam_loginuid.so
+
+&lt;span class="c1"&gt;# Create a new session keyring.&lt;/span&gt;
+session&lt;span class="w"&gt;    &lt;/span&gt;optional&lt;span class="w"&gt;     &lt;/span&gt;pam_keyinit.so&lt;span class="w"&gt; &lt;/span&gt;force&lt;span class="w"&gt; &lt;/span&gt;revoke
+
+&lt;span class="c1"&gt;# Standard Un*x session setup and teardown.&lt;/span&gt;
+@include&lt;span class="w"&gt; &lt;/span&gt;common-session
+
+&lt;span class="c1"&gt;# Print the message of the day upon successful login.&lt;/span&gt;
+&lt;span class="c1"&gt;# This includes a dynamically generated part from /run/motd.dynamic&lt;/span&gt;
+&lt;span class="c1"&gt;# and a static (admin-editable) part from /etc/motd.&lt;/span&gt;
+session&lt;span class="w"&gt;    &lt;/span&gt;optional&lt;span class="w"&gt;     &lt;/span&gt;pam_motd.so&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="nv"&gt;motd&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;/run/motd.dynamic
+session&lt;span class="w"&gt;    &lt;/span&gt;optional&lt;span class="w"&gt;     &lt;/span&gt;pam_motd.so&lt;span class="w"&gt; &lt;/span&gt;noupdate
+
+&lt;span class="c1"&gt;# Print the status of the user&amp;#39;s mailbox upon successful login.&lt;/span&gt;
+session&lt;span class="w"&gt;    &lt;/span&gt;optional&lt;span class="w"&gt;     &lt;/span&gt;pam_mail.so&lt;span class="w"&gt; &lt;/span&gt;standard&lt;span class="w"&gt; &lt;/span&gt;noenv&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="c1"&gt;# [1]&lt;/span&gt;
+
+&lt;span class="c1"&gt;# Set up user limits from /etc/security/limits.conf.&lt;/span&gt;
+session&lt;span class="w"&gt;    &lt;/span&gt;required&lt;span class="w"&gt;     &lt;/span&gt;pam_limits.so
+
+&lt;span class="c1"&gt;# Read environment variables from /etc/environment and&lt;/span&gt;
+&lt;span class="c1"&gt;# /etc/security/pam_env.conf.&lt;/span&gt;
+session&lt;span class="w"&gt;    &lt;/span&gt;required&lt;span class="w"&gt;     &lt;/span&gt;pam_env.so&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="c1"&gt;# [1]&lt;/span&gt;
+&lt;span class="c1"&gt;# In Debian 4.0 (etch), locale-related environment variables were moved to&lt;/span&gt;
+&lt;span class="c1"&gt;# /etc/default/locale, so read that as well.&lt;/span&gt;
+session&lt;span class="w"&gt;    &lt;/span&gt;required&lt;span class="w"&gt;     &lt;/span&gt;pam_env.so&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;user_readenv&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;envfile&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;/etc/default/locale
+
+&lt;span class="c1"&gt;# SELinux needs to intervene at login time to ensure that the process starts&lt;/span&gt;
+&lt;span class="c1"&gt;# in the proper default security context.  Only sessions which are intended&lt;/span&gt;
+&lt;span class="c1"&gt;# to run in the user&amp;#39;s context should be run after this.&lt;/span&gt;
+session&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;[&lt;/span&gt;&lt;span class="nv"&gt;success&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;ok&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;ignore&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;ignore&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;module_unknown&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;ignore&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;default&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;bad&lt;span class="o"&gt;]&lt;/span&gt;&lt;span class="w"&gt;        &lt;/span&gt;pam_selinux.so&lt;span class="w"&gt; &lt;/span&gt;open
+
+&lt;span class="c1"&gt;# Standard Un*x password updating.&lt;/span&gt;
+@include&lt;span class="w"&gt; &lt;/span&gt;common-password
+root@mksnanopineo2:~#
+&lt;/pre&gt;&lt;/div&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="o"&gt;[&lt;/span&gt;arch@mksscryertower&lt;span class="w"&gt; &lt;/span&gt;~&lt;span class="o"&gt;]&lt;/span&gt;$&lt;span class="w"&gt; &lt;/span&gt;cat&lt;span class="w"&gt; &lt;/span&gt;/etc/pam.d/sshd
+&lt;span class="c1"&gt;#%PAM-1.0&lt;/span&gt;
+
+auth&lt;span class="w"&gt;      &lt;/span&gt;required&lt;span class="w"&gt;  &lt;/span&gt;pam_securetty.so&lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="c1"&gt;#disable remote root&lt;/span&gt;
+auth&lt;span class="w"&gt;      &lt;/span&gt;required&lt;span class="w"&gt;  &lt;/span&gt;pam_google_authenticator.so
+&lt;span class="c1"&gt;#auth      include   system-remote-login&lt;/span&gt;
+account&lt;span class="w"&gt;   &lt;/span&gt;include&lt;span class="w"&gt;   &lt;/span&gt;system-remote-login
+password&lt;span class="w"&gt;  &lt;/span&gt;include&lt;span class="w"&gt;   &lt;/span&gt;system-remote-login
+session&lt;span class="w"&gt;   &lt;/span&gt;include&lt;span class="w"&gt;   &lt;/span&gt;system-remote-login
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Run command:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$&lt;span class="w"&gt; &lt;/span&gt;google-authenticator
+
+blabla
+bla
+
+QR&lt;span class="w"&gt; &lt;/span&gt;CODE
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;On your mobile device, open the &lt;a class="reference external" href="https://goteleport.com/blog/ssh-2fa-tutorial/"&gt;Google Authenticator&lt;/a&gt; app, select + to add a new account. Then, select Scan a QR code, enabling you to scan the previously generated QR code. Scanning the QR code will show you the Linux virtual machine (VM) name, the user account, and a unique TOTP code that changes every 30 seconds.&lt;/p&gt;
+&lt;p&gt;Reload or restart sshd&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;sudo&lt;span class="w"&gt; &lt;/span&gt;systemctl&lt;span class="w"&gt; &lt;/span&gt;restart&lt;span class="w"&gt; &lt;/span&gt;sshd
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;End&lt;/p&gt;
+</content><category term="knowlege, science"/><category term="knowlege"/><category term="science"/></entry><entry><title>Artificial human life = existence</title><link href="https://mksscryertower.quest/Artificial%20human%20life%20=%20existence.html" rel="alternate"/><published>2022-10-10T10:20:00+03:00</published><updated>2025-02-09T23:40:00+02:00</updated><author><name>Klimenko Maxim Sergievich</name></author><id>tag:mksscryertower.quest,2022-10-10:/Artificial human life = existence.html</id><summary type="html">&lt;p class="first last"&gt;Artificial human life = existence&lt;/p&gt;
+</summary><content type="html">&lt;hr class="docutils" /&gt;
+&lt;p&gt;Today's civilization uses augmentation by radio in many types of human activities, transhumanism is everywhere, from the police and the armed forces to information technology and other things, bypassing only institutions that do not require complex calculations, but there is also a &amp;quot;right&amp;quot;. And, this say science, but only with previous sentence: The human brain perceives radio induction as phenomena of fantasy and other things, through 'processing' by forcing perversions and inflicting insults by specially trained people, to my perception after years of living on fish oil, huge groups of amino acids, vitamins, theamine, guarana, niacin, ginseng and other plant extracts, etc. artificial can be, and I had, phenomena of fantasy, inner voice, emotions, feelings of excitement, dreams and what I have now forgotten.&lt;/p&gt;
+&lt;p&gt;And this form of the most modern, since 1982 in my country, which has failed, has moved to stagnation and the collection of technical means of implementation, began with the completely incomprehensible and inadequate hanging of the label &amp;quot;products of a planned economy&amp;quot; on all &amp;quot;not such&amp;quot;. Throwing away people's documents that were collected from their birth and giving them new ones, written by a crying &amp;quot;soviet&amp;quot; officer, because &amp;quot;I see my homeland rising from its knees&amp;quot;. And what they say is &amp;quot;by the will of our people you are slaves, we have radio stations on all frequencies&amp;quot;. Neurological pirates, who cannot rest in peace until they have a permanently accessible source of “thoughts” and “guessings”. And that’s why I live and I’m live as I’m live and that’s why we have great groups of “wonderful” and “not so” with the “guarantee” of complete freedom of thought and self-realization and self-expression on the side of the constitution of the country and international laws. Some groups of people with a radio station require &amp;quot;maintenance personnel&amp;quot;, others require &amp;quot;human shields&amp;quot;, a third require a computer and devices that are not suitable, a quarter require criminals for work, a fifth require investigation without presence.&lt;/p&gt;
+&lt;p&gt;For all this, we have tele-present observers and operators who are with them 24/7, not only during the investigation of my questions, but these specially trained people who have been studying the structure of the genitals for years and only using the radio alter their structures, &amp;quot;transferring&amp;quot; them from the sources to the &amp;quot;owners&amp;quot;, and if mentioning these organs is mostly tiring or funny, then the nervous systems are more important.&lt;/p&gt;
+&lt;p&gt;This leads me to memories of conversations with other &amp;quot;sources&amp;quot; and my own memories - people build a society according to the division into plebs and those with the right who establish a dictatorship based on the use of the emotionality of the masses, using the theme of military actions, descriptions of war crimes as the necessity of one or another deprivation of rights for one or a group, for example - you are a &amp;quot;curator&amp;quot;, that eyewitnesses say, now we have the right to deprive you of your qualities and make you a source for a person from our society. The &amp;quot;sources&amp;quot; themselves are &amp;quot;prepared&amp;quot; for &amp;quot;fate&amp;quot; from kindergarten, it is a series of specially inflicted psychological traumas, often with sexual overtones or imitation of sexual acts, images committed in the &amp;quot;world&amp;quot;, and under the &amp;quot;instant&amp;quot;, from my memories and stories, this is implemented according to the algorithm - after 3 years until ~20, and after 5 years after. Psychological injuries become the ground for future &amp;quot;programmed&amp;quot; inabilities, for example, to self-defense or defending one's opinion or position. In cases where the &amp;quot;source&amp;quot; begins to tell the public about all this and demand peace, the &amp;quot;police&amp;quot; write a series of special acts in which the entire experience of the person is determined to be traumatic for him/her, imposing &amp;quot;treatment&amp;quot; that can be depicted as plowing furrows in the source's cerebral cortex until the person remembers the claim. In my case, after &amp;quot;erasing&amp;quot; and &amp;quot;transferring&amp;quot; what they need, if the source conscientiously followed the orders of the &amp;quot;rights holders&amp;quot;, there is a compulsion to &amp;quot;apologize&amp;quot; - this can be masturbation and shitting if the victim &amp;quot;right worker&amp;quot;, if not, then the &amp;quot;apology&amp;quot; can contain everything disgusting that comes to mind. In addition, the 'non-plebs' claim that they have copyright over the nervous systems that they have been &amp;quot;creating&amp;quot; for years, carrying out the described actions, and recording biometric data. They do not acknowledge the infliction of psychological trauma by them, and point to the scenes of perversions between children they organized as normal life.&lt;/p&gt;
+&lt;p&gt;All this builds a capsule for a part of society in which there is no life for them without war using radio equipment ( here about signal filtering ) and cyber weapons and various forms of cyber protection from third parties. Although all of the above will be immediately banned by the institution of local government. As another option, you can live in a way that is completely incompatible with &amp;quot;users&amp;quot;, but in my experience, this leads to a life under &amp;quot;control&amp;quot; where every hand movement is calculated, every second can be controlled by the body, and the &amp;quot;rightful owner&amp;quot; grows to the &amp;quot;source&amp;quot; without obstacles, and with bans after &amp;quot;shootouts&amp;quot; this does not inspire hope for survival.&lt;/p&gt;
+&lt;p&gt;PS. As another option, you can live in a way that is completely incompatible with &amp;quot;users&amp;quot;, where I am now, for many here now this leads to a life under &amp;quot;control&amp;quot; and &amp;quot;experiment&amp;quot;, with piracy at devices, where every movement is calculated, every second body can be controlled, and the &amp;quot;rightful owner&amp;quot; grows to the &amp;quot;source&amp;quot; without obstacles, and with bans after &amp;quot;cyber shootouts&amp;quot; this does not inspire hope for survival but alternative is described higher.&lt;/p&gt;
+&lt;p&gt;PS. Their slang is built on the basis of social games in history from mass media where there is a confrontation of good and evil, where it is proposed to take the dark side, but more often on the basis of the history and culture of the people where the victims, initially parts of the mafia, play feudal societies in which they occupy the positions of the nobility, plebs, serfs - people wage war for a better place under the sun. From the main concepts:
+- there are people, you can't do anything because of them, first of all to their victims.
+- there are &amp;quot;dude&amp;quot;, they serve as proxies in achieving goals in business&lt;/p&gt;
+&lt;p&gt;They can be called, as in Ukraine and Russia, with literary words - &amp;quot;person&amp;quot;, but keep in mind that this is their eyelids and forehead, this is the most famous example.&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6032823/"&gt;https://pmc.ncbi.nlm.nih.gov/articles/PMC6032823/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.economist.com/science-and-technology/2020/01/23/people-can-now-be-identified-at-a-distance-by-their-heartbeat"&gt;https://www.economist.com/science-and-technology/2020/01/23/people-can-now-be-identified-at-a-distance-by-their-heartbeat&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.news-medical.net/health/What-are-Wireless-Brain-Sensors.aspx"&gt;https://www.news-medical.net/health/What-are-Wireless-Brain-Sensors.aspx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://elight.springeropen.com/articles/10.1186/s43593-022-00019-x"&gt;https://elight.springeropen.com/articles/10.1186/s43593-022-00019-x&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://ui.adsabs.harvard.edu/abs/2019arXiv191212192C/abstract"&gt;https://ui.adsabs.harvard.edu/abs/2019arXiv191212192C/abstract&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://royalsocietypublishing.org/doi/10.1098/rsta.2021.0020#RSTA20210020F2"&gt;https://royalsocietypublishing.org/doi/10.1098/rsta.2021.0020#RSTA20210020F2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://eceweb.rice.edu/news/brain-brain-communication-demo-receives-darpa-funding"&gt;https://eceweb.rice.edu/news/brain-brain-communication-demo-receives-darpa-funding&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://aeon.co/essays/how-might-telepathy-actually-work-outside-the-realm-of-sci-fi?utm_source=rss-feed"&gt;https://aeon.co/essays/how-might-telepathy-actually-work-outside-the-realm-of-sci-fi?utm_source=rss-feed&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://dumka.philosophy.ua/index.php/fd/article/download/519/541/927"&gt;https://dumka.philosophy.ua/index.php/fd/article/download/519/541/927&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://uk.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D0%B8%D0%B7%D0%BC"&gt;https://uk.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D0%B8%D0%B7%D0%BC&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://uk.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B5%D0%B1%D0%B5%D0%B9_%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B4%D0%B0%D0%B2%D0%BD%D1%8C%D0%BE%D0%B3%D0%BE_%D0%A0%D0%B8%D0%BC%D1%83"&gt;https://uk.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B5%D0%B1%D0%B5%D0%B9_%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B4%D0%B0%D0%B2%D0%BD%D1%8C%D0%BE%D0%B3%D0%BE_%D0%A0%D0%B8%D0%BC%D1%83&lt;/a&gt;&lt;/p&gt;
+</content><category term="knowlege, science"/><category term="knowlege"/><category term="science"/></entry><entry><title>Brainwave entertainment and BrainMachine</title><link href="https://mksscryertower.quest/Brainwave%20entertainment.html" rel="alternate"/><published>2022-10-10T10:20:00+03:00</published><updated>2025-06-29T05:55:00+03:00</updated><author><name>Klimenko Maxim Sergievich</name></author><id>tag:mksscryertower.quest,2022-10-10:/Brainwave entertainment.html</id><summary type="html">&lt;p class="first last"&gt;Brainwave entertaiment&lt;/p&gt;
+</summary><content type="html">&lt;hr class="docutils" /&gt;
+&lt;p&gt;My &amp;quot;brain machine&amp;quot;:&lt;/p&gt;
+&lt;p&gt;Github: &lt;a class="reference external" href="https://github.com/asciiscry3r/brainmachine"&gt;https://github.com/asciiscry3r/brainmachine&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Base of current without brain machine program, I will write program to portable version in futhure:&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/brainmachine45.jpg" /&gt;
+&lt;img alt="" class="align-left" src="images/brainmachine35.jpg" /&gt;
+&lt;img alt="" class="align-left" src="images/wipatmega.jpg" /&gt;
+&lt;img alt="" class="align-left" src="images/bm2.jpg" /&gt;
+&lt;img alt="" class="align-left" src="images/bm1.jpg" /&gt;
+&lt;p&gt;In life, when, I start this for first time, it’s difficult to understand the background EMF that passes in the speakers coils:&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/brainmachineEMF2.png" /&gt;
+&lt;p&gt;Updates and workarounds:&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/brainmachineEMF.jpg" /&gt;
+&lt;img alt="" class="align-left" src="images/brainmachinebuild.jpg" /&gt;
+&lt;img alt="" class="align-left" src="images/aoeregulatedfireaction.jpg" /&gt;
+&lt;img alt="" class="align-left" src="images/brainmachinewithrnd.jpg" /&gt;
+&lt;p&gt;The brain does not operate in just one single frequency; the full spectrum of brainwave frequencies are always running, all the time. The dominant frequency determines our mental state – and entrainment temporarily shifts our mental state by boosting one frequency to be louder than the others.&lt;/p&gt;
+&lt;p&gt;The brain can be entrained within a certain frequency range, known as the Frequency Following Response (FFR) and was discovered by neuroscientists in the 1930s.&lt;/p&gt;
+&lt;p&gt;Worden, F. &amp;amp; Marsh, J. Frequency-following (microphonic-like) neural responses evoked by sound. Electroencephalogr. Clin. Neurophysiol. 25, 42–52 (1968).&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Delta Waves – (0.1 – 3.9 Hz) — When in a deep, dreamless sleep. Newborns sleep in this stage, adults less so.&lt;/li&gt;
+&lt;li&gt;Theta Waves – (4 – 7.9 Hz) — Dreaming sleep (REM), this is the goal for meditation or self-hypnosis.&lt;/li&gt;
+&lt;li&gt;Alpha Waves – (8 – 13.9 Hz) — Relaxed, daydreaming and watching TV.&lt;/li&gt;
+&lt;li&gt;Beta Waves – (14 – 30 Hz) — The awake state. Engaged in activities and conversation.&lt;/li&gt;
+&lt;li&gt;Gamma Waves – (31 Hz+) — Hyper alert, good for insights and higher learning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Types Of Brainwave Entertainment:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Music Modulation&lt;/li&gt;
+&lt;li&gt;Monaural Beats&lt;/li&gt;
+&lt;li&gt;Binaural Beats&lt;/li&gt;
+&lt;li&gt;Isochronic Beats&lt;/li&gt;
+&lt;li&gt;Sound and Light&lt;/li&gt;
+&lt;li&gt;EEG Active&lt;/li&gt;
+&lt;li&gt;Electromagnetic (EM)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Artifical telepathy and tele control&lt;/p&gt;
+&lt;p&gt;First, known for me, experiments with brainwaves - 1922/1923:&lt;/p&gt;
+&lt;p&gt;Кажинский Бернард - Биологическая радиосвязь/Kazhinsky Bernard - Biological radio communication&lt;/p&gt;
+&lt;p&gt;And first experiments with mental state transplantation.&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/img-2023-04-17-044949.png" /&gt;
+&lt;img alt="" class="align-left" src="images/img-2023-04-17-045258.png" /&gt;
+&lt;p&gt;&amp;quot;For me, looking for an analogy between the elements of the nervous system and the details of a radio station, it was clear that the author of the book did not find it possible (at least at that time) to attribute the meaning of &amp;quot;self-induction coils&amp;quot; to spirals in nerves. This conclusion was also confirmed by the fact that in the second place of the same book, A. V. Leontovich only casually mentions the capacitor phenomenon in the nervous system according to the theory of V. M. Bekhterev.[3] By the way, it will be noted that I did not find an indication of the analogy with the oscillations of the Thomson contour in the works of V. M. Bekhterev. Consequently, this question is completely new, not yet studied and awaiting its development.&amp;quot;&lt;/p&gt;
+&lt;img alt="" class="align-left" src="images/img-2023-04-18-075605.png" /&gt;
+&lt;div class="section" id="plan"&gt;
+&lt;h2&gt;Plan&lt;/h2&gt;
+&lt;p&gt;pavlov dog experiment &lt;a class="reference external" href="https://www.google.com/search?client=firefox-b-d&amp;amp;q=pavlov+dogs"&gt;https://www.google.com/search?client=firefox-b-d&amp;amp;q=pavlov+dogs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;neuroconstructivist &lt;a class="reference external" href="https://www.google.com/search?q=neuroconstructivist&amp;amp;client=firefox-b-d&amp;amp;sxsrf=ALiCzsba9RSP7ScxMRSx59vG5xMlt79_xg%3A1668920564747&amp;amp;ei=9LR5Y4CdLdGW8gK136HICg&amp;amp;oq=Neuroconstru&amp;amp;gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgBMgUIABCABDIFCAAQgAQyBQgAEIAEMggILhCABBDUAjIICC4QgAQQ1AIyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoECAAQRzoKCAAQRxDWBBCwAzoHCAAQsAMQQzoNCAAQ5AIQ1gQQsAMYAToPCC4Q1AIQyAMQsAMQQxgCOgwILhDIAxCwAxBDGAI6BwgjEOoCECc6BAgjECc6BAgAEEM6EQguEIAEELEDEIMBEMcBENEDOgsIABCABBCxAxCDAToUCC4QgAQQsQMQgwEQxwEQ0QMQ1AI6BQgAEJECOgQILhBDOgoIABCxAxCDARBDOggIABCABBCxAzoHCAAQsQMQQzoQCC4QsQMQgwEQxwEQ0QMQQzoLCC4QgAQQxwEQ0QM6BwgAEIAEEAo6CwguEIAEEMcBEK8BSgQIQRgASgQIRhgBULCoCVjr3AlgmIAKaANwAngAgAGHAYgB8QqSAQQwLjEymAEAoAEBsAEKyAESwAEB2gEGCAEQARgJ2gEGCAIQARgI&amp;amp;sclient=gws-wiz-serp"&gt;https://www.google.com/search?q=neuroconstructivist&amp;amp;client=firefox-b-d&amp;amp;sxsrf=ALiCzsba9RSP7ScxMRSx59vG5xMlt79_xg%3A1668920564747&amp;amp;ei=9LR5Y4CdLdGW8gK136HICg&amp;amp;oq=Neuroconstru&amp;amp;gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgBMgUIABCABDIFCAAQgAQyBQgAEIAEMggILhCABBDUAjIICC4QgAQQ1AIyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoECAAQRzoKCAAQRxDWBBCwAzoHCAAQsAMQQzoNCAAQ5AIQ1gQQsAMYAToPCC4Q1AIQyAMQsAMQQxgCOgwILhDIAxCwAxBDGAI6BwgjEOoCECc6BAgjECc6BAgAEEM6EQguEIAEELEDEIMBEMcBENEDOgsIABCABBCxAxCDAToUCC4QgAQQsQMQgwEQxwEQ0QMQ1AI6BQgAEJECOgQILhBDOgoIABCxAxCDARBDOggIABCABBCxAzoHCAAQsQMQQzoQCC4QsQMQgwEQxwEQ0QMQQzoLCC4QgAQQxwEQ0QM6BwgAEIAEEAo6CwguEIAEEMcBEK8BSgQIQRgASgQIRhgBULCoCVjr3AlgmIAKaANwAngAgAGHAYgB8QqSAQQwLjEymAEAoAEBsAEKyAESwAEB2gEGCAEQARgJ2gEGCAIQARgI&amp;amp;sclient=gws-wiz-serp&lt;/a&gt;&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;50 Hz field in living rooms - non nathural brain development&lt;/p&gt;
+&lt;p&gt;Power signals from electrical devices - EMF tele control but only n some places and this can be current injectino&lt;/p&gt;
+&lt;p&gt;Transformers&lt;/p&gt;
+&lt;p&gt;VHF/UHF and Computers and TV - ideology&lt;/p&gt;
+&lt;p&gt;Food/Water Drugs - CNS damage&lt;/p&gt;
+&lt;p&gt;Brainwave sync - control of human&lt;/p&gt;
+&lt;p&gt;pattern of development - piracy or ~hackers~ ideology&lt;/p&gt;
+&lt;p&gt;memory - gipocampus/brain damage by microwave/uhf or vhf&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.ukessays.com/essays/psychology/nativist-and-neuroconstructivist-positions-of-brain-development.php"&gt;https://www.ukessays.com/essays/psychology/nativist-and-neuroconstructivist-positions-of-brain-development.php&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://en.wikipedia.org/wiki/Interactive_specialization"&gt;https://en.wikipedia.org/wiki/Interactive_specialization&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.med-technews.com/news/neurostimulation-sleep-headset-made-available-worldwide/"&gt;https://www.med-technews.com/news/neurostimulation-sleep-headset-made-available-worldwide/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.amazon.com/Muse-2-Brain-Sensing-Headband/dp/B07HL2S9JQ"&gt;https://www.amazon.com/Muse-2-Brain-Sensing-Headband/dp/B07HL2S9JQ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://sites.google.com/a/emotiv.com/wiki/about-emotiv-1/about-epoc"&gt;https://sites.google.com/a/emotiv.com/wiki/about-emotiv-1/about-epoc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.theguardian.com/technology/2014/jul/11/kickstarter-headset-locked-in-syndrome-communication"&gt;https://www.theguardian.com/technology/2014/jul/11/kickstarter-headset-locked-in-syndrome-communication&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.fastcompany.com/3036390/how-i-wore-a-brainwave-reading-headset-for-a-week-and-learned-to-calm-my-mind"&gt;https://www.fastcompany.com/3036390/how-i-wore-a-brainwave-reading-headset-for-a-week-and-learned-to-calm-my-mind&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://store.neurosky.com/products/painpal"&gt;https://store.neurosky.com/products/painpal&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.diygenius.com/hacking-your-brain-waves/"&gt;https://www.diygenius.com/hacking-your-brain-waves/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://brainworksneurotherapy.com/about/faq/what-brainwave-entrainment/"&gt;https://brainworksneurotherapy.com/about/faq/what-brainwave-entrainment/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="knowlege, science"/><category term="knowlege"/><category term="science"/></entry></feed>

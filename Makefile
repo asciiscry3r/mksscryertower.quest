@@ -12,7 +12,7 @@ OUTPUTDIR_GITHUB=$(BASEDIR)/docs
 
 SSH_HOST=mksscryertower.quest
 SSH_PORT=22
-SSH_USER=arch
+SSH_USER=linuxuser
 SSH_TARGET_DIR=/var/www/mksscryertower.quest
 
 DEBUG ?= 0

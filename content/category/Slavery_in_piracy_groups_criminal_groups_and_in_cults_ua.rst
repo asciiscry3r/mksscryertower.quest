@@ -8,6 +8,7 @@ Slavery in piracy groups, criminal groups and in cults
 :slug: Slavery in piracy groups, criminal groups and in cults
 :authors: Klimenko Maxim Sergievich
 :summary: Slavery in piracy groups, criminal groups and in cults
+:series: Human rights in Ukraine
 :translation: true
 :lang: ua
 

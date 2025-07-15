@@ -6,6 +6,7 @@ Piracy on computers
 :tags: cybersecurity, diy, it, hacking, piracy
 :category: cybersecurity, diy, it, hacking, piracy
 :slug: Piracy on computers
+:series: Human rights in Ukraine
 :authors: Klimenko Maxim Sergievich
 :summary: Piracy on computers
 

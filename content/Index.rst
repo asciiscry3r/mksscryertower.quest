@@ -34,6 +34,8 @@ And back of this all:
 Pages
 =====
 
+`Series: Human rights in Ukraine <{filename}/category/Human_rights_in_Ukraine.rst>`_
+
 `Curriculum Vitae <{filename}/category/Curriculum_Vitae_of_Klimenko_Maxim_Sergievich.rst>`_
 
 `Workstation configuration <{filename}/category/Workstation_configuration.rst>`_
@@ -54,25 +56,11 @@ Pages
 
 `Artificial human life = existence <{filename}/category/Artificial_human_life_and_existence.rst>`_
 
-`EMF and Human health <{filename}/category/Health_Effects_in_RF_Electromagnetic_fields.rst>`_
-
-`EMF and Human health UA <{filename}/category/Health_Effects_in_RF_Electromagnetic_fields_ua.rst>`_
-
-`Slavery in piracy groups, criminal groups and in cults <{filename}/category/Slavery_in_piracy_groups_criminal_groups_and_in_cults.rst>`_
-
-`Slavery in piracy groups, criminal groups and in cults UA <{filename}/category/Slavery_in_piracy_groups_criminal_groups_and_in_cults_ua.rst>`_
-
-`Human rights in Ukraine <{filename}/category/Human_rights_in_Ukraine.rst>`_
-
-`Human rights in Ukraine UA <{filename}/category/Human_rights_in_Ukraine_ua.rst>`_
-
 `Computer trace system <{filename}/category/Computer_trace_system.rst>`_
 
 `Computer trace system UA <{filename}/category/Computer_trace_system_ua.rst>`_
 
 `Home local network <{filename}/category/Home_local_network.rst>`_
-
-`Crimes with brain scanners, human detectors, other devices and me (WIP) <{filename}/category/Crimes_with_brain_scanners_human_detectors_other_devices_and_me.rst>`_
 
 `Radio frequency attacks from user side (WIP) <{filename}/category/Radio_frequency_attacks_from_user_side.rst>`_
 

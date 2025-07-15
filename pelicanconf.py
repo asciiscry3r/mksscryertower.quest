@@ -1,5 +1,5 @@
 AUTHOR = 'Klimenko Maxim Sergievich'
-SITENAME = 'backup.mksscryertower.quest'
+SITENAME = 'mksscryertower.quest'
 SITEURL = 'https://mksscryertower.quest'
 
 THEME = 'nmnlist/'
@@ -10,6 +10,10 @@ TIMEZONE = 'Europe/Kiev'
 
 DEFAULT_LANG = 'en'
 
+PLUGIN_PATHS = ["plugins", ".venv/lib/python3.13/site-packages/pelican/plugins/"]
+
+PLUGINS = ["sitemap", "series"]
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -17,6 +21,19 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+SITEMAP = {
+    "format": "xml",
+    "priorities": {
+        "articles": 0.5,
+        "indexes": 0.5,
+        "pages": 0.5
+    },
+    "changefreqs": {
+        "articles": "monthly",
+        "indexes": "daily",
+        "pages": "monthly"
+    }
+}
 
 STATIC_PATHS = [
     'images',

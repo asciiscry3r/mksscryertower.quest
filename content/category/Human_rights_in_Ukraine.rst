@@ -7,6 +7,7 @@ Human rights in Ukraine
 :slug: Human rights in Ukraine
 :authors: Klimenko Maxim Sergievich
 :summary: Human rights in Ukraine
+:series: Human rights in Ukraine
 :translation: false
 :lang: en
 
@@ -69,7 +70,7 @@ Mirgorod Gogola 139 80 EMF:
 From Military Neuroscience and the Coming Age of Neurowarfare 2016, Armin Krishnan.
 
 Many studies on microwaves from the 1960s and 1970s have already indicated many of the potential issues: long-term exposure to microwaves can cause genetic mutation, brain tumours and other cancers, behavioural abnormalities (suicide), alterations in biological cycles, weakening of the immune system and alterations in learning ability (Becker, 1990: 214–215; also Brodeur, 1977). A 1970 RAND metastudy on neurological effects of microwaves suggested: ‘it seems likely that neural function, and therefore behavior, are indeed disturbed by low intensity microwaves…the studies consistently and repeatedly report that human beings do exhibit behavioral disturbances when exposed to low intensity microwaves’ (MacGregor, 1970: 8).
-         
+
 These conclusions are not too different from some more recent studies that also indicate brain and behavior changes resulting from long-term EMF exposure. For example, a study from 2000 claims: ‘Natural and man-made electromagnetic fields influence the mood and behavior of healthy and sick people. Considerable evidence suggests that electromagnetic fields affect sleep’ (Sher, 2000). Another study from 2006 has linked ambient electromagnetic fields to human moods and behaviour, finding a significantly increased suicide rate during periods of geomagnetic storm (Berk et al., 2006). Continuous electromagnetic field exposure has been linked in scientific studies to ‘cancer, heart disease, sleep disturbance, depression, suicide, anger, rage, violence, homicide, neurological disease and mortality’ (Cherry, 2002). A leaked study on the British police radio system TETRA prepared for the Police Federation of England and Wales contends that microwaves pulsed in certain frequencies can induce paranoia, depression, suicide, manic behaviour and blindness (Trower, 2001: 30).
 
 Possible "human control", or other try to create weapon from PC, author - scientology/police piracy mafia:
