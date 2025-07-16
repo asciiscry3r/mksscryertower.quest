@@ -1819,95 +1819,90 @@ install&lt;span class="w"&gt; &lt;/span&gt;thunderbolt&lt;span class="w"&gt; &lt
 &lt;div class="section" id="entropy-feeders-and-generators"&gt;
 &lt;h2&gt;Entropy feeders and generators&lt;/h2&gt;
 &lt;p&gt;repo: &lt;a class="reference external" href="https://github.com/asciiscry3r/simple-entropy-feeder"&gt;https://github.com/asciiscry3r/simple-entropy-feeder&lt;/a&gt;&lt;/p&gt;
-&lt;!-- code-block: shell
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;sudo&lt;span class="w"&gt; &lt;/span&gt;pacman&lt;span class="w"&gt; &lt;/span&gt;-S&lt;span class="w"&gt; &lt;/span&gt;tpm2-tools
 
-sudo pacman -S tpm2-tools
-
-yay -S twuewand-git
+yay&lt;span class="w"&gt; &lt;/span&gt;-S&lt;span class="w"&gt; &lt;/span&gt;twuewand-git
 
 Or
 
-wget https://repo.mksscryertower.quest/repo/x86_64/twuewand-git-0.0.4-1-any.pkg.tar.zst
+wget&lt;span class="w"&gt; &lt;/span&gt;https://repo.mksscryertower.quest/repo/x86_64/twuewand-git-0.0.4-1-any.pkg.tar.zst
 
-sudo pacman -U twuewand-git-0.0.4-1-any.pkg.tar.zst
+sudo&lt;span class="w"&gt; &lt;/span&gt;pacman&lt;span class="w"&gt; &lt;/span&gt;-U&lt;span class="w"&gt; &lt;/span&gt;twuewand-git-0.0.4-1-any.pkg.tar.zst
 
 Or
 
-git clone https://github.com/rfinnie/twuewand.git
-cd twuewand
-make install
-cd rndaddentropy
-make install
+git&lt;span class="w"&gt; &lt;/span&gt;clone&lt;span class="w"&gt; &lt;/span&gt;https://github.com/rfinnie/twuewand.git
+&lt;span class="nb"&gt;cd&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;twuewand
+make&lt;span class="w"&gt; &lt;/span&gt;install
+&lt;span class="nb"&gt;cd&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;rndaddentropy
+make&lt;span class="w"&gt; &lt;/span&gt;install
 
-sudo vim /usr/bin/simpleentropyfeeder.sh
+sudo&lt;span class="w"&gt; &lt;/span&gt;vim&lt;span class="w"&gt; &lt;/span&gt;/usr/bin/simpleentropyfeeder.sh
 
-#!/usr/bin/env bash
+&lt;span class="c1"&gt;#!/usr/bin/env bash&lt;/span&gt;
 
-twuewand - -bytes 32 | rndaddentropy
-tpm2_getrandom 32 | rndaddentropy --&gt;
+twuewand&lt;span class="w"&gt; &lt;/span&gt;--bytes&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;32&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;|&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;rndaddentropy
+tpm2_getrandom&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="m"&gt;32&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;|&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;rndaddentropy
+&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Timer for systemd:&lt;/p&gt;
-&lt;!-- code-block: shell
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;sudo&lt;span class="w"&gt; &lt;/span&gt;vim&lt;span class="w"&gt; &lt;/span&gt;/usr/lib/systemd/system/simpleentropyfeeder.timer
 
-sudo vim /usr/lib/systemd/system/simpleentropyfeeder.timer
+&lt;span class="o"&gt;[&lt;/span&gt;Unit&lt;span class="o"&gt;]&lt;/span&gt;
+&lt;span class="nv"&gt;Description&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;Start/Restart&lt;span class="w"&gt; &lt;/span&gt;Simple&lt;span class="w"&gt; &lt;/span&gt;Entropy&lt;span class="w"&gt; &lt;/span&gt;feeder&lt;span class="w"&gt; &lt;/span&gt;service
 
-[Unit]
-Description=Start/Restart Simple Entropy feeder service
+&lt;span class="o"&gt;[&lt;/span&gt;Timer&lt;span class="o"&gt;]&lt;/span&gt;
+&lt;span class="nv"&gt;Unit&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;simpleentropyfeeder.service
+&lt;span class="nv"&gt;OnBootSec&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
+&lt;span class="nv"&gt;OnUnitInactiveSec&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="m"&gt;1&lt;/span&gt;
 
-[Timer]
-Unit=simpleentropyfeeder.service
-OnBootSec=1
-OnUnitInactiveSec=1
-
-[Install]
-WantedBy=timers.target --&gt;
+&lt;span class="o"&gt;[&lt;/span&gt;Install&lt;span class="o"&gt;]&lt;/span&gt;
+&lt;span class="nv"&gt;WantedBy&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;timers.target
+&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Systemd service:&lt;/p&gt;
-&lt;!-- code-block: shell
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;sudo&lt;span class="w"&gt; &lt;/span&gt;vim&lt;span class="w"&gt; &lt;/span&gt;/usr/lib/systemd/system/simpleentropyfeeder.service
 
-sudo vim /usr/lib/systemd/system/simpleentropyfeeder.service
+&lt;span class="o"&gt;[&lt;/span&gt;Unit&lt;span class="o"&gt;]&lt;/span&gt;
+&lt;span class="nv"&gt;Description&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;Simple&lt;span class="w"&gt; &lt;/span&gt;Entropy&lt;span class="w"&gt; &lt;/span&gt;feeder
 
-[Unit]
-Description=Simple Entropy feeder
+&lt;span class="o"&gt;[&lt;/span&gt;Service&lt;span class="o"&gt;]&lt;/span&gt;
+&lt;span class="nv"&gt;Type&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;oneshot
+&lt;span class="nv"&gt;ExecStart&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;/usr/bin/simpleentropyfeeder.sh
+&lt;span class="nv"&gt;PrivateNetwork&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;yes
+&lt;span class="nv"&gt;PrivateTmp&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;yes
+&lt;span class="nv"&gt;InaccessibleDirectories&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;/home
+&lt;span class="nv"&gt;ReadOnlyDirectories&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;/var
+&lt;span class="c1"&gt;#LimitNPROC=1&lt;/span&gt;
+&lt;span class="c1"&gt;#LimitFSIZE=0&lt;/span&gt;
+&lt;span class="c1"&gt;#CapabilityBoundingSet=CAP_CHOWN CAP_KILL&lt;/span&gt;
 
-[Service]
-Type=oneshot
-ExecStart=/usr/bin/simpleentropyfeeder.sh
-PrivateNetwork=yes
-PrivateTmp=yes
-InaccessibleDirectories=/home
-ReadOnlyDirectories=/var
-#LimitNPROC=1
-#LimitFSIZE=0
-#CapabilityBoundingSet=CAP_CHOWN CAP_KILL
-
-[Install]
-WantedBy=multi-user.target --&gt;
+&lt;span class="o"&gt;[&lt;/span&gt;Install&lt;span class="o"&gt;]&lt;/span&gt;
+&lt;span class="nv"&gt;WantedBy&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;multi-user.target
+&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Enable and start:&lt;/p&gt;
-&lt;!-- code-block: shell
-
-sudo systemctl enable simpleentropyfeeder.service
-sudo systemctl start simpleentropyfeeder.timer
-sudo systemctl enable simpleentropyfeeder.timer --&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;sudo&lt;span class="w"&gt; &lt;/span&gt;systemctl&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nb"&gt;enable&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;simpleentropyfeeder.service
+sudo&lt;span class="w"&gt; &lt;/span&gt;systemctl&lt;span class="w"&gt; &lt;/span&gt;start&lt;span class="w"&gt; &lt;/span&gt;simpleentropyfeeder.timer
+sudo&lt;span class="w"&gt; &lt;/span&gt;systemctl&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nb"&gt;enable&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;simpleentropyfeeder.timer
+&lt;/pre&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="section" id="simple-stateful-firewall-with-opensnitch"&gt;
 &lt;h2&gt;Simple stateful firewall with opensnitch&lt;/h2&gt;
 &lt;p&gt;repo: &lt;a class="reference external" href="https://github.com/asciiscry3r/simple-stateful-firewall"&gt;https://github.com/asciiscry3r/simple-stateful-firewall&lt;/a&gt;&lt;/p&gt;
-&lt;!-- code-block: shell
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;sudo&lt;span class="w"&gt; &lt;/span&gt;pacman&lt;span class="w"&gt; &lt;/span&gt;-S&lt;span class="w"&gt; &lt;/span&gt;opensnitch&lt;span class="w"&gt; &lt;/span&gt;opensnitch-ebpf-module
 
-sudo pacman -S opensnitch opensnitch-ebpf-module
-
-yay -S simple-stateful-firewall-git
+yay&lt;span class="w"&gt; &lt;/span&gt;-S&lt;span class="w"&gt; &lt;/span&gt;simple-stateful-firewall-git
 
 Or
 
-wget https://repo.mksscryertower.quest/repo/x86_64/simple-stateful-firewall-git-0.0.34-1-x86_64.pkg.tar.zst
+wget&lt;span class="w"&gt; &lt;/span&gt;https://repo.mksscryertower.quest/repo/x86_64/simple-stateful-firewall-git-0.0.34-1-x86_64.pkg.tar.zst
 
-sudo pacman -U simple-stateful-firewall-git-0.0.34-1-x86_64.pkg.tar.zst
+sudo&lt;span class="w"&gt; &lt;/span&gt;pacman&lt;span class="w"&gt; &lt;/span&gt;-U&lt;span class="w"&gt; &lt;/span&gt;simple-stateful-firewall-git-0.0.34-1-x86_64.pkg.tar.zst
 
 Or
 
-git clone https://github.com/asciiscry3r/simple-stateful-firewall.git
-cd simple-stateful-firewall
-make install --&gt;
+git&lt;span class="w"&gt; &lt;/span&gt;clone&lt;span class="w"&gt; &lt;/span&gt;https://github.com/asciiscry3r/simple-stateful-firewall.git
+&lt;span class="nb"&gt;cd&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;simple-stateful-firewall
+make&lt;span class="w"&gt; &lt;/span&gt;install
+&lt;/pre&gt;&lt;/div&gt;
 &lt;/div&gt;
 </content><category term="cybersecurity, diy, it, hacking"/><category term="cybersecurity"/><category term="diy"/><category term="it"/><category term="hacking"/></entry><entry><title>Human rights in Ukraine</title><link href="https://backup.mksscryertower.quest/Human%20rights%20in%20Ukraine-en_US.html" rel="alternate"/><published>2022-11-06T19:50:00+02:00</published><updated>2022-11-06T19:50:00+02:00</updated><author><name>Klimenko Maxim Sergievich</name></author><id>tag:backup.mksscryertower.quest,2022-11-06:/Human rights in Ukraine-en_US.html</id><summary type="html">&lt;p class="first last"&gt;Human rights in Ukraine&lt;/p&gt;
 </summary><content type="html">&lt;hr class="docutils" /&gt;
@@ -2535,7 +2530,7 @@ QR&lt;span class="w"&gt; &lt;/span&gt;CODE
 </summary><content type="html">&lt;hr class="docutils" /&gt;
 &lt;p&gt;My &amp;quot;brain machine&amp;quot;:&lt;/p&gt;
 &lt;p&gt;Github: &lt;a class="reference external" href="https://github.com/asciiscry3r/brainmachine"&gt;https://github.com/asciiscry3r/brainmachine&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Base of current without brain machine program, I will write program to portable version in futhure:&lt;/p&gt;
+&lt;p&gt;Base of current without brain machine program, I will write program to portable version in future:&lt;/p&gt;
 &lt;img alt="" class="align-left" src="images/brainmachine45.jpg" /&gt;
 &lt;img alt="" class="align-left" src="images/brainmachine35.jpg" /&gt;
 &lt;img alt="" class="align-left" src="images/wipatmega.jpg" /&gt;

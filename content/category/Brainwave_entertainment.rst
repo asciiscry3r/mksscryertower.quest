@@ -15,7 +15,7 @@ My "brain machine":
 
 Github: https://github.com/asciiscry3r/brainmachine
 
-Base of current without brain machine program, I will write program to portable version in futhure:
+Base of current without brain machine program, I will write program to portable version in future:
 
 .. image:: images/brainmachine45.jpg
            :align: left

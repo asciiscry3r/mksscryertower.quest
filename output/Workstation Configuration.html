@@ -304,95 +304,90 @@ install<span class="w"> </span>thunderbolt<span class="w"> </span>/bin/false
 <div class="section" id="entropy-feeders-and-generators">
 <h2>Entropy feeders and generators</h2>
 <p>repo: <a class="reference external" href="https://github.com/asciiscry3r/simple-entropy-feeder">https://github.com/asciiscry3r/simple-entropy-feeder</a></p>
-<!-- code-block: shell
+<div class="highlight"><pre><span></span>sudo<span class="w"> </span>pacman<span class="w"> </span>-S<span class="w"> </span>tpm2-tools
 
-sudo pacman -S tpm2-tools
-
-yay -S twuewand-git
+yay<span class="w"> </span>-S<span class="w"> </span>twuewand-git
 
 Or
 
-wget https://repo.mksscryertower.quest/repo/x86_64/twuewand-git-0.0.4-1-any.pkg.tar.zst
+wget<span class="w"> </span>https://repo.mksscryertower.quest/repo/x86_64/twuewand-git-0.0.4-1-any.pkg.tar.zst
 
-sudo pacman -U twuewand-git-0.0.4-1-any.pkg.tar.zst
+sudo<span class="w"> </span>pacman<span class="w"> </span>-U<span class="w"> </span>twuewand-git-0.0.4-1-any.pkg.tar.zst
 
 Or
 
-git clone https://github.com/rfinnie/twuewand.git
-cd twuewand
-make install
-cd rndaddentropy
-make install
+git<span class="w"> </span>clone<span class="w"> </span>https://github.com/rfinnie/twuewand.git
+<span class="nb">cd</span><span class="w"> </span>twuewand
+make<span class="w"> </span>install
+<span class="nb">cd</span><span class="w"> </span>rndaddentropy
+make<span class="w"> </span>install
 
-sudo vim /usr/bin/simpleentropyfeeder.sh
+sudo<span class="w"> </span>vim<span class="w"> </span>/usr/bin/simpleentropyfeeder.sh
 
-#!/usr/bin/env bash
+<span class="c1">#!/usr/bin/env bash</span>
 
-twuewand - -bytes 32 | rndaddentropy
-tpm2_getrandom 32 | rndaddentropy -->
+twuewand<span class="w"> </span>--bytes<span class="w"> </span><span class="m">32</span><span class="w"> </span><span class="p">|</span><span class="w"> </span>rndaddentropy
+tpm2_getrandom<span class="w"> </span><span class="m">32</span><span class="w"> </span><span class="p">|</span><span class="w"> </span>rndaddentropy
+</pre></div>
 <p>Timer for systemd:</p>
-<!-- code-block: shell
+<div class="highlight"><pre><span></span>sudo<span class="w"> </span>vim<span class="w"> </span>/usr/lib/systemd/system/simpleentropyfeeder.timer
 
-sudo vim /usr/lib/systemd/system/simpleentropyfeeder.timer
+<span class="o">[</span>Unit<span class="o">]</span>
+<span class="nv">Description</span><span class="o">=</span>Start/Restart<span class="w"> </span>Simple<span class="w"> </span>Entropy<span class="w"> </span>feeder<span class="w"> </span>service
 
-[Unit]
-Description=Start/Restart Simple Entropy feeder service
+<span class="o">[</span>Timer<span class="o">]</span>
+<span class="nv">Unit</span><span class="o">=</span>simpleentropyfeeder.service
+<span class="nv">OnBootSec</span><span class="o">=</span><span class="m">1</span>
+<span class="nv">OnUnitInactiveSec</span><span class="o">=</span><span class="m">1</span>
 
-[Timer]
-Unit=simpleentropyfeeder.service
-OnBootSec=1
-OnUnitInactiveSec=1
-
-[Install]
-WantedBy=timers.target -->
+<span class="o">[</span>Install<span class="o">]</span>
+<span class="nv">WantedBy</span><span class="o">=</span>timers.target
+</pre></div>
 <p>Systemd service:</p>
-<!-- code-block: shell
+<div class="highlight"><pre><span></span>sudo<span class="w"> </span>vim<span class="w"> </span>/usr/lib/systemd/system/simpleentropyfeeder.service
 
-sudo vim /usr/lib/systemd/system/simpleentropyfeeder.service
+<span class="o">[</span>Unit<span class="o">]</span>
+<span class="nv">Description</span><span class="o">=</span>Simple<span class="w"> </span>Entropy<span class="w"> </span>feeder
 
-[Unit]
-Description=Simple Entropy feeder
+<span class="o">[</span>Service<span class="o">]</span>
+<span class="nv">Type</span><span class="o">=</span>oneshot
+<span class="nv">ExecStart</span><span class="o">=</span>/usr/bin/simpleentropyfeeder.sh
+<span class="nv">PrivateNetwork</span><span class="o">=</span>yes
+<span class="nv">PrivateTmp</span><span class="o">=</span>yes
+<span class="nv">InaccessibleDirectories</span><span class="o">=</span>/home
+<span class="nv">ReadOnlyDirectories</span><span class="o">=</span>/var
+<span class="c1">#LimitNPROC=1</span>
+<span class="c1">#LimitFSIZE=0</span>
+<span class="c1">#CapabilityBoundingSet=CAP_CHOWN CAP_KILL</span>
 
-[Service]
-Type=oneshot
-ExecStart=/usr/bin/simpleentropyfeeder.sh
-PrivateNetwork=yes
-PrivateTmp=yes
-InaccessibleDirectories=/home
-ReadOnlyDirectories=/var
-#LimitNPROC=1
-#LimitFSIZE=0
-#CapabilityBoundingSet=CAP_CHOWN CAP_KILL
-
-[Install]
-WantedBy=multi-user.target -->
+<span class="o">[</span>Install<span class="o">]</span>
+<span class="nv">WantedBy</span><span class="o">=</span>multi-user.target
+</pre></div>
 <p>Enable and start:</p>
-<!-- code-block: shell
-
-sudo systemctl enable simpleentropyfeeder.service
-sudo systemctl start simpleentropyfeeder.timer
-sudo systemctl enable simpleentropyfeeder.timer -->
+<div class="highlight"><pre><span></span>sudo<span class="w"> </span>systemctl<span class="w"> </span><span class="nb">enable</span><span class="w"> </span>simpleentropyfeeder.service
+sudo<span class="w"> </span>systemctl<span class="w"> </span>start<span class="w"> </span>simpleentropyfeeder.timer
+sudo<span class="w"> </span>systemctl<span class="w"> </span><span class="nb">enable</span><span class="w"> </span>simpleentropyfeeder.timer
+</pre></div>
 </div>
 <div class="section" id="simple-stateful-firewall-with-opensnitch">
 <h2>Simple stateful firewall with opensnitch</h2>
 <p>repo: <a class="reference external" href="https://github.com/asciiscry3r/simple-stateful-firewall">https://github.com/asciiscry3r/simple-stateful-firewall</a></p>
-<!-- code-block: shell
+<div class="highlight"><pre><span></span>sudo<span class="w"> </span>pacman<span class="w"> </span>-S<span class="w"> </span>opensnitch<span class="w"> </span>opensnitch-ebpf-module
 
-sudo pacman -S opensnitch opensnitch-ebpf-module
-
-yay -S simple-stateful-firewall-git
+yay<span class="w"> </span>-S<span class="w"> </span>simple-stateful-firewall-git
 
 Or
 
-wget https://repo.mksscryertower.quest/repo/x86_64/simple-stateful-firewall-git-0.0.34-1-x86_64.pkg.tar.zst
+wget<span class="w"> </span>https://repo.mksscryertower.quest/repo/x86_64/simple-stateful-firewall-git-0.0.34-1-x86_64.pkg.tar.zst
 
-sudo pacman -U simple-stateful-firewall-git-0.0.34-1-x86_64.pkg.tar.zst
+sudo<span class="w"> </span>pacman<span class="w"> </span>-U<span class="w"> </span>simple-stateful-firewall-git-0.0.34-1-x86_64.pkg.tar.zst
 
 Or
 
-git clone https://github.com/asciiscry3r/simple-stateful-firewall.git
-cd simple-stateful-firewall
-make install -->
+git<span class="w"> </span>clone<span class="w"> </span>https://github.com/asciiscry3r/simple-stateful-firewall.git
+<span class="nb">cd</span><span class="w"> </span>simple-stateful-firewall
+make<span class="w"> </span>install
+</pre></div>
 </div>
 
 </article>

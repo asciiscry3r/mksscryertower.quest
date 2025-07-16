@@ -317,90 +317,90 @@ Configuration files, installation of entropy feeders and firewalls:
     install thunderbolt /bin/false
 
 
+
 Entropy feeders and generators
 ++++++++++++++++++++++++++++++
 
 repo: https://github.com/asciiscry3r/simple-entropy-feeder
 
 
-.. code-block:: shell
+..  code-block:: shell
 
-   sudo pacman -S tpm2-tools
+    sudo pacman -S tpm2-tools
 
-   yay -S twuewand-git
+    yay -S twuewand-git
 
-   Or
+    Or
 
-   wget https://repo.mksscryertower.quest/repo/x86_64/twuewand-git-0.0.4-1-any.pkg.tar.zst
+    wget https://repo.mksscryertower.quest/repo/x86_64/twuewand-git-0.0.4-1-any.pkg.tar.zst
 
-   sudo pacman -U twuewand-git-0.0.4-1-any.pkg.tar.zst
+    sudo pacman -U twuewand-git-0.0.4-1-any.pkg.tar.zst
 
-   Or
+    Or
 
-   git clone https://github.com/rfinnie/twuewand.git
-   cd twuewand
-   make install
-   cd rndaddentropy
-   make install
+    git clone https://github.com/rfinnie/twuewand.git
+    cd twuewand
+    make install
+    cd rndaddentropy
+    make install
 
-   sudo vim /usr/bin/simpleentropyfeeder.sh
+    sudo vim /usr/bin/simpleentropyfeeder.sh
 
-   #!/usr/bin/env bash
+    #!/usr/bin/env bash
 
-   twuewand --bytes 32 | rndaddentropy
-   tpm2_getrandom 32 | rndaddentropy
-
+    twuewand --bytes 32 | rndaddentropy
+    tpm2_getrandom 32 | rndaddentropy
 
 
 Timer for systemd:
 
-.. code-block:: shell
+..  code-block:: shell
 
-   sudo vim /usr/lib/systemd/system/simpleentropyfeeder.timer
+    sudo vim /usr/lib/systemd/system/simpleentropyfeeder.timer
 
-   [Unit]
-   Description=Start/Restart Simple Entropy feeder service
+    [Unit]
+    Description=Start/Restart Simple Entropy feeder service
 
-   [Timer]
-   Unit=simpleentropyfeeder.service
-   OnBootSec=1
-   OnUnitInactiveSec=1
+    [Timer]
+    Unit=simpleentropyfeeder.service
+    OnBootSec=1
+    OnUnitInactiveSec=1
 
-   [Install]
-   WantedBy=timers.target
+    [Install]
+    WantedBy=timers.target
 
 
 Systemd service:
 
-.. code-block:: shell
+..  code-block:: shell
 
-   sudo vim /usr/lib/systemd/system/simpleentropyfeeder.service
+    sudo vim /usr/lib/systemd/system/simpleentropyfeeder.service
 
-   [Unit]
-   Description=Simple Entropy feeder
+    [Unit]
+    Description=Simple Entropy feeder
 
-   [Service]
-   Type=oneshot
-   ExecStart=/usr/bin/simpleentropyfeeder.sh
-   PrivateNetwork=yes
-   PrivateTmp=yes
-   InaccessibleDirectories=/home
-   ReadOnlyDirectories=/var
-   #LimitNPROC=1
-   #LimitFSIZE=0
-   #CapabilityBoundingSet=CAP_CHOWN CAP_KILL
+    [Service]
+    Type=oneshot
+    ExecStart=/usr/bin/simpleentropyfeeder.sh
+    PrivateNetwork=yes
+    PrivateTmp=yes
+    InaccessibleDirectories=/home
+    ReadOnlyDirectories=/var
+    #LimitNPROC=1
+    #LimitFSIZE=0
+    #CapabilityBoundingSet=CAP_CHOWN CAP_KILL
 
-   [Install]
-   WantedBy=multi-user.target
+    [Install]
+    WantedBy=multi-user.target
 
 
 Enable and start:
 
-.. code-block:: shell
+..  code-block:: shell
 
-   sudo systemctl enable simpleentropyfeeder.service
-   sudo systemctl start simpleentropyfeeder.timer
-   sudo systemctl enable simpleentropyfeeder.timer
+    sudo systemctl enable simpleentropyfeeder.service
+    sudo systemctl start simpleentropyfeeder.timer
+    sudo systemctl enable simpleentropyfeeder.timer
 
 
 Simple stateful firewall with opensnitch
@@ -408,20 +408,20 @@ Simple stateful firewall with opensnitch
 
 repo: https://github.com/asciiscry3r/simple-stateful-firewall
 
-.. code-block:: shell
+..  code-block:: shell
 
-   sudo pacman -S opensnitch opensnitch-ebpf-module
+    sudo pacman -S opensnitch opensnitch-ebpf-module
 
-   yay -S simple-stateful-firewall-git
+    yay -S simple-stateful-firewall-git
 
-   Or
+    Or
 
-   wget https://repo.mksscryertower.quest/repo/x86_64/simple-stateful-firewall-git-0.0.34-1-x86_64.pkg.tar.zst
+    wget https://repo.mksscryertower.quest/repo/x86_64/simple-stateful-firewall-git-0.0.34-1-x86_64.pkg.tar.zst
 
-   sudo pacman -U simple-stateful-firewall-git-0.0.34-1-x86_64.pkg.tar.zst
+    sudo pacman -U simple-stateful-firewall-git-0.0.34-1-x86_64.pkg.tar.zst
 
-   Or
+    Or
 
-   git clone https://github.com/asciiscry3r/simple-stateful-firewall.git
-   cd simple-stateful-firewall
-   make install
+    git clone https://github.com/asciiscry3r/simple-stateful-firewall.git
+    cd simple-stateful-firewall
+    make install
