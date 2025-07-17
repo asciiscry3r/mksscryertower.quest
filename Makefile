@@ -92,7 +92,9 @@ sftp_upload: publish
 	printf 'put -r $(OUTPUTDIR)/*' | sftp $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
 
 rsync_upload: publish
+	ssh -p $(SSH_PORT) $(SSH_USER)@$(SSH_HOST) "sudo mkdir -p /var/www/mksscryertower.quest/ && sudo chown ${SSH_USER}:${SSH_USER} -R /var/www/mksscryertower.quest/"
 	rsync -e "ssh -p $(SSH_PORT)" -P -rvzc --include tags --cvs-exclude --delete "$(OUTPUTDIR)"/ "$(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)"
+	ssh -p $(SSH_PORT) $(SSH_USER)@$(SSH_HOST) "sudo chown www-data:www-data -R /var/www/mksscryertower.quest/ && sudo rm -rf /var/www/mksscryertower.quest/index2.html"
 
 
 .PHONY: html help clean regenerate serve serve-global devserver publish ssh_upload rsync_upload
