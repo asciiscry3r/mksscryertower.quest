@@ -9,6 +9,8 @@ aurpackages="ace qt5-styleplugins acpitool alien_package_converter amttool-tng a
 
 yay -Syyu --nocleanmenu --noeditmenu --nodiffmenu --noupgrademenu --rebuildall $aurpackages
 
+# repo upgrade
+
 cd /var/www/repo.mksscryertower.quest/repoupdate
 
 rm -rf *.sig && rm -rf repo.mksscryertower*
@@ -19,6 +21,7 @@ for pkg in ${builded[@]}; do
     gpg --use-agent --output $pkg.sig --detach-sig $pkg
 done
 
+# password name GPG
 # do by service in right way [klimenkomaximsergievich max]# watch -n 1 tpm2_getrandom 32 > /dev/random
 # sudo twuewand --bytes 32 | sudo rndaddentropy
 # sudo tpm2_getrandom 32 | sudo rndaddentropy
@@ -26,6 +29,8 @@ done
 repo-add --verify --sign --new repo.mksscryertower.quest.db.tar.gz *.zst
 
 sudo rm -rf /var/www/repo.mksscryertower.quest/repo/x86_64 && sudo mkdir /var/www/repo.mksscryertower.quest/repo/x86_64 && sudo cp -R -f --remove-destination /var/www/repo.mksscryertower.quest/repoupdate/* /var/www/repo.mksscryertower.quest/repo/x86_64/ && sudo chown www-data:linuxuser -R /var/www/repo.mksscryertower.quest/repo
+
+# repo upgrade
 
 sudo rm -rf /home/max/Development/repo.mksscryertower.quest/repo/x86_64 && sudo mkdir /home/max/Development/repo.mksscryertower.quest/repo/x86_64 && sudo cp -R -f --remove-destination /home/max/Development/repo.mksscryertower.quest/repoupdate/* /home/max/Development/repo.mksscryertower.quest/repo/x86_64/ && ssh mksscryertower.quest sudo chown -R ubuntu:ubuntu /var/www/repo.mksscryertower.quest/ && ssh mksscryertower.quest sudo rm -rf /var/www/repo.mksscryertower.quest/repo/x86_64/* && rsync -r --progress /home/max/Development/repo.mksscryertower.quest/repo/*  mksscryertower.quest:/var/www/repo.mksscryertower.quest/repo/ && ssh mksscryertower.quest sudo chown -R www-data:www-data /var/www/repo.mksscryertower.quest/
 
