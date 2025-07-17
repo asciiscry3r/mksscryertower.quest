@@ -27,7 +27,7 @@ Then run, from root ::
 
 And back of this all:
 
-.. image:: images/img-2025-07-17-200239.png
+.. image:: images/img-2025-07-17-201627.png
 	   :align: left
 
 =====

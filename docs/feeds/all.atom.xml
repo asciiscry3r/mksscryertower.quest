@@ -16,7 +16,7 @@ pacman-key --lsign-key CF26478FD667CD54
 pacman -Syyu
 &lt;/pre&gt;
 &lt;p&gt;And back of this all:&lt;/p&gt;
-&lt;img alt="" class="align-left" src="images/img-2025-07-17-200239.png" /&gt;
+&lt;img alt="" class="align-left" src="images/img-2025-07-17-201627.png" /&gt;
 &lt;/div&gt;
 &lt;div class="section" id="pages"&gt;
 &lt;h2&gt;Pages&lt;/h2&gt;
@@ -37,7 +37,7 @@ pacman-key --lsign-key CF26478FD667CD54
 pacman -Syyu
 &lt;/pre&gt;
 &lt;p&gt;And back of this all:&lt;/p&gt;
-&lt;img alt="" class="align-left" src="images/img-2025-07-17-200239.png" /&gt;
+&lt;img alt="" class="align-left" src="images/img-2025-07-17-201627.png" /&gt;
 &lt;/div&gt;
 &lt;div class="section" id="pages"&gt;
 &lt;h2&gt;Pages&lt;/h2&gt;
