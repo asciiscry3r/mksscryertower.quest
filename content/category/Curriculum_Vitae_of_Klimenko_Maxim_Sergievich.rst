@@ -169,12 +169,15 @@ own projects:
 +---------------------+---------------------------------------------------------+
 | Extended Monitoring | https://github.com/asciiscry3r/sensors_exporter         |
 +---------------------+---------------------------------------------------------+
+| Operating System    | https://github.com/asciiscry3r/simple-entropy-feeder    |
++---------------------+---------------------------------------------------------+
 
 ================= ===============================================
 Radio/Electronics GitHub
 ================= ===============================================
-Electronics       https://github.com/asciiscry3r/grounding_device
-Signal Processing https://github.com/asciiscry3r/phaseshiftfilter
+RadioTech         https://github.com/asciiscry3r/grounding_device
+RadioTech         https://github.com/asciiscry3r/phaseshiftfilter
+Signal Processing https://github.com/asciiscry3r/brainmachine
 ================= ===============================================
 
 References
