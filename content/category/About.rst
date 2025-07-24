@@ -52,7 +52,7 @@ Articles of Association
 Me and my life support:
 
 
-.. image:: images/Im.jpg
+.. image:: images/2025-07-24-22-09-50-942.jpg
            :align: left
 
 .. image:: images/myproperty.jpg
