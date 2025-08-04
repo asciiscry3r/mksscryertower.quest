@@ -17,7 +17,7 @@ Klimenko Maxim Sergievich
 klimenkomaximsergievich@gmail.com
 mksklimenkomaximsergievich@gmail.com
 
-| IT administrator and GNU/Linux user, ~black~ (final version of suppressive) person for 'them' - Scientology/Yusmalos from my 7 - because I broke the nose of the son of a communist with my foot, after military crime committed by me, I'm running trough 'perimeter?' to not fenced football field, close millitary org. buildings, have 'life imprisonment' from my 5, after, this Im a still not a pirate!
+| IT administrator and GNU/Linux user, ~black~ (final version of suppressive) person for 'them' - Scientology/Yusmalos from my 7 - because I broke the nose of the son of a communist with my foot, after military crime committed by me, I'm running trough 'perimeter?' to not fenced football field, close millitary org. buildings, have 'life imprisonment' from my 8-9 as a people part with more or less rights to 2019, when I create offcial company and from that moment this people always in my "world".
 
 1. The freedom of one ends where the freedom of another begins.
 
@@ -55,7 +55,10 @@ Me and my life support:
 .. image:: images/2025-07-24-22-09-50-942.jpg
            :align: left
 
-.. image:: images/myproperty.jpg
+.. image:: images/firstdevice.jpg
+           :align: left
+
+.. image:: images/seconddevice.jpg
            :align: left
 
 
