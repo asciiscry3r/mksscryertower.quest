@@ -17,7 +17,7 @@ Github: https://github.com/asciiscry3r/brainmachine
 
 Base of current without brain machine program, I will write program to portable version in future.
 
-Latest updates on my devices, in result, after first expirience with this type of filters and devices, i decide that this type of devices is for lowering apmlitude or ~level~, I wrote this under one of me short video, of standing waves and lowering quantity of information:
+Latest updates on my devices, in result, after first expirience with this type of filters and devices, i decide that this type of devices is for lowering apmlitude or ~level~, I wrote this under one of my short video, of standing waves and lowering quantity of information, only at that place and that line where this is enabled, like my line - PSU, from PSU to filter, filter and much lower after:
 
 .. image:: images/img-2025-09-03-173146.png
 
