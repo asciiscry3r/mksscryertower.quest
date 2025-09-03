@@ -15,7 +15,13 @@ My "brain machine":
 
 Github: https://github.com/asciiscry3r/brainmachine
 
-Base of current without brain machine program, I will write program to portable version in future:
+Base of current without brain machine program, I will write program to portable version in future.
+
+Latest updates on my devices:
+
+.. image:: images/img-2025-09-03-173146.png
+
+History:
 
 .. image:: images/brainmachine45.jpg
            :align: left

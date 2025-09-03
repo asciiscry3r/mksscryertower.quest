@@ -9,9 +9,17 @@ aurpackages="ace qt5-styleplugins acpitool alien_package_converter amttool-tng a
 
 "acpitool alien_package_converter amttool-tng autotiling caffeine-ng cbonsai cpufetch debhelper debtap fotoxx gtk-theme-windows10-dark hardened_malloc hushboard-git i3lock-color icoextract imagewriter imgurbash2 intltool-debian libcurl-openssl-1.0 libestr libxerces-c-3.1 matplotlib-cpp-git mei-amt-check-git modprobed-db numix-circle-icon-theme-git numix-icon-theme-git opencryptoki pa-applet-git po-debconf psi-notify pstreams python-pulsectl python-pyasn redeclipse rpi-imager-bin sblim-sfcc sddm-lain-wired-theme sec siji-ttf teiler-git tpm-tools trousers ttf-unifont tfenv undistract-me-git ventoy-bin wireshark-gtk2 xbindkeys_config-gtk2 xininfo-git xsuspender-git btrfs-assistant flashfocus-git inxi mintstick mkinitcpio-openswap networkmanager-support os-prober-btrfs snapper-tools systemd-oomd-defaults timeshift yay-bin yed gqrx"
 
+arduino-ide-bin caffeine-ng flashfocus fotoxx haskell-data-array-byte i3exit lib32-libva-vdpau-driver libva-vdpau-driver lkrg-dkms opensnitch-ebpf-module-git pacman-static python-async-timeout python-ewmh python-npyscreen reiserfsprogs spectre-meltdown-checker undistract-me yay
+
+# list aur packages
+
+sudo pacman -Qm
+
 yay -Syyu --nocleanmenu --noeditmenu --nodiffmenu --noupgrademenu --rebuildall $aurpackages
 
 # repo upgrade
+
+sudo pacman -Scc && sudo rm -rf ~/.cache && journalctl --vacuum-size=100M
 
 cd /var/www/repo.mksscryertower.quest/repoupdate
 
@@ -23,7 +31,7 @@ for pkg in ${builded[@]}; do
     gpg --use-agent --output $pkg.sig --detach-sig $pkg
 done
 
-# password name GPG
+# password name GPG - short memory about problem in xterm
 # do by service in right way [klimenkomaximsergievich max]# watch -n 1 tpm2_getrandom 32 > /dev/random
 # sudo twuewand --bytes 32 | sudo rndaddentropy
 # sudo tpm2_getrandom 32 | sudo rndaddentropy
@@ -37,7 +45,9 @@ sudo rm -rf /var/www/repo.mksscryertower.quest/repo/x86_64 && sudo mkdir /var/ww
 sudo rm -rf /home/max/Development/repo.mksscryertower.quest/repo/x86_64 && sudo mkdir /home/max/Development/repo.mksscryertower.quest/repo/x86_64 && sudo cp -R -f --remove-destination /home/max/Development/repo.mksscryertower.quest/repoupdate/* /home/max/Development/repo.mksscryertower.quest/repo/x86_64/ && ssh mksscryertower.quest sudo chown -R ubuntu:ubuntu /var/www/repo.mksscryertower.quest/ && ssh mksscryertower.quest sudo rm -rf /var/www/repo.mksscryertower.quest/repo/x86_64/* && rsync -r --progress /home/max/Development/repo.mksscryertower.quest/repo/*  mksscryertower.quest:/var/www/repo.mksscryertower.quest/repo/ && ssh mksscryertower.quest sudo chown -R www-data:www-data /var/www/repo.mksscryertower.quest/
 
 arch@mksscryertower = Prometheus/Node/Nginx/NginxLog/Process
+
 #
+
 yay -S nginx-mainline lua nginx-mainline-mod-lua luarocks gettext lua-cjson
 
 access_log  /var/log/nginx/mksscryertower/access.log;
