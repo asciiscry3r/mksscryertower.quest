@@ -44,7 +44,7 @@ Pages
 
 `Router configuration <{filename}/category/Router_configuration.rst>`_
 
-`Brainwave entertainment and BrainMachine <{filename}/category/Brainwave_entertainment.rst>`_
+`Brainwave entertainment, BrainMachine and other <{filename}/category/Brainwave_entertainment.rst>`_
 
 `Home DNS server <{filename}/category/Home_dns_server.rst>`_
 
