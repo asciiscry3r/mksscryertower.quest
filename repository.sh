@@ -7,13 +7,27 @@ sudo chown www-data:arch -R /var/www/repo.mksscryertower.quest/repo
 
 aurpackages="ace qt5-styleplugins acpitool alien_package_converter amttool-tng autotiling caffeine-ng cbonsai cpufetch debhelper debtap fotoxx gtk-theme-windows10-dark hardened_malloc hushboard-git i3lock-color icoextract imagewriter imgurbash2 intltool-debian libcurl-openssl-1.0 libestr libxerces-c-3.1 matplotlib-cpp-git mei-amt-check-git modprobed-db numix-circle-icon-theme-git numix-icon-theme-git opencryptoki pa-applet-git picom-tryone-git po-debconf psi-notify pstreams python-pulsectl python-pyasn qt5-styleplugins redeclipse rpi-imager-bin sblim-sfcc sddm-lain-wired-theme sec siji-ttf teiler-git telegram-desktop-bin tpm-tools trousers ttf-unifont tfenv undistract-me-git ventoy-bin wireshark-gtk2 xbindkeys_config-gtk2 xininfo-git xsuspender-git btrfs-assistant flashfocus-git google-chrome inxi mintstick mkinitcpio-openswap networkmanager-support opensnitch-ebpf-module-git opensnitch-git os-prober-btrfs snapper-tools systemd-oomd-defaults timeshift yay-bin yed gqrx"
 
-"acpitool alien_package_converter amttool-tng autotiling caffeine-ng cbonsai cpufetch debhelper debtap fotoxx gtk-theme-windows10-dark hardened_malloc hushboard-git i3lock-color icoextract imagewriter imgurbash2 intltool-debian libcurl-openssl-1.0 libestr libxerces-c-3.1 matplotlib-cpp-git mei-amt-check-git modprobed-db numix-circle-icon-theme-git numix-icon-theme-git opencryptoki pa-applet-git po-debconf psi-notify pstreams python-pulsectl python-pyasn redeclipse rpi-imager-bin sblim-sfcc sddm-lain-wired-theme sec siji-ttf teiler-git tpm-tools trousers ttf-unifont tfenv undistract-me-git ventoy-bin wireshark-gtk2 xbindkeys_config-gtk2 xininfo-git xsuspender-git btrfs-assistant flashfocus-git inxi mintstick mkinitcpio-openswap networkmanager-support os-prober-btrfs snapper-tools systemd-oomd-defaults timeshift yay-bin yed gqrx"
-
-arduino-ide-bin caffeine-ng flashfocus fotoxx haskell-data-array-byte i3exit lib32-libva-vdpau-driver libva-vdpau-driver lkrg-dkms opensnitch-ebpf-module-git pacman-static python-async-timeout python-ewmh python-npyscreen reiserfsprogs spectre-meltdown-checker undistract-me yay
+aurpackages="acpitool alien_package_converter amttool-tng autotiling caffeine-ng cbonsai cpufetch debhelper debtap fotoxx gtk-theme-windows10-dark hardened_malloc hushboard-git i3lock-color icoextract imagewriter imgurbash2 intltool-debian libcurl-openssl-1.0 libestr libxerces-c-3.1 matplotlib-cpp-git mei-amt-check-git modprobed-db numix-circle-icon-theme-git numix-icon-theme-git opencryptoki pa-applet-git po-debconf psi-notify pstreams python-pulsectl python-pyasn redeclipse rpi-imager-bin sblim-sfcc sddm-lain-wired-theme sec siji-ttf teiler-git tpm-tools trousers ttf-unifont tfenv undistract-me-git ventoy-bin wireshark-gtk2 xbindkeys_config-gtk2 xininfo-git xsuspender-git btrfs-assistant flashfocus-git inxi mintstick mkinitcpio-openswap networkmanager-support os-prober-btrfs snapper-tools systemd-oomd-defaults timeshift yay-bin yed gqrx arduino-ide-bin caffeine-ng flashfocus fotoxx haskell-data-array-byte i3exit lib32-libva-vdpau-driver libva-vdpau-driver lkrg-dkms opensnitch-ebpf-module-git pacman-static python-async-timeout python-ewmh python-npyscreen reiserfsprogs spectre-meltdown-checker undistract-me yay"
 
 # list aur packages
-
+# :: The following packages cannot be upgraded due to unresolvable dependencies:
+#      aide-mhash  flashfocus-git  gqrx  networkmanager-support  openrgb  qt5-xcb-private-headers
 sudo pacman -Qm
+###
+fotocx 25.3-1
+haskell-data-array-byte 0.1.0.1-84
+jitterentropy-rngd 1.2.8-1
+neofetch 7.1.0-2
+pacman-mirrors 4.24.1-2
+pacman-static 7.0.0.r6.gc685ae6-18
+python-launchpadlib 2.0.0-1
+python-lazr-restfulclient 0.14.6-1
+python-lazr-uri 1.0.6-2
+python-wadllib 2.0.0-1
+rofi-git 1.6.1.r0.g176adbde-1
+udev-notify-bzr 42-1
+zen-browser-bin 1.15.5b-1
+###
 
 yay -Syyu --nocleanmenu --noeditmenu --nodiffmenu --noupgrademenu --rebuildall $aurpackages
 
@@ -21,7 +35,7 @@ yay -Syyu --nocleanmenu --noeditmenu --nodiffmenu --noupgrademenu --rebuildall $
 
 sudo pacman -Scc && sudo rm -rf ~/.cache && journalctl --vacuum-size=100M
 
-cd /var/www/repo.mksscryertower.quest/repoupdate
+cd /home/linuxuser/repo/repoupdate
 
 rm -rf *.sig && rm -rf repo.mksscryertower*
 
@@ -38,7 +52,7 @@ done
 
 repo-add --verify --sign --new repo.mksscryertower.quest.db.tar.gz *.zst
 
-sudo rm -rf /var/www/repo.mksscryertower.quest/repo/x86_64 && sudo mkdir /var/www/repo.mksscryertower.quest/repo/x86_64 && sudo cp -R -f --remove-destination /var/www/repo.mksscryertower.quest/repoupdate/* /var/www/repo.mksscryertower.quest/repo/x86_64/ && sudo chown www-data:linuxuser -R /var/www/repo.mksscryertower.quest/repo
+sudo rm -rf /var/www/repo.mksscryertower.quest/repo/x86_64 && sudo mkdir /var/www/repo.mksscryertower.quest/repo/x86_64 && sudo cp -R -f --remove-destination /home/linuxuser/repo/repoupdate/* /var/www/repo.mksscryertower.quest/repo/x86_64/ && sudo chown www-data:linuxuser -R /var/www/repo.mksscryertower.quest/repo
 
 # repo upgrade
 

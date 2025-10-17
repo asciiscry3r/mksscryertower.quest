@@ -52,7 +52,7 @@ Articles of Association
 Me and my life support:
 
 
-.. image:: images/2025-07-24-22-09-50-942.jpg
+.. image:: images/img-2025-10-15-215313.png
            :align: left
 
 .. image:: images/firstdevice.jpg

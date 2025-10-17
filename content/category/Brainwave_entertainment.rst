@@ -19,10 +19,10 @@ Base of current without brain machine program, I will write program to portable 
 
 Latest updates on my devices, in result, after first experience with this type of filters and devices, I decide that this type of devices is for lowering apmlitude or ~level~, I wrote this under one of my short videos, of standing waves and lowering quantity of information, only at that place and that line where this is enabled, like my line - PSU, from PSU to filter, filter and much lower after:
 
-.. image:: images/img-2025-09-04-223010.png
+.. image:: images/scheme.png
            :align: left
 
-Swidched capacitor set and coil at line to l7805 and logic:
+Switched capacitor set and coil at line to l7805 and logic:
 
 .. image:: images/swset.jpg
            :align: left
