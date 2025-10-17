@@ -155,8 +155,12 @@ Interests
 ---------
 
 Cyber security, technology and science, music (happy metal), gaming and
-DIY, neuroscience, anime, SCI-FI, science and technical litherature. My
-own projects:
+DIY, neuroscience, anime, SCI-FI, science and technical litherature.
+Have some expirience with package mainteining for Arch Linux
+distributive and similar -
+https://aur.archlinux.org/packages?SeB=m&K=scry3r , Create and support
+my repository for packages for Arch Linux when have money/time, etc. My
+projects:
 
 +---------------------+---------------------------------------------------------+
 | Computer Science    | GitHub                                                  |
