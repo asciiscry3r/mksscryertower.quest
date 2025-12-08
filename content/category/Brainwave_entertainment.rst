@@ -2,7 +2,7 @@ Brainwave entertainment, BrainMachine and other
 ###############################################
 
 :date: 2022-10-10 10:20
-:modified: 2025-06-29 05:55
+:modified: 2025-12-08 05:55
 :tags: knowlege, science
 :category: knowlege, science
 :slug: Brainwave entertainment
@@ -17,10 +17,15 @@ Github: https://github.com/asciiscry3r/brainmachine
 
 Base of current without brain machine program, I will write program to portable version in future.
 
-Latest updates on my devices, in result, after first experience with this type of filters and devices, I decide that this type of devices is for lowering amplitude or ~level~, I wrote this under one of my short videos, of standing waves and lowering quantity of information, only at that place and that line where this is enabled, like my line - PSU, from PSU to filter, and much lower after:
+Latest updates on my devices, in result, after first experience with this type of filters and devices, I decide that this type of devices is for lowering amplitude or ~level~, I wrote this under one of my short videos, of standing waves and lowering quantity of information, only at that place and that line where this is enabled, like my line - PSU, from PSU to filter, and much lower after, still in work:
 
-.. image:: images/scheme.png
+.. image:: images/latestdevice.png
            :align: left
+
+.. image:: images/device.jpg
+	   :align: left
+
+In theory, as I understand this, quantity of information is lower, when waves that successfully change biological organisms because of teratogenic effects, some kinds of biological destruction, induction, interaction by the field, to input of cells, and other types of bio electromagnetic effects ( this is not a protection, but the load to the organism, from my side, I'm with tumor), is lower. But I still have effects that change my look and feel from other sources and I live with this for about 5 years minimum. By the way, that fact that this is all a theory, with multiple confirmations, doesn't have a critical role in question - use or not, because effects from this device are like emulation of multiple PSU with different 'classic' loads, esd protection devices and randomly, like from multiple users, changes in related to power consumption characteristics, and switched capacitors and 'ground' with programmable characteristic impedance is common in todays devices at people homes. And same type of devices, I don't know their schemes except that they have switched capacitors on different loaded lines with same ( better ) effects in result, we all can buy and install at office, for networking and infrastructure and at home.
 
 Switched capacitor set and coil at line to l7805 and logic:
 
@@ -29,9 +34,6 @@ Switched capacitor set and coil at line to l7805 and logic:
 
 .. image:: images/swset1.jpg
            :align: left
-
-In theory, as I understand this, quantity of information is lower, when waves that successfully change biological organisms because of teratogenic effects, some kinds of biological destruction, induction, interaction by the field, to input of cells, and other types of bio electromagnetic effects ( this is not a protection, but the load to the organism, from my side, I'm with tumor), is lower. But I still have effects that change my look and feel from other sources and I live with this for about 5 years minimum. By the way, that fact that this is all a theory, with multiple confirmations, doesn't have a critical role in question - use or not, because effects from this device are like emulation of multiple PSU with different 'classic' loads, esd protection devices and randomly, like from multiple users, changes in related to power consumption characteristics, and switched capacitors and 'ground' with programmable characteristic impedance is common in todays devices at people homes. And same type of devices, I don't know their schemes except that they have switched capacitors on different loaded lines with same ( better ) effects in result, we all can buy and install at office, for networking and infrastructure and at home.
-
 
 History:
 
