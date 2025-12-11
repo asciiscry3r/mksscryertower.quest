@@ -17,9 +17,9 @@ Github: https://github.com/asciiscry3r/brainmachine
 
 Base of current without brain machine program, I will write program to portable version in future.
 
-Latest updates on my devices, in result, after first experience with this type of filters and devices, I decide that this type of devices is for lowering amplitude or ~level~, I wrote this under one of my short videos, of standing waves and lowering quantity of information, only at that place and that line where this is enabled, like my line - PSU, from PSU to filter, and much lower after, still in work:
+Latest updates on my devices, in result, after first experience with this type of filters and devices, I decide that this type of devices is for lowering amplitude or ~level~, I wrote this under one of my short videos, of standing waves and lowering quantity of information, only at that place and that line where this is enabled, like my line - PSU, from PSU to filter, and much lower after, still in work, used diodes ( for ground waves and elders ) must be 1n4148 and Schottky as flyback on power circuits ( I still have rectifiers ):
 
-.. image:: images/latestdevice.png
+.. image:: images/img-2025-12-11-024344.png
            :align: left
 
 .. image:: images/device.jpg
