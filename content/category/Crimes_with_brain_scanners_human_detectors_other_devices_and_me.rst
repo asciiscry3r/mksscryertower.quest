@@ -137,7 +137,6 @@ https://www.databreaches.net/page/1/?s=Ukraine
 https://www.bleepingcomputer.com/news/security/new-tpm-20-flaws-could-let-hackers-steal-cryptographic-keys/
 https://www.theregister.com/2019/11/12/don/
 
-Piracy always has hard work and hard workers by their nature and always write 10 line of the same code by hands.
 
 My aberration:
 ++++++++++++++
