@@ -206,6 +206,8 @@ yay -Syyu --nocleanmenu --noeditmenu --nodiffmenu --noupgrademenu --rebuildall $
 
 # repo upgrade 87906923 /home/linuxuser/repo/ virtiofs rw,noatime,_netdev,nofail,direct_io,noexec,nodev,nosuid 0 0
 
+sudo pacman -U /home/linuxuser/repo/repoupdate/*.pkg.tar.zst
+
 sudo pacman -Scc && sudo rm -rf ~/.cache && sudo journalctl --vacuum-size=100M
 
 cd /home/linuxuser/repo/repoupdate
@@ -239,7 +241,7 @@ l1tf=flush,nosmt
 mds=full,nosmt
 tsx_async_abort=full,nosmt
 mmio_stale_data=full,nosmt
-retbleed=auto,nosmt
+retbleed=auto,nosmts
 nosmt=force
 pcie_aspm=force
 init_on_alloc=1

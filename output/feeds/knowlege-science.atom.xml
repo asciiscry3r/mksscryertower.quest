@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>mksscryertower.quest - knowlege, science</title><link href="https://mksscryertower.quest/" rel="alternate"/><link href="https://mksscryertower.quest/feeds/knowlege-science.atom.xml" rel="self"/><id>https://mksscryertower.quest/</id><updated>2025-12-08T05:55:00+02:00</updated><entry><title>2FA for Servers</title><link href="https://mksscryertower.quest/2FA%20for%20Servers.html" rel="alternate"/><published>2022-10-10T10:20:00+03:00</published><updated>2024-11-23T03:40:00+02:00</updated><author><name>Klimenko Maxim Sergievich</name></author><id>tag:mksscryertower.quest,2022-10-10:/2FA for Servers.html</id><summary type="html">&lt;p class="first last"&gt;2FA for Servers&lt;/p&gt;
 </summary><content type="html">&lt;hr class="docutils" /&gt;
 &lt;p&gt;Start from libpam-google-authenticator installation&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$&lt;span class="w"&gt; &lt;/span&gt;sudo&lt;span class="w"&gt; &lt;/span&gt;apt-get&lt;span class="w"&gt; &lt;/span&gt;install&lt;span class="w"&gt; &lt;/span&gt;libpam-google-authenticator
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;$&lt;span class="w"&gt; &lt;/span&gt;sudo&lt;span class="w"&gt; &lt;/span&gt;apt-get&lt;span class="w"&gt; &lt;/span&gt;install&lt;span class="w"&gt; &lt;/span&gt;libpam-google-authenticator&lt;span class="w"&gt; &lt;/span&gt;qrencode
 
-$&lt;span class="w"&gt; &lt;/span&gt;yay&lt;span class="w"&gt; &lt;/span&gt;-S&lt;span class="w"&gt; &lt;/span&gt;libpam-google-authenticator
+$&lt;span class="w"&gt; &lt;/span&gt;yay&lt;span class="w"&gt; &lt;/span&gt;-S&lt;span class="w"&gt; &lt;/span&gt;libpam-google-authenticator&lt;span class="w"&gt; &lt;/span&gt;qrencode
 
-&lt;span class="c1"&gt;# opkg install libpam-google-authenticator&lt;/span&gt;
+&lt;span class="c1"&gt;# opkg install libpam-google-authenticator qrencode libqrencode&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;File /etc/ssh/sshd_config don`t reload after edit&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;root@mksnanopineo2:~#&lt;span class="w"&gt; &lt;/span&gt;cat&lt;span class="w"&gt; &lt;/span&gt;/etc/ssh/sshd_config

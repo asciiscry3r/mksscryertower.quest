@@ -15,11 +15,11 @@ Start from libpam-google-authenticator installation
 
 ..  code-block:: shell
 
-    $ sudo apt-get install libpam-google-authenticator
+    $ sudo apt-get install libpam-google-authenticator qrencode
 
-    $ yay -S libpam-google-authenticator
+    $ yay -S libpam-google-authenticator qrencode
 
-    # opkg install libpam-google-authenticator
+    # opkg install libpam-google-authenticator qrencode libqrencode
 
 
 File /etc/ssh/sshd_config don`t reload after edit
