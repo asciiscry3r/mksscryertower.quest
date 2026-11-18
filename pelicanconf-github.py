@@ -1,6 +1,6 @@
 AUTHOR = 'Klimenko Maxim Sergievich'
-SITENAME = 'mksscryertower.quest'
-SITEURL = 'https://mksscryertower.quest/'
+SITENAME = 'backup.mksscryertower.quest'
+SITEURL = 'https://backup.mksscryertower.quest/'
 
 THEME = 'nmnlist/'
 

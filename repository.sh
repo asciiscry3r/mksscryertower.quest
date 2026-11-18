@@ -202,6 +202,13 @@ udev-notify-bzr 42-1
 zen-browser-bin 1.15.5b-1
 ###
 
+electron34 electron36 electron37 gtk2 gtkmm hexchat http-parser lib32-audit lib32-flex lib32-libcap lib32-libnsl lib32-libtirpc lib32-pam neofetch nitrogen pacman-mirrors pacman-static python-launchpadlib python-lazr-restfulclient python-lazr-uri python-pkg_resources python-wadllib
+
+quartus-free-devinfo-max
+quartus-free-quartus
+quartus-free-questa
+udev-notify-bzr
+
 yay -Syyu --nocleanmenu --noeditmenu --nodiffmenu --noupgrademenu --rebuildall $aurpackages
 
 # repo upgrade 87906923 /home/linuxuser/repo/ virtiofs rw,noatime,_netdev,nofail,direct_io,noexec,nodev,nosuid 0 0
